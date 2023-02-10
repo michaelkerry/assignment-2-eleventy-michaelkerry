@@ -1,0 +1,25 @@
+{
+  "name": "assignment-2-eleventy-michaelkerry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cscie114/assignment-2-eleventy-michaelkerry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cscie114/assignment-2-eleventy-michaelkerry/issues"
+  },
+  "homepage": "https://github.com/cscie114/assignment-2-eleventy-michaelkerry#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}
