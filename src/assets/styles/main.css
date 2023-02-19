@@ -10,3 +10,21 @@ footer {
     font-style: 1em;
     color: #595959;
 }
+
+.carousel {
+    overflow: hidden;
+}
+
+.carousel .carousel-item img {
+    max-height: 600px;
+    min-width: auto;
+}
+
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+
+
+
