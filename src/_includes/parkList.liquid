@@ -1,0 +1,7 @@
+            <div id="main-wrapper" class="mx-auto" >
+                <div class="row">
+                    {%  for park in parkList %}
+                        {% render 'parkCard', park: park %}
+                    {% endfor %}
+                </div>
+            </div>
