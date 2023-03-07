@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Little Rock Central High School National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Little Rock Central High School National Historic Site</h3>
+                <br/>
+                <p>In 1957, Little Rock Central High School was the epicenter of confrontation and a catalyst for change as the fundamental test for the United States to enforce African American civil rights following Brown v. Board of Education. Learn how the sacrifice and struggle endured by the Little Rock Nine have provided opportunities and opened doors for those seeking equality and education around the world.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From I-630, take Exit 2B (Dr. Martin Luther King Drive). Go south (away from the Arkansas State Capitol) to W. Daisy L. Gatson Bates Drive. Turn right (head west) and continue 0.5 miles. The Visitor Center is on the right at the corner of W. Daisy L. Gatson Bates Drive and Park Street. Parking lot entrance is located just before the intersection with Park Street, directly across from the historic Magnolia/Mobil Gas Station and diagonally across from Central High School (still a functioning high school).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Little Rock Central High School</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/53095121-0127-7E62-B983B9E8D77E7ECF.jpg" class="card-img-top" alt="The front facade of Little Rock Central High School" title="Little Rock Central High School has been a public school since opening in 1927." />
+                            <div class="card-body">
+                                <p>Little Rock Central High School has been a public school since opening in 1927.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Little Rock Central High School Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CBDC8-1DD8-B71B-0B29340F61D2CE6B.jpg" class="card-img-top" alt="National Park Visitor Center" title="Exhibits, films, restrooms and a bookstore are located in the National Park Visitor Center." />
+                            <div class="card-body">
+                                <p>Exhibits, films, restrooms and a bookstore are located in the National Park Visitor Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Commemorative Garden</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5304E992-EFC7-B3B9-DE8CA434B1739D5B.jpg" class="card-img-top" alt="Fall colors in the commemorative garden" title="Spend some time in thought in the park's commemorative garden" />
+                            <div class="card-body">
+                                <p>Spend some time in thought in the park's commemorative garden</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Elizabeth Eckford Bench</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/53694088-E272-346E-C2CEAE4C4B04B63F.jpeg" class="card-img-top" alt="a replica of a 1950s bus bench with Central High School in the background" title="Images of the Little Rock Nine’s persistence and Elizabeth’s brave walk through the mob to the sanctuary of the bench captured their enduring legacy of “moral courage” that has inspired others around" />
+                            <div class="card-body">
+                                <p>Images of the Little Rock Nine’s persistence and Elizabeth’s brave walk through the mob to the sanctuary of the bench captured their enduring legacy of “moral courage” that has inspired others around</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Little Rock Nine</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CC144-1DD8-B71B-0B50E17B662448E9.jpg" class="card-img-top" alt="The Little Rock Nine exit the doors at Central High under troop escort" title="In September 1957, Little Rock Central High School became a symbol for change and a catalyst for transformation in the civil rights movement as the first fundamental test to the United States’ resolve to enforce African-American civil rights in the face" />
+                            <div class="card-body">
+                                <p>In September 1957, Little Rock Central High School became a symbol for change and a catalyst for transformation in the civil rights movement as the first fundamental test to the United States’ resolve to enforce African-American civil rights in the face</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Magnolia Mobil Gas Station</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F204F8F6-B24E-E963-527EA3ECE1B5DE64.jpg" class="card-img-top" alt="The Magnolia Mobil Gas Station, a white stucco facility with terracotta roof" title="The Magnolia Mobil Gas Station, the de facto media headquarters during the 1957 desegregation crisis." />
+                            <div class="card-body">
+                                <p>The Magnolia Mobil Gas Station, the de facto media headquarters during the 1957 desegregation crisis.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

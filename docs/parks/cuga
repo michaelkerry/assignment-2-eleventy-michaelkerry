@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Cumberland Gap National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Cumberland Gap National Historical Park</h3>
+                <br/>
+                <p>Cumberland Gap was the first great gateway to the west. Come follow the path of bisons, Native Americans, longhunters, and pioneers. Walk where 300,000 people crossed the Appalachians to settle America. Explore 85 miles of trails and 14,000 acres of wilderness. Stand in 3 states at once. Explore a cave, see Hensley Settlement, or camp under the stars. Come find your connection to Cumberland Gap.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">By Plane The closest major airport is located in Knoxville, Tennessee approximately 85 miles away. Flights can also be made into Lexington, Kentucky approximately 130 miles away. By Car The park entrance is located on Highway 25E just south of Middlesboro Kentucky.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Caving</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Caves, Caverns and Karst</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hensley Settlement</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87BB9F-1DD8-B71B-0B03EA00319ED876.jpg" class="card-img-top" alt="Hensley Settlement" title="Weathered log cabins greet visitors to Hensley Settlement" />
+                            <div class="card-body">
+                                <p>Weathered log cabins greet visitors to Hensley Settlement</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mountain View</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87BA5D-1DD8-B71B-0B9E79FC9A030567.jpg" class="card-img-top" alt="View from the Pinnacle Overlook" title="View from the Pinnacle Overlook" />
+                            <div class="card-body">
+                                <p>View from the Pinnacle Overlook</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pioneers Crossing Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87BCDB-1DD8-B71B-0B1870F1DBD697AD.jpg" class="card-img-top" alt="Pioneers" title="History comes alive" />
+                            <div class="card-body">
+                                <p>History comes alive</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hiker in Sand Cave</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87BE0E-1DD8-B71B-0B74E3953C7C83EF.jpg" class="card-img-top" alt="Sand Cave" title="Sand Cave is a massive sandstone rockshelter found in the backcountry" />
+                            <div class="card-body">
+                                <p>Sand Cave is a massive sandstone rockshelter found in the backcountry</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Gap Cave</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87B8D9-1DD8-B71B-0B67040F789E2506.jpg" class="card-img-top" alt="Cleopatra's Pool in the Gap Cave" title="Cleopatra's Pool is located deep in the Gap Cave" />
+                            <div class="card-body">
+                                <p>Cleopatra's Pool is located deep in the Gap Cave</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

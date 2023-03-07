@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Lyndon B Johnson National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Lyndon B Johnson National Historical Park</h3>
+                <br/>
+                <p>---Lyndon Baines Johnson Lyndon B. Johnson National Historical Park tells the story of our 36th President beginning with his ancestors until his final resting place on his beloved LBJ Ranch. This entire "circle of life" gives the visitor a unique perspective into one of America's most noteworthy citizens by providing the most complete picture of any American president.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">By car to National Park Headquarters and the Visitor Center in Johnson City: From Austin, take Highway 290 west. From San Antonio, take Highway 281 north. From Fredericksburg, take Highway 290 east. By car to the LBJ Ranch and LBJ State Park and Historic Site: From Johnson City, take Highway 290 fourteen miles west to the LBJ State Park. From Fredericksburg, take Highway 290 sixteen miles east to the LBJ State Park. The nearest major airports are in Austin and San Antonio.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Ranches</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">President and Mrs. Johnson with Yuki in front of the Texas White House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FE93563C-B920-FCC4-73E75A4CE886A72F.jpg" class="card-img-top" alt="President and Mrs. Johnson stand with their small, white dog in front of the Texas White House." title="The Johnsons pose with their dog Yuki in front of the Texas White House. This was one of several photos from which they would choose for their 1972 Christmas card." />
+                            <div class="card-body">
+                                <p>The Johnsons pose with their dog Yuki in front of the Texas White House. This was one of several photos from which they would choose for their 1972 Christmas card.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Texas White House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EE1EE-1DD8-B71B-0B4C9A3E1D87F3BF.jpg" class="card-img-top" alt="View of Texas White House from front lawn." title="Because President Johnson spent one-fourth of his term a president in Texas, the press referred to this home as the "Texas White House"" />
+                            <div class="card-body">
+                                <p>Because President Johnson spent one-fourth of his term a president in Texas, the press referred to this home as the "Texas White House"</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Boyhood Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EE4B7-1DD8-B71B-0BCAC6E33F0FC4B8.jpg" class="card-img-top" alt="View of a one-story, white-frame house surrounded by a white picket fence." title="Lyndon Johnson was 5 years old when he moved to this home with his family. His childhood in a small rural town had great impact on his futur." />
+                            <div class="card-body">
+                                <p>Lyndon Johnson was 5 years old when he moved to this home with his family. His childhood in a small rural town had great impact on his futur.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Touring the LBJ Ranch</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EE7BF-1DD8-B71B-0B5C83773D7D443A.jpg" class="card-img-top" alt="A brown and white Hereford calf stands alongside the road as a car approaches from behind." title="A park visitor meets one of the ranch's Hereford cattle while driving the tour route." />
+                            <div class="card-body">
+                                <p>A park visitor meets one of the ranch's Hereford cattle while driving the tour route.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cyclists in the LBJ 100</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EE9CA-1DD8-B71B-0B5A1FB5F104DAE5.jpg" class="card-img-top" alt="Luci Johnson (center in gray jersey) leads a bike tour" title="Many special events, such as the LBJ 100 bike ride, take place during the year." />
+                            <div class="card-body">
+                                <p>Many special events, such as the LBJ 100 bike ride, take place during the year.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Gravestones for Lyndon and Lady Bird Johnson</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EEB9B-1DD8-B71B-0BEADE4E04EAD621.jpg" class="card-img-top" alt="Pink granite headstones mark the graves of President Lyndon Johnson and First Lady Lady Bird Johnson" title="Pink granite headstones mark the graves of President Lyndon Johnson and First Lady Lady Bird Johnson" />
+                            <div class="card-body">
+                                <p>Pink granite headstones mark the graves of President Lyndon Johnson and First Lady Lady Bird Johnson</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Portrait of the Johnsons</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EEEC1-1DD8-B71B-0B6CAEA0C295D7E2.jpg" class="card-img-top" alt="President and Mrs. Johnson stand outside the Texas White House with dog Yuki." title="For their 1972 Christmas card, the Johnsons stand outside the Texas White House with their dog Yuki." />
+                            <div class="card-body">
+                                <p>For their 1972 Christmas card, the Johnsons stand outside the Texas White House with their dog Yuki.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pedernales River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EF020-1DD8-B71B-0B592BA332749DA6.jpg" class="card-img-top" alt="The Pedernales River with tree-lined banks under a blue sky dotted with clouds." title="The Pedernales River forms flows past the LBJ Ranch" />
+                            <div class="card-body">
+                                <p>The Pedernales River forms flows past the LBJ Ranch</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lockheed Jetstar</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EF17D-1DD8-B71B-0B139A80B332E9B7.jpg" class="card-img-top" alt="An exterior view of a White and blue jet with presidential seal painted just below the cockpit." title="One of the five Lockheed Jetstars in service during the Johnson Presidency is now on display at the LBJ Ranch.." />
+                            <div class="card-body">
+                                <p>One of the five Lockheed Jetstars in service during the Johnson Presidency is now on display at the LBJ Ranch..</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

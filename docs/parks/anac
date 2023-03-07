@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Anacostia Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Anacostia Park</h3>
+                <br/>
+                <p>Welcome to Anacostia Park, your neighborhood national park in the heart of Washington, DC! Enjoy exercise along the river trail or relax by the water, Anacostia Park is a breath of fresh air and a space to unwind amid a bustling city.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Anacostia Park is located in South East Washington DC running parallel to the Anacostia river. The park can be accessed from the South Capitol bridge over the Anacostia river across from the Nationals baseball stadium. You can also enter the park from the Baltimore-Washington Parkway (295). You can enter the park from Good Hope Road or from Nicholson Street.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Playground</li>
+                                    
+                                    <li>Team Sports</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>War of 1812</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Anacostia Drive</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82A965-1DD8-B71B-0B42F2CD698E11A7.jpg" class="card-img-top" alt="Aerial view of Anacostia Drive and the playground" title="Anacostia Drive and the Anacostia river Trail run along side the Anacostia river. Views of the Navy Yard and Nats. Stadium can be seen as across the river." />
+                            <div class="card-body">
+                                <p>Anacostia Drive and the Anacostia river Trail run along side the Anacostia river. Views of the Navy Yard and Nats. Stadium can be seen as across the river.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Recreation at Anacostia</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E90FE9D6-0571-1A74-ECA594CE99431972.jpg" class="card-img-top" alt="A few men are playing basketball at Anacostia with the Anacostia River in the background." title="Anacostia is a great place for sports, including basketball and tennis courts." />
+                            <div class="card-body">
+                                <p>Anacostia is a great place for sports, including basketball and tennis courts.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Anacostia River Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E92300B8-A71B-CCA4-3E64717D74B8149A.jpg" class="card-img-top" alt="A view of the Anacostia River and a marina from the Anacostia River Trail." title="The Anacostia River trail is a wonderful paved trail that is great for biking, jogging and walking." />
+                            <div class="card-body">
+                                <p>The Anacostia River trail is a wonderful paved trail that is great for biking, jogging and walking.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Anacostia Skating Pavilion</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E93463E4-973F-F00C-F3FD4C81F20D5A8F.jpg" class="card-img-top" alt="A sidewalk approaches the Anacostia skating pavilion." title="The Anacostia skating pavilion is a great place to roller skate. It is an open-air rink that has a cover for rain and sun protection." />
+                            <div class="card-body">
+                                <p>The Anacostia skating pavilion is a great place to roller skate. It is an open-air rink that has a cover for rain and sun protection.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bring your dog to the park!</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E99A9CE8-911F-16D5-752156D21DD9C15A.jpg" class="card-img-top" alt="A man jogs his two dogs along a paved multi-use trial." title="The Anacostia River trail is a great place to bring your dog for some exercise. Dogs must be on a leash and please clean up after your pet." />
+                            <div class="card-body">
+                                <p>The Anacostia River trail is a great place to bring your dog for some exercise. Dogs must be on a leash and please clean up after your pet.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

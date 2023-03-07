@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Mill Springs Battlefield National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Mill Springs Battlefield National Monument</h3>
+                <br/>
+                <p>The Union won a significant victory early in the Civil War at The Battle of Mill Springs. Explore the rolling fields of Kentucky where the battle took place and learn about that state's strategic importance to both sides of the fight.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The address of the Visitor Center and Museum is 9020 West Highway 80, Nancy, Kentucky 42544. The Visitor Center and Museum is located approximately eight miles west of Somerset, Kentucky along KY-80. Next door is the Mill Springs National Cemetery. Zollicoffer Park (Core Battlefield) is one mile due south of the Visitor Center along KY-235. From the Visitor Center, turn right onto KY-80 W head 0.3 of a mile. Turn left onto State Hwy 235 go 1 mile, Zollicoffer Park will be on your left.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Zollicoffer Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/57ECF29C-E3D1-BC5C-803A0C6691AB28CB.jpg" class="card-img-top" alt="Rows of white gravestones on a rolling green hill with tall, mature trees in the background." title="Zollicoffer Park is situated amid rolling fields and forest land that make up the core battlefield area." />
+                            <div class="card-body">
+                                <p>Zollicoffer Park is situated amid rolling fields and forest land that make up the core battlefield area.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Driving Tour</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/580BA960-D4A1-47F5-32E2FAF28F94496E.jpg" class="card-img-top" alt="Zig-zag wooden fence and Confederate tour sign next to a road." title="Much of the battlefield may be seen from public roadways." />
+                            <div class="card-body">
+                                <p>Much of the battlefield may be seen from public roadways.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

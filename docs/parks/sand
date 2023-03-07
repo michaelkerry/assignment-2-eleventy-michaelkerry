@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Sand Creek Massacre National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Sand Creek Massacre National Historic Site</h3>
+                <br/>
+                <p>On November 29th, 1864, Chiefs Black Kettle, White Antelope, Left Hand and others were encamped with around 750 Arapaho and Cheyenne people in a valley by the Big Sandy Creek. A hope for peace, brought forth by Black Kettle was in the balance. It was a tragic day where the blood of the Cheyenne and Arapaho was shed, and a painful memory for generations of Native Americans was made.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Sand Creek Massacre is located in Kiowa County, Colorado. To visit the site, follow Colorado State Highway 96 east off Highway 287 near Eads, or west off Highway 385 at Sheridan Lake. Near Chivington, turn north onto County Road 54/Chief White Antelope Way or at Brandon, turn north onto County Road 59. Follow these roads to their intersections with County Road W. The park entrance is along CR W a mile east (right) of CR 54 or several miles west (left) of CR 59. Eight miles of dirt/sand roads lead to the</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Massacres</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>The Gold Rush</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cheyenne Lodges at Dawn</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C841052-1DD8-B71B-0B0333C9B2FBE609.jpg" class="card-img-top" alt="Four white Indian lodges on a grassy plain." title="Cheyenne and Arapaho Lodges erected in commemoration of the 150th Year of the Sand Creek Massacre" />
+                            <div class="card-body">
+                                <p>Cheyenne and Arapaho Lodges erected in commemoration of the 150th Year of the Sand Creek Massacre</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Remembering the Past</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C841219-1DD8-B71B-0B091C54872B2707.jpg" class="card-img-top" alt="A lone tipi frame and two wayside signs stand in a snow-covered landscape" title="A tipi frame is backlit by an evening sky." />
+                            <div class="card-body">
+                                <p>A tipi frame is backlit by an evening sky.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Memorial at Sunset</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84137B-1DD8-B71B-0B25ADDF06156F5F.jpg" class="card-img-top" alt="A stone memorial on the prairie with an evening sky in the background." title="Back lit clouds form an impressive backdrop to the stone memorial dedicated to the memory of the Sand Creek Massacre." />
+                            <div class="card-body">
+                                <p>Back lit clouds form an impressive backdrop to the stone memorial dedicated to the memory of the Sand Creek Massacre.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunset along Sand Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8414E1-1DD8-B71B-0B762D9224F24C9B.jpg" class="card-img-top" alt="The uppermost branches of leafless trees in a grassy plain are lit by the setting sun." title="The setting sun highlights trees along Sand Creek, forming a hauntingly beautiful landscape" />
+                            <div class="card-body">
+                                <p>The setting sun highlights trees along Sand Creek, forming a hauntingly beautiful landscape</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tipi Frame at Dusk</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84163B-1DD8-B71B-0B9B06EA0A89A12C.jpg" class="card-img-top" alt="A tipi frame is silhouetted by the evening sky." title="The silhouette of a lone tipi at dusk symbolizes the tragic events that occurred in 1864 and of the indomitable spirit of the Cheyenne and Arapaho people, who overcame the tragedy and continue to work with the NPS to preserve its memory and legacy." />
+                            <div class="card-body">
+                                <p>The silhouette of a lone tipi at dusk symbolizes the tragic events that occurred in 1864 and of the indomitable spirit of the Cheyenne and Arapaho people, who overcame the tragedy and continue to work with the NPS to preserve its memory and legacy.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Winter clouds over Sand Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8417F1-1DD8-B71B-0B2E945CA8419664.jpg" class="card-img-top" alt="An expanse of winter prairie with brown grasses, leafless trees, and low clouds above." title="Winter on the Southeastern Colorado Plains can produce beautiful scenes such as this." />
+                            <div class="card-body">
+                                <p>Winter on the Southeastern Colorado Plains can produce beautiful scenes such as this.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall Colors along the Big Sandy Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C841939-1DD8-B71B-0B169CC2F08124EE.jpg" class="card-img-top" alt="A Sand Creek memorial plaque and fallen tree trunk with trees in fall color behind." title="The leaves of Cottonwood trees along the Sand Creek burst with color during the fall." />
+                            <div class="card-body">
+                                <p>The leaves of Cottonwood trees along the Sand Creek burst with color during the fall.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Snow on Monument Hill Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C841AC7-1DD8-B71B-0BCCC52512C9C88C.jpg" class="card-img-top" alt="A wayside in the snow-covered foreground with a winter plain stretching behind." title="This tranquil winter view shows snow throughout the Sand Creek Valley." />
+                            <div class="card-body">
+                                <p>This tranquil winter view shows snow throughout the Sand Creek Valley.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

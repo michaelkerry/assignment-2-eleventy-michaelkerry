@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Canyon de Chelly National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Canyon de Chelly National Monument</h3>
+                <br/>
+                <p>For nearly 5,000 years, people have lived in these canyons - longer than anyone has lived uninterrupted anywhere on the Colorado Plateau. In the place called Tsegi, their homes and images tell us their stories. Today, Dine' families make their homes, raise livestock, and farm the lands in the canyons. A place like no other, the park and Navajo Nation work together to manage the land's resources.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The recommended route to the park is from Highway 191 in Chinle then turning east on Route 7. The park entrance and Visitor Center is about 3 miles from Highway 191. An alternative is entering the park on the East side via Route 64. There are 3 overlooks to stop at along Route 64 before getting to the Visitor Center. Travel on Route 7 from the East is NOT RECOMMENDED since the road is unpaved and unmaintained between Sawmill and the Spider Rock turnoff.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Cliff Dwellings</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canyon Farm</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C840D48-1DD8-B71B-0B7CD1781BEC0D0D.png" class="card-img-top" alt="Farm in the canyon" title="Navajo families continue to live and farm in the canyon they call Tsegi" />
+                            <div class="card-body">
+                                <p>Navajo families continue to live and farm in the canyon they call Tsegi</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canyon Hike</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C840E8F-1DD8-B71B-0B9CAE7D27053CED.png" class="card-img-top" alt="Hiking in the canyon" title="Visitors can enjoy a free ranger led hike into the canyon" />
+                            <div class="card-body">
+                                <p>Visitors can enjoy a free ranger led hike into the canyon</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Spider Rock</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C841C12-1DD8-B71B-0B9699DA373071C8.png" class="card-img-top" alt="View of Spider Rock from the overlook" title="Her home on top of Spider Rock, Spider Woman taught the Navajo people how to weave" />
+                            <div class="card-body">
+                                <p>Her home on top of Spider Rock, Spider Woman taught the Navajo people how to weave</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canyon View</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C843338-1DD8-B71B-0BE9B8553A3271E5.png" class="card-img-top" alt="View of the canyon from the White House Trail" title="The Navajo people call the canyon Tsegi meaning "within the rocks"" />
+                            <div class="card-body">
+                                <p>The Navajo people call the canyon Tsegi meaning "within the rocks"</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">White House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C843473-1DD8-B71B-0BE91D1BE38D2DD1.png" class="card-img-top" alt="View of White House Ruin" title="Ancient Puebloans built villages like White House that offered opportunities for trade, ceremony, and social gatherings." />
+                            <div class="card-body">
+                                <p>Ancient Puebloans built villages like White House that offered opportunities for trade, ceremony, and social gatherings.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

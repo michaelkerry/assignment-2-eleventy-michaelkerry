@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Allegheny Portage Railroad National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Allegheny Portage Railroad National Historic Site</h3>
+                <br/>
+                <p>The first railroad to circumvent the Allegheny Mountains, the Allegheny Portage Railroad was the finishing piece of the Pennsylvania Main Line Canal. "The Portage" opened in 1834, marking the first time that there was one, direct route between Philadelphia and Pittsburgh. All things to all people, it served merchants, passengers, slaves in pursuit of freedom, and soldiers from the Mexican War.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park is located just off U.S. Route 22 approximately 12 miles west of Altoona and 10 miles east of Ebensburg. Take the Gallitzin Exit and turn right, following the signs. Visitors prior to 1992 accessed the park in other ways, but the Gallitzin Exit of US Route 22 is the way to access the visitor center and historic area.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Engineering</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Logging and Timber Cutting</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Abolition Movement</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Canals</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Murders</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Mexican War</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Engine House 6 Exhibit Shelter and the Lemon House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2C12F155-DE91-DD44-9108A954EB6F3DF6.jpg" class="card-img-top" alt="Engine House and tavern" title="Engine House 6 Exhibit Shelter and the Lemon House at the Summit Level of the Allegheny Portage Railroad." />
+                            <div class="card-body">
+                                <p>Engine House 6 Exhibit Shelter and the Lemon House at the Summit Level of the Allegheny Portage Railroad.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Engine House 6 Exhibit Shelter</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2C2C400A-AA7C-F524-8DE034A012E236DE.jpg" class="card-img-top" alt="Engine house" title="Engine House 6 Exhibit Shelter" />
+                            <div class="card-body">
+                                <p>Engine House 6 Exhibit Shelter</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lemon House tavern</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/35902275-1DD8-B71B-0B41A4998139B89F.jpg" class="card-img-top" alt="Lemon House" title="The Lemon House was a stop for Allegheny Portage Railroad travelers on the summit." />
+                            <div class="card-body">
+                                <p>The Lemon House was a stop for Allegheny Portage Railroad travelers on the summit.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Summit Level Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2C263305-C039-15B5-BFAAAB317A69A0DA.jpg" class="card-img-top" alt="Stone building" title="The Summit Level Visitor Center contains exhibits, restrooms, park movie and bookstore." />
+                            <div class="card-body">
+                                <p>The Summit Level Visitor Center contains exhibits, restrooms, park movie and bookstore.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Boardwalk to the historic area</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2C33513A-BB9C-CC0C-E443C1672759B110.jpg" class="card-img-top" alt="Boardwalk" title="The boardwalk takes you to the historic area at the park" />
+                            <div class="card-body">
+                                <p>The boardwalk takes you to the historic area at the park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Staple Bend Tunnel</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2C3E5892-DF3F-B6CF-050662A2DEFDB59C.jpg" class="card-img-top" alt="Tunnel" title="The Staple Bend Tunnel sat at the top of inclined plane 1, just a few miles from Johnstown. The Staple Bend Tunnel can be accessed by hiking or biking approximately 2 miles from the trailhead" />
+                            <div class="card-body">
+                                <p>The Staple Bend Tunnel sat at the top of inclined plane 1, just a few miles from Johnstown. The Staple Bend Tunnel can be accessed by hiking or biking approximately 2 miles from the trailhead</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Skew Arch Bridge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2CAD3742-E5F2-AEC4-AF86148FCC922056.jpg" class="card-img-top" alt="Bridge" title="Skew Arch Bridge" />
+                            <div class="card-body">
+                                <p>Skew Arch Bridge</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Visitor Center bookstore offers a variety of items for sale.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BE3E1666-FDEA-8508-86A5E30176841B3C.jpeg" class="card-img-top" alt="Bookstore" title="The Visitor Center bookstore offers a variety of items for sale." />
+                            <div class="card-body">
+                                <p>The Visitor Center bookstore offers a variety of items for sale.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The theater features a 20 minute park movie.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BE6AB335-0334-3175-76577187C04546C8.jpeg" class="card-img-top" alt="Theater" title="The theater features a 20 minute park movie." />
+                            <div class="card-body">
+                                <p>The theater features a 20 minute park movie.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Barrels and crates in the Visitor Center show items that traveled on the Main Line Canal.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BE77D3FE-FB8B-3D66-D82497CBCD748596.jpeg" class="card-img-top" alt="Barrel" title="Barrels and crates in the Visitor Center show items that traveled on the Main Line Canal." />
+                            <div class="card-body">
+                                <p>Barrels and crates in the Visitor Center show items that traveled on the Main Line Canal.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

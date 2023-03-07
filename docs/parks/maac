@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Maine Acadian Culture</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Maine Acadian Culture</h3>
+                <br/>
+                <p>Maine Acadians share beliefs and experiences tying them to a common religion, languages, and history. The St. John River, land, and family are essential to their culture. The National Park Service supports the Maine Acadian Heritage Council, an association of historical societies, cultural clubs, towns, and museums that work together to support Maine Acadian culture in the St. John Valley.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Saint John Valley is located in northern Aroostook County, Maine, 200 miles north of Bangor at the northern terminus of ME 1. It is best reached by private vehicle. From Interstate 95, use exits at Sherman or Smyrna Mills for Route 11 to Fort Kent, or the exit at Houlton for U.S. Route 1 North.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Acadian Village</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B3A97-1DD8-B71B-0BCDEEBD8170AEE0.jpg" class="card-img-top" alt="Scenic view of Acadian Village" title="Scenic view of Acadian Village" />
+                            <div class="card-body">
+                                <p>Scenic view of Acadian Village</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Our Lady of Assumption Church, Acadian Village</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B3D6B-1DD8-B71B-0B4EF1854FFA3650.jpg" class="card-img-top" alt="Our Lady of Assumption Church, Acadian Village" title="Our Lady of Assumption Church, Acadian Village" />
+                            <div class="card-body">
+                                <p>Our Lady of Assumption Church, Acadian Village</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mont-Carmel</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B3EE0-1DD8-B71B-0B489A51A45FA82C.jpg" class="card-img-top" alt="Mont-Carmel, newly painted in original color scheme." title="Mont-Carmel, newly painted in original color scheme." />
+                            <div class="card-body">
+                                <p>Mont-Carmel, newly painted in original color scheme.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">St Francis Historical Society and Gardens</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B4044-1DD8-B71B-0BDAE48C1C7FD84D.jpg" class="card-img-top" alt="St Francis Historical Society and Gardens" title="St Francis Historical Society and Gardens" />
+                            <div class="card-body">
+                                <p>St Francis Historical Society and Gardens</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bangor/Aroostook Caboose & Green Water Tank</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B4469-1DD8-B71B-0BFBFEB48111481B.jpg" class="card-img-top" alt="This site preserves one of a few surviving train water tanks in the United States and a 1940s era ca" title="This site preserves one of a few surviving train water tanks in the United States and a 1940s era caboose" />
+                            <div class="card-body">
+                                <p>This site preserves one of a few surviving train water tanks in the United States and a 1940s era caboose</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Golden Gate National Recreation Area</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Golden Gate National Recreation Area</h3>
+                <br/>
+                <p>Experience a park so rich it supports 19 distinct ecosystems with over 2,000 plant and animal species. Go for a hike, enjoy a vista, have a picnic or learn about the centuries of overlapping history from California’s indigenous cultures, Spanish colonialism, the Mexican Republic, US military expansion and the growth of San Francisco. All of this and more awaits you, so get out and find your park.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Golden Gate National Recreation Area has many sites that span over 60 miles of mostly coastal areas north and south of San Francisco. Park areas can be reached by Highways 1, 101 and 280 from the north and south San Francisco Bay Area, and by Highway 80 from the East Bay. To access park headquarters at Fort Mason, please use the entrance at Franklin and Bay Streets in San Francisco.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Mountain Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Saltwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Surfing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Ruins</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Asian American Heritage</li>
+                                    
+                                    <li>Aviation</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>National Cemetery</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Incarceration</li>
+                                    
+                                    <li>Jails and Prisons</li>
+                                    
+                                    <li>Japanese-American Internment</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Logging and Timber Cutting</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Latino American Heritage</li>
+                                    
+                                    <li>LGBTQ American Heritage</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Coastal Defenses</li>
+                                    
+                                    <li>Maritime - Military</li>
+                                    
+                                    <li>Lighthouses</li>
+                                    
+                                    <li>Ships and Shipwrecks</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Hospital</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>US Coast Guard</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Missions</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Abolition Movement</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Conservation Movement</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Bridges</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Catastrophic Fires</li>
+                                    
+                                    <li>Forced Marches</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Tribal Conflicts</li>
+                                    
+                                    <li>Colonial/European Contact Conflicts</li>
+                                    
+                                    <li>Mexican War</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Spanish-American War</li>
+                                    
+                                    <li>World War I</li>
+                                    
+                                    <li>World War II</li>
+                                    
+                                    <li>Vietnam War</li>
+                                    
+                                    <li>Cold War</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>The Gold Rush</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Dunes</li>
+                                    
+                                    <li>Estuaries and Mangroves</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Foothills, Plains and Valleys</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>Whales</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Rare</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Marshes</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Morning Fog at Crissy Field</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7FEE17-1DD8-B71B-0BA285725552D8E3.jpg" class="card-img-top" alt="White buildings with red roofs at Crissy Field with blue bay and Golden Gate Bridge and fog behind." title="Visiting Crissy Field is an ever changing experience as the fog comes in and dissipates." />
+                            <div class="card-body">
+                                <p>Visiting Crissy Field is an ever changing experience as the fog comes in and dissipates.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Spring Flowers at Mori Point</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7FE3B8-1DD8-B71B-0B91991C4D692710.jpg" class="card-img-top" alt="Mori Point view north with yellow an blue flowers, the blue-green Pacific Ocean and Mt. Tamalpais." title="View north from Mori Point showing abundant spring flowers and Mt. Tamalpais in the background." />
+                            <div class="card-body">
+                                <p>View north from Mori Point showing abundant spring flowers and Mt. Tamalpais in the background.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Stinson Beach from Bolinas Ridge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7FE813-1DD8-B71B-0BE722D07B80503A.jpg" class="card-img-top" alt="View over the Pacific from Bolinas Ridge; Stinson Beach, Bolinas Lagoon and head in mid-ground." title="Bolinas Ridge offers outstanding panaramas of the Pacific Coast, here including Stinson Beach and Lagoon." />
+                            <div class="card-body">
+                                <p>Bolinas Ridge offers outstanding panaramas of the Pacific Coast, here including Stinson Beach and Lagoon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Storm over the Golden Gate</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7FE978-1DD8-B71B-0B5B04277B391AE4.jpg" class="card-img-top" alt="Orange Golden Gate Bridge with waves crashing in foreground and storm clouds behind." title="The Golden Gate Bridge is an iconic attraction year-round." />
+                            <div class="card-body">
+                                <p>The Golden Gate Bridge is an iconic attraction year-round.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Marin Headlands and Rodeo Beach</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7FEAD0-1DD8-B71B-0B27C7C76C4A0492.jpg" class="card-img-top" alt="View south with family on road in foreground and Rodeo Beach and cove in front of Point Bonita." title="Trails in the Marin Headlands offer a fun and spectacular hiking experience for all." />
+                            <div class="card-body">
+                                <p>Trails in the Marin Headlands offer a fun and spectacular hiking experience for all.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Montgomery Street Barracks, Presidio of San Francisco</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7FECA7-1DD8-B71B-0B0766C254B04EED.jpg" class="card-img-top" alt="Row of red brick barracks with white-columned porches where infantry soldiers lived." title="The Presidio offers an outdoor museum of military architecture over the centuries." />
+                            <div class="card-body">
+                                <p>The Presidio offers an outdoor museum of military architecture over the centuries.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Alcatraz Island from Crissy Field</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C801934-1DD8-B71B-0B9C7A3F85A2B6E1.jpg" class="card-img-top" alt="Closeup shot of Alcatraz Island showing lighthouse and prison with yellow flowers on slope in front." title="Visitors can learn about the complex layered history of Alcatraz Island." />
+                            <div class="card-body">
+                                <p>Visitors can learn about the complex layered history of Alcatraz Island.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Golden Gate Bridge from Battery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FD457F81-C06F-457A-310C9781E0C97448.jpg" class="card-img-top" alt="Person jogging along a path with golden gate bridge in the background." title="Golden Gate from Battery East" />
+                            <div class="card-body">
+                                <p>Golden Gate from Battery East</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

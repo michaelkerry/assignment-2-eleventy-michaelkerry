@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Potomac Heritage National Scenic Trail</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Potomac Heritage National Scenic Trail</h3>
+                <br/>
+                <p>The Potomac River corridor is rich in both history and recreation, offering a chance to both explore your heritage and choose your adventure along the way. Start your journey here!</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The administrative office for the NPS Potomac Heritage NST is located at the Chesapeake and Ohio Canal National Historical Park headquarters.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Mountain Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Motorized Boating</li>
+                                    
+                                    <li>Sailing</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Horse Camping (see also Horse/Stock Use)</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Fly Fishing</li>
+                                    
+                                    <li>Saltwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Off-Trail Permitted Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Whitewater Rafting</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>Armories</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Canals</li>
+                                    
+                                    <li>Tunnels</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Western Maryland</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C836951-1DD8-B71B-0BC4219B01CD33A3.jpg" class="card-img-top" alt="A man, woman and child stand overlooking a valley of mountains and trees on a sunny summer day." title="Monroe Run Trailhead, Garrett County" />
+                            <div class="card-body">
+                                <p>Monroe Run Trailhead, Garrett County</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">C&O Canal Towpath</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C836D0F-1DD8-B71B-0B24CE5E540B0534.jpg" class="card-img-top" alt="In a wooded setting, a biker is riding along the unpaved C&O Canal Towpath, parallel to the canal." title="A biker riding along the C&O Canal Towpath" />
+                            <div class="card-body">
+                                <p>A biker riding along the C&O Canal Towpath</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Great Allegheny Passage (GAP)</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C836E6F-1DD8-B71B-0BDFC8EED394C32E.jpg" class="card-img-top" alt="A bicycle sits on a bright summer day overlooking the rolling mountains in the distance." title="Great Allegheny Passage is a bicyclist enthusiasts' dream come true!" />
+                            <div class="card-body">
+                                <p>Great Allegheny Passage is a bicyclist enthusiasts' dream come true!</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Laurel Highlands Hiking Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C836FAE-1DD8-B71B-0B27B27FFED4E600.jpg" class="card-img-top" alt="Signage stating "Enter Trail Here" sits before a trail head in a wooded fall setting with bare trees" title="Trail head entrance signage depicts the start of a trail head segment." />
+                            <div class="card-body">
+                                <p>Trail head entrance signage depicts the start of a trail head segment.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Virginia's Northern Neck</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8370EA-1DD8-B71B-0BA3925EB1360B59.jpg" class="card-img-top" alt="Two rows of over-turned kayaks sit on the beach with trees and water in the distance on a cloudy day" title="Kayaks are ready for paddlers on the beach!" />
+                            <div class="card-body">
+                                <p>Kayaks are ready for paddlers on the beach!</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Southern Maryland</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83721F-1DD8-B71B-0B9C0B5BEDB7C0E0.jpg" class="card-img-top" alt="A wetland with wildlife at Piscataway Park" title="Piscataway Park offers a glimpse into the wildlife living in the wetlands of Southern Maryland." />
+                            <div class="card-body">
+                                <p>Piscataway Park offers a glimpse into the wildlife living in the wetlands of Southern Maryland.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Two Rivers</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83735F-1DD8-B71B-0B8835A77DF81325.jpg" class="card-img-top" alt="A red kayak floating on the river." title="Paddling down the river is a popular activity on the Potomac Heritage National Scenic Trail." />
+                            <div class="card-body">
+                                <p>Paddling down the river is a popular activity on the Potomac Heritage National Scenic Trail.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Washington, D.C.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8374B0-1DD8-B71B-0BA54192E0493FD1.jpg" class="card-img-top" alt="Across the tidal basic overlooks the Washington Monument and the Jefferson Memorial." title="The Potomac Heritage NST goes into Washington, D.C., attracting history buffs and bicyclists alike!" />
+                            <div class="card-body">
+                                <p>The Potomac Heritage NST goes into Washington, D.C., attracting history buffs and bicyclists alike!</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Northern Virginia</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C838086-1DD8-B71B-0B453765FBD7BB51.jpg" class="card-img-top" alt="A biker riding through an illuminated tunnel in a wooded setting." title="A biker rides on the trails in Northern Virginia." />
+                            <div class="card-body">
+                                <p>A biker rides on the trails in Northern Virginia.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

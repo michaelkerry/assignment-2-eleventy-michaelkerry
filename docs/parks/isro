@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Isle Royale National Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Isle Royale National Park</h3>
+                <br/>
+                <p>Explore a rugged, isolated island far from our connected communities. Isle Royale offers adventures for backpackers, hikers, boaters, paddlers, and divers. Cross Lake Superior and make a commitment: Become a part of this island, and let it become a part of you. Find peace and refuge in island wilderness – because Isle Royale, in turn, finds refuge in us. Help Isle Royale stay wild.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Isle Royale National Park headquarters is located in Houghton, MI. Visit the Houghton page on the Isle Royale National Park website for additional information and a map on how to access the visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Motorized Boating</li>
+                                    
+                                    <li>Sailing</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Flying</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Off-Trail Permitted Hiking</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>SCUBA Diving</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mining</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Lighthouses</li>
+                                    
+                                    <li>Ships and Shipwrecks</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Wolves</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Lakes</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Aurora Borealis</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Rare</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Duncan Bay Narrows</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6059CAD8-02E8-2E00-2922DF84800167E0.jpg" class="card-img-top" alt="View from above the trees looking down at Duncan Bay Narrows, trees, Lake Superior, and Canada." title="Isle Royale, located in the northwestern corner of Lake Superior, offers views of the Canadian shoreline." />
+                            <div class="card-body">
+                                <p>Isle Royale, located in the northwestern corner of Lake Superior, offers views of the Canadian shoreline.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Winter Ice Floes</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AC799-1DD8-B71B-0B4E94DE10F014E5.jpg" class="card-img-top" alt="Ice floes float in a harbor" title="Isle Royale National Park is closed in winter, with the exception of a few visiting researchers." />
+                            <div class="card-body">
+                                <p>Isle Royale National Park is closed in winter, with the exception of a few visiting researchers.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Aerial View of Belle Harbor</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AC355-1DD8-B71B-0B9C2F07853F39F1.jpg" class="card-img-top" alt="Aerial View of Belle Harbor" title="Isle Royale is also called Minong, which means "the good place" by the Grand Portage Band of Lake Superior Chippewa. Minong is a part of the ancestral lands of the Anishinaabe/Ojibwe peoples who have cared for these lands from time immemorial." />
+                            <div class="card-body">
+                                <p>Isle Royale is also called Minong, which means "the good place" by the Grand Portage Band of Lake Superior Chippewa. Minong is a part of the ancestral lands of the Anishinaabe/Ojibwe peoples who have cared for these lands from time immemorial.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bull Moose</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AC4C1-1DD8-B71B-0B8592CA6634ABEE.jpg" class="card-img-top" alt="Young bull moose browsing for food" title="Moose are one of the few mammal species who have journeyed to the island." />
+                            <div class="card-body">
+                                <p>Moose are one of the few mammal species who have journeyed to the island.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rock of Ages Lighthouse</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AC638-1DD8-B71B-0BD28B3407821A15.jpg" class="card-img-top" alt="Aerial view of Rock of Ages Lighthouse" title="Rock of Ages is one of four lighthouses at Isle Royale National Park." />
+                            <div class="card-body">
+                                <p>Rock of Ages is one of four lighthouses at Isle Royale National Park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Aurora Borealis Over Isle Royale National Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AC8F5-1DD8-B71B-0B661B7FF90F5407.jpg" class="card-img-top" alt="Diverse colored Aurora Borealis in the night sky" title="Isle Royale National Park's dark skies make it an excellent location to enjoy nighttime phenomenon, like the Aurora Borealis." />
+                            <div class="card-body">
+                                <p>Isle Royale National Park's dark skies make it an excellent location to enjoy nighttime phenomenon, like the Aurora Borealis.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

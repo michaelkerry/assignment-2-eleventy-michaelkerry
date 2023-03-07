@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Captain John Smith Chesapeake National Historic Trail</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Captain John Smith Chesapeake National Historic Trail</h3>
+                <br/>
+                <p>People first arrived in the Chesapeake Bay during the last ice age. As glaciers melted, diverse societies learned to thrive in a world of water. When Englishman Captain John Smith explored the Bay in 1608, he documented hundreds of American Indian communities. Today, sites on his map are archeological treasures and sacred sites for tribal citizens. Come join us on the shores of the Chesapeake Bay!</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The water trail is 3,000 miles long and there are countless places to explore it. The trail's headquarters and main visitor center is at Colonial National Historical Park - Historic Jamestowne. For an internet map search or GPS, use the following: Historic Jamestowne Visitor Center, 1368 Colonial Parkway, Jamestown, Virginia 23081.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Geocaching</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Arts and Crafts</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Tubing</li>
+                                    
+                                    <li>River Tubing</li>
+                                    
+                                    <li>Swimming</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Dams</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Colonial/European Contact Conflicts</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Estuaries and Mangroves</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Headwaters</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Marshes</li>
+                                    
+                                    <li>Swamps</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Heron at sunset at Blackwater NWR</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C823100-1DD8-B71B-0B3AE3516DDF485B.jpg" class="card-img-top" alt="A heron at sunset in the waters and marshes of Blackwater National Wildlife Refuge" title="Many people visit Blackwater National Wildlife Refuge to spot birds, like this heron, that rely the natural resources of the landscape." />
+                            <div class="card-body">
+                                <p>Many people visit Blackwater National Wildlife Refuge to spot birds, like this heron, that rely the natural resources of the landscape.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Living History at Jamestown Settlement</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C822B6B-1DD8-B71B-0B1DCCAB3F9BFA60.jpg" class="card-img-top" alt="A re-created American Indian town." title="At Jamestown Settlement, trail visitors can view yihakan, the houses seen pictured here, which are constructed from saplings and reed mats." />
+                            <div class="card-body">
+                                <p>At Jamestown Settlement, trail visitors can view yihakan, the houses seen pictured here, which are constructed from saplings and reed mats.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cypress Trees Chickahominy River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C822CB2-1DD8-B71B-0BF6D067DAF20F8C.jpg" class="card-img-top" alt="Many baldcypress trees standing in the Chickahominy River" title="Some scenes - like this one of cypress trees in the Chickahominy River - look similar to what Captain John Smith would have seen 400 years ago." />
+                            <div class="card-body">
+                                <p>Some scenes - like this one of cypress trees in the Chickahominy River - look similar to what Captain John Smith would have seen 400 years ago.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kayaker at Jug Bay</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C823278-1DD8-B71B-0B1E9F8326884E3B.jpg" class="card-img-top" alt="A lone kayaker explores the Patuxent River" title="The upper reaches of the Patuxent River at Jug Bay give visitors a view of the Chesapeake region that feels similar to a time before European settlement." />
+                            <div class="card-body">
+                                <p>The upper reaches of the Patuxent River at Jug Bay give visitors a view of the Chesapeake region that feels similar to a time before European settlement.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Susquehanna River view from Zimmerman Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C823C7D-1DD8-B71B-0B716A0012D6C0E3.jpg" class="card-img-top" alt="A view of the Susquehanna River and the boat dock at Zimmerman Center for Heritage" title="Visitors can use the dock at Zimmerman Center for Heritage to launch canoes and kayaks onto the beautiful Susquehanna River in south central Pennsylvania." />
+                            <div class="card-body">
+                                <p>Visitors can use the dock at Zimmerman Center for Heritage to launch canoes and kayaks onto the beautiful Susquehanna River in south central Pennsylvania.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

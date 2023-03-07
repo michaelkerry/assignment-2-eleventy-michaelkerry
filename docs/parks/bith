@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Big Thicket National Preserve</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Big Thicket National Preserve</h3>
+                <br/>
+                <p>Life of all types abounds in the Big Thicket. This national preserve protects the incredible diversity of life found where multiple habitats meet in southeast Texas. Hiking trails and waterways meander through nine different ecosystems, from longleaf pine forests to cypress-lined bayous. It is a place of discovery, a place to wander and explore, a place to marvel at the richness of nature.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The main corridor through the Big Thicket is US Hwy 69/287 between Beaumont and Woodville. Many smaller roads and highways branch off of the main corridor to reach trailheads and scenic areas. The visitor center is located at the intersection of US 69/287 and FM 420, about 7 miles north of Kountze and 30 miles north of Beaumont.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Citizen Science</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mining</li>
+                                    
+                                    <li>Logging and Timber Cutting</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Conservation Movement</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Alligators or Crocodiles</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Cats (wild)</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Thickets and Shrublands</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cypress Swamp</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/02285E73-E7E1-7DD1-D32664249812EF9D.jpg" class="card-img-top" alt="Bright green swamp with shallow water and many kinds of trees and jungle-like plants." title="When you think of Texas, do you picture jungle-like swamps?" />
+                            <div class="card-body">
+                                <p>When you think of Texas, do you picture jungle-like swamps?</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Staley Cabin</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5D2AE499-F59C-A379-5714B0E6024F9188.jpg" class="card-img-top" alt="A log cabin in a forest beneath a canopy of sprawling live oak trees." title="Historic Staley Cabin sits at the start of the Kirby Nature Trail." />
+                            <div class="card-body">
+                                <p>Historic Staley Cabin sits at the start of the Kirby Nature Trail.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canoe on Lake Bayou</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5DB295BE-F9A9-3D10-CA6D5204ED24E79A.jpg" class="card-img-top" alt="A park ranger paddling a green canoe on a slow-moving waterway below cypress trees." title="A canoe or kayak trip is the best way to see Big Thicket's waterways." />
+                            <div class="card-body">
+                                <p>A canoe or kayak trip is the best way to see Big Thicket's waterways.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Beaver Slide Trail Bridge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5DE7960F-AE37-F376-C881303E50FE17D5.jpg" class="card-img-top" alt="A small wooden bridge on a trail through dense woods." title="Wander through the woods on the Beaver Slide Trail." />
+                            <div class="card-body">
+                                <p>Wander through the woods on the Beaver Slide Trail.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pitcher Plant</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5E0F3C64-0778-094B-17BCF61C3B0909E6.jpg" class="card-img-top" alt="Close-up of a carnivorous pitcher plant with the shadow of an insect inside." title="Visit in spring to see carnivorous pitcher plants." />
+                            <div class="card-body">
+                                <p>Visit in spring to see carnivorous pitcher plants.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Red-Headed Woodpecker</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5E81C2C0-CE7C-092A-B2FBDC0C058958D8.jpg" class="card-img-top" alt="A woodpecker with bright red head clinging to a dead tree." title="Look for woodpeckers in Big Thicket's pine forests." />
+                            <div class="card-body">
+                                <p>Look for woodpeckers in Big Thicket's pine forests.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Village Creek Bridge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/60F6F249-D0F2-9EAA-3B863696CC12C4B0.jpg" class="card-img-top" alt="An iron bridge above a murky creek surrounded by dense woods." title="The bridge over Village Creek connects the Kirby Nature Trail to the Turkey Creek Trail." />
+                            <div class="card-body">
+                                <p>The bridge over Village Creek connects the Kirby Nature Trail to the Turkey Creek Trail.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cypress Knees</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/60B44B03-C641-7B6F-0D0A2E1B31AA8C5E.jpg" class="card-img-top" alt="Shadowy-looking cypress knees and their reflections in still water." title="Cypress knees, extensions of bald cypresses' roots, are abundant in Big Thicket waters." />
+                            <div class="card-body">
+                                <p>Cypress knees, extensions of bald cypresses' roots, are abundant in Big Thicket waters.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cooks Lake Paddlers</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/610C81AE-92FC-06DC-6B78B41C2DE97B98.jpg" class="card-img-top" alt="2 people in a canoe and 1 person in a kayak paddle through a forested slough." title="Paddle beneath a canopy of cypress and tupelo on the Cooks Lake to Scatterman Paddling Trail." />
+                            <div class="card-body">
+                                <p>Paddle beneath a canopy of cypress and tupelo on the Cooks Lake to Scatterman Paddling Trail.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sundew Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/61B2C4B4-C004-7D26-1680B20C309D5026.jpg" class="card-img-top" alt="A wooden boardwalk curving through dense ferns and pines." title="The Sundew Trail leads hikers through a wetland pine savannah." />
+                            <div class="card-body">
+                                <p>The Sundew Trail leads hikers through a wetland pine savannah.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall Swamp</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6253DE85-FCBD-A7E6-86631E5E98785A9E.jpg" class="card-img-top" alt="Tall trees in a swamp, displaying bright orange foliage." title="Visit in November to see bald cypress leaves turn a rich orange hue." />
+                            <div class="card-body">
+                                <p>Visit in November to see bald cypress leaves turn a rich orange hue.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Anole on Palmetto</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6294B8FD-F81F-C34B-645CC57C054AB5A9.jpg" class="card-img-top" alt="A green anole lizard resting on an outstretched palmetto leaf." title="The beauty of the Big Thicket lies in its small details." />
+                            <div class="card-body">
+                                <p>The beauty of the Big Thicket lies in its small details.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kirby Oak</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/62E3D911-EF36-C335-6EF54E4974DECAC2.jpg" class="card-img-top" alt="Sunlight poking through the canopy of a sprawling oak tree." title="Large live oaks welcome hikers to the Kirby Nature Trail." />
+                            <div class="card-body">
+                                <p>Large live oaks welcome hikers to the Kirby Nature Trail.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

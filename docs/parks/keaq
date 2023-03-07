@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Kenilworth Park & Aquatic Gardens</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Kenilworth Park & Aquatic Gardens</h3>
+                <br/>
+                <p>Deep within Kenilworth lies an oasis, hidden behind trees and cattails. It's a place where beavers build their homes and turtles sleep on logs. Lotus blooms rise from the muck and lilies sit on the water. The wind dances with the dragonflies, rustling through the trees, carrying the song of the birds until it brushes across your face, fading to a whisper, saying "come join."</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park is located in North East Washington D.C. south of route 50 and just off the Baltimore Washington Parkway. The park is also within the D.C. Kenilworth community and the Anacostia river runs along the park boundary. Interstate 295 runs parallel to the park. The park is within half a mile from the Deanwood Metro station on the orange line. There is free parking at the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Meadows</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Marshes</li>
+                                    
+                                    <li>Swamps</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lotus pond bloom</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C819F7C-1DD8-B71B-0BE9077BC0E39492.jpg" class="card-img-top" alt="Pink lotus flower blooms in a pond." title="Lotus flowers bloom in many ponds during the hot humid summer months." />
+                            <div class="card-body">
+                                <p>Lotus flowers bloom in many ponds during the hot humid summer months.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall Colors</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81A0E5-1DD8-B71B-0BA98A148F520896.jpg" class="card-img-top" alt="Aquatic ponds during the fall with trees displaying orange and yellow colors." title="As the seasons change, so do the colors around the ponds which can be seen as reflections on the water." />
+                            <div class="card-body">
+                                <p>As the seasons change, so do the colors around the ponds which can be seen as reflections on the water.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hanging around</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81A243-1DD8-B71B-0BFAF6170F21B206.jpg" class="card-img-top" alt="Turtles basking in the sun." title="As the temperatures warm up during spring and summer months many reptiles including turtles can be seen basking in the sun on logs, tree stumps or the banks of the ponds." />
+                            <div class="card-body">
+                                <p>As the temperatures warm up during spring and summer months many reptiles including turtles can be seen basking in the sun on logs, tree stumps or the banks of the ponds.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Capturing Moments</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81A3BB-1DD8-B71B-0B97E9013EA332BD.jpg" class="card-img-top" alt="A woman taking a photo of lotus flowers" title="The summer blooms in and around the ponds attract many photographers and artist from around the world." />
+                            <div class="card-body">
+                                <p>The summer blooms in and around the ponds attract many photographers and artist from around the world.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Flight in Fall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81A515-1DD8-B71B-0BDEDFA8A3A3FF69.jpg" class="card-img-top" alt="Great Blue Heron in flight over the ponds during the fall." title="The wetlands and marsh habitat many shore birds and they can be seen wading in and around the ponds for food." />
+                            <div class="card-body">
+                                <p>The wetlands and marsh habitat many shore birds and they can be seen wading in and around the ponds for food.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

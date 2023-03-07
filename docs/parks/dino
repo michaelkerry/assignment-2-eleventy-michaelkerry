@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Dinosaur National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Dinosaur National Monument</h3>
+                <br/>
+                <p>Dinosaurs once roamed here. Their fantastic remains are still visibly embedded in the rocks. Today, the mountains, desert, and untamed rivers flowing in deep canyons support an array of life. Petroglyphs hint at earlier cultures. Later, homesteaders and outlaws found refuge here. Whether your passion is science, adventure, history or scenery, Dinosaur offers much to explore.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Dinosaur National Monument is located on the Colorado and Utah border with a parts of the monument in both states. Dinosaur fossils are not visible in the Colorado portion of the monument - only on the Utah side. The Quarry Visitor Center and Exhibit Hall (where you see the dinosaur fossils) are located approximately 7 miles north of Jensen, Utah.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>RV Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Off-Trail Permitted Hiking</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Whitewater Rafting</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>Ancient Seas</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Elk</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Canyons and Canyonlands</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Dinosaur</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Thickets and Shrublands</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Camarasaurus Skull</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83D97A-1DD8-B71B-0B61AF7BD82A61B1.jpg" class="card-img-top" alt="the fossilized skull of camarasaurus dinosaur" title="Over 1500 fossilized bones of various dinosaurs are still embedded in the cliff face including a skull and several neck vertebrae of a camarasaurus" />
+                            <div class="card-body">
+                                <p>Over 1500 fossilized bones of various dinosaurs are still embedded in the cliff face including a skull and several neck vertebrae of a camarasaurus</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jones Hole Canyon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/17A09BB3-F3EC-84BB-92B711189544E64B.jpg" class="card-img-top" alt="A large sandstone canyon with golden grasses and green trees growing inside." title="The Jones Hole Trail offers remote solitude in the wilderness of the monument." />
+                            <div class="card-body">
+                                <p>The Jones Hole Trail offers remote solitude in the wilderness of the monument.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Steamboat Rock and the Green River in Echo Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83DB2E-1DD8-B71B-0BC525C50D4409F6.jpg" class="card-img-top" alt="the rocky pinnacle of Steamboat Rock rises over the Green River" title="Steamboat Rock rises above the Green River in Echo Park" />
+                            <div class="card-body">
+                                <p>Steamboat Rock rises above the Green River in Echo Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">McKee Springs Petroglyphs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83DCD9-1DD8-B71B-0B1B1DB1EA85D51B.jpg" class="card-img-top" alt="Fremont rock art at McKee Springs" title="The Fremont people left petroglyphs on many of the rock cliffs within Dinosaur National Monument including those at McKee Springs" />
+                            <div class="card-body">
+                                <p>The Fremont people left petroglyphs on many of the rock cliffs within Dinosaur National Monument including those at McKee Springs</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jones Hole Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/177BD0AF-0433-3BD4-97BBC4E349B5C902.jpg" class="card-img-top" alt="A small waterfall in a fast flowing creek, moving through a green forest." title="Jones Hole Creek flows year round, providing nourishment for vibrant, green forests." />
+                            <div class="card-body">
+                                <p>Jones Hole Creek flows year round, providing nourishment for vibrant, green forests.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Camarasaurus Hump Specimen</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BB24ABAB-FE17-2297-A8599A6861411C27.jpg" class="card-img-top" alt="Large bones resembling legs, ribs and the vertebrae of a neck embed grayish brown rock." title="Fossils from a camarasaurus dinosaur display the well articulated specimens still found in the rock in the Quarry Exhibit Hall." />
+                            <div class="card-body">
+                                <p>Fossils from a camarasaurus dinosaur display the well articulated specimens still found in the rock in the Quarry Exhibit Hall.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mitten Park from Harpers Corner</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83DE76-1DD8-B71B-0B00DA4DE320CD4B.jpg" class="card-img-top" alt="view of a river flowing through a deep canyon" title="Hikers arriving at the end of the Harpers Corner Trail are rewarded with a view of the Mitten Park Fault, Green River and the Yampa River Canyons" />
+                            <div class="card-body">
+                                <p>Hikers arriving at the end of the Harpers Corner Trail are rewarded with a view of the Mitten Park Fault, Green River and the Yampa River Canyons</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Night Sky over Tent</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83DFE2-1DD8-B71B-0B29236614706D22.jpg" class="card-img-top" alt="the star filled sky above a tent" title="Dinosaur's dark skies provides dramatic views of the Milky Way Galaxy" />
+                            <div class="card-body">
+                                <p>Dinosaur's dark skies provides dramatic views of the Milky Way Galaxy</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rocky Mountain Bighorns</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BAC9ED9A-A56E-D358-898FE6A294171077.jpg" class="card-img-top" alt="A bighorn sheep lamb stands in front of a bighorn ewe." title="Visitors to Dinosaur may also see its diversity of wildlife including Rocky Mountain bighorn sheep." />
+                            <div class="card-body">
+                                <p>Visitors to Dinosaur may also see its diversity of wildlife including Rocky Mountain bighorn sheep.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Floating Rapids</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BB767205-9934-5683-58446C268A62135E.jpg" class="card-img-top" alt="A green rubber raft floats over a rapid on a brown colored river in front of multi-colored mountains" title="Rapids like those in Split Mountain Canyon challenge and thrill rafters on the Green River." />
+                            <div class="card-body">
+                                <p>Rapids like those in Split Mountain Canyon challenge and thrill rafters on the Green River.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

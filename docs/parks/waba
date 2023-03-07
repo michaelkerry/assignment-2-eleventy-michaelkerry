@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Washita Battlefield National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Washita Battlefield National Historic Site</h3>
+                <br/>
+                <p>On November 27, 1868, Lt. Colonel George Armstrong Custer led the 7th US Cavalry on a surprise dawn attack on a Cheyenne village led by Peace Chief Black Kettle. The event was an example of the tragic clash of cultures that occurred during the Great Plains Wars. It is also a place of remembrance and reflection for those who died here.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Washita Battlefield is located just west of Cheyenne in western Oklahoma approximately 130 miles west of Oklahoma City and 140 miles east of Amarillo, Texas; just 25 miles north of I-40 on State Highway 283. From Cheyenne head west on State Highway 47 for about 1 mile and then make a right on State Highway 47A. The visitor center will be on the right and the battlefield is about .5 miles past the visitor center on the right as well.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Citizen Science</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Massacres</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Tribal Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Foothills, Plains and Valleys</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tipis at Sunset</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84A0E2-1DD8-B71B-0BD431BE8524A232.jpg" class="card-img-top" alt="Cheyenne tipis backlite by sunset" title="Cheyenne tipis backlite by sunset" />
+                            <div class="card-body">
+                                <p>Cheyenne tipis backlite by sunset</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Washita River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B41AF-1DD8-B71B-0B231B3DF18873A0.jpg" class="card-img-top" alt="The Washita River in winter covered in ice and snow" title="The Washita River looking much the same as it did during the attack on November 27, 1868" />
+                            <div class="card-body">
+                                <p>The Washita River looking much the same as it did during the attack on November 27, 1868</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cheyenne Dog Soldier Telling Stories</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84A22F-1DD8-B71B-0BA5D7DD7E9C28E5.jpg" class="card-img-top" alt="A Cheyenne Dog Soldier tells stories inside his tipi" title="A Cheyenne Dog Soldier tells stories inside his tipi" />
+                            <div class="card-body">
+                                <p>A Cheyenne Dog Soldier tells stories inside his tipi</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Washita Battlefield National Historic Site Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84A3ED-1DD8-B71B-0B367D74A0735570.jpg" class="card-img-top" alt="The Washita Battlefield National Historic Site Visitor Center on a summer day" title="The Washita Battlefield National Historic Site Visitor Center on a summer day" />
+                            <div class="card-body">
+                                <p>The Washita Battlefield National Historic Site Visitor Center on a summer day</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Learning Something New at Washita</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84A54B-1DD8-B71B-0BC33ECFD61CBDB4.jpg" class="card-img-top" alt="A Park Ranger knells down among Junior Rangers so only his hat shows within the crowd of children." title="A Park Ranger helps children with their Jr. Ranger books." />
+                            <div class="card-body">
+                                <p>A Park Ranger helps children with their Jr. Ranger books.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">"Meeting the Enemy"</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84A7F5-1DD8-B71B-0BF5A9B422A597CA.jpg" class="card-img-top" alt="A Cheyenne Warrior and U.S. Cavalry soldier hold a meeting next to a tipi" title="A Cheyenne Warrior and U.S. Cavalry soldier hold a meeting next to a tipi" />
+                            <div class="card-body">
+                                <p>A Cheyenne Warrior and U.S. Cavalry soldier hold a meeting next to a tipi</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Jimmy Carter National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Jimmy Carter National Historical Park</h3>
+                <br/>
+                <p>Few U.S. Presidents have had such close ties with where they were born and raised. The rural southern culture of Plains, Georgia, that revolves around farming, church and school, had a large influence in molding the character and in shaping the political policies of the 39th President of the United States.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">In Americus take US 280W/ W Forsyth St. until it becomes US-19 S/US-280 W/S Martin Luther King Blvd. Turn left and go .08 mile. Turn right onto US-280 W and travel 8.9 miles. Turn right onto North Bond Street/ Hwy 45 North. Plains High School Visitor Center and Museum will be on the right side of the road 500 feet from the intersection.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Great Depression</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jimmy Carter's Boyhood Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87D454-1DD8-B71B-0B1CF7672AB5806C.jpg" class="card-img-top" alt="A picture of the front of the home Jimmy Carter lived in as a young boy." title="Front view of the Jimmy Carter Boyhood Home in Archery, Georgia." />
+                            <div class="card-body">
+                                <p>Front view of the Jimmy Carter Boyhood Home in Archery, Georgia.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Plains High School Museum and Visitors Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87D616-1DD8-B71B-0B81EBD345A00323.jpg" class="card-img-top" alt="Front view of Plains High School Visitor Center and Museum" title="Almost one hundred thousand visitors visit Plains High School Visitor Center and Museum yearly." />
+                            <div class="card-body">
+                                <p>Almost one hundred thousand visitors visit Plains High School Visitor Center and Museum yearly.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Plains Depot, 1976 Campaign Headquarters</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87D763-1DD8-B71B-0BB5F55DAD2E6514.jpg" class="card-img-top" alt="The Plains train depot that President Carter used as the 1976 campaign headquarters." title="The oldest building in Plains, the train depot, was used as the 1976 campaign headquarters for President Carter." />
+                            <div class="card-body">
+                                <p>The oldest building in Plains, the train depot, was used as the 1976 campaign headquarters for President Carter.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jimmy Carter Presidents' Day 2016</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/61CED1DA-1DD8-B71B-0B3FDDBB629AA7DF.jpg" class="card-img-top" alt="Jimmy Carter speaking to the crowd; Presidents' Day 2016" title="President Jimmy Carter speaking to the crowd at Plains High School for Presidents' Day 2016" />
+                            <div class="card-body">
+                                <p>President Jimmy Carter speaking to the crowd at Plains High School for Presidents' Day 2016</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rosalynn Carter, Presidents' Day 2016</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/61DF9E1D-1DD8-B71B-0B3700555CB0DC61.jpg" class="card-img-top" alt="Rosalynn Carter signing a book, Presidents' Day 2016" title="Rosalynn Carter signing a book she authored during Presidents' Day 2016" />
+                            <div class="card-body">
+                                <p>Rosalynn Carter signing a book she authored during Presidents' Day 2016</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

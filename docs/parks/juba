@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Juan Bautista de Anza National Historic Trail</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Juan Bautista de Anza National Historic Trail</h3>
+                <br/>
+                <p>"¡Vayan Subiendo!"("Everyone mount up!") was the rousing call from Juan Bautista de Anza. In 1775-76, he led some 240 men, women, and children on an epic journey to establish the first non-Native settlement at San Francisco Bay. Today, the 1,200-mile Juan Bautista de Anza National Historic Trail connects history, culture, and outdoor recreation from Nogales, Arizona, to the San Francisco Bay Area.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Details listed are for the Richmond, California administrative office of the Anza Trail (administrative office is not currently open to the public). The 1,210-mile Anza Trail connects historic, cultural, and recreation sites from Nogales, AZ, to the San Francisco Bay Area that reveal the legacy of our Spanish colonial heritage. Each site along the Anza Trail is managed independently. Contact individual sites for hours, directions, and other details.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Latino American Heritage</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Anza Trail Logo</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C872DB3-1DD8-B71B-0B6201C88B96A87D.jpg" class="card-img-top" alt="Anza Trail Logo" title="The Anza Trail is one of 30 National Scenic and Historic Trails" />
+                            <div class="card-body">
+                                <p>The Anza Trail is one of 30 National Scenic and Historic Trails</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Anza Trail at Presidio of San Francisco</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8730AA-1DD8-B71B-0BDE0D71A786E9DB.jpg" class="card-img-top" alt="Anza Trail at the Presidio" title="Annual events bring together descendants of the Anza Expedition of 1776." />
+                            <div class="card-body">
+                                <p>Annual events bring together descendants of the Anza Expedition of 1776.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Remembering His Ancestors</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C873234-1DD8-B71B-0B478F896DF9E3B0.jpg" class="card-img-top" alt="heritage event" title="Annual events bring together descendants of the Anza Expedition of 1776." />
+                            <div class="card-body">
+                                <p>Annual events bring together descendants of the Anza Expedition of 1776.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Trails & Rails</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C873402-1DD8-B71B-0B17F59DE3D57871.jpg" class="card-img-top" alt="trails & rails" title="Anza Trail volunteers ride the Amtrak Coast Starlight to share about California's landscape and history." />
+                            <div class="card-body">
+                                <p>Anza Trail volunteers ride the Amtrak Coast Starlight to share about California's landscape and history.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Campfire Program</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8735BD-1DD8-B71B-0B5BAEB45DF6FDA7.jpg" class="card-img-top" alt="reenactors in costume" title="Annual events bring together descendants of the Anza Expedition of 1776." />
+                            <div class="card-body">
+                                <p>Annual events bring together descendants of the Anza Expedition of 1776.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

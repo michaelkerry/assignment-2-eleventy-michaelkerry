@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Yukon - Charley Rivers National Preserve</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Yukon - Charley Rivers National Preserve</h3>
+                <br/>
+                <p>Located in Interior Alaska, Yukon-Charley Rivers offers exploration in a largely untouched landscape. Whether you float the mighty Yukon River or paddle the Charley River's whitewater, your memories will last a lifetime. Geology, cultural history, gold rush remnants, wildlife, and vast scenery will be a part of your experience. But, the strongest element will be solitude. Your adventure awaits.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Although there is no direct highway connection to Yukon-Charley Rivers National Preserve, visitors are able to access the preserve by either air travel from Fairbanks, or water or air travel from two small towns on the road system(Eagle and Circle), near the preserve boundaries.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Motorized Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Dog Sledding</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Whitewater Rafting</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snowmobiling</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mining</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Floods</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>The Gold Rush</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Wolves</li>
+                                    
+                                    <li>Arctic</li>
+                                    
+                                    <li>Tundra</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Aurora Borealis</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Aerial view of the Yukon River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5441BF50-05AD-F33E-6A0339476B5B18EF.jpg" class="card-img-top" alt="Aerial view of the Yukon River during fall colors" title="The Yukon River is a vast body of water that has carved its path into the landscape over millions of years." />
+                            <div class="card-body">
+                                <p>The Yukon River is a vast body of water that has carved its path into the landscape over millions of years.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Coal Creek Dredge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A625C-1DD8-B71B-0B937F599D9D10DF.jpg" class="card-img-top" alt="Historic Coal Creek Dredge" title="The historic Coal Creek Dredge sits nonoperational at its original site, near Slaven's Roadhouse" />
+                            <div class="card-body">
+                                <p>The historic Coal Creek Dredge sits nonoperational at its original site, near Slaven's Roadhouse</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Eagle Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A6453-1DD8-B71B-0BD5799A0348C713.jpg" class="card-img-top" alt="Eagle Visitor Center in front of Eagle Bluff" title="The Eagle Visitor Center sits atop a small bluff overlooking the Yukon River." />
+                            <div class="card-body">
+                                <p>The Eagle Visitor Center sits atop a small bluff overlooking the Yukon River.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Slaven's Roadhouse during fall colors</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/56A9969F-9BE7-F7A4-2DF42106328FEFBE.jpg" class="card-img-top" alt="Slaven's Roadhouse during fall colors" title="A historic roadhouse and public use cabin on the Yukon River" />
+                            <div class="card-body">
+                                <p>A historic roadhouse and public use cabin on the Yukon River</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Calico Bluff and the Yukon River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/576A1897-A20F-B183-CE6A8AB15207E519.jpg" class="card-img-top" alt="Calico Bluff rising above the Yukon River that also winds into the distance behind the bluff" title="Calico Bluff, showing 4 million years of rock layers, rises above the Yukon River and is one of many bluffs along the 130 miles of river in the preserve" />
+                            <div class="card-body">
+                                <p>Calico Bluff, showing 4 million years of rock layers, rises above the Yukon River and is one of many bluffs along the 130 miles of river in the preserve</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Wild and Scenic Charley River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/586B0BCE-D61C-2105-5C518EB2E5A138C0.jpg" class="card-img-top" alt="Aerial view of the Charley River winding through the tundra and mountains" title="The 105 mile-long Wild and Scenic Charley River's watershed is completely protected within the preserve boundary." />
+                            <div class="card-body">
+                                <p>The 105 mile-long Wild and Scenic Charley River's watershed is completely protected within the preserve boundary.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Grand Canyon-Parashant National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Grand Canyon-Parashant National Monument</h3>
+                <br/>
+                <p>Take a lonely and rocky two-track road in a 4x4 to the edge of the Grand Wash Cliffs. Find a stunning solitary vista deep into the Grand Canyon. Relax in the shade of ponderosas at Mount Trumbull. Touch ancient waters at Pakoon Springs in one of the driest places in the world. Parashant is remote. There are no crowds here. Be equipped to leave pavement, cell service, and the 21st century behind.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">• The monument is located in the northwest corner of Arizona, bordering Nevada to the west and near the southern border of Utah. The monument has entry roads from Nevada, Utah and Arizona. • There are no paved roads or visitor services within the monument's million-plus acres. • Visitors should be prepared for travel on rugged dirt roads, with an appropriate high-clearance vehicle equipped with all-terrain tires. Spare tires should also be all-terrain rated.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Flying</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Thickets and Shrublands</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hudson Point</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5FEA14DD-DA42-DE40-C979416A86C8A4AC.jpg" class="card-img-top" alt="Near a cliff edge the sun sets in the distance." title="The sun sets behind the Pakoon Basin." />
+                            <div class="card-body">
+                                <p>The sun sets behind the Pakoon Basin.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Driving the sage flat</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6045DD15-EB92-8627-85342FA4F06DCEBE.jpg" class="card-img-top" alt="A UTV drives down a road surrounded on both sides by sage" title="Visitors enjoy exploring the roads on the monument." />
+                            <div class="card-body">
+                                <p>Visitors enjoy exploring the roads on the monument.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Camping sunset</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/604CD29B-9450-FC46-149B6651316A4349.jpg" class="card-img-top" alt="The sun sets behind a grove of ponderosa trees lighting up an orange tent with a warm glow" title="Campsites on the monument are primitive as there is no designated campground." />
+                            <div class="card-body">
+                                <p>Campsites on the monument are primitive as there is no designated campground.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Waring Ranch</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/60798D9F-974F-C923-0C99B0DB97F2BF2C.jpg" class="card-img-top" alt="Looking across a long narrow stockpond. Green grass slopes towards the water." title="Areas such as Waring Ranch give a glimpse into ranching operations in the early and mid-20th century" />
+                            <div class="card-body">
+                                <p>Areas such as Waring Ranch give a glimpse into ranching operations in the early and mid-20th century</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall sunset</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6099FCCB-C94F-7811-EC4ED5DFD0FE679A.jpg" class="card-img-top" alt="The setting sun sits above trees and shrubs adorned with hues of orange, red and green." title="Sunrise and sunsets hallmark the vast landscapes of the monument." />
+                            <div class="card-body">
+                                <p>Sunrise and sunsets hallmark the vast landscapes of the monument.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

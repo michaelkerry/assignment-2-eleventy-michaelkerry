@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Wilson's Creek National Battlefield</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Wilson's Creek National Battlefield</h3>
+                <br/>
+                <p>Wilson's Creek was the first major Civil War battle fought west of the Mississippi River, and the site of the death of Nathaniel Lyon, the first Union general killed in action. The costly Southern victory on August 10, 1861, focused national attention on the war in Missouri. Wilson’s Creek NB commemorates and interprets the battle within the context of the war in the Trans-Mississippi West.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From I-44: exit at Exit 70 (Missouri Highway MM). Continue south to U.S. Highway 60. Proceed through the intersection. Continue 1/2 mile to Missouri Highway ZZ. Turn right on ZZ. Continue south to Farm Road 182 (Elm Street). Turn left; the entrance to the battlefield is on the right. From U.S. Highway 65 (south of Springfield): turn left (west) on Missouri Highway 14 at Ozark. Continue on Highway 14 to Missouri Highway ZZ. Follow ZZ north to Farm Road 182. Turn right; the entrance is on the right.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mills</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Freshwater Springs</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>Meadows</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Moonlight Tour</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/EB8B9CDB-F889-440A-39F7A89402AF6B96.jpg" class="card-img-top" alt="Men in reproduction uniforms talk around a campfire" title="Living history volunteers act out a scene during the annual Moonlight Tours event" />
+                            <div class="card-body">
+                                <p>Living history volunteers act out a scene during the annual Moonlight Tours event</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Edwards Cabin</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/EBBBAE8C-B74C-E705-422A3C4448B72BEE.jpg" class="card-img-top" alt="Women in reproduction historic dress sit and stand on porch of old cabin" title="Living history volunteers give demonstration at the historic Edwards Cabin" />
+                            <div class="card-body">
+                                <p>Living history volunteers give demonstration at the historic Edwards Cabin</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lyon Marker</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/EC34AEC4-ED98-E7DF-F535B283B80C8AE2.jpg" class="card-img-top" alt="A stone marker with engraving sits in front of a wooden fence and trees" title="The 1928 Lyon Marker commemorates General Nathaniel Lyon, the first Union general to die in the Civil War." />
+                            <div class="card-body">
+                                <p>The 1928 Lyon Marker commemorates General Nathaniel Lyon, the first Union general to die in the Civil War.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Henry Rifle</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/EC48AD4A-AD18-7E4C-09E681C9E0768F91.jpg" class="card-img-top" alt="The receiver of an 1864 rifle shows decorative engraving with the original owner's name" title="A rare 1864 Henry repeating rifle from the park's museum collection belonged to Missouri Civil War veteran George W. Fulton" />
+                            <div class="card-body">
+                                <p>A rare 1864 Henry repeating rifle from the park's museum collection belonged to Missouri Civil War veteran George W. Fulton</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tour Road</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/EDC6E2F2-AF32-27A1-8032A8DC092AE65C.jpg" class="card-img-top" alt="A man and woman walk with their dog on a paved road edged by trees and fields" title="Visitors enjoy an evening stroll on the Tour Road." />
+                            <div class="card-body">
+                                <p>Visitors enjoy an evening stroll on the Tour Road.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wilson's Creek National Battlefield Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7F9267D4-0B81-4F27-6AB80EB821003D3A.jpg" class="card-img-top" alt="Front Entrance of Visitor Center and Arrowhead on sign reading "Wilson's Creek National Battlefield"" title="Begin your visit at the newly remodeled Visitor Center at Wilson's Creek National Battlefield." />
+                            <div class="card-body">
+                                <p>Begin your visit at the newly remodeled Visitor Center at Wilson's Creek National Battlefield.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Lyon Bed</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7F34FD73-9144-2C69-37845C09E18A14E6.jpg" class="card-img-top" alt="General Nathaniel Lyon killed at  The Battle of Wilson's Creek was placed on this bed. The Lyon Bed." title="The Bed where General Nathaniel Lyon is placed, after being fatally wounded on the Battlefield." />
+                            <div class="card-body">
+                                <p>The Bed where General Nathaniel Lyon is placed, after being fatally wounded on the Battlefield.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

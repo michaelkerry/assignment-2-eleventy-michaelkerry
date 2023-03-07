@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Christiansted National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Christiansted National Historic Site</h3>
+                <br/>
+                <p>Christiansted National Historic Site was established in 1952 as the first unit of the National Park Service in the Virgin Islands of the United States. Covering over seven acres the park tells the stories about Danish economy and ways of life, and the interactions of people in Europe, Africa, West Indies, and North America during the Danish era of occupation of the Virgin Islands (1734-1917).</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">To Christiansted National Historic Site from Henry E. Rohlsen Airport: Drive east on Route 64 to Melvin Edwards Highway (Route 66). Turn right and continue for 4.8 miles (7.2 kilometers). Continue straight onto Old Centerline Road (Queen Mary Highway), and continue straight onto the Christiansted Bypass 3.7 miles (5.9 km). Turn left onto Hospital Street. The parking lot for Christiansted National Historic Site will be on your right.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Coastal Defenses</li>
+                                    
+                                    <li>Maritime - Military</li>
+                                    
+                                    <li>Piracy and Privateering</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Colonial/European Contact Conflicts</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Christiansvaern</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/904D12AC-A8B3-9FF6-43BD208514DCC668.jpg" class="card-img-top" alt="fiew of the exterior of the fort" title="Fort Christiansvaern was built between 1738 and 1749. It is made of brick, stone, and coral block." />
+                            <div class="card-body">
+                                <p>Fort Christiansvaern was built between 1738 and 1749. It is made of brick, stone, and coral block.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Customs House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/906F742E-D9B0-CFB9-7A509B516405DC95.jpg" class="card-img-top" alt="view of the front steps of the Customs House" title="A customs house has stood on this spot since the 1730s. The current building was finished in the 1842." />
+                            <div class="card-body">
+                                <p>A customs house has stood on this spot since the 1730s. The current building was finished in the 1842.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Christiansvaern - Commandant's Quarters</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/90230FE4-C14F-AC90-D5F6FA318A9B85B5.jpg" class="card-img-top" alt="View of the interior courtyard and stairs to the quarters of the fort's Commandant." title="Fort Christiansvaern served as the residence for the Danish colony's Governor, then for the fort's Commandant and his family." />
+                            <div class="card-body">
+                                <p>Fort Christiansvaern served as the residence for the Danish colony's Governor, then for the fort's Commandant and his family.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Steeple Building</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/908500A6-0305-B7A3-BE003E0F26EA8620.jpg" class="card-img-top" alt="view of the Steeple Building from the street corner." title="First known as the Church of Our Lord of Zebaoth, the church was completed in 1751, and consecrated in 1753. The steeple tower was built 1793-1796." />
+                            <div class="card-body">
+                                <p>First known as the Church of Our Lord of Zebaoth, the church was completed in 1751, and consecrated in 1753. The steeple tower was built 1793-1796.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Commerce and the Christiansted Wharf</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E5ADBA15-1DD8-B71B-0B79AFA80BFD5F82.jpg" class="card-img-top" alt="Ca. 1815 painting of activity at the wharf in Christiansted, St. Croix." title="The Christiansted wharf was a cosmopolitan port throughout the 18th and 19th centuries." />
+                            <div class="card-body">
+                                <p>The Christiansted wharf was a cosmopolitan port throughout the 18th and 19th centuries.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Young Alexander Hamilton</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E6AB4AC9-1DD8-B71B-0BFB50E1E315DEA0.jpg" class="card-img-top" alt="Drawing of Alexander Hamilton, age 18" title="Alexander Hamilton spent his youth on St. Croix, from 1765 until 1772. This drawing was made shortly after he left the island." />
+                            <div class="card-body">
+                                <p>Alexander Hamilton spent his youth on St. Croix, from 1765 until 1772. This drawing was made shortly after he left the island.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Buck Island Reef National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Buck Island Reef National Monument</h3>
+                <br/>
+                <p>Welcome to Buck Island! Before you come, please watch our 2014 Telly Award winning film "Caribbean Gem." Watching this will catch you up on 50+ years of National Park Service protection and civic engagement. Learn what we do every day to preserve this resource for Virgin Islanders and visitors alike. For the General Management Plan and Environmental Compliance, visit the News page.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Use one of our concessionaires to get to Buck Island!</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Sailing</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>SCUBA Diving</li>
+                                    
+                                    <li>Snorkeling</li>
+                                    
+                                    <li>Swimming</li>
+                                    
+                                    <li>Saltwater Swimming</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>Coral Reefs</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>The Tropics</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Elkhorn Coral at Buck Island Reef NM</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/9166F458-AD79-8637-97F62EDA1485FF6A.jpg" class="card-img-top" alt="Snorkeler swimming by Elkhorn Coral at Buck Island Reef NM." title="Snorkelers may view Elkhorn Coral at the Underwater Trail, Buck Island Reef NM" />
+                            <div class="card-body">
+                                <p>Snorkelers may view Elkhorn Coral at the Underwater Trail, Buck Island Reef NM</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Buck Island Reef NM Underwater Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D116BDF4-1DD8-B71B-0B053DE4FE43FCDC.jpg" class="card-img-top" alt="Snorkelers in formation departing the concessioner's vessel in route to the underwater trail." title="Snorkelers are lead in small groups through the underwater trail at Buck Island Reef NM." />
+                            <div class="card-body">
+                                <p>Snorkelers are lead in small groups through the underwater trail at Buck Island Reef NM.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tropical dry forest, Buck Island</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E775585A-1DD8-B71B-0B363BC0780E766A.jpg" class="card-img-top" alt="Photograph of the trees and vegetation along the hiking trail on Buck Island" title="The plants that make up the subtropical dry forest on Buck Island range from old historic tamarinds to gumbo limbo, from cactus to delicate orchids." />
+                            <div class="card-body">
+                                <p>The plants that make up the subtropical dry forest on Buck Island range from old historic tamarinds to gumbo limbo, from cactus to delicate orchids.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Snorkeling at Buck Island</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E762DB55-1DD8-B71B-0B90BC186F386696.jpg" class="card-img-top" alt="Photograph of snorkeler among the coral reefs at Buck Island" title="Enjoy snorkeling the reefs and see lots of tropical reef fish." />
+                            <div class="card-body">
+                                <p>Enjoy snorkeling the reefs and see lots of tropical reef fish.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Green sea turtle hatchling</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/9181A257-0296-0E89-6C5E87058B02FF8B.jpg" class="card-img-top" alt="green sea turtle hatchling on beach heading towards the ocean" title="For over 30 years scientists have studied sea turtle nesting habits on Buck Island, training over 100 students in the field of biology." />
+                            <div class="card-body">
+                                <p>For over 30 years scientists have studied sea turtle nesting habits on Buck Island, training over 100 students in the field of biology.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">End of the rainbow</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E78E3DAB-1DD8-B71B-0BCD0C7FB3FCB7BB.jpg" class="card-img-top" alt="Photograph of rainbow at Buck Island" title="Buck Island is a magical place! Come snorkel the waters and hike the trails." />
+                            <div class="card-body">
+                                <p>Buck Island is a magical place! Come snorkel the waters and hike the trails.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Beach at Buck Island</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/91A9FFE7-ECB0-C8B4-F043E543F849476D.jpg" class="card-img-top" alt="the forest meets the sandy beach and waves" title="Come see the unspoiled beauty of Buck Island" />
+                            <div class="card-body">
+                                <p>Come see the unspoiled beauty of Buck Island</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Buck Island from the water</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/91D910CE-DF98-0E95-0992FD7B944F97AC.jpg" class="card-img-top" alt="view of Buck Island from the water" title="From the highest ridge to the water and reefs below, Buck Island offers adventure and learning." />
+                            <div class="card-body">
+                                <p>From the highest ridge to the water and reefs below, Buck Island offers adventure and learning.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Coral garden</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/91F5DF48-0722-3666-CC50AB0A76AB4EEA.jpg" class="card-img-top" alt="fish swimming among the corals" title="Our underwater trail will take you through beautiful gardens of coral." />
+                            <div class="card-body">
+                                <p>Our underwater trail will take you through beautiful gardens of coral.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hiking trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/9217E625-91A1-3B79-628F58F9CDF8C7EC.jpg" class="card-img-top" alt="hiking trail wandering through a beachside forest" title="Take our hiking trail through beach forests up to the observation deck at 300 feet above sea leve." />
+                            <div class="card-body">
+                                <p>Take our hiking trail through beach forests up to the observation deck at 300 feet above sea leve.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

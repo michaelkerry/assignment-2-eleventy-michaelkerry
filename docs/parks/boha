@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Boston Harbor Islands National Recreation Area</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Boston Harbor Islands National Recreation Area</h3>
+                <br/>
+                <p>. . . where you can walk a Civil War-era fort, visit historic lighthouses, explore tide pools, hike lush trails, camp under the stars, or relax while fishing, picnicking or swimming-all within reach of downtown Boston. Youth programs, visitor services, research, wildlife management, and more are coordinated on the park's 34 islands and peninsulas by the Boston Harbor Islands Partnership.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">There are many ways to enjoy Boston Harbor Islands and many ways to get there. For more information on how to get to the park by ferry, car, or private boat, please visit www.bostonharborislands.org.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Saltwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Coastal Defenses</li>
+                                    
+                                    <li>Maritime - Military</li>
+                                    
+                                    <li>Lighthouses</li>
+                                    
+                                    <li>Piracy and Privateering</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Hospital</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Abolition Movement</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Beach Dancing</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C858BDF-1DD8-B71B-0B6D6FFEF068BAB3.jpg" class="card-img-top" alt="A child dancing on the beach at dusk" title="A child dancing on the beach at dusk" />
+                            <div class="card-body">
+                                <p>A child dancing on the beach at dusk</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kayaking Boston Harbor Islands</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C858CF8-1DD8-B71B-0B6F55E56150332B.jpg" class="card-img-top" alt="A man on a kayak in Boston Harbor" title="Kayaking in Boston Harbor Islands National Recreational Area" />
+                            <div class="card-body">
+                                <p>Kayaking in Boston Harbor Islands National Recreational Area</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunset Over Boston</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C858E65-1DD8-B71B-0B1107E16289DA49.jpg" class="card-img-top" alt="An image of the sun setting over the Boston skyline from the Islands" title="Watch the sunset from Boston Harbor Islands" />
+                            <div class="card-body">
+                                <p>Watch the sunset from Boston Harbor Islands</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Come Explore The Islands</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C858F6B-1DD8-B71B-0B9C8D905FF4A7E9.jpg" class="card-img-top" alt="Children looking out at Boston from the Harbor Islands" title="Looking out at the city from the Boston Harbor Islands" />
+                            <div class="card-body">
+                                <p>Looking out at the city from the Boston Harbor Islands</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Warren</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85906D-1DD8-B71B-0BA5582CA1AEF263.jpg" class="card-img-top" alt="Historic Fort Warren on Georges Island" title="Visit historic Fort Warren on Georges Island in Boston Harbor" />
+                            <div class="card-body">
+                                <p>Visit historic Fort Warren on Georges Island in Boston Harbor</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Dwight D. Eisenhower Memorial</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Dwight D. Eisenhower Memorial</h3>
+                <br/>
+                <p>The Dwight D. Eisenhower Memorial tells the story of one of America's greatest leaders of the 20th century.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">GPS Coordinates: 38.887318, -77.018541 GPS Navigation: 540 Independence Ave SW Nearest Intersection: 6th St NW and Independence Ave SW</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Dwight D. Eisenhower Memorial Entrance</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7E0A4E6C-06D4-F1EC-7717B0A532D6A635.jpg" class="card-img-top" alt="Dwight D. Eisenhower Memorial Entrance" title="Entrance to the Dwight D. Eisenhower Memorial" />
+                            <div class="card-body">
+                                <p>Entrance to the Dwight D. Eisenhower Memorial</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">President Eisenhower Memorial Night Shot</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7E294876-E461-B928-B55FE2D9624EB27E.jpg" class="card-img-top" alt="President Eisenhower Memorial Night Shot" title="Evening shot of the Eisenhower Memorial" />
+                            <div class="card-body">
+                                <p>Evening shot of the Eisenhower Memorial</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tapestry in the Dwight D. Eisenhower Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7E4D2C01-B59A-5697-43CB97E966D09843.jpg" class="card-img-top" alt="Tapestry in the Dwight D. Eisenhower Memorial" title="Closeup of Tapestry in the Dwight D. Eisenhower Memorial" />
+                            <div class="card-body">
+                                <p>Closeup of Tapestry in the Dwight D. Eisenhower Memorial</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">President Eisenhower Statue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7E5C73E7-B1B7-03C0-52E64FE3564EA5B4.jpg" class="card-img-top" alt="President Eisenhower Statue" title="Close up of President Eisenhower Statue" />
+                            <div class="card-body">
+                                <p>Close up of President Eisenhower Statue</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Dwight D. Eisenhower Memorial Wide shot</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7E69507F-EBE4-1654-AD1D3741471087DB.jpg" class="card-img-top" alt="Dwight D. Eisenhower Memorial Wide shot" title="Dwight D. Eisenhower Memorial Wide shot" />
+                            <div class="card-body">
+                                <p>Dwight D. Eisenhower Memorial Wide shot</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">General Eisenhower Statue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7E70A08C-FBF4-5468-E9CF0A848C866716.jpg" class="card-img-top" alt="General Eisenhower Statue" title="Close up of the General Eisenhower Statue" />
+                            <div class="card-body">
+                                <p>Close up of the General Eisenhower Statue</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

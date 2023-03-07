@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Puʻukoholā Heiau National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Puʻukoholā Heiau National Historic Site</h3>
+                <br/>
+                <p>How many places in America can you walk in the footsteps of a king? Where else has a stranded sailor risen up to become a great chief over an entire island? Where else can you experience the culminating event of a people, foretold from centuries past? Where else can you stand on a beach and watch as sharks pass over a submerged temple? Experience all this and much more – only at Pu'ukoholā Heiau!</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From Keahole (Kona) International Airport: Head east on Keahole Airport Rd. Turn left at traffic light onto HI-19. Follow HI-19 to Spencer Beach Park Rd. (26.1 mi) Turn left onto HI-270 (0.4 mi) Turn left onto Spencer Beach Park Rd. (0.3 mi) Destination will be second right on Spencer Beach Park Rd. (Approximately 32 minute drive 27.5 mi)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Ruins</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Pacific Islander Heritage</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Heiau</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>Whales</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pu'ukoholā Heiau National Historic Site Banner</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/EB3BCC7A-CB39-FD44-4E6392881F5CC412.jpg" class="card-img-top" alt="A Lele (offering tower) set below Pu'ukoholā Heiau NHS" title="Pu'ukoholā Heiau on a clear hot and sunny day in the district of Kawaihae." />
+                            <div class="card-body">
+                                <p>Pu'ukoholā Heiau on a clear hot and sunny day in the district of Kawaihae.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunrise</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CF9F184A-A873-98A1-95D55AE153E94BA3.jpg" class="card-img-top" alt="Sunrise over Pu'ukoholā Heiau in mid September." title="Sunrise with a bright orange red glow rising above Pu'ukoholā Heiau." />
+                            <div class="card-body">
+                                <p>Sunrise with a bright orange red glow rising above Pu'ukoholā Heiau.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">War God Kū and His Warriors</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D0882370-FE4E-1FB3-4FF00315C3244C70.jpg" class="card-img-top" alt="War god Kū and His Warriors" title="Warriors dressed in traditional attire presenting war god Kū on top of Pu'ukoholā Heiau during Ho'oku'ikahi Ceremony." />
+                            <div class="card-body">
+                                <p>Warriors dressed in traditional attire presenting war god Kū on top of Pu'ukoholā Heiau during Ho'oku'ikahi Ceremony.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ho'oku'ikahi Ceremony</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D11CAB09-06A5-5489-AF13C42BD2DCAB45.jpg" class="card-img-top" alt="Ho'okupu offerings placed on Lele" title="Ho'okupu offerings placed on top of the lele during Ho'oku'ikahi ceremony." />
+                            <div class="card-body">
+                                <p>Ho'okupu offerings placed on top of the lele during Ho'oku'ikahi ceremony.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D19F58C5-BF72-CEC0-BE599FD41B49E0B0.jpg" class="card-img-top" alt="Paved half mile loop trail" title="Paved half mile loop trail (starting from the visitor center) will takes you to the base of Pu'ukoholā Heiau, passing Mailekini Heiau to Pelekane Bay, and right a long the coastal trail back to the visitor center." />
+                            <div class="card-body">
+                                <p>Paved half mile loop trail (starting from the visitor center) will takes you to the base of Pu'ukoholā Heiau, passing Mailekini Heiau to Pelekane Bay, and right a long the coastal trail back to the visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

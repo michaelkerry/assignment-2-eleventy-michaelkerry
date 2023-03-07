@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>River Raisin National Battlefield Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">River Raisin National Battlefield Park</h3>
+                <br/>
+                <p>River Raisin National Battlefield Park preserves, commemorates, and interprets the January 1813 battles of the War of 1812 and their aftermath in Monroe and Wayne counties in SE Michigan. The Battle resulted in the greatest victory for Tecumseh’s American Indian confederation and the greatest defeat for the U.S. The resulting rally cry “Remember the Raisin” spurred support for the rest of the war.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">River Raisin National Battlefield is located in SE Lower Michigan along the western shoreline of Lake Erie, in the city of Monroe. Park headquarters is 35 miles south of Detroit, and only 270 miles east of Chicago. By Car: Take Interstate 75 to exit 15 and go south on Dixie Highway to 333 North Dixie Hwy on the right.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Theater</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Geocaching</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Citizen Science</li>
+                                    
+                                    <li>Arts and Crafts</li>
+                                    
+                                    <li>Volunteer Vacation</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Team Sports</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Ruins</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Dams</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Factories</li>
+                                    
+                                    <li>Mills</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>US Navy</li>
+                                    
+                                    <li>US Marines</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Conservation Movement</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Forced Marches</li>
+                                    
+                                    <li>Massacres</li>
+                                    
+                                    <li>Murders</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>War of 1812</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Lakes</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Marshes</li>
+                                    
+                                    <li>Swamps</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Battle of the River Raisin</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C380D-1DD8-B71B-0BB6B63A283B9B55.jpg" class="card-img-top" alt="Painting of the Battle of the River Raisin" title="The January 22, 1813 Battle raging in the snowy village of Frenchtown" />
+                            <div class="card-body">
+                                <p>The January 22, 1813 Battle raging in the snowy village of Frenchtown</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Remember the Raisin!</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C3943-1DD8-B71B-0B82269FC3166010.jpg" class="card-img-top" alt="re-enactors firing in a battle line" title="Annual Commemoration of the Battle in January" />
+                            <div class="card-body">
+                                <p>Annual Commemoration of the Battle in January</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">British Sled Cannon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C4366-1DD8-B71B-0B7193D614F1B49B.jpg" class="card-img-top" alt="a sled cannon in the snow" title="British ingenuity - adopting their cannons for the snowy conditions at the Battle" />
+                            <div class="card-body">
+                                <p>British ingenuity - adopting their cannons for the snowy conditions at the Battle</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Summer in the Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C4C01-1DD8-B71B-0BB2F4AEFEEF5943.jpg" class="card-img-top" alt="period gardens" title="Visitors enjoy the period gardens and trails in the Park" />
+                            <div class="card-body">
+                                <p>Visitors enjoy the period gardens and trails in the Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">River Raisin National Battlefield Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F7A19C50-F779-7838-96ABFFBAC00A806B.jpg" class="card-img-top" alt="Grounds and structure" title="River Raisin National Battlefield Park" />
+                            <div class="card-body">
+                                <p>River Raisin National Battlefield Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">River Raisin National Battlefield Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F7A19C50-F779-7838-96ABFFBAC00A806B.jpg" class="card-img-top" alt="Grounds and structure" title="River Raisin National Battlefield Park" />
+                            <div class="card-body">
+                                <p>River Raisin National Battlefield Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

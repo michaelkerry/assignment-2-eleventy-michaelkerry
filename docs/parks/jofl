@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Johnstown Flood National Memorial</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Johnstown Flood National Memorial</h3>
+                <br/>
+                <p>The South Fork Dam failed on Friday, May 31, 1889, and unleashed 20,000,000 tons of water that devastated Johnstown, PA. The flood killed 2,209 people but it brought the nation and the world together to aid the "Johnstown sufferers." The story of the Johnstown Flood reminds us all, "...that we must leave nothing undone for the preservation and protection of our brother men."</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Take US Route 219 to the St Michael/Sidman exit. At the end of the exit ramp head East on PA 869 (there is a park sign at the end of the exit ramp). Travel approximately 1.5 miles on PA 869 watching for a left turn onto Lake Road at the sign for Johnstown Flood National Memorial. Follow Lake Road 1.5 miles until the visitor center appears on your right. Please park safely in the designated parking lot and not block any emergency access roads.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Bus/Shuttle Guided Tour</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Painting</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Dams</li>
+                                    
+                                    <li>Engineering</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Canals</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Floods</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Lakes</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Headwaters</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Lake View Farm</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2A4B8778-986F-86FB-4B696139FFE5B131.jpg" class="card-img-top" alt="Barn and spring house" title="The Lake View Farm" />
+                            <div class="card-body">
+                                <p>The Lake View Farm</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lake View House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2ACE78E3-DE22-8056-46CBE5BB9E96122D.jpg" class="card-img-top" alt="Farm house" title="Lake View House" />
+                            <div class="card-body">
+                                <p>Lake View House</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Double Cottage</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2B4CCAA7-AE33-3360-11E79C1CFCF0EA36.jpg" class="card-img-top" alt="Cottage" title="The Double Cottage once served as a structure for the South Fork Fishing and Hunting Club" />
+                            <div class="card-body">
+                                <p>The Double Cottage once served as a structure for the South Fork Fishing and Hunting Club</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The remains of the South Fork Dam</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2B116CA9-EAC0-740F-2E01598994175AEF.jpg" class="card-img-top" alt="Remains of the dam" title="Remains of the South Fork Dam with snow" />
+                            <div class="card-body">
+                                <p>Remains of the South Fork Dam with snow</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Lippincott Cottage</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2B76165F-9EFE-107D-D082CEA362B5736E.jpg" class="card-img-top" alt="Cottage" title="The Lippincott Cottage once served as a structure for the South Fork Fishing and Hunting Club" />
+                            <div class="card-body">
+                                <p>The Lippincott Cottage once served as a structure for the South Fork Fishing and Hunting Club</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Park entrance sign</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2AED54C6-E9F7-502C-2E14FD74FC5E43AD.jpg" class="card-img-top" alt="Park entrance sign" title="Park entrance sign" />
+                            <div class="card-body">
+                                <p>Park entrance sign</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The remains of the South Fork Dam</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2B9EE7C5-EA4B-C3F4-683506B2482DBF34.png" class="card-img-top" alt="Dam remains" title="The remains of the South Fork Dam" />
+                            <div class="card-body">
+                                <p>The remains of the South Fork Dam</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The remains of the South Fork Dam</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2BDC3B41-E643-0675-2134CD168696D05F.jpg" class="card-img-top" alt="Dam remains" title="The remains of the South Fork Dam" />
+                            <div class="card-body">
+                                <p>The remains of the South Fork Dam</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">South Fork Fishing and Hunting Club Club House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2A92868C-E31B-0CC4-551004A071015245.jpg" class="card-img-top" alt="Club house" title="South Fork Fishing and Hunting Club Club House" />
+                            <div class="card-body">
+                                <p>South Fork Fishing and Hunting Club Club House</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The remains of the South Fork Dam</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2BBF4C0F-FC98-D84E-2514C32ECBAAEE9F.jpg" class="card-img-top" alt="Dam remains" title="The remains of the South Fork Dam" />
+                            <div class="card-body">
+                                <p>The remains of the South Fork Dam</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Carriage Road Nature Trail can be accessed from the picnic area or near the South Abutment.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/94A693BA-CBAE-BE22-D33BD62313DCBF89.jpg" class="card-img-top" alt="Trail sign" title="The Carriage Road Nature Trail can be accessed from the picnic area or near the South Abutment." />
+                            <div class="card-body">
+                                <p>The Carriage Road Nature Trail can be accessed from the picnic area or near the South Abutment.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The portalettes near the picnic area.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/94919993-F7CE-4DA9-2CC38829D451E190.jpg" class="card-img-top" alt="Picnic pavilion" title="The portalettes near the picnic area." />
+                            <div class="card-body">
+                                <p>The portalettes near the picnic area.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A Walk Through the Ruins starts near the South Abutment.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/94EB029D-F967-E24B-FE02A658CF88158A.jpg" class="card-img-top" alt="Wooden sign" title="A Walk Through the Ruins starts near the South Abutment." />
+                            <div class="card-body">
+                                <p>A Walk Through the Ruins starts near the South Abutment.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor Center theater shows the park film "Black Friday" at :15 past the hour.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BCBB7C82-DBD9-83DE-2967318C652E2BCA.jpg" class="card-img-top" alt="Theater seats" title="The park movie "Black Friday" play at :15 past the hour in the Visitor Center." />
+                            <div class="card-body">
+                                <p>The park movie "Black Friday" play at :15 past the hour in the Visitor Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Visitor Center bookstore has many items available for purchase.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BCC32309-0058-1E66-FD50613896D33FD1.jpg" class="card-img-top" alt="Bookstore" title="The Visitor Center bookstore" />
+                            <div class="card-body">
+                                <p>The Visitor Center bookstore</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

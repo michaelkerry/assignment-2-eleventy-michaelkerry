@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Denali National Park & Preserve</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Denali National Park & Preserve</h3>
+                <br/>
+                <p>Denali is six million acres of wild land, bisected by one ribbon of road. Travelers along it see the relatively low-elevation taiga forest give way to high alpine tundra and snowy mountains, culminating in North America's tallest peak, 20,310' Denali. Wild animals large and small roam un-fenced lands, living as they have for ages. Solitude, tranquility and wilderness await.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">You can drive to Denali from Anchorage or Fairbanks, along Highway 3, which is known as the "George Parks Highway." Fairbanks is about 2 hours north, while Anchorage is 5 hours south of the Denali entrance. You can also reach Denali from either city via the Alaska Railroad, which is operated by the State of Alaska. A small private airstrip is also available near the park entrance for individuals wishing to fly their own small craft to the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>RV Camping</li>
+                                    
+                                    <li>Climbing</li>
+                                    
+                                    <li>Mountain Climbing</li>
+                                    
+                                    <li>Dog Sledding</li>
+                                    
+                                    <li>Flying</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Bus/Shuttle Guided Tour</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Off-Trail Permitted Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Gathering and Foraging</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snow Play</li>
+                                    
+                                    <li>Snowmobiling</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Aviation</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mining</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>The Gold Rush</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Wolves</li>
+                                    
+                                    <li>Arctic</li>
+                                    
+                                    <li>Tundra</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Dinosaur</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Glaciers</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Aurora Borealis</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Dall Sheep</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83CC90-1DD8-B71B-0B1F35E5ED96E36F.jpg" class="card-img-top" alt="a white colored sheep standing on a mountainside overlooking a green valley" title="Congress originally created Denali National Park (called Mount McKinley National Park, at the time) to protect wildlife, particularly Dall sheep" />
+                            <div class="card-body">
+                                <p>Congress originally created Denali National Park (called Mount McKinley National Park, at the time) to protect wildlife, particularly Dall sheep</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Denali and Reflection Pond</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83C9C7-1DD8-B71B-0B9B669ED961F97E.jpg" class="card-img-top" alt="snowy mountains reflected in a pond" title="Denali is the highest mountain in North America" />
+                            <div class="card-body">
+                                <p>Denali is the highest mountain in North America</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Talkeetna View</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FC6D4E23-02EE-B80D-09D9ECF7C334566E.jpg" class="card-img-top" alt="A huge snowy mountain looming over a landscape of forests and water" title="The view of Denali from the south, in Talkeetna, Alaska" />
+                            <div class="card-body">
+                                <p>The view of Denali from the south, in Talkeetna, Alaska</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">View from Stony Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83CB1A-1DD8-B71B-0BBB071EB28A90FD.jpg" class="card-img-top" alt="a vast white mountain looming over a brown landscape" title="Many bus trips into Denali pause at Stony Overlook, which features a great view of Denali when skies are clear" />
+                            <div class="card-body">
+                                <p>Many bus trips into Denali pause at Stony Overlook, which features a great view of Denali when skies are clear</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Transit Driver</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FC76414B-E76C-63E7-C399A03433D924FE.jpg" class="card-img-top" alt="a man standing next to a green bus" title="Transit buses are a primary way for visitors to sightsee in Denali during summer" />
+                            <div class="card-body">
+                                <p>Transit buses are a primary way for visitors to sightsee in Denali during summer</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Alpenglow</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FC7B6DBE-B7A8-DC59-246E01A289DBF21E.jpg" class="card-img-top" alt="light turns a snowy mountain shades of pink and purple" title="Alpenglow on North America's tallest peak, Denali" />
+                            <div class="card-body">
+                                <p>Alpenglow on North America's tallest peak, Denali</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Discovery Hike</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FC83BEFE-AE6C-5FF4-B24723DEBC350D5B.jpg" class="card-img-top" alt="a park ranger leading hikers up a steep mountainside" title="Visitors following a ranger on a Discovery Hike, an off-trail adventure" />
+                            <div class="card-body">
+                                <p>Visitors following a ranger on a Discovery Hike, an off-trail adventure</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Grizzlies</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FC8ECC8C-A531-46F8-0D60DF1C84105DBE.jpg" class="card-img-top" alt="three brown bears walking along a dirt road" title="Grizzlies walking on the park's sole road" />
+                            <div class="card-body">
+                                <p>Grizzlies walking on the park's sole road</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Caribou Sighting</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FC931BD0-F8BD-057C-1A1C1B165BCADB38.jpg" class="card-img-top" alt="a bus on a gravel road behind a large caribou that is trotting on the road" title="A tour bus pauses to view a caribou as it walks on the Denali Park Road" />
+                            <div class="card-body">
+                                <p>A tour bus pauses to view a caribou as it walks on the Denali Park Road</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sled Dog Demonstration</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FC9EB92D-D2C5-B46F-3F9B7E4D1FC7EEE6.jpg" class="card-img-top" alt="a large seated crowd faces a park ranger and a small group of sled dogs" title="A crowd takes in a sled dog demonstration in the Denali Park Kennels" />
+                            <div class="card-body">
+                                <p>A crowd takes in a sled dog demonstration in the Denali Park Kennels</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Katmai National Park & Preserve</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Katmai National Park & Preserve</h3>
+                <br/>
+                <p>A landscape is alive underneath our feet, filled with creatures that remind us what it is to be wild. Katmai was established in 1918 to protect the volcanically devastated region surrounding Novarupta and the Valley of Ten Thousand Smokes. Today, Katmai National Park and Preserve also protects 9,000 years of human history and important habitat for salmon and thousands of brown bears.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Katmai National Park & Preserve is located on the northern Alaska Peninsula, northwest of Kodiak Island and southwest of Homer, Alaska. The park’s headquarters is in King Salmon, about 290 air miles southwest of Anchorage. Unlike most national parks in the United States, Katmai is almost exclusively accessed by plane or boat.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Fly Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Flying</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Aviation</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Cats (wild)</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Wolves</li>
+                                    
+                                    <li>Arctic</li>
+                                    
+                                    <li>Tundra</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Geothermal</li>
+                                    
+                                    <li>Glaciers</li>
+                                    
+                                    <li>Lakes</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Aurora Borealis</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>Whales</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Volcanoes</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Headwaters</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Salmon jumping at Brooks Falls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A0FDB-1DD8-B71B-0B8933ACA92FE6B3.jpg" class="card-img-top" alt="salmon jumping at waterfall" title="Each year, 200,000 to 400,000 sockeye salmon jump Brooks Falls." />
+                            <div class="card-body">
+                                <p>Each year, 200,000 to 400,000 sockeye salmon jump Brooks Falls.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bear catching jumping salmon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A32DB-1DD8-B71B-0B37F66E9D0832AF.jpg" class="card-img-top" alt="Bear standing at the edge of a waterfall while a salmon is leaping towards it." title="In July, brown bears often stand on the lip of Brooks Falls to try to catch leaping salmon." />
+                            <div class="card-body">
+                                <p>In July, brown bears often stand on the lip of Brooks Falls to try to catch leaping salmon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bear family walks near sleeping bear</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A3473-1DD8-B71B-0B65158B5807CE0D.jpg" class="card-img-top" alt="Three bears walk near a sleeping bear" title="Salmon streams in Katmai attract high numbers of brown bears." />
+                            <div class="card-body">
+                                <p>Salmon streams in Katmai attract high numbers of brown bears.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mount Katmai caldera</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A35BF-1DD8-B71B-0BB1644AA6CF4C8B.jpg" class="card-img-top" alt="lake inside of an ash and glacier covered volcano" title="Mount Katmai's summit collapsed during the 1912 Novarupta-Katmai eruption. Today, the caldera is filled with a deep lake." />
+                            <div class="card-body">
+                                <p>Mount Katmai's summit collapsed during the 1912 Novarupta-Katmai eruption. Today, the caldera is filled with a deep lake.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">sedge meadows and volcanoes at Hallo</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A3776-1DD8-B71B-0BB94C2392CD5B01.jpg" class="card-img-top" alt="meadow in foreground and snow capped volcanoes on the horizon" title="Glacially clad volcanoes loom over the sedge meadows of Hallo Bay" />
+                            <div class="card-body">
+                                <p>Glacially clad volcanoes loom over the sedge meadows of Hallo Bay</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

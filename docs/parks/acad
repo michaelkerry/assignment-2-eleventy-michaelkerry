@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Acadia National Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Acadia National Park</h3>
+                <br/>
+                <p>Acadia National Park protects the natural beauty of the highest rocky headlands along the Atlantic coastline of the United States, an abundance of habitats, and a rich cultural heritage. At 4 million visits a year, it's one of the top 10 most-visited national parks in the United States. Visitors enjoy 27 miles of historic motor roads, 158 miles of hiking trails, and 45 miles of carriage roads.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From Boston take I-95 north to Augusta, Maine, then Route 3 east to Ellsworth, and on to Mount Desert Island. For an alternate route, continue on I-95 north to Bangor, Maine, then take I-395 to U.S. Route 1A east to Ellsworth. In Ellsworth, take Route 3 to Mount Desert Island.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>Climbing</li>
+                                    
+                                    <li>Rock Climbing</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Geocaching</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Fly Fishing</li>
+                                    
+                                    <li>Saltwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Bus/Shuttle Guided Tour</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Citizen Science</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Ice Skating</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snow Play</li>
+                                    
+                                    <li>Snowmobiling</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Swimming</li>
+                                    
+                                    <li>Freshwater Swimming</li>
+                                    
+                                    <li>Saltwater Swimming</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Painting</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Poetry and Literature</li>
+                                    
+                                    <li>Sculpture</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Lighthouses</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Bridges</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Catastrophic Fires</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Lakes</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Acadia's rocky coastline</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B45AE-1DD8-B71B-0B7EE131C7DFC2F5.jpg" class="card-img-top" alt="Large puffy clouds dot a brilliant blue sky as wave crash against the rocky coastline of Acadia." title="Millions of people come to Acadia for our distinctive rocky coastline." />
+                            <div class="card-body">
+                                <p>Millions of people come to Acadia for our distinctive rocky coastline.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Heavy snow-laden trees</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B4BEC-1DD8-B71B-0B2CF833F93140FF.jpg" class="card-img-top" alt="Hiking tracks carved through three feet of snow wind through a heavy snow-laden forest." title="During the colder months snows transform our landscape into a winter wonderland." />
+                            <div class="card-body">
+                                <p>During the colder months snows transform our landscape into a winter wonderland.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunset atop Cadillac Mountain</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B477B-1DD8-B71B-0BCB48E009241BAA.jpg" class="card-img-top" alt="A brilliant sunset filled with hues of blue, red, orange, magenta, and purple highlight the sky." title="As the tallest point on the eastern seaboard Cadillac Mountain provides fantastic viewpoints." />
+                            <div class="card-body">
+                                <p>As the tallest point on the eastern seaboard Cadillac Mountain provides fantastic viewpoints.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Climbing The Precipice</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B48F9-1DD8-B71B-0BD3B413E58978F8.jpg" class="card-img-top" alt="Two hikers ascend a sheer cliff trail by way of historic iron rung ladders." title="Whether it's a stroll along Ocean Path or a difficult ascent up The Precipice, there are hiking trails for everyone!" />
+                            <div class="card-body">
+                                <p>Whether it's a stroll along Ocean Path or a difficult ascent up The Precipice, there are hiking trails for everyone!</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

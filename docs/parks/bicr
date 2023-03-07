@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Birmingham Civil Rights National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Birmingham Civil Rights National Monument</h3>
+                <br/>
+                <p>In 1963, images of snarling police dogs unleashed against non-violent protesters and of children being sprayed with high-pressure hoses appeared in print and television news around the world. These dramatic scenes of violent police aggression against civil rights protesters in Birmingham, Alabama were vivid examples of segregation and racial injustice in America.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Via I-65 North or South From I-65, take I-20/59 NE towards Atlanta. Exit at the 17th Street Exit (first exit off of I-20/59). Bear right and proceed to the light. From that light go two blocks to 6th Avenue N. Turn right on to 6th Avenue N. The Birmingham Civil Rights Institute is one block up on your left. A.G. Gaston Motel The interior of the A.G. Gaston Motel is currently closed to the public and updates for the Motel opening will be available on the NPS park website at a later date.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Incarceration</li>
+                                    
+                                    <li>Jails and Prisons</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Churches</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Explosions</li>
+                                    
+                                    <li>Murders</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mural Sculpture of the four little girls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D22DF28C-CD37-750E-EB966436CB1DB631.jpeg" class="card-img-top" alt="4 separate statues of the four little girls who were killed in the 16th st Baptist Church bombing" title="Hundreds of people visit Kelly Ingram Park each year to learn about the Civil Rights Movement in Birmingham" />
+                            <div class="card-body">
+                                <p>Hundreds of people visit Kelly Ingram Park each year to learn about the Civil Rights Movement in Birmingham</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kelly Ingram Park foot soldiers statue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D2364DA9-9311-7D39-478170FB4393F3C0.jpeg" class="card-img-top" alt="Statue of a boy being grabbed by a policemen who is holding a dog posed to bite on a leash" title="Statue in Kelly Ingram park dedicated to Birmingham Foot soldiers" />
+                            <div class="card-body">
+                                <p>Statue in Kelly Ingram park dedicated to Birmingham Foot soldiers</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">16th St. Baptist Church</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FABE8744-AFA8-3C95-7817F3C50D012CBB.jpeg" class="card-img-top" alt="Colored Photo of the front of the 16th St. Baptist Church" title="Hundreds of people visit Birmingham each year to see the 16th St. Baptist Church and learn about its important role in Birmingham's Civil Rights Movement" />
+                            <div class="card-body">
+                                <p>Hundreds of people visit Birmingham each year to see the 16th St. Baptist Church and learn about its important role in Birmingham's Civil Rights Movement</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

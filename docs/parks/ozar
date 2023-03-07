@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Ozark National Scenic Riverways</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Ozark National Scenic Riverways</h3>
+                <br/>
+                <p>Ozark National Scenic Riverways is the first national park area to protect a river system. The Current and Jacks Fork rivers are two of the finest floating rivers you'll find anywhere. Spring-fed, cold and clear they are a delight to canoe, swim, boat or fish. Besides these two famous rivers, the park is home to hundreds of freshwater springs, caves, trails and historic sites such as Alley Mill.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Headquarters (Administrative Offices Only/No Visitor Center) for Ozark National Scenic Riverways is located at 404 Watercress Drive in Van Buren, Missouri. It's located at the corner of Watercress Drive and Main Street, across the street from the Van Buren Public School complex.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Horse Camping (see also Horse/Stock Use)</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>RV Camping</li>
+                                    
+                                    <li>Caving</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Gathering and Foraging</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Tubing</li>
+                                    
+                                    <li>River Tubing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Great Depression</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mills</li>
+                                    
+                                    <li>Logging and Timber Cutting</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Cats (wild)</li>
+                                    
+                                    <li>Caves, Caverns and Karst</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Rare</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Clubhouse Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/44F55489-0B88-97AB-548A8C5373A6E8D1.jpg" class="card-img-top" alt="Sunset picture with high vantage point overlooking river with fall colors and sun setting in distanc" title="Ozark National Scenic Riverways has some spectacular scenery." />
+                            <div class="card-body">
+                                <p>Ozark National Scenic Riverways has some spectacular scenery.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Big Spring</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81882B-1DD8-B71B-0BB6270ECBB772DC.jpg" class="card-img-top" alt="A sunrise photo with blue turbulent water and a algae colored rock with trees overhanging" title="Big Spring produces more than 250 million gallons of water per day." />
+                            <div class="card-body">
+                                <p>Big Spring produces more than 250 million gallons of water per day.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rocky Falls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C818C34-1DD8-B71B-0B06A21719A1D697.jpg" class="card-img-top" alt="a brown gravel bar with distant waterfall of water flowing down over brown rocks" title="Rocky Falls is a popular picnic area and swimming hole located near the center of Ozark National Scenic Riverways." />
+                            <div class="card-body">
+                                <p>Rocky Falls is a popular picnic area and swimming hole located near the center of Ozark National Scenic Riverways.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Prairie Hollow Gorge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C818988-1DD8-B71B-0BF4BE0D63DA6DF9.jpg" class="card-img-top" alt="looking down through large brown/grey/purple boulders with creek in middle and forest in distance" title="Prairie Hollow Gorge is located near the Two Rivers junction, off State Route V." />
+                            <div class="card-body">
+                                <p>Prairie Hollow Gorge is located near the Two Rivers junction, off State Route V.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Current River near Pulltite</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C818ACD-1DD8-B71B-0B91F9B923E1E7A7.jpg" class="card-img-top" alt="A red canoe on gravel bar with clear blue stream behind and green forest" title="The clear water of the Current River is perfect for floating." />
+                            <div class="card-body">
+                                <p>The clear water of the Current River is perfect for floating.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Klepzig Mill</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/86273471-A414-DB16-FAB6AA9362CE4D71.jpg" class="card-img-top" alt="fall colors on leaves of trees surrounding a creek with an old wooden mill on the right" title="Klepzig Mill is a little off the beaten path but worth the trip." />
+                            <div class="card-body">
+                                <p>Klepzig Mill is a little off the beaten path but worth the trip.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Alley Mill-Winter</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8635B6F1-D42D-85BF-59AE2567E62B6817.jpg" class="card-img-top" alt="a red mill with snow on roof with a stream emanating from it." title="Alley Mill is a popular destination." />
+                            <div class="card-body">
+                                <p>Alley Mill is a popular destination.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Klepzig Mill-Shut In</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8647B7A5-D59F-78F5-5B17C003F18E2D43.jpg" class="card-img-top" alt="brown rocks with water flowing over like a waterfall" title="Klepzig Mill has a series of shut-ins along the creek" />
+                            <div class="card-body">
+                                <p>Klepzig Mill has a series of shut-ins along the creek</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

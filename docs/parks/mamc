@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Mary McLeod Bethune Council House National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Mary McLeod Bethune Council House National Historic Site</h3>
+                <br/>
+                <p>Mary McLeod Bethune achieved her greatest recognition at the Washington, DC townhouse that is now this National Historic Site. The Council House was the first headquarters of the National Council of Negro Women (NCNW) and was Bethune’s last home in Washington, DC. From here, Bethune and the NCNW spearheaded strategies and developed programs that advanced the interests of African American women.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From Baltimore and Points North: Take the Baltimore-Washington Parkway south to US Route 50 west (which becomes New York Avenue). Take New York Avenue to Massachusetts Avenue and continue west. Turn right onto 13th Street. Go one block and turn left onto 'N' Street. Go another block and turn right onto Vermont Avenue. 1318 is one half block up the street on the left. Street parking is limited and restricted. Please read the street signs carefully.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Great Depression</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Reconstruction</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Voting Rights and Suffrage</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Forced Marches</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>World War II</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mary McLeod Bethune Council House National Historic Site</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83EDB8-1DD8-B71B-0B904FDCAD5D7937.jpg" class="card-img-top" alt="MAMC" title="Bethune Council House in Spring time full bloom!" />
+                            <div class="card-body">
+                                <p>Bethune Council House in Spring time full bloom!</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Boardroom Conference Table</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/9291BD86-F384-4911-62A335B77C64EBAE.jpg" class="card-img-top" alt="Table with glass table top and wooden chairs" title="Visitors can view original Boardroom Conference Table where Mary McLeod Bethune and NCNW members met and planned programs that affected African American women, their families, and communities." />
+                            <div class="card-body">
+                                <p>Visitors can view original Boardroom Conference Table where Mary McLeod Bethune and NCNW members met and planned programs that affected African American women, their families, and communities.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Parlor</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/92A98977-E2FC-B1D6-1C094435A415DAF7.jpg" class="card-img-top" alt="A room with ornate furniture, crystal chandelier, large mirror, and large portrait of Mrs. Bethune" title="The Parlor was served as the setting where Mary McLeod Bethune and NCNW members entertained guests and foreign dignitaries, and also where seminars and other important meetings were held." />
+                            <div class="card-body">
+                                <p>The Parlor was served as the setting where Mary McLeod Bethune and NCNW members entertained guests and foreign dignitaries, and also where seminars and other important meetings were held.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">President's Office</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/92CD8E6C-06B6-F4F4-E4E03C72C08E38A7.jpg" class="card-img-top" alt="A desk and chairs roped off with other furnishings and objects mounted on the walls" title="This room served as the NCNW President's Office where meetings were held and business was conducted." />
+                            <div class="card-body">
+                                <p>This room served as the NCNW President's Office where meetings were held and business was conducted.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Past meets present</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2584BFD4-D783-EF59-A90BF8F799FD5A2A.jpg" class="card-img-top" alt="A historic photo of the parlor room is held up in front of the same view today." title="Walk the same rooms as Mrs. Bethune and the NCNW." />
+                            <div class="card-body">
+                                <p>Walk the same rooms as Mrs. Bethune and the NCNW.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

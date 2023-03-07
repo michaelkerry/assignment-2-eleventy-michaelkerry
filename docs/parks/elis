@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Ellis Island Part of Statue of Liberty National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Ellis Island Part of Statue of Liberty National Monument</h3>
+                <br/>
+                <p>How far would you travel to find a better life? What if the journey took weeks under difficult conditions? If you answered "Whatever it takes," you echo the feelings of the 12 million immigrants who passed through these now quiet halls from 1892 to 1954. Ellis Island afforded them the opportunity to attain the American dream for themselves and their descendants. Come hear their stories.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Ellis Island is located in New York Harbor, and can only be reached by boat. Ferries are operated by Statue Cruises, and depart from Battery Park in Lower Manhattan in New York City. Ferries are also available from Liberty State Park in Jersey City, New Jersey.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Coastal Defenses</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Floods</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>War of 1812</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ellis Island Museum of Immigration</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C856FAB-1DD8-B71B-0B0DD7A0B6955955.jpg" class="card-img-top" alt="Beaux-Arts brick and limestone building with large arched windows and cupola-topped towers." title="Over 12 million immigrants were processed at Ellis Island during the peak years of 1892-1924, most through this building which opened in 1900." />
+                            <div class="card-body">
+                                <p>Over 12 million immigrants were processed at Ellis Island during the peak years of 1892-1924, most through this building which opened in 1900.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ellis Island's Registry Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85712F-1DD8-B71B-0B34087F99512E73.jpg" class="card-img-top" alt="Great Hall has terra cotta-colored tile floor, a balcony, large arched windows, and vaulted ceiling" title="The Registry Room, also known as the Great Hall, is where millions of immigrants were inspected. They were required to pass both a medical and legal inspection before being allowed to enter the United States." />
+                            <div class="card-body">
+                                <p>The Registry Room, also known as the Great Hall, is where millions of immigrants were inspected. They were required to pass both a medical and legal inspection before being allowed to enter the United States.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ellis Island Museum of Immigration</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8572BD-1DD8-B71B-0B81C6A8E9D0420C.jpg" class="card-img-top" alt="Brick and limestone building with maroon canopy leading to entrance." title="Visitors to the museum today arrive by ferry, just like immigrants did a century ago." />
+                            <div class="card-body">
+                                <p>Visitors to the museum today arrive by ferry, just like immigrants did a century ago.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Replica Inspection Desk in the Registry Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8573F0-1DD8-B71B-0B81984644CB246E.jpg" class="card-img-top" alt="Honey oak colored tall desk on tiled floor in Great Hall with arched windows and vaulted ceiling." title="Inspectors at Ellis Island would conduct the legal examination from behind desks like these a century ago." />
+                            <div class="card-body">
+                                <p>Inspectors at Ellis Island would conduct the legal examination from behind desks like these a century ago.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bird's Eye View of Ellis Island</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C857565-1DD8-B71B-0B2A86EE555A1F4D.jpg" class="card-img-top" alt="Artificially-expanded largely rectangular island with straight seawalls and large buildings." title="Ellis Island was expanded from just a couple acres to over 30 to make room for a large immigration processing station, that included a state of the art hospital complex." />
+                            <div class="card-body">
+                                <p>Ellis Island was expanded from just a couple acres to over 30 to make room for a large immigration processing station, that included a state of the art hospital complex.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

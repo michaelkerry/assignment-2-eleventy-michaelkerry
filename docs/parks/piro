@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pictured Rocks National Lakeshore</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Pictured Rocks National Lakeshore</h3>
+                <br/>
+                <p>Sandstone cliffs, beaches, waterfalls, sand dunes, inland lakes, deep forest, and wild shoreline beckon you to visit Pictured Rocks National Lakeshore. The power of Lake Superior shapes the park's coastal features and affects every ecosystem, creating a unique landscape to explore. Hiking, camping, sightseeing, and four-season outdoor opportunities abound.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Pictured Rocks NL is located on the south shore of Lake Superior in Michigan's Upper Peninsula, between the towns of Munising (west) and Grand Marais (east). Access the west side of the park via Michigan highways M-28 and M-94 to Munising. State highway M-77 leads to Grand Marais on the east side. Alger County Road H-58 runs parallel and through the park, providing access to spur roads that lead to scenic overlooks, trailheads, campgrounds, beaches, etc. Most park roads are closed in winter due to snow.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Motorized Boating</li>
+                                    
+                                    <li>Jet Skiing</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>RV Camping</li>
+                                    
+                                    <li>Climbing</li>
+                                    
+                                    <li>Ice Climbing</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Fly Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Volunteer Vacation</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>SCUBA Diving</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snow Play</li>
+                                    
+                                    <li>Snowmobiling</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Swimming</li>
+                                    
+                                    <li>Freshwater Swimming</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Logging and Timber Cutting</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Lighthouses</li>
+                                    
+                                    <li>Ships and Shipwrecks</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Coast Guard</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Wolves</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Dunes</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Glaciers</li>
+                                    
+                                    <li>Lakes</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Aurora Borealis</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Arches</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Marshes</li>
+                                    
+                                    <li>Swamps</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Au Sable Light Station</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C834062-1DD8-B71B-0B5E6CE1052B344E.jpg" class="card-img-top" alt="Au Sable Lighthouse and light keeper's quarters" title="Au Sable Lighthouse and light keeper's quarters" />
+                            <div class="card-body">
+                                <p>Au Sable Lighthouse and light keeper's quarters</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Beaver Basin Wilderness</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/A99FD52A-AAB7-C41B-6AF048CFDF8BDFC3.jpg" class="card-img-top" alt="Shallow creek narrowing through the forest." title="Shallow creek in the Beaver Basin Wilderness" />
+                            <div class="card-body">
+                                <p>Shallow creek in the Beaver Basin Wilderness</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Battleship Row</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/AA08B449-C568-F494-E29104444DF1356E.jpg" class="card-img-top" alt="Three sections of cliffs sticking out into Lake Superior like the bows of battleships." title="15 miles of carved and colorful cliffs along the Lake Superior shoreine." />
+                            <div class="card-body">
+                                <p>15 miles of carved and colorful cliffs along the Lake Superior shoreine.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Grand Sable Dunes</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C833C0B-1DD8-B71B-0B96C507721C9931.jpg" class="card-img-top" alt="The Grand Sable Dunes rise up 300 feet from Lake Superior." title="The Grand Sable Dunes rise up 300 feet from Lake Superior." />
+                            <div class="card-body">
+                                <p>The Grand Sable Dunes rise up 300 feet from Lake Superior.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kayaking Along the Pictured Rocks Cliffs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/A9CC49A2-C316-EC38-85BC38F20E10B1CB.jpg" class="card-img-top" alt="Kayakers near Lovers Leap rock arch formation" title="Kayakers near Lovers Leap" />
+                            <div class="card-body">
+                                <p>Kayakers near Lovers Leap</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Backcountry Camping - Benchmark Site</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/A98ECD8A-9B30-F3E9-846F5615CE4199B9.jpg" class="card-img-top" alt="Backcountry camping at Benchmark site showing tent surrounded by ferns and trees." title="Backpacking and camping are a popular activities." />
+                            <div class="card-body">
+                                <p>Backpacking and camping are a popular activities.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ice Climbing</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/A9F20688-F13F-5BF1-018ACEF7BF029742.jpg" class="card-img-top" alt="Ice climber on a curtain of ice along the Pictured Rocks Escarpment" title="Ice climbing is a popular winter activity." />
+                            <div class="card-body">
+                                <p>Ice climbing is a popular winter activity.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Miners Falls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8341A2-1DD8-B71B-0B37FDD8AC91FF3E.jpg" class="card-img-top" alt="High volume of water flowing at Miners Falls" title="Water flowing over Miners Falls" />
+                            <div class="card-body">
+                                <p>Water flowing over Miners Falls</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Miner's Castle</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8339B3-1DD8-B71B-0B489572204DC86D.jpg" class="card-img-top" alt="Miner's Castle rock formation along the Lake Superior shoreline." title="View the Miner's Castle rock formation from the adjacent cliffs or from a boat." />
+                            <div class="card-body">
+                                <p>View the Miner's Castle rock formation from the adjacent cliffs or from a boat.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pictured Rocks Cliffs along the Chapel / Mosquito Loop</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/AA29365F-A10F-2EC8-5BEE4997CD0D0E2E.jpg" class="card-img-top" alt="Mineral stained cliffs and collapsed rock arch along Lake Superior" title="Springtime along the Chapel / Mosquito hiking loop" />
+                            <div class="card-body">
+                                <p>Springtime along the Chapel / Mosquito hiking loop</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

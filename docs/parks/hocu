@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hopewell Culture National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Hopewell Culture National Historical Park</h3>
+                <br/>
+                <p>Nearly 2000 years ago, American Indians built dozens of monumental mounds and earthen enclosures in southern Ohio. These earthwork complexes were ceremonial landscapes used for feasts, funerals, rituals, and rites of passage associated with an American Indian religious movement that swept over half the continent for almost 400 years. Come walk among the earthworks and experience the past.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Take U.S. 23. Exit U.S. 23 at State Route 207 and turn right. Continue on S.R. 207 for 2 miles until it merges with S.R. 104 (Make no turns, continue straight on road as it turns into S.R. 104). Follow S.R. 104, turn left into park (approximately 1.8 miles past the S.R. 104 & S.R. 207 intersection), follow entrance road to visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>World War I</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mound City Group sunrise</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0C0231CE-C54D-AE33-ACAB8874C99A1B84.jpg" class="card-img-top" alt="An early morning sun casting long shadows over grass-covered mounds." title="Dawn at the Mound City Group as the sun casts long shadows over the grass." />
+                            <div class="card-body">
+                                <p>Dawn at the Mound City Group as the sun casts long shadows over the grass.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Mound City Group visitor center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0C19804E-C9FA-0044-CA3D9B9AE87C8E71.jpg" class="card-img-top" alt="A tan building with a red-peaked roof surrounded by green grass and tan sidewalks" title="The Mound City Group visitor center main entrance with Mound City Group in the background view" />
+                            <div class="card-body">
+                                <p>The Mound City Group visitor center main entrance with Mound City Group in the background view</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hopeton Earthworks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0C34A236-F215-9A7D-92B3A6134E6B1F65.jpg" class="card-img-top" alt="A green, grassy field with taller areas of uncut grass in geometric shapes under a partly cloudy sky" title="The overlook area of Hopeton Earthworks allowing visitors to view the interpretive mowing of the geometric shapes" />
+                            <div class="card-body">
+                                <p>The overlook area of Hopeton Earthworks allowing visitors to view the interpretive mowing of the geometric shapes</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hopewell Mound Group overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0C4799B2-E5CA-86AF-7B9B1A5FA18FD503.jpg" class="card-img-top" alt="An overlook area showing a green grassy field with a panel showing artwork and text" title="The main overlook area of Hopewell Mound Group showing the enormity of the site." />
+                            <div class="card-body">
+                                <p>The main overlook area of Hopewell Mound Group showing the enormity of the site.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Seip Earthworks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0C5C4856-F2E5-7515-9F4353DC56C90C2F.jpg" class="card-img-top" alt="A grassy trail running between tall trees in a green field leads to a large grass-covered mound" title="A cut grass trail leading to the large Seip Mound at Seip Earthworks." />
+                            <div class="card-body">
+                                <p>A cut grass trail leading to the large Seip Mound at Seip Earthworks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Museum Mural</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0C6BBAF6-0557-6D09-523EEFE9F90BC65D.jpg" class="card-img-top" alt="A large art mural showing Native Americans standing and crouching in front of a pit." title="A large mural in the park museum showing an artistic rendition of what the Hopewell may have engaged in over 2,000 years ago." />
+                            <div class="card-body">
+                                <p>A large mural in the park museum showing an artistic rendition of what the Hopewell may have engaged in over 2,000 years ago.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Duck Pot</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0C8090D8-DCA1-FADA-B749E5F0AA6C24C0.jpg" class="card-img-top" alt="A clay pot with impressions of ducks etched into the sides" title="One of the Duck Pots recovered at Mound City Group during excavations in the early 1900's." />
+                            <div class="card-body">
+                                <p>One of the Duck Pots recovered at Mound City Group during excavations in the early 1900's.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bone Scraper and Awl</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0C8CDACB-D312-F576-73E8575EE8CB1E34.jpg" class="card-img-top" alt="Tall pieces of bone on display in a museum case" title="A bone scraper and awl on display in the park museum." />
+                            <div class="card-body">
+                                <p>A bone scraper and awl on display in the park museum.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ranger Desk</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0C9A7FB8-DCE9-0BB7-8944A44404F98587.jpg" class="card-img-top" alt="A tan-orange curved information desk with a man sitting behind the counter" title="The information desk inside of the Mound City Group visitor center." />
+                            <div class="card-body">
+                                <p>The information desk inside of the Mound City Group visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">School field trips at the park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0CB5A3A5-DE3C-2D8C-18F4DF716EADD7DD.jpg" class="card-img-top" alt="Several children walking with a park ranger in a flat hat near grass-covered mounds." title="A school field trip visiting the Mound City Group as a ranger leads them on a tour." />
+                            <div class="card-body">
+                                <p>A school field trip visiting the Mound City Group as a ranger leads them on a tour.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Mound City Group bookstore</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0CCD1B11-B52E-F908-4DBF32381F9F2C5A.jpg" class="card-img-top" alt="Several square pedestals hold books and other gifts in the middle of a carpeted floor" title="The bookstore inside of the Mound City Group visitor center." />
+                            <div class="card-body">
+                                <p>The bookstore inside of the Mound City Group visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Yoga at the Mound City Group</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0CDFACBF-0E8D-68E1-CCCF98CEC33FE3D1.jpg" class="card-img-top" alt="Several people sitting on blankets in the shade under a tree on the green grass." title="Visitors performing yoga during a Yoga event at the Mound City Group under the shade of a large tree." />
+                            <div class="card-body">
+                                <p>Visitors performing yoga during a Yoga event at the Mound City Group under the shade of a large tree.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mound City Group river walk</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0CF8245C-001D-3703-E535AF4CC704236B.jpg" class="card-img-top" alt="An asphalt path with a steel handrail on the left with green vegetative slope to the right." title="The paved river walk trail at the Mound City Group." />
+                            <div class="card-body">
+                                <p>The paved river walk trail at the Mound City Group.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Spruce Hill trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0D063E41-B9EA-2979-0353E5603C4F4A06.jpg" class="card-img-top" alt="A gravel trail with exposed shale on the right side of the trail." title="The trail to the Spruce Hill plateau showing exposed shale on the right side fo the gravel path." />
+                            <div class="card-body">
+                                <p>The trail to the Spruce Hill plateau showing exposed shale on the right side fo the gravel path.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A coyote in the park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0D19BD3C-EB7E-0902-5EBA93680882BA45.jpg" class="card-img-top" alt="A gray coyote begins walking in the grass in front of a grass-covered mound" title="A lone coyote stares at the photographer while walking in front of a mound at Mound City Group." />
+                            <div class="card-body">
+                                <p>A lone coyote stares at the photographer while walking in front of a mound at Mound City Group.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

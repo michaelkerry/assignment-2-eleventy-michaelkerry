@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>George Rogers Clark National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">George Rogers Clark National Historical Park</h3>
+                <br/>
+                <p>The British flag would not be raised above Fort Sackville Feb. 25, 1779. At 10 a.m., the garrison surrendered to American Colonel George Rogers Clark. His American army, aided by French residents of the Illinois country, had marched through freezing floodwaters to gain this victory. The fort’s capture assured United States claims to the frontier, an area nearly as large as the original 13 states.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The George Rogers Clark National Historical Park is located within the city of Vincennes, Indiana. Evansville is approximately 50 miles to the south and Terre Haute is approximately 50 miles to the north. Highway 41 provides good roads from the north or south. Highway 50 provides access from the east and west. From Hwy 50 east and west or from Hwy 41 from the north use the 6th Street exit. On Hwy 41 from the South use the Willow Street exit. From there follow the blue directional signs for the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Arts and Crafts</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Clark Memorial at Sunset</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C795C28-1DD8-B71B-0BB8A40DEE3F49FD.jpg" class="card-img-top" alt="Sun setting behind the Clark Memorial" title="Many people enjoy watching the sun set behind the George Rogers Clark Memorial on the banks of the Wabash River" />
+                            <div class="card-body">
+                                <p>Many people enjoy watching the sun set behind the George Rogers Clark Memorial on the banks of the Wabash River</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">George Rogers Clark Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7959D2-1DD8-B71B-0B0CA5B2DD69D956.jpg" class="card-img-top" alt="George Rogers Clark Memorial entrance" title="Thousands of visitors ascend the steps of the Clark Memorial and gain a glimpse of the heroic eagle above the entrance doors." />
+                            <div class="card-body">
+                                <p>Thousands of visitors ascend the steps of the Clark Memorial and gain a glimpse of the heroic eagle above the entrance doors.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Francis Vigo Statue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C795B05-1DD8-B71B-0B0EF1922A505EC3.jpg" class="card-img-top" alt="Sun setting behind the Francis Vigo Statue" title="At the end of each day, visitors gather in the shadow of Vigo to watch the sun set over the Wabash River" />
+                            <div class="card-body">
+                                <p>At the end of each day, visitors gather in the shadow of Vigo to watch the sun set over the Wabash River</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Purple Sunset Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B8C82C16-AF6E-357D-4B3D00B8C67EF1F4.jpg" class="card-img-top" alt="cloudy purple sky with memorial" title="Sunset over the memorial" />
+                            <div class="card-body">
+                                <p>Sunset over the memorial</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Father Gibault</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B8E339A2-BD5E-9EC2-A2ADA3A7BFFB4A14.jpg" class="card-img-top" alt="Statue of a man wearing a cloak with trees in background" title="Father Gibault an often overlooked part of the park." />
+                            <div class="card-body">
+                                <p>Father Gibault an often overlooked part of the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

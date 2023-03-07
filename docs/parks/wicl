@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>President William Jefferson Clinton Birthplace Home National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">President William Jefferson Clinton Birthplace Home National Historic Site</h3>
+                <br/>
+                <p>Named for the father who died shortly before his birth, William Jefferson Blythe III later became the 42nd President of the United States. In this place, the experiences shared with his mother & grandparents in rural Arkansas developed the broad views on race relations, social justice, and public service that defined his presidency and life after the White House. For Bill Clinton, "Hope was home."</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">President William Jefferson Clinton Birthplace Home NHS is located in Hope, Arkansas - approx. 30 miles from Texarkana (Texas/Arkansas), 114 miles from Little Rock, Arkansas & 209 miles from Dallas, Texas. From I-30, use Exit 30 and travel south on Hwy 278 (Hervey Street) for approximately 2 miles. The Birthplace Home is on your left at the corner of 2nd Street and S Hervey Street; the Visitor Center is located on Division Street (immediately northeast of the Birthplace Home).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Birthplace Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80B417-1DD8-B71B-0B6F982FAD0B0CE9.jpg" class="card-img-top" alt="The birthplace home of President Bill Clinton illuminated at dusk." title="President Clinton spent the first four years of his life in this home being raised by his maternal grandparents." />
+                            <div class="card-body">
+                                <p>President Clinton spent the first four years of his life in this home being raised by his maternal grandparents.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F997253B-AFD4-9972-07A4542D7A84967B.jpg" class="card-img-top" alt="Exterior of Visitor Center building with landscape surrounding" title="Exterior of Visitor Center from Hervey Street" />
+                            <div class="card-body">
+                                <p>Exterior of Visitor Center from Hervey Street</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The living room inside the Clinton Birthplace Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/34197C63-ED31-DA1A-6DBEC37FD11DB564.jpg" class="card-img-top" alt="A view of the living room with a fireplace, rug, recliner and other furniture" title="The living room inside the Clinton Birthplace Home" />
+                            <div class="card-body">
+                                <p>The living room inside the Clinton Birthplace Home</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The formal living room of the Clinton Birthplace Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/33CFED5E-C797-3A13-1BC59A1AB0A80335.jpg" class="card-img-top" alt="A view of the formal living room features a tricycle, table and chairs, and radio" title="The formal living room of the Clinton Birthplace Home" />
+                            <div class="card-body">
+                                <p>The formal living room of the Clinton Birthplace Home</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Memorial Garden</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7FF4FE93-071E-4CE5-32154D31E3507074.jpg" class="card-img-top" alt="Memorial garden for his mother, Virginia" title="Memorial garden for his mother, Virginia" />
+                            <div class="card-body">
+                                <p>Memorial garden for his mother, Virginia</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

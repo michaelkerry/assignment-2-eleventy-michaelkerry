@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Jewel Cave National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Jewel Cave National Monument</h3>
+                <br/>
+                <p>Immerse yourself in one of the longest caves in the world. With over 215 miles of mapped and surveyed passages, this underground wilderness appeals to human curiosity. Its splendor is revealed through fragile formations and glimpses of brilliant color. Its maze of passages lures explorers, and its scientific wealth remains a mystery. This resource is truly a jewel in the National Park Service.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">By car: Jewel Cave National Monument is located 13 miles west of Custer, South Dakota and 24 miles east of Newcastle, Wyoming on U.S. Highway 16. The monument is about 54 miles from Rapid City, South Dakota via U.S. Highway 16 / 385. By plane: The nearest major airport, Rapid City Regional Airport, is 63 miles away.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Caving</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Cats (wild)</li>
+                                    
+                                    <li>Elk</li>
+                                    
+                                    <li>Caves, Caverns and Karst</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Target Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C6DE6447-A12D-692B-419DBA224FA0D35B.jpg" class="card-img-top" alt="The target room inside Jewel Cave." title="The target room inside Jewel Cave." />
+                            <div class="card-body">
+                                <p>The target room inside Jewel Cave.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hourglass Lake</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D11EA-1DD8-B71B-0BCC921BDE9A9253.jpg" class="card-img-top" alt="A cave explorer sits on some rocks and looks at a clear blue lake in Jewel Cave." title="Volunteer cave explorers discovered Hourglass Lake in October 2015, the first sizable body of water found within Jewel Cave." />
+                            <div class="card-body">
+                                <p>Volunteer cave explorers discovered Hourglass Lake in October 2015, the first sizable body of water found within Jewel Cave.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Inner Sanctum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D1365-1DD8-B71B-0BEF0C64C6FA265F.jpg" class="card-img-top" alt="A park ranger is standing on a metal platform within a long passageway with a vaulted ceiling." title="The Inner Sanctum is one of the longest and largest passageways along the Scenic Tour route, located near the Torture Room." />
+                            <div class="card-body">
+                                <p>The Inner Sanctum is one of the longest and largest passageways along the Scenic Tour route, located near the Torture Room.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Brain Drain</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D14CA-1DD8-B71B-0BFB17D039DD3B5F.jpg" class="card-img-top" alt="A caver squeezes through a very small and tight opening, surrounded by multi-colored rocks." title="The Brain Drain is approximately eight inches high by 24 inches wide and is the tightest passage on the Wild Caving Tour." />
+                            <div class="card-body">
+                                <p>The Brain Drain is approximately eight inches high by 24 inches wide and is the tightest passage on the Wild Caving Tour.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Heavenly Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D1629-1DD8-B71B-0BC7B364204E089C.jpg" class="card-img-top" alt="A park ranger stands as a silhouette in a large room in Jewel Cave." title="The Heavenly Room is a large room along the Historic Lantern Tour within the historic entrance of Jewel Cave." />
+                            <div class="card-body">
+                                <p>The Heavenly Room is a large room along the Historic Lantern Tour within the historic entrance of Jewel Cave.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Nailhead Spar</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D1784-1DD8-B71B-0B48192F22E64243.jpg" class="card-img-top" alt="White-colored crystals with blunt tips sparkle against a black background." title="Calcite crystals, such as nailhead spar, cover most of the walls, ceilings, and floors within Jewel Cave." />
+                            <div class="card-body">
+                                <p>Calcite crystals, such as nailhead spar, cover most of the walls, ceilings, and floors within Jewel Cave.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rocky Mountain Bighorn Sheep</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/64C79BE0-A659-8840-42FFC92F36170B12.jpg" class="card-img-top" alt="A bighorn sheep ram stands in the highway, with a camper stopped in the other lane." title="Rocky mountain bighorn sheep are commonly seen within the monument, usually along Highway 16." />
+                            <div class="card-body">
+                                <p>Rocky mountain bighorn sheep are commonly seen within the monument, usually along Highway 16.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Red Squirrel</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6631318F-9E50-F1B1-5C46DBD78B098DC0.jpg" class="card-img-top" alt="A small red squirrel stands on a dead pine branch." title="Red squirrels are commonly observed along the Roof Trail near the visitor center." />
+                            <div class="card-body">
+                                <p>Red squirrels are commonly observed along the Roof Trail near the visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall Season Foliage in Fog</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/666058D9-0055-1D9F-119532F940F10BB9.jpg" class="card-img-top" alt="Fog filters through a stand of pine trees, with red and yellow foliage on the forest floor." title="Autumn is a beautiful time of year to visit the monument. The colors of fall are often the best during mid to late September." />
+                            <div class="card-body">
+                                <p>Autumn is a beautiful time of year to visit the monument. The colors of fall are often the best during mid to late September.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Winter in the Pines</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6683C845-E7F9-D3F7-FA56BC263BEE5F1E.jpg" class="card-img-top" alt="Snow covers the ground and flocks pine trees." title="Although a "slower" time of year, the winter season offers some of the best scenery of the ponderosa pine forest." />
+                            <div class="card-body">
+                                <p>Although a "slower" time of year, the winter season offers some of the best scenery of the ponderosa pine forest.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canyons Trail Descending toward the Historic Entrance</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/669C0495-B3C1-7748-53CD13838A8BFB70.jpg" class="card-img-top" alt="A paved path with steps heads down a hillside, with rock overhangs and pine trees nearby." title="A portion of the Canyons Trail passes the historic entrance of Jewel Cave, with breathtaking views of nearby Hell Canyon." />
+                            <div class="card-body">
+                                <p>A portion of the Canyons Trail passes the historic entrance of Jewel Cave, with breathtaking views of nearby Hell Canyon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Theodore Roosevelt Addresses an Audience</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/66D0137A-EFCF-7E62-092A694DA721B7CD.jpg" class="card-img-top" alt="A look-alike Theodore Roosevelt speaks to visitors on the patio of the visitor center." title="The monument hosts special events each summer, such as living history presentations of President Theodore Roosevelt." />
+                            <div class="card-body">
+                                <p>The monument hosts special events each summer, such as living history presentations of President Theodore Roosevelt.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Ranger Cabin at Jewel Cave</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/67005513-E175-D6A5-3F71D5C040E134FE.png" class="card-img-top" alt="A small, dark-brown cabin sits on top of a hill with a walking path leading to its front porch." title="The original park ranger cabin, built during the 1930s, is available for public access during the summer and early fall seasons." />
+                            <div class="card-body">
+                                <p>The original park ranger cabin, built during the 1930s, is available for public access during the summer and early fall seasons.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor Center Exhibit Area</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/67260458-B411-2D76-E0F699529DB0957E.jpg" class="card-img-top" alt="A wall mural showing red-colored rock transitions into a room with a large cave map on the wall." title="The visitor center provides several engaging exhibits and displays about the resources within the monument." />
+                            <div class="card-body">
+                                <p>The visitor center provides several engaging exhibits and displays about the resources within the monument.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pasque Flowers in Bloom</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/675DE44F-038D-5BF2-BF9048834962E325.jpg" class="card-img-top" alt="White to light purple flowers with yellow centers poke through pine needles." title="Jewel Cave is home to several species of wildflowers, such as the South Dakota State Flower - the pasque flower." />
+                            <div class="card-body">
+                                <p>Jewel Cave is home to several species of wildflowers, such as the South Dakota State Flower - the pasque flower.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bats at Jewel Cave</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6748AFF4-EBD6-9370-E358E0B05929CD5B.jpg" class="card-img-top" alt="A small brown bat rests on a red-orange colored rock." title="Nine species of bats live within Jewel Cave National Monument. At times, visitors may see bats outside the historic entrance." />
+                            <div class="card-body">
+                                <p>Nine species of bats live within Jewel Cave National Monument. At times, visitors may see bats outside the historic entrance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

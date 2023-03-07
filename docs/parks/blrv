@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Blackstone River Valley National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Blackstone River Valley National Historical Park</h3>
+                <br/>
+                <p>The Blackstone River powered America's entry into the Age of Industry. The success of Samuel Slater's cotton spinning mill in Pawtucket, RI touched off a chain reaction that changed how people worked and where they lived, and continues to reverberate across the nation to this day. Come visit and see how this revolution transformed the landscape of the Blackstone Valley and then the United States.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park headquarters is located at the Wilkinson Mill in the Historic Slater Mill Complex in Pawtucket, RI. 67 Roosevelt Avenue Pawtucket, RI 02860 401-428-3816</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Dams</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Bridges</li>
+                                    
+                                    <li>Canals</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Foothills, Plains and Valleys</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Slater Mill Site</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D929646A-F836-33F7-42C7CDB03AD8858C.jpg" class="card-img-top" alt="Slater Mill, Wilkinson Mill and Brown House at Blackstone River Valley NHP" title="Slater Mill, Wilkinson Mill and Brown House at Blackstone River Valley NHP" />
+                            <div class="card-body">
+                                <p>Slater Mill, Wilkinson Mill and Brown House at Blackstone River Valley NHP</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Slatersville</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BD3C0-1DD8-B71B-0BDD87BD4E0070A2.jpg" class="card-img-top" alt="Slatersville" title="View of John Slater's home in Slatersville, RI" />
+                            <div class="card-body">
+                                <p>View of John Slater's home in Slatersville, RI</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ashton Kelly House and canal</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BD04E-1DD8-B71B-0B3A6A73F3DA415B.jpg" class="card-img-top" alt="Blackstone canal outside of the Wilbur Kelly House" title="The Blackstone Canal and towpath along the Wilbur Kelly House in Ashton, RI" />
+                            <div class="card-body">
+                                <p>The Blackstone Canal and towpath along the Wilbur Kelly House in Ashton, RI</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Little Red Shop</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BD1EB-1DD8-B71B-0BB6BD446709EF5D.jpg" class="card-img-top" alt="The Little Red Shop in Hopedale, MA" title="The Little Red Shop in Hopedale, MA - the original home of the Draper Loom Corporation" />
+                            <div class="card-body">
+                                <p>The Little Red Shop in Hopedale, MA - the original home of the Draper Loom Corporation</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wilkinson Mill interior</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BD559-1DD8-B71B-0B165454D6F7D0B6.jpg" class="card-img-top" alt="Interior view of the Wilkinson Mill" title="The machine shop inside the Wilkinson Mill" />
+                            <div class="card-body">
+                                <p>The machine shop inside the Wilkinson Mill</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Autumn in the Blackstone Valley</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BD6A6-1DD8-B71B-0BB41BBE33806A03.jpg" class="card-img-top" alt="Autumn in the Blackstone Valley" title="Autumn in the Blackstone Valley" />
+                            <div class="card-body">
+                                <p>Autumn in the Blackstone Valley</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

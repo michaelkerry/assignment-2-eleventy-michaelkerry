@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Nez Perce National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Nez Perce National Historical Park</h3>
+                <br/>
+                <p>Since time immemorial, the valleys, prairies, mountains, and plateaus of the inland northwest have been home to the nimíipuu (Nez Perce) people. Extremely resilient, they survived the settling of the United States and adapted to a changed world. Nez Perce National Historical Park consists of 38 places important to the history and culture of the nimíipuu. Explore these places. Learn their stories.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Driving south bound on U.S. Highway 95 you will find the Visitor Center 10 miles from Lewiston, ID. Roughly one mile after crossing the Clearwater River you will find the park entrance on your left. When driving north on U.S. Highway 95 the Visitor Center will be 3 miles north of Lapwai, ID. The park entrance will be on your right.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Missions</li>
+                                    
+                                    <li>Churches</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Tribal Conflicts</li>
+                                    
+                                    <li>Colonial/European Contact Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>The Gold Rush</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Canyons and Canyonlands</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Meadows</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Painted Tipi</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87B14F-1DD8-B71B-0B562F4DFC141863.jpg" class="card-img-top" alt="Colorful painted tipi on green lawn" title="Every morning in the summer Rangers put a tipi on the front lawn of the visitor center. Visitors are always welcome to help." />
+                            <div class="card-body">
+                                <p>Every morning in the summer Rangers put a tipi on the front lawn of the visitor center. Visitors are always welcome to help.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Buffalo Eddy</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87AFBC-1DD8-B71B-0BE33C27113E993C.jpg" class="card-img-top" alt="Petroglyph carvings on the bank of the Snake River." title="Buffalo Eddy contains many petroglyphs and is considered a ancient crossing place." />
+                            <div class="card-body">
+                                <p>Buffalo Eddy contains many petroglyphs and is considered a ancient crossing place.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Take Flight</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C879308-1DD8-B71B-0B32D10FCFA3C59F.jpg" class="card-img-top" alt="Birds in flight across a grassy field." title="Birds take flight across a grassy field." />
+                            <div class="card-body">
+                                <p>Birds take flight across a grassy field.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Buffalo Hide Tipi</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87B26A-1DD8-B71B-0B8572F892412699.jpg" class="card-img-top" alt="Elder (Mylie Lawyer) sitting in front of Old Buffalo hide tipi." title="The only known remaining complete buffalo hide tipi belonging to a Nez Perce." />
+                            <div class="card-body">
+                                <p>The only known remaining complete buffalo hide tipi belonging to a Nez Perce.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Appaloosa Horse Parade</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87B38F-1DD8-B71B-0B01C01A2154CABB.jpg" class="card-img-top" alt="Horses and riders dressed in native regalia." title="This horse parade was held in the Spalding picnic area during the parks 50th anniversary in 2015." />
+                            <div class="card-body">
+                                <p>This horse parade was held in the Spalding picnic area during the parks 50th anniversary in 2015.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Weippe Camas</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87B657-1DD8-B71B-0B0970B12C65A5F7.jpg" class="card-img-top" alt="Blue Camas flowers in a prairie field." title="Camas has been a food staple of the Nez Perce for thousands of years." />
+                            <div class="card-body">
+                                <p>Camas has been a food staple of the Nez Perce for thousands of years.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

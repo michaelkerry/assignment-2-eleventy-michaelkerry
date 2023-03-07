@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Saint-Gaudens National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Saint-Gaudens National Historical Park</h3>
+                <br/>
+                <p>Augustus Saint-Gaudens, one of America's greatest sculptors lived here seasonally starting in 1885, and year-round 1900 until his death in 1907. Experience the park grounds, where several of Saint-Gaudens bronze sculptures are on view throughout the year, & trails wind through the woods. Learn more about the park.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From West Lebanon, NH, (at Exit 20 of Interstate Rt 89) take Route 12A south for about 12 miles, Saint-Gaudens Road will be on the left. Proceed up Saint-Gaudens Road .5 miles. The parking lot will be on your right. From Windsor, Vermont, For passenger vehicles, take bridge Street cross the Connecticut River via the covered bridge. Caution: the bridge is closed to RVs, trucks and busses. At the end of the covered Bridge in New Hampshire, turn left. Saint Gaudens Road will be on you right in one mile.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Theater</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Geocaching</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Citizen Science</li>
+                                    
+                                    <li>Arts and Crafts</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snow Play</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Sculpture</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mills</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Landscape Design</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Music</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Abolition Movement</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>World War I</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Aspet, home of Augustus Saint-Gaudens</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C856833-1DD8-B71B-0BAEFC61DA10D0B6.jpg" class="card-img-top" alt="Looking toward Aspet from the Pan Garden" title="Built in 1817, Saint-Gaudens came here in 1885. He named it Aspet after the birthplace of his father in France." />
+                            <div class="card-body">
+                                <p>Built in 1817, Saint-Gaudens came here in 1885. He named it Aspet after the birthplace of his father in France.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Interior of the Little Studio</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85696C-1DD8-B71B-0B73D22052CE3719.jpg" class="card-img-top" alt="Interior of the Little Studio, Sculpture of Diana in foreground" title="The Little Studio where Augustus Saint-Gaudens worked, exhibits some his well known works." />
+                            <div class="card-body">
+                                <p>The Little Studio where Augustus Saint-Gaudens worked, exhibits some his well known works.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Shaw Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C856A96-1DD8-B71B-0B6A396B191775FB.jpg" class="card-img-top" alt="Visitors looking at the Shaw Memorial" title="Visitors looking at the bronze cast of the Shaw Memorial, Saint-Gaudens' masterpiece." />
+                            <div class="card-body">
+                                <p>Visitors looking at the bronze cast of the Shaw Memorial, Saint-Gaudens' masterpiece.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Formal Gardens</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C856BE9-1DD8-B71B-0BFE9504CA5582D8.jpg" class="card-img-top" alt="View of the Formal Gardens" title="The Formal Gardens remain much like they were in the artist's time." />
+                            <div class="card-body">
+                                <p>The Formal Gardens remain much like they were in the artist's time.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Twenty dollar gold coin, 1907</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C856D62-1DD8-B71B-0BC9914E404ACDAF.jpg" class="card-img-top" alt="Obverse of the twenty dollar gold coin, 1907" title="The 20 dollar gold piece Saint-Gaudens designed, is considered the most beautiful American coin ever minted" />
+                            <div class="card-body">
+                                <p>The 20 dollar gold piece Saint-Gaudens designed, is considered the most beautiful American coin ever minted</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Gettysburg National Military Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Gettysburg National Military Park</h3>
+                <br/>
+                <p>The Battle of Gettysburg was a turning point in the Civil War, the Union victory that ended General Robert E. Lee's second and most ambitious invasion of the North. Often referred to as the "High Water Mark of the Rebellion", Gettysburg was the Civil War's bloodiest battle and was also the inspiration for President Abraham Lincoln's immortal "Gettysburg Address".</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Gettysburg National Military Park is located in Adams County, Pennsylvania. The museum and visitor center is located at 1195 Baltimore Pike (Route 97) with a back entrance from the Taneytown Road (State Rt. 134). From North or South, follow US 15 to Gettysburg and watch for signs to direct you to the National Park Service Museum and Visitor Center. From East or West, drive into Gettysburg on US Rt. 30, turn South on Baltimore Street (Rt. 97), and follow signs to the entrance of the visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Bus/Shuttle Guided Tour</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>National Cemetery</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Hospital</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Churches</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>Meadows</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Henry Slocum Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C5B413E6-FD8C-00FC-60191939A57FE501.jpg" class="card-img-top" alt="A canon sits in front of an equestrian statue." title="This statue of Henry Slocum sits on Steven's Knoll near Culp's Hill." />
+                            <div class="card-body">
+                                <p>This statue of Henry Slocum sits on Steven's Knoll near Culp's Hill.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Mississippi Monument at sunrise</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8194A0-1DD8-B71B-0BD717F4FDE2A545.jpg" class="card-img-top" alt="The Mississippi Monument at sunrise" title="The Mississippi Monument at sunrise." />
+                            <div class="card-body">
+                                <p>The Mississippi Monument at sunrise.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Irish Brigade Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C819A5B-1DD8-B71B-0BDC501C0730326F.jpg" class="card-img-top" alt="The Irish Brigade Monument" title="The Irish Brigade Monument." />
+                            <div class="card-body">
+                                <p>The Irish Brigade Monument.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Soldiers' National Cemetery during special illumination event</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81961A-1DD8-B71B-0B344898BBA96443.jpg" class="card-img-top" alt="The Soldiers' National Cemetery during special illumination event" title="The Soldiers' National Cemetery during special illumination event." />
+                            <div class="card-body">
+                                <p>The Soldiers' National Cemetery during special illumination event.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A ranger-led interpretive program</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C819D64-1DD8-B71B-0BABA5013E6D8929.jpg" class="card-img-top" alt="A ranger-led interpretive program" title="A ranger-led interpretive program." />
+                            <div class="card-body">
+                                <p>A ranger-led interpretive program.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A rainbow over the Abraham Brian Farm on Cemetery Ridge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C819787-1DD8-B71B-0B0D052F23017472.jpg" class="card-img-top" alt="A rainbow over the Abraham Brian Farm on Cemetery Ridge" title="A rainbow over the Abraham Brian Farm on Cemetery Ridge." />
+                            <div class="card-body">
+                                <p>A rainbow over the Abraham Brian Farm on Cemetery Ridge.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A ranger-led interpretive program</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C819BF7-1DD8-B71B-0B02C21F76479742.jpg" class="card-img-top" alt="A ranger-led interpretive program" title="A ranger-led interpretive program." />
+                            <div class="card-body">
+                                <p>A ranger-led interpretive program.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Cyclorama painting</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8198DD-1DD8-B71B-0BCDAB86E7BFF414.jpg" class="card-img-top" alt="The Cyclorama painting" title="The Cyclorama painting." />
+                            <div class="card-body">
+                                <p>The Cyclorama painting.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The view from Little Round Top</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81933E-1DD8-B71B-0B1D3D82C99E2A6E.jpg" class="card-img-top" alt="The view from Little Round Top" title="The view from Little Round Top." />
+                            <div class="card-body">
+                                <p>The view from Little Round Top.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

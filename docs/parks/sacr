@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Saint Croix Island International Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Saint Croix Island International Historic Site</h3>
+                <br/>
+                <p>The winter of 1604-1605 on Saint Croix Island was a cruel one for Pierre Dugua's French expedition. Iced in by freezing temperatures and cut off from fresh water and game, 35 of 79 men died. As spring arrived and native people traded game for bread, the health of those remaining improved. Although the expedition moved on by summer, the beginning of French presence in North America had begun.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Saint Croix Island International Historic Site is best reached by private vehicle. The site is located 8 miles (13 km) south of Calais, Maine, on US Route 1, and can be reached either by Route 9 from Bangor or US Route 1, the coastal route from Portland and points south. From US Route 1, turn onto St. Croix Drive. The entrance gate is on the right. The visitor center is inside the ranger station.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Saint Croix Island Entrance</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B31B6-1DD8-B71B-0BC1CE33970A8EAD.jpg" class="card-img-top" alt="View of the drive into Saint Croix Island International Historic Site." title="View of the drive into Saint Croix Island International Historic Site." />
+                            <div class="card-body">
+                                <p>View of the drive into Saint Croix Island International Historic Site.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Interpretive Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B336B-1DD8-B71B-0B02DFA82525BE0B.jpg" class="card-img-top" alt="A wayside discussing the history of the island along the interpretive trail." title="An interpretive trail guides visitors through the history of the island and the people who called it home." />
+                            <div class="card-body">
+                                <p>An interpretive trail guides visitors through the history of the island and the people who called it home.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bronze Sculpture</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B34D8-1DD8-B71B-0B61DB0A85E9CBF4.jpg" class="card-img-top" alt="A bronze sculpture of a Passamaquoddy person reaching out to assist the French settlers." title="The Passamaquoddy's assistance kept the French explorers alive." />
+                            <div class="card-body">
+                                <p>The Passamaquoddy's assistance kept the French explorers alive.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pierre Dugua, Sieur de Mons</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B3631-1DD8-B71B-0B977107B00B3700.jpg" class="card-img-top" alt="A bronze sculpture of Pierre Dugua with a reenactor standing nearby." title="Pierre Dugua and his men spent a dealthy winter on Saint Croix Island." />
+                            <div class="card-body">
+                                <p>Pierre Dugua and his men spent a dealthy winter on Saint Croix Island.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitors reading a wayside along the trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B38EC-1DD8-B71B-0BEADF42881B5F63.jpg" class="card-img-top" alt="Three visitors read an interpretive wayside along the trail." title="As you walk along the trail waysides provide more information about surviving that deadly winter of 1604-05." />
+                            <div class="card-body">
+                                <p>As you walk along the trail waysides provide more information about surviving that deadly winter of 1604-05.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

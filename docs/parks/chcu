@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Chaco Culture National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Chaco Culture National Historical Park</h3>
+                <br/>
+                <p>Today the massive buildings of the Ancestral Puebloan people still testify to the organizational and engineering abilities not seen anywhere else in the American Southwest. For a deeper contact with the canyon that was central to thousands of people between 850 and 1250 CE, come and explore Chaco through guided tours, hiking & biking trails, evening campfire talks, and night sky programs.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Road conditions can be rough or impassable. Please call in advance for updates.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Ruins</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Red Mesa Black on White Bowls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82F405-1DD8-B71B-0B2EB1FEC35F52B9.jpg" class="card-img-top" alt="Black on White Bowls" title="Many of the things discovered at Chaco came from other places. These bowls came from the Red Mesa area. Red Mesa Black on White was produced from about A.D. 875 to 1040. Due to the lack of adequate resources, very few pots were produced in Chaco Canyon." />
+                            <div class="card-body">
+                                <p>Many of the things discovered at Chaco came from other places. These bowls came from the Red Mesa area. Red Mesa Black on White was produced from about A.D. 875 to 1040. Due to the lack of adequate resources, very few pots were produced in Chaco Canyon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pueblo Bonito with Cliff Face</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82F638-1DD8-B71B-0B93D85F83991274.jpg" class="card-img-top" alt="Pueblo Bonito with Cliff Face" title="Pueblo Bonito is the most famous Chacoan great house. Constructed between 850 and 1150, Pueblo Bonito had almost 700 rooms, 32 kivas, and 3 great kivas." />
+                            <div class="card-body">
+                                <p>Pueblo Bonito is the most famous Chacoan great house. Constructed between 850 and 1150, Pueblo Bonito had almost 700 rooms, 32 kivas, and 3 great kivas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Gallup Black on White Pitchers</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82F9F6-1DD8-B71B-0BFA9886BFAD2CC7.jpg" class="card-img-top" alt="Gallup Black on White Pitchers" title="These pitchers are another form of pottery that was created elsewhere and then brought to Chaco canyon. This particular style was manufactured from A.D. 1030 to 1150." />
+                            <div class="card-body">
+                                <p>These pitchers are another form of pottery that was created elsewhere and then brought to Chaco canyon. This particular style was manufactured from A.D. 1030 to 1150.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Night Sky Above Fajada Butte</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82FF90-1DD8-B71B-0B13101755CBAD75.jpg" class="card-img-top" alt="Night Sky Above Fajada Butte" title="In 2013 Chaco Culture NHP was designated an International Dark Sky Park. The park has night sky and sunrise programs throughout the year." />
+                            <div class="card-body">
+                                <p>In 2013 Chaco Culture NHP was designated an International Dark Sky Park. The park has night sky and sunrise programs throughout the year.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Una Vida</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C83026B-1DD8-B71B-0B3F0211F68F0D46.jpg" class="card-img-top" alt="Black and White Photo of Una Vida Great House" title="Una Vida is one of Chaco's largely un-excavated great houses. It's location provides great views of the canyon floor while being a short walk from a striking rock art panel." />
+                            <div class="card-body">
+                                <p>Una Vida is one of Chaco's largely un-excavated great houses. It's location provides great views of the canyon floor while being a short walk from a striking rock art panel.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

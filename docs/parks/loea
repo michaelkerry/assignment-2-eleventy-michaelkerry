@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Lower East Side Tenement Museum National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Lower East Side Tenement Museum National Historic Site</h3>
+                <br/>
+                <p>The Tenement Museum tells the stories of working-class tenement residents, who moved to New York City from other countries and other parts of the country. Their work helped build the city and nation, and their stories help us understand our history. The museum shares these stories through guided tours of recreated tenement apartments, neighborhood walking tours, and virtual tours and programs.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Lower East Side Tenement Museum, is located at 97 and 103 Orchard Street in the Lower East Side neighborhood of Manhattan, New York City,.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Asian American Heritage</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Great Depression</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Factories</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Latino American Heritage</li>
+                                    
+                                    <li>LGBTQ American Heritage</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Music</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Pacific Islander Heritage</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lower East Side Tenement Museum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/39E65D0C-1DD8-B71B-0B5C18C95C5D04A0.jpg" class="card-img-top" alt="Brick building in downtown NYC" title="Lower East Side Tenement Museum" />
+                            <div class="card-body">
+                                <p>Lower East Side Tenement Museum</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

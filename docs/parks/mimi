@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Minuteman Missile National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Minuteman Missile National Historic Site</h3>
+                <br/>
+                <p>During the Cold War, a vast arsenal of nuclear missiles were placed in the Great Plains. Hidden in plain sight, for thirty years 1,000 missiles were kept on constant alert; hundreds remain today. The Minuteman Missile remains an iconic weapon in the American nuclear arsenal. It holds the power to destroy civilization, but is meant as a nuclear deterrent to maintain peace and prevent war.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Minuteman Missile National Historic Site is located at three sites along a fifteen mile stretch of Interstate 90 in western South Dakota. The Visitor Center is located immediately north of I-90, exit 131. The two historic sites which make up the park are four miles (Launch Control Facility Delta-01) and 15 miles (Launch Facility Delta-09) from the Visitor Center. No public transportation systems serve the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Engineering</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Air Force (Army Air Corps)</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Cold War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Delta-09 enclosure</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BEAAF-1DD8-B71B-0BBB2CECC1123926.jpg" class="card-img-top" alt="Glass structure over the silo allows visitors to look down at the missile" title="The glass enclosure allows visitors to view a Minuteman II missile in the silo." />
+                            <div class="card-body">
+                                <p>The glass enclosure allows visitors to view a Minuteman II missile in the silo.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Minuteman II Missile</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BEBF3-1DD8-B71B-0B5C85C543F76321.jpg" class="card-img-top" alt="A cylindrical missile inside an underground silo." title="A Minuteman II nuclear missile remains on alert, representing the 1,000 missiles which kept a constant vigil during the Cold War." />
+                            <div class="card-body">
+                                <p>A Minuteman II nuclear missile remains on alert, representing the 1,000 missiles which kept a constant vigil during the Cold War.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A winter visit to Delta-09</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BF0DC-1DD8-B71B-0B3812E6C9AC3B4E.jpg" class="card-img-top" alt="Two people are visible at the missile silo through a chain link fence" title="A visit to the Delta-09 missile silo allows the opportunity to consider the role of these missile in America's defense during the Cold War." />
+                            <div class="card-body">
+                                <p>A visit to the Delta-09 missile silo allows the opportunity to consider the role of these missile in America's defense during the Cold War.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Delta-01</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BED4C-1DD8-B71B-0B37F93539A2107E.jpg" class="card-img-top" alt="A brown building behind a tall fence with warning signs" title="For thirty years, US Air Force staff monitored a flight of ten nuclear missiles at the Delta-01 Launch Control Facility." />
+                            <div class="card-body">
+                                <p>For thirty years, US Air Force staff monitored a flight of ten nuclear missiles at the Delta-01 Launch Control Facility.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">"Thirty Minutes or Less"</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BF27F-1DD8-B71B-0B25D6E6F033E51E.jpg" class="card-img-top" alt="A large metal blast door with art of a Domino with a nuclear missile" title="Behind this blast door is the control center where two missileers kept a constant watch over ten nuclear missiles." />
+                            <div class="card-body">
+                                <p>Behind this blast door is the control center where two missileers kept a constant watch over ten nuclear missiles.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Morale Art of the Cold War</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BF3EA-1DD8-B71B-0BF5FC14CA1D26B8.jpg" class="card-img-top" alt="A painting of a nuclear missile bursting through a Soviet Flag" title="Located next to the elevator, this painting served as a reminder to missileers who they were defending the United States against." />
+                            <div class="card-body">
+                                <p>Located next to the elevator, this painting served as a reminder to missileers who they were defending the United States against.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Nose-to-Nose with Armegeddon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BF6F4-1DD8-B71B-0BF118191513DBAB.jpg" class="card-img-top" alt="View down a silo at a nuclear missile" title="Visitors can peer through the glass at a Minuteman II missile in the silo at Delta-09." />
+                            <div class="card-body">
+                                <p>Visitors can peer through the glass at a Minuteman II missile in the silo at Delta-09.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Night view of Delta-09</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BF8E6-1DD8-B71B-0B7D3BBA05E56FB9.jpg" class="card-img-top" alt="Night view of the Delta-09 site" title="Night view of the Delta-09 site" />
+                            <div class="card-body">
+                                <p>Night view of the Delta-09 site</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Minuteman Missile Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D4BF1CF6-1DD8-B71B-0B25279EBB07F48F.jpg" class="card-img-top" alt="A modern building with a prominent glass clerestory dominates a prairie landscape at sunset" title="The visitor center at sunset." />
+                            <div class="card-body">
+                                <p>The visitor center at sunset.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cold War "Blast Door" art at Delta-01</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D4D4B259-1DD8-B71B-0BCCC417E00707BA.jpg" class="card-img-top" alt="A view of a concrete wall with a painting and a blastdoor with art" title="Morale art reminded missile officers who the enemy was during the Cold War" />
+                            <div class="card-body">
+                                <p>Morale art reminded missile officers who the enemy was during the Cold War</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Park Ranger leads a tour in the underground control center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D4EC1734-1DD8-B71B-0B62ED8F48546BF3.jpg" class="card-img-top" alt="A ranger talks to visitors next to electronic cabinets." title="A park ranger leads a tour in the underground control center" />
+                            <div class="card-body">
+                                <p>A park ranger leads a tour in the underground control center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

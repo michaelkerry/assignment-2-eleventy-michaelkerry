@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Morristown National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Morristown National Historical Park</h3>
+                <br/>
+                <p>Morristown National Historical Park commemorates the sites of General Washington and the Continental army’s winter encampment of December 1779 to June 1780, where they survived through what would be the coldest winter on record. The park also maintains a museum & library collection related to the encampments & George Washington, as well as items relating to pre- and post-Revolutionary America.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Morristown National Historical Park is easiest to see by car. There are four different sites throughout the greater Morristown area. Washington's Headquarters Museum / Ford Mansion and Fort Nonsense are located in Morristown. The Jockey Hollow unit with its visitor center and historic Wick House; and the New Jersey Brigade Area are both about 6 miles south of Morristown, Detailed directions can be found on the park website.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wick House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C804A08-1DD8-B71B-0B73C1F0A0ACAD7A.jpg" class="card-img-top" alt="The Wick House surrounded by colorful fall leaves" title="The Wick House in the fall." />
+                            <div class="card-body">
+                                <p>The Wick House in the fall.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Washington's Headquarters Museum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C804BB2-1DD8-B71B-0BD3719BE49A0FDD.jpg" class="card-img-top" alt="The front facade of the Washington's Headquarters Museum" title="The front facade of the Washington's Headquarters Museum, which was designed in 1933 to look similar to Washington's Mt Vernon home." />
+                            <div class="card-body">
+                                <p>The front facade of the Washington's Headquarters Museum, which was designed in 1933 to look similar to Washington's Mt Vernon home.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Replica Soldier Huts in Jockey Hollow</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C804D28-1DD8-B71B-0B577BE90E49B5E8.jpg" class="card-img-top" alt="Four replica wooden soldier huts on a hillside in winter" title="These replica soldier huts represent the location of the Pennsylvania Brigade encampment site in Jockey Hollow" />
+                            <div class="card-body">
+                                <p>These replica soldier huts represent the location of the Pennsylvania Brigade encampment site in Jockey Hollow</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cross Estate Mansion and Gardens</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C804E96-1DD8-B71B-0B9824672DCF8A75.jpg" class="card-img-top" alt="The Cross Estate mansion in the springtime" title="The Cross Estate property was the site of the New Jersey Brigade winter encampement in 1779-1780. Today the encampment site is preserved while the estate is host to several beautiful gardens." />
+                            <div class="card-body">
+                                <p>The Cross Estate property was the site of the New Jersey Brigade winter encampement in 1779-1780. Today the encampment site is preserved while the estate is host to several beautiful gardens.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jockey Hollow Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B1188067-B906-30A8-AEC7161B5DB3EB7B.jpg" class="card-img-top" alt="View of the front facede of the Jockey Hollow Visitor Center--a dark brown brick buildings" title="View of the front facade of the Jockey Hollow Visitor Center" />
+                            <div class="card-body">
+                                <p>View of the front facade of the Jockey Hollow Visitor Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wick House Kitchen Garden</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/9724784C-DDBF-6BEA-6F811FA1134B74B8.jpg" class="card-img-top" alt="Garden with flowers and plants and 18th century farm house in background" title="A 18th century style kitchen garden with vegetables and herbs" />
+                            <div class="card-body">
+                                <p>A 18th century style kitchen garden with vegetables and herbs</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ford Mansion with Washington Statue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/67ED971B-0CE9-2C8D-BF86F4DD05A928E1.jpg" class="card-img-top" alt="White georgian/colonial building with statue of officer on horse in foreground" title="The Ford Mansion where General Washington headquartered during the winter of 1779-80" />
+                            <div class="card-body">
+                                <p>The Ford Mansion where General Washington headquartered during the winter of 1779-80</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">View from Fort Nonsense</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/682F75C9-EF72-E0B6-793A4834A192E3B4.jpg" class="card-img-top" alt="Overlook with cannon in foreground" title="Fort Nonsense--the site of an earthen fort during the American Revolution-offers a view toward New York City" />
+                            <div class="card-body">
+                                <p>Fort Nonsense--the site of an earthen fort during the American Revolution-offers a view toward New York City</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ford Mansion</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/4F56716A-A21E-33B7-2D8F4863C3C5551C.jpg" class="card-img-top" alt="A white colonial building with snow in the foreground and a blue sky and trees in the background" title="The Ford Mansion was the headquarters for General George Washington during the "Hard Winter" of 1779-1780" />
+                            <div class="card-body">
+                                <p>The Ford Mansion was the headquarters for General George Washington during the "Hard Winter" of 1779-1780</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

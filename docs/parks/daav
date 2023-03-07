@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Dayton Aviation Heritage National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Dayton Aviation Heritage National Historical Park</h3>
+                <br/>
+                <p>Dayton Aviation Heritage National Historical Park exists at the heart of one of the world’s most significant, globally impactful stories: the discovery of the secrets of controllable flight. Through perseverance and determination the Wright brothers and Paul Laurence Dunbar were able to overcome obstacles in their lives and leave their respective marks on history.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Located in west-central Ohio, the park is easily accessible via I-70, I-75 or US Route 35. The main park visitor center, Wright Dunbar Interpretive Center, is located at S. Williams St. and W. Third St. in Dayton.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Poetry and Literature</li>
+                                    
+                                    <li>Aviation</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wright-Dunbar Interpretive Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0B28E77A-B721-B2D1-7549D561D8CE4722.jpg" class="card-img-top" alt="A three-story brick building with tall green windows and a tall photo mural on the glass wall" title="The main entrance to the Wright-Dunbar Interpretive Center" />
+                            <div class="card-body">
+                                <p>The main entrance to the Wright-Dunbar Interpretive Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wright Cycle Company Bike Shop</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/74D64FE5-D38C-EC86-6E083224164BE3DD.jpg" class="card-img-top" alt="A two-story brick building with tall windows and shutters on them with sign "The Wright Cycle Co."" title="A front view of the building housing The Wright Cycle Company bike shop." />
+                            <div class="card-body">
+                                <p>A front view of the building housing The Wright Cycle Company bike shop.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wrights and Dunbar mural</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0B4D85B9-F211-67FC-279911A81D66DE5E.jpg" class="card-img-top" alt="A brick wall with artwork of three men and an airplane etched out of the brick." title="An artistic mural etched out of the red brick wall at the Wright-Dunbar Interpretive Center entrance." />
+                            <div class="card-body">
+                                <p>An artistic mural etched out of the red brick wall at the Wright-Dunbar Interpretive Center entrance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Huffman Prairie Interpretive Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0B5CD289-A9A4-1373-BE8012599762E14A.jpg" class="card-img-top" alt="A one story stone building with a small tower jutting out of the middle and three people walking out" title="The main entrance to the Huffman Prairie Interpretive Center" />
+                            <div class="card-body">
+                                <p>The main entrance to the Huffman Prairie Interpretive Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Wright Brothers memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0B7E2F10-FECA-5CD6-8CDFA0F2144FBFFE.jpg" class="card-img-top" alt="A tall gray stone monolith with a brown bronze plaque affixed to the front with trees in background" title="The Wright Brothers Memorial at the Huffman Prairie Interpretive Center grounds." />
+                            <div class="card-body">
+                                <p>The Wright Brothers Memorial at the Huffman Prairie Interpretive Center grounds.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">1905 Replica Hangar at Huffman Prairie Flying Field</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/74E81164-C18C-EE48-9EF3CF05D2CABA8F.jpg" class="card-img-top" alt="The fog lifts as the suns rays peek through the mist revealing a wood-frame hangar and flag pole." title="The replica 1905 hangar at Huffman Prairie Flying Field." />
+                            <div class="card-body">
+                                <p>The replica 1905 hangar at Huffman Prairie Flying Field.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Huffman Prairie Flying Field replica catapault</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0B9C0C84-CF79-8680-F94D3E6271EC690F.jpg" class="card-img-top" alt="A long wood and steel rail leading to a pyramid tower structure in the background." title="A replica catapault system similar to what the Wrights used during their trials at Huffman Prairie." />
+                            <div class="card-body">
+                                <p>A replica catapault system similar to what the Wrights used during their trials at Huffman Prairie.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Huffman Prairie Flying Field entrance</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0BC22569-C0C8-19DB-5160DC5BBEDB27B2.jpg" class="card-img-top" alt="A dirt road between tall trees with a stone sign reading Huffman Prairie Flying Field." title="The main entrance road into Huffman Prairie Flying Field." />
+                            <div class="card-body">
+                                <p>The main entrance road into Huffman Prairie Flying Field.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Paul Laurence Dunbar House Historic Site</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0BD2B3D8-9054-8585-B5616984AC1FAAFE.jpg" class="card-img-top" alt="A two-story home with peaked gray roof and two chimneys with green shutters around the windows" title="The Paul Laurence Dunbar House Historic Site in Dayton, Ohio." />
+                            <div class="card-body">
+                                <p>The Paul Laurence Dunbar House Historic Site in Dayton, Ohio.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

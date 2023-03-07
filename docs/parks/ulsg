@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Ulysses S Grant National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Ulysses S Grant National Historic Site</h3>
+                <br/>
+                <p>Ulysses S. Grant is known as the victorious Civil War general who saved the Union and the 18th President of the United States. He first met Julia Dent, his future wife, at her family home, named White Haven. From 1854 to 1859 the Dents, Grants and an enslaved African-American workforce lived on the property.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Ulysses S. Grant is located in south St. Louis County on Grant Road, near Gravois Road to the south. Watson Road is to the north, I-270 is to the west, and Laclede Station Road is to the east.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Geocaching</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">White Haven in Autumn</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C827360-1DD8-B71B-0BF9ADC1F4742F80.jpg" class="card-img-top" alt="View of house with fence. Autumn colored leaves on trees" title="White Haven is picturesque in all seasons, but in the fall the trees are especially beautiful." />
+                            <div class="card-body">
+                                <p>White Haven is picturesque in all seasons, but in the fall the trees are especially beautiful.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">White Haven</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C827651-1DD8-B71B-0B3887AC34057898.jpg" class="card-img-top" alt="view of house from side and back. The house has several additions. Stone summer kitchen on right" title="Behind the house is stone summer kitchen." />
+                            <div class="card-body">
+                                <p>Behind the house is stone summer kitchen.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Outbuildings</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8277AE-1DD8-B71B-0B99AAADE2FBE255.jpg" class="card-img-top" alt="To the left is the ice house and to right is chicken house." title="Ice house and chicken house behind the main house." />
+                            <div class="card-body">
+                                <p>Ice house and chicken house behind the main house.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tack Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8278E3-1DD8-B71B-0BB0B90612089D1C.jpg" class="card-img-top" alt="Saddles in tack room" title="The historic stable tack room." />
+                            <div class="card-body">
+                                <p>The historic stable tack room.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Museum Exhibits</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C827A43-1DD8-B71B-0B4504B65B107615.jpg" class="card-img-top" alt="boy looking at touchscreen in museum" title="The interactive museum is located in the historic stable." />
+                            <div class="card-body">
+                                <p>The interactive museum is located in the historic stable.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Winter at White Haven</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C827B91-1DD8-B71B-0BA8AC33F2669F55.jpg" class="card-img-top" alt="Historic green house with snow on ground" title="Visiting the park in the winter can be beautiful and peaceful." />
+                            <div class="card-body">
+                                <p>Visiting the park in the winter can be beautiful and peaceful.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">White Haven in Early Spring</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C827E9B-1DD8-B71B-0B8A392673E74A10.jpg" class="card-img-top" alt="View of house from front with budding tree branch in foreground that is also covered in ice." title="Snowfall in early spring." />
+                            <div class="card-body">
+                                <p>Snowfall in early spring.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

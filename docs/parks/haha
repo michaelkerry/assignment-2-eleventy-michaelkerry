@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Harmony Hall</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Harmony Hall</h3>
+                <br/>
+                <p>The 18th century Harmony Hall mansion is located on a 62.5-acre open pasture land estate along the Potomac River. This estate was purchased by the National Park Service in 1966, to preserve southern Maryland cultural heritage. Surrounded by a rich landscape, it offers visitors many chances to connect with Colonial History. The park also home to the remains of the Want Water House and canal.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From the Capital Beltway (I495/95) take Exit 3 to MD 210 South/Indian Head Highway, travel approximately 4 miles to Fort Washington Road, turn right. At the traffic light, Livingston Road, turn right. The Harmony Hall Regional Center will be on your left. That is where you will need to park. After parking, when facing Livingston Road, go to your left and the park entrance is the next driveway.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Harmony Hall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/28A04A53-CF37-9979-72C9072811BC2DD0.jpg" class="card-img-top" alt="Flowers on a tree with a large brick house in the background." title="Harmony Hall is a two and a half story Georgian style house built in 1723." />
+                            <div class="card-body">
+                                <p>Harmony Hall is a two and a half story Georgian style house built in 1723.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Harmony Hall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E14F9-1DD8-B71B-0BA3A6484D2478A3.jpg" class="card-img-top" alt="black and white photo of a large two story brick manor" title="Historic image of Harmony Hall, circa 1938." />
+                            <div class="card-body">
+                                <p>Historic image of Harmony Hall, circa 1938.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Broad Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/23E36EFF-0786-E6DE-5DD75943A7108172.jpg" class="card-img-top" alt="a creek from ground level" title="Broad Creek runs through the Harmony Hall property" />
+                            <div class="card-body">
+                                <p>Broad Creek runs through the Harmony Hall property</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Harmony Hall Mansion</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E0FE3-1DD8-B71B-0B1C488118933897.jpg" class="card-img-top" alt="Photo Harmony Hall Mansion" title="East elevation of Harmony Hall Mansion" />
+                            <div class="card-body">
+                                <p>East elevation of Harmony Hall Mansion</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Want Water Ruins</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/288B666B-B8A3-7DCC-08BC1303CC54BF2D.jpg" class="card-img-top" alt="Ruins of a brick chimney and wall." title="The ruins of Want Water, a colonial era home" />
+                            <div class="card-body">
+                                <p>The ruins of Want Water, a colonial era home</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Looking out from Harmony Hall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/23F48D37-FA22-FC35-9AEC6FB1CA90B907.jpg" class="card-img-top" alt="A sweeping view of a grass field dotted with trees" title="The view from the backyard of Harmony Hall" />
+                            <div class="card-body">
+                                <p>The view from the backyard of Harmony Hall</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

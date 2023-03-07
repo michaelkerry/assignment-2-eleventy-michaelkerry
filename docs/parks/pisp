@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pipe Spring National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Pipe Spring National Monument</h3>
+                <br/>
+                <p>The rich history of Pipe Spring and its flowing water comes alive as you explore the traditions of the Kaibab Paiute and the Mormon settlers through the museum, historic fort, cabins, and garden. Hike the Ridge Trail to enjoy geologic wonders, plants, and wildlife. Attend living history demonstrations and talks and be sure to visit with our amazing ranch animals!</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Pipe Spring National Monument is located 15 miles west of Fredonia, AZ and 45 miles east of Hurricane, UT. From Interstate 15, turn onto Utah State Route 9 in Hurricane, Utah. Take Utah State Route 59 east out of Hurricane. This road turns into Arizona State Route 389 at the state line. Pipe Spring is 45 miles east of Hurricane. From Utah Highway 89 and 89A, turn onto Arizona State Route 389 in Fredonia, Arizona. Pipe Spring is 15 miles west of Fredonia.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Arts and Crafts</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Religious Freedom</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Massacres</li>
+                                    
+                                    <li>Murders</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Tribal Conflicts</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Aquifers</li>
+                                    
+                                    <li>Freshwater Springs</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Milky Way over the Chuckwagon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C865B7C-1DD8-B71B-0BC81C6B55603669.jpg" class="card-img-top" alt="A glittering sky of stars glows above a historic covered wagon." title="The Milky Way glitters above the chuckwagon at Pipe Spring National Monument. The monument has great night sky clarity because it is located inside the first Dark Sky Nation: The Kaibab Indian Reservation." />
+                            <div class="card-body">
+                                <p>The Milky Way glitters above the chuckwagon at Pipe Spring National Monument. The monument has great night sky clarity because it is located inside the first Dark Sky Nation: The Kaibab Indian Reservation.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Winsor Castle</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C865CD5-1DD8-B71B-0BB4186C2B055C98.jpg" class="card-img-top" alt="A sandstone fort rests between desert scrub in the foreground and a mountain in the distance." title="Winsor Castle, constructed in 1870-72, is surrounded by the harsh beauty of Utah and Arizona's canyon country." />
+                            <div class="card-body">
+                                <p>Winsor Castle, constructed in 1870-72, is surrounded by the harsh beauty of Utah and Arizona's canyon country.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Garden at Pipe Spring</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C865E17-1DD8-B71B-0BFCD97B38531840.jpg" class="card-img-top" alt="A lush garden filled with settler and native crops grows in front of a sandstone fort" title="Pipe Spring maintains a living history garden that grows settler and native crops as they would have grown in the 1870s. In the fall, visitors may harvest free fruit and veggies." />
+                            <div class="card-body">
+                                <p>Pipe Spring maintains a living history garden that grows settler and native crops as they would have grown in the 1870s. In the fall, visitors may harvest free fruit and veggies.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">West Cabin in Snow</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C86604B-1DD8-B71B-0B9B50572BEDA3A2.jpg" class="card-img-top" alt="A red-orange sandstone cabin surrounded by white snow." title="Wintertime showcases a stark peace and stillness at the historic buildings. Pictured here, West Cabin sticks out after a snowstorm." />
+                            <div class="card-body">
+                                <p>Wintertime showcases a stark peace and stillness at the historic buildings. Pictured here, West Cabin sticks out after a snowstorm.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Longhorn Cattle</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8661FC-1DD8-B71B-0B513CB63AB902C2.jpg" class="card-img-top" alt="A large longhorn cattle steer shows off his 6-foot span horns inside a corral." title="Whitmore and Tess, two Texas Longhorns, greet visitors. Longhorns were brought to Pipe Spring in the 1860s." />
+                            <div class="card-body">
+                                <p>Whitmore and Tess, two Texas Longhorns, greet visitors. Longhorns were brought to Pipe Spring in the 1860s.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

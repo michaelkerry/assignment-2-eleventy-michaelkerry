@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Lake Clark National Park & Preserve</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Lake Clark National Park & Preserve</h3>
+                <br/>
+                <p>Lake Clark National Park and Preserve is a land of stunning beauty. Volcanoes steam, salmon run, bears forage, and craggy mountains reflect in shimmering turquoise lakes. Here, too, local people and culture still depend on the land and water. Venture into the park to become part of the wilderness.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Lake Clark is located on the Alaska Peninsula southwest of Anchorage and north of Katmai National Park. It is not on the road system; therefore, in order to get here you must travel either via plane or by boat. A one to two-hour flight from Anchorage, Kenai, or Homer will provide access to most points within Lake Clark. Fixed-wing aircraft are allowed to land on all suitable lakes, rivers, beaches, gravel bars, and open ground in both the park and preserve unless the area is closed or otherwise restricted.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Motorized Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Climbing</li>
+                                    
+                                    <li>Mountain Climbing</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Orienteering</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Fly Fishing</li>
+                                    
+                                    <li>Flying</li>
+                                    
+                                    <li>Fixed Wing Flying</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Off-Trail Permitted Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Canoe or Kayak Camping</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snow Play</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Aviation</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mining</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Wolves</li>
+                                    
+                                    <li>Arctic</li>
+                                    
+                                    <li>Tundra</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Estuaries and Mangroves</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Glaciers</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Meadows</li>
+                                    
+                                    <li>Lakes</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Aurora Borealis</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Volcanoes</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Headwaters</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Marshes</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lake Clark</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A9F9E-1DD8-B71B-0B6CEC8EF3F377DA.jpg" class="card-img-top" alt="Photo of blue sky with fluffy white clouds reflect in calm lake with mountains in the background." title="The park's namesake lake is the largest lake by volume in the National Park Service." />
+                            <div class="card-body">
+                                <p>The park's namesake lake is the largest lake by volume in the National Park Service.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tanalian Falls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AA462-1DD8-B71B-0BB13D97381C04B0.jpg" class="card-img-top" alt="Waterfall surrounded by forest in fall foiliage and mountains in the background." title="The park protects thousands of waterfalls including Tanalian Falls, which is a popular day hike destination from the town of Port Alsworth." />
+                            <div class="card-body">
+                                <p>The park protects thousands of waterfalls including Tanalian Falls, which is a popular day hike destination from the town of Port Alsworth.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Redoubt Volcano</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AA140-1DD8-B71B-0BE3ECC0A8EE0DE5.jpg" class="card-img-top" alt="Photo of a stratovolcano flanked with glaciers towering over a river valley." title="Lake Clark is a land of fire and ice. Active volcanism and retreating glaciers created and continue to shape the peaks, moraines, and river systems in the Chigmit and Neacola Mountains." />
+                            <div class="card-body">
+                                <p>Lake Clark is a land of fire and ice. Active volcanism and retreating glaciers created and continue to shape the peaks, moraines, and river systems in the Chigmit and Neacola Mountains.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tanaina Glacier</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A9D02-1DD8-B71B-0B154E93FCC5D7F9.jpg" class="card-img-top" alt="photo of large alpine glacier" title="Perenial snow and glacial ice covers ~1,250 square miles, or 20% of Lake Clark National Park and Preserve." />
+                            <div class="card-body">
+                                <p>Perenial snow and glacial ice covers ~1,250 square miles, or 20% of Lake Clark National Park and Preserve.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Two cubs playing at Silver Salmon Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C521C4DB-C6CB-EB6B-242225CB76BAB42E.jpg" class="card-img-top" alt="two brown bear cubs playing in the sedges" title="Bear viewing is a popular activity along the Cook Inlet Coast." />
+                            <div class="card-body">
+                                <p>Bear viewing is a popular activity along the Cook Inlet Coast.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Boreal Forest</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A9BBB-1DD8-B71B-0BD4675D87449A15.jpg" class="card-img-top" alt="Forest of spruce trees blanketed in snow and fog." title="Boreal forests encircle the earth's northern latitudes like an emerald necklace. Lake Clark's forest, which covers more than 440 thousand acres or 11% of the park,  is dominated by white spruce mixed with black spruce and birch." />
+                            <div class="card-body">
+                                <p>Boreal forests encircle the earth's northern latitudes like an emerald necklace. Lake Clark's forest, which covers more than 440 thousand acres or 11% of the park,  is dominated by white spruce mixed with black spruce and birch.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Telaquana Lake</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AA70A-1DD8-B71B-0BCA87C6E2CA136E.jpg" class="card-img-top" alt="A colorful sky, an island with spruce trees, and mountains in the background reflect in a calm lake" title="A number of glacier fed lakes pepper the western boundary of the Chigmit and Neacola mountains like a string of spectacular turquoise gems." />
+                            <div class="card-body">
+                                <p>A number of glacier fed lakes pepper the western boundary of the Chigmit and Neacola mountains like a string of spectacular turquoise gems.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">West Glacier Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AA5B4-1DD8-B71B-0BCD819BADB29D2E.jpg" class="card-img-top" alt="Photo of a river delta flowing into tidal flats surrounded by green salt marshes and mountains." title="Estuaries where rivers meet the sea provide a mosaic of rich habitats along the Cook Inlet Coast that support high numbers of bears and other wildlife." />
+                            <div class="card-body">
+                                <p>Estuaries where rivers meet the sea provide a mosaic of rich habitats along the Cook Inlet Coast that support high numbers of bears and other wildlife.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Richard L. Proenneke National Historic Site</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AA314-1DD8-B71B-0B5E93E5AD68E6D5.jpg" class="card-img-top" alt="Photo of a one story log cabin, cache, forest, and American flag reflecting in a calm, blue lake." title="The park protects and interprets the Richard L. Proenneke National Historic Site and trail complex as a symbol of the national wilderness movement and a source of inspiration and solace sought out by visitors from throughout the world." />
+                            <div class="card-body">
+                                <p>The park protects and interprets the Richard L. Proenneke National Historic Site and trail complex as a symbol of the national wilderness movement and a source of inspiration and solace sought out by visitors from throughout the world.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

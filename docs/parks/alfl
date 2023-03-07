@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Alibates Flint Quarries National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Alibates Flint Quarries National Monument</h3>
+                <br/>
+                <p>13,000 years ago, this site was well-known by mammoth hunters as a source of flint for tools. Centuries passed, but the colorful flint never lost its value or usefulness in the Texas Panhandle. Learn how important this site was to the survival, commerce and culture of the people of the High Plains.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Alibates Flint Quarries is located approximately 35 miles north of Amarillo, Texas. From I-40 in Amarillo, take Lakeside exit north towards Lake Meredith National Recreation Area. Exit on TX 136 north towards Borger. After about 30 miles, turn west from TX 136 onto Cas Johnson Road. Park Service signs will be visible. Proceed approximately 3 miles to "Y" intersection and bear to right. Go northwest approximately 2 miles to the Alibates Flint Quarries National Monument Visitor Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Turtle Petroglyph</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EFA64-1DD8-B71B-0BD2E6EF7D52B0BF.jpg" class="card-img-top" alt="Turtle Petroglyph at Antelope Creek Village Site" title="Turtle Petroglyph at Antelope Creek Village Site" />
+                            <div class="card-body">
+                                <p>Turtle Petroglyph at Antelope Creek Village Site</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Alibates Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/EEB4ED5A-C735-67E9-6E61B710C6E01D72.jpg" class="card-img-top" alt="A view of the gardens and Alibates Visitor Center." title="The gardens and Alibates Visitor Center host activities and ranger-led programs throughout the year." />
+                            <div class="card-body">
+                                <p>The gardens and Alibates Visitor Center host activities and ranger-led programs throughout the year.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Alibates Flint</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8458AC-1DD8-B71B-0B159537D27B805A.jpg" class="card-img-top" alt="Colorful chunks of Alibates Flint." title="Used for at least 13,000 years, Alibates Flint was the choice of many tribes for their stone tools, spearpoints and arrowheads." />
+                            <div class="card-body">
+                                <p>Used for at least 13,000 years, Alibates Flint was the choice of many tribes for their stone tools, spearpoints and arrowheads.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Alibates Flint Quarries Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C845A12-1DD8-B71B-0B5DCB73747198EF.jpg" class="card-img-top" alt="Stair steps up the Alibates Flint Quarries Trail." title="Take a hike up the Quarries Trail to learn about this important stone." />
+                            <div class="card-body">
+                                <p>Take a hike up the Quarries Trail to learn about this important stone.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Snowy Alibates</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C845BA9-1DD8-B71B-0B63C45334DC3128.jpg" class="card-img-top" alt="A snowy mesa, as seen from the Alibates Visitor Center." title="Every season hold special beauty at Alibates Flint Quarries National Monument." />
+                            <div class="card-body">
+                                <p>Every season hold special beauty at Alibates Flint Quarries National Monument.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

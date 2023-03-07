@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pennsylvania Avenue</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Pennsylvania Avenue</h3>
+                <br/>
+                <p>A street unlike any other. It is known the world over as the heart of the Nation's Capital. America's history has marched, paraded, promenaded, and protested its way along the Avenue.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Pennsylvania Avenue National Historic Site is part of National Mall and Memorial Parks. The avenue is among the world's more famous streets and is known the world over as the heart of the Nation's Capital, extending through the corridors of Federal power and influence. "America's Main Street" visually connects, yet separates, the White House from the U.S. Capitol and the U.S. Supreme Court buildings.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pennsylvania Avenue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85E1B9-1DD8-B71B-0B20BF6EC58D31AF.jpg" class="card-img-top" alt="Motorcycles pass by a crowd in a parade." title="Police motorcycles pass in formation during the 2013 inaugural parade." />
+                            <div class="card-body">
+                                <p>Police motorcycles pass in formation during the 2013 inaugural parade.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">US Navy Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F53926B3-F9AE-DB31-B95F6AABACD93F15.jpg" class="card-img-top" alt="A stone plaza depicting a map of the globe." title="Explore the plaza, fountains, and artwork of the US Navy Memorial." />
+                            <div class="card-body">
+                                <p>Explore the plaza, fountains, and artwork of the US Navy Memorial.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Major General Winfield Scott Hancock Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F57FF431-08E9-AA53-4C8B7163486DB561.jpg" class="card-img-top" alt="A bronze statue of a man on horse atop a stone plinth." title="Hancock grew to fame in the Civil War at the Battle of Gettysburg." />
+                            <div class="card-body">
+                                <p>Hancock grew to fame in the Civil War at the Battle of Gettysburg.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Freedom Plaza</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F5A1F600-AFE3-914E-13F41E3178E72695.jpg" class="card-img-top" alt="A grass circle in a gray stone plaza with lines resembling streets with the US Capitol in the rear." title="Freedom Plaza is a large square on Pennsylvania Avenue near the White House." />
+                            <div class="card-body">
+                                <p>Freedom Plaza is a large square on Pennsylvania Avenue near the White House.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Stephenson Memorial (Grand Army of the Republic)</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F5BE158B-E17E-538F-D5DD001F77E5265F.jpg" class="card-img-top" alt="A rather squat, stone obelisk in a plaza with a bronze figure on the face." title="The Grand Army of the Republic was a veterans group of nearly half a million men formed from veterans of the Civil War. It was also the first veterans group in the United States." />
+                            <div class="card-body">
+                                <p>The Grand Army of the Republic was a veterans group of nearly half a million men formed from veterans of the Civil War. It was also the first veterans group in the United States.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

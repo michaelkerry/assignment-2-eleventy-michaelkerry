@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Kaloko-Honokōhau National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Kaloko-Honokōhau National Historical Park</h3>
+                <br/>
+                <p>To survive in a hot and arid environment the native Hawaiians (kanaka maoli) used ancient fishing skills, including the building of fishponds, and the knowledge of the location of precious fresh water (wai) that flows into the many brackish pools throughout the park. The spirit of the people (poe) and the knowledge of the elders (kupuna) created a tradition of respect and reverence for this area.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Kaloko-Honokōhau National Historical Park is located on the west coast of the island of Hawai'i, approximately 3 miles south of the Keahole International Airport (Kailua-Kona AIrport) and 3 miles north of the town of Kailua-Kona, on the ocean side of Highway 19. The visitor center, Hale Ho'okipa, is located half a mile north of the entrance to Honokōhau Harbor. The Kaloko road gate is located across the highway from the Kaloko New Industrial Park (across from the big yellow "Kona Trade Center" building).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Saltwater Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kaloko Fishpond</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C821C0B-1DD8-B71B-0B75B0451911CCAA.jpg" class="card-img-top" alt="The rehabilitation of Kaloko fishpond started in 1998 and still continues today...." title="Kaloko Fishpond is the largest walled fishpond in the state (800 ft. long)" />
+                            <div class="card-body">
+                                <p>Kaloko Fishpond is the largest walled fishpond in the state (800 ft. long)</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ai'opio fishtrap</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C821D90-1DD8-B71B-0B2216061891B7D4.jpg" class="card-img-top" alt="Honu (sea turtles) are common on the beach in this area of the park" title="Ai'opio fishtrap is on the south boundary of the park and is used frequently by visitors and for special events (annual children's cultural festival shown)." />
+                            <div class="card-body">
+                                <p>Ai'opio fishtrap is on the south boundary of the park and is used frequently by visitors and for special events (annual children's cultural festival shown).</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">pu'uoina heiau</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/06A3666C-AE98-8209-CAA12B00557D080A.jpg" class="card-img-top" alt="wall construction" title="Great skill was needed to build rock walls" />
+                            <div class="card-body">
+                                <p>Great skill was needed to build rock walls</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kids working at station for Archeology game</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/06AFEFCC-E217-96E0-C6DED3A43CEA7C93.jpg" class="card-img-top" alt="Hawaiian cultural festival" title="Fourth graders at Park's Cultural Festival" />
+                            <div class="card-body">
+                                <p>Fourth graders at Park's Cultural Festival</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Plant activity for fourth graders at Park's Cultural Festival</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/06BF21E1-0204-F2C7-E645FBA324BDD5B3.jpg" class="card-img-top" alt="Learning from park staff about plants" title="Fourth Graders learn about native plants at the park" />
+                            <div class="card-body">
+                                <p>Fourth Graders learn about native plants at the park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hands in Craft</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D72FC93F-0AC5-1F0D-74FC2A69A0EEE109.jpg" class="card-img-top" alt="Making Hawaiian objects" title="The detail of a Hawaiian artist" />
+                            <div class="card-body">
+                                <p>The detail of a Hawaiian artist</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Entrance to Petroglyph Boardwalk</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D73C7A3F-EDB7-A199-6982FFEAB0E95E13.jpg" class="card-img-top" alt="Modern version of Ki'i Pohaku (Petroglyphs)!" title="When you visit the Petroglyphs in the park you'll see this image in modern stone!" />
+                            <div class="card-body">
+                                <p>When you visit the Petroglyphs in the park you'll see this image in modern stone!</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ho'okupu</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D7508C26-A2DA-AD89-530131228A923D59.jpg" class="card-img-top" alt="Offering" title="Offering during the time of Makahiki" />
+                            <div class="card-body">
+                                <p>Offering during the time of Makahiki</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

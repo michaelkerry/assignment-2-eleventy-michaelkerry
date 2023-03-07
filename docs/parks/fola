@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fort Laramie National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fort Laramie National Historic Site</h3>
+                <br/>
+                <p>Originally established as a private fur trading fort in 1834, Fort Laramie evolved into the largest and best known military post on the Northern Plains before its abandonment in 1890. This “grand old post” witnessed the entire sweeping saga of America’s western expansion and Indian resistance to encroachment on their territories.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park is located in southeast Wyoming approximately 125 miles southeast of Casper, 100 miles north of Cheyenne and 55 miles west of Scottsbluff, Nebraska. From Interstate 25, take exit 92 to US Highway 26, proceed east to the town of Fort Laramie; turn right on State Route 160 and travel three miles to the park entrance. From westbound US 26, proceed west from Scottsbluff, Nebraska to the town of Fort Laramie; turn left on State Route 160 and continue three miles to the park entrance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ruins of the 1873 Post Hospital</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81F1A8-1DD8-B71B-0BDAD2375D9DFAA5.jpg" class="card-img-top" alt="Ruins of the 1873 Post Hospital at dawn." title="Sunrises and sunsets are extraordinarily beautiful when set against the many historic structures the site." />
+                            <div class="card-body">
+                                <p>Sunrises and sunsets are extraordinarily beautiful when set against the many historic structures the site.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Parade Ground from the Porch of "Old Bedlam"</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81EEDF-1DD8-B71B-0BDE55A22806D364.jpg" class="card-img-top" alt="View of the parade ground from the porch of "Old Bedlam"." title="A fall view of the parade ground from "Old Bedlam" the oldest surviving structure at Fort Laramie and in the state of Wyoming, constructed in 1849." />
+                            <div class="card-body">
+                                <p>A fall view of the parade ground from "Old Bedlam" the oldest surviving structure at Fort Laramie and in the state of Wyoming, constructed in 1849.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Post Trader at Work</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81F045-1DD8-B71B-0BBF0F81E85B03F3.jpg" class="card-img-top" alt="Living history interpreter portraying the Post Trader." title="In the summer living history interpreters bring the post to life, including the Post Trader in the refurnished 1849 store." />
+                            <div class="card-body">
+                                <p>In the summer living history interpreters bring the post to life, including the Post Trader in the refurnished 1849 store.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fur Trade Fort Laramie Event</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81ED25-1DD8-B71B-0B9D3808BF7383CD.jpg" class="card-img-top" alt="Living history interpreter explaining the life of a trapper/trader to young visitors" title="Special attention is given to helping our young visitors understand the past at Fort Laramie National Historic Site." />
+                            <div class="card-body">
+                                <p>Special attention is given to helping our young visitors understand the past at Fort Laramie National Historic Site.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Arial View of Fort Laramie NHS From the South</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81F6C0-1DD8-B71B-0B7A2395384F119E.jpg" class="card-img-top" alt="Aerial view of Fort Laramie NHS from the South" title="Overview of Fort Laramie as it exists today with many of the historic buildings fully restored and refurnished and numerous other ruins and foundations." />
+                            <div class="card-body">
+                                <p>Overview of Fort Laramie as it exists today with many of the historic buildings fully restored and refurnished and numerous other ruins and foundations.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tipis Across Laramie River in Fall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C820080-1DD8-B71B-0BDDB963C056A188.jpg" class="card-img-top" alt="Two tipis across the Laramie River from the fort in fall" title="Tipis were a common scene at Fort Laramie from 1834-1872.  At times, during treaty negotiations dozens of tipis could be found here." />
+                            <div class="card-body">
+                                <p>Tipis were a common scene at Fort Laramie from 1834-1872.  At times, during treaty negotiations dozens of tipis could be found here.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall colors on the Parade Ground</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8F1A76F6-AA51-C2D5-7A5ACA069FACF260.jpg" class="card-img-top" alt="Ash and cottonwood trees show their fall colors next to an open grass field." title="Fall colors paint the parade grounds near Old Bedlam." />
+                            <div class="card-body">
+                                <p>Fall colors paint the parade grounds near Old Bedlam.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Powder Magazine in Winter</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8F4DB411-CA1F-37E9-92CE9429BFB78222.jpg" class="card-img-top" alt="Ruins of a concrete structure with snow on top." title="Ruins of the powder magazine within the winter snows." />
+                            <div class="card-body">
+                                <p>Ruins of the powder magazine within the winter snows.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Morning Fog at the Old Holtclaw Tract</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8F6917CA-A9CA-EDB8-21A359265C2E8CC2.jpg" class="card-img-top" alt="A deer looking up in morning fog near the shelter belt at the old Holtclaw Tract homestead." title="Morning fog north of Fort Laramie" />
+                            <div class="card-body">
+                                <p>Morning fog north of Fort Laramie</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">11th Kansas Ride Past the Cavalry Barracks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8FCD2F89-BC10-A438-8737503C680E6520.jpg" class="card-img-top" alt="A group of mounted individuals ride hors near a concrete historic structure." title="Riding past the Cavalry Barracks" />
+                            <div class="card-body">
+                                <p>Riding past the Cavalry Barracks</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Three Affiliated Tribes Ride at Cavalry Barracks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/9033E220-9603-1B15-278ACF373A4D1DF2.jpg" class="card-img-top" alt="Native American people riding horses - some in traditional regalia - in front the Cavalry Barracks." title="Riding toward the parade ground" />
+                            <div class="card-body">
+                                <p>Riding toward the parade ground</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Independence Day Salute</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6447C234-CF99-27E4-C6E11EE94006CD72.jpg" class="card-img-top" alt="Rangers in living history clothing fire a salute with Springfield rifles for Independence Day." title="A salute to each state of the union in 1876." />
+                            <div class="card-body">
+                                <p>A salute to each state of the union in 1876.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

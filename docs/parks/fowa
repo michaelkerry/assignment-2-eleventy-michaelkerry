@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fort Washington Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fort Washington Park</h3>
+                <br/>
+                <p>Built to defend the river approach to Washington, DC, Fort Washington has stood as silent sentry for over 200 years. As technologies advanced so did Fort Washington, from the brick and stone of the 19th century to the concrete and steel of the 20th century. Joining the National Park Service in 1946, the park continues to protect the Potomac River.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From I-95/495 take exit 3, Indian Head Highway South/MD 210. Travel about 4 miles to Fort Washington Road, turn right. The park is located at the end of the road. From Waldorf, MD: MD228 to Indian Head Highway/MD210 North. Turn left onto Old Fort Road. Continue to end of road, at the stop sign turn left onto Fort Washington Road, continue to park entrance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Forts</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Entrance to Fort Washington</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81C3C3-1DD8-B71B-0B04CE7B7C61FE25.jpg" class="card-img-top" alt="Entrance way into historic Fort Washington" title="Fort Washington Entrance" />
+                            <div class="card-body">
+                                <p>Fort Washington Entrance</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Washington Volunteers firing a cannon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/889ACFDE-1DD8-B71B-0B66D243B767FF29.jpg" class="card-img-top" alt="Fort Washington Volunteers firing a cannon" title="Fort Washington Guard fires one of the park's cannons.  Demonstrations are presented during the summer months April-October." />
+                            <div class="card-body">
+                                <p>Fort Washington Guard fires one of the park's cannons.  Demonstrations are presented during the summer months April-October.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Potomac View</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D03ECF9F-BC5B-1CBE-024E95E948F655E2.jpg" class="card-img-top" alt="a green shoreline with small lighthouse along river at sunset" title="Fort Washington offers great views of the Potomac River, especially at sunset." />
+                            <div class="card-body">
+                                <p>Fort Washington offers great views of the Potomac River, especially at sunset.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Picnic Area at Fort Washington Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D14E0E67-A49D-25E9-F34FF8D00ECDBEDA.jpg" class="card-img-top" alt="Picnic tables under a tree" title="Picnic areas available to reserve." />
+                            <div class="card-body">
+                                <p>Picnic areas available to reserve.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cannon crew at Fort Washington</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/ED77599D-0666-CE86-B7B99CF742DC42B0.jpg" class="card-img-top" alt="Men in blue army uniforms pose by a cannon." title="Check out the park's cannon demonstrations to experience the sights, sounds, and smells of the past!" />
+                            <div class="card-body">
+                                <p>Check out the park's cannon demonstrations to experience the sights, sounds, and smells of the past!</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort tour</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CFC7D002-CC84-5E06-69AA0D7B0E96EA8B.jpg" class="card-img-top" alt="A female park ranger talks with a man and woman in a fort" title="A park ranger gives a tour of the fort" />
+                            <div class="card-body">
+                                <p>A park ranger gives a tour of the fort</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

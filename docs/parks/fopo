@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fort Point National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fort Point National Historic Site</h3>
+                <br/>
+                <p>From its vantage point overlooking the spectacular Golden Gate, Fort Point defended the San Francisco Bay following California's Gold Rush through World War II. Its beautifully arched casemates display the art of 3rd system brick masonry and interacts gracefully with the Golden Gate Bridge.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Fort Point is located at the south anchorage of the Golden Gate Bridge at the end of Marine Drive on the Presidio of San Francisco. By car take Highway 101 N or S, exit at the Golden Gate Bridge toll plaza at south end of bridge. From S turn right at end of exit ramp, or from N go straight on Merchant Drive. Turn left onto Lincoln Boulevard. Take a left onto Long Avenue and follow onto Marine Drive.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Theater</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Coastal Defenses</li>
+                                    
+                                    <li>Maritime - Military</li>
+                                    
+                                    <li>Lighthouses</li>
+                                    
+                                    <li>Ships and Shipwrecks</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>World War II</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Point from Marine Drive</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C800CC0-1DD8-B71B-0B80D91C47D8ACE5.jpg" class="card-img-top" alt="Fort Point with visitors approaching on road in front and Golden Gate Bridge above." title="Fort Point offers stunning views from under the south end of the Golden Gate Bridge." />
+                            <div class="card-body">
+                                <p>Fort Point offers stunning views from under the south end of the Golden Gate Bridge.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Point Sunset View</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C801171-1DD8-B71B-0BE6AFF91B05532B.jpg" class="card-img-top" alt="Golden sunset light on the roof of Fort Point with Golden Gate Bridge and bay behind." title="Visitors can enjoy winter sunsets from the top of Fort Point." />
+                            <div class="card-body">
+                                <p>Visitors can enjoy winter sunsets from the top of Fort Point.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Brick Casemates</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80132D-1DD8-B71B-0BAE3D20C07909AD.jpg" class="card-img-top" alt="Arched red brick casemates extend into the distance at Fort Point." title="Fort Point is known for its masterful masonry work." />
+                            <div class="card-body">
+                                <p>Fort Point is known for its masterful masonry work.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Civil War Days at Fort Point</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C801528-1DD8-B71B-0B869B86127D73A4.jpg" class="card-img-top" alt="A cannon stands in front of Civil War re-enactors talking to the public." title="Visitors can interact with Civil War re-enactors twice in January and August at the Fort." />
+                            <div class="card-body">
+                                <p>Visitors can interact with Civil War re-enactors twice in January and August at the Fort.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Point Lighthouse</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8017DE-1DD8-B71B-0B1115FD23682551.jpg" class="card-img-top" alt="View of Fort Point lighthouse through red brick arches" title="Fort Point has a historic lighthouse mounted on its top." />
+                            <div class="card-body">
+                                <p>Fort Point has a historic lighthouse mounted on its top.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

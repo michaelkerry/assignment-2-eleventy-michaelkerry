@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Andersonville National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Andersonville National Historic Site</h3>
+                <br/>
+                <p>Nearly 13,000 men died on these grounds, a site that became infamous even before the Civil War ended. Their burial grounds became Andersonville National Cemetery, where veterans continue to be buried today. This place, where tens of thousands suffered captivity so others could be free, is also home to the National Prisoner of War Museum and serves as a memorial to all American prisoners of war.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Andersonville National Historic Site is located in southwest Georgia. The park is approximately 12 miles north of Americus and 11 miles south of Montezuma on GA-49.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>National Cemetery</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Incarceration</li>
+                                    
+                                    <li>Jails and Prisons</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Forced Marches</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>French and Indian War</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                    <li>War of 1812</li>
+                                    
+                                    <li>Mexican War</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Spanish-American War</li>
+                                    
+                                    <li>World War I</li>
+                                    
+                                    <li>World War II</li>
+                                    
+                                    <li>Korean War</li>
+                                    
+                                    <li>Vietnam War</li>
+                                    
+                                    <li>Cold War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Site of Camp Sumter Civil War Military Prison at Andersonville</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87F1CB-1DD8-B71B-0B8B6223F6173DF9.jpg" class="card-img-top" alt="A cannon sits out in front of a replica of part of the wooden stockade walls once at Andersonville" title="Camp Sumter Military Prison, known as Andersonville, was the deadliest ground of the Civil War. Nearly 13,000 American soldiers died here." />
+                            <div class="card-body">
+                                <p>Camp Sumter Military Prison, known as Andersonville, was the deadliest ground of the Civil War. Nearly 13,000 American soldiers died here.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Summer of 1865 at Andersonville Photo by A.J. Riddle</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87F605-1DD8-B71B-0B73B72CF996A70A.jpg" class="card-img-top" alt="A historic photo of thousands of emaciated Union soldiers held prisoner in 1865" title="Over 32,000 Union soldiers languished at Andersonville in August 1865 when this photo was taken by A.J. Riddle." />
+                            <div class="card-body">
+                                <p>Over 32,000 Union soldiers languished at Andersonville in August 1865 when this photo was taken by A.J. Riddle.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Andersonville National Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87F7DF-1DD8-B71B-0B5AA0A3945D8371.jpg" class="card-img-top" alt="Fog rests on a stone monument of a Civil War soldier standing among hundreds of graves." title="The site where the nearly 13,000 Union soldiers who died at Andersonville, designated as a National Cemetery in 1865, is still an active cemetery. Nearly 21,000 American military veterans rest here in honor." />
+                            <div class="card-body">
+                                <p>The site where the nearly 13,000 Union soldiers who died at Andersonville, designated as a National Cemetery in 1865, is still an active cemetery. Nearly 21,000 American military veterans rest here in honor.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Illinois Monument at Andersonville National Historic Site</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87F9B4-1DD8-B71B-0B5813FEB121237D.jpg" class="card-img-top" alt="A large stone monument with 2 Civil War soldiers, a female figure, and 2 children." title="Many states honored their fallen sons with monuments placed at Andersonville National Historic Site." />
+                            <div class="card-body">
+                                <p>Many states honored their fallen sons with monuments placed at Andersonville National Historic Site.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">National Prisoner of War Museum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87FB54-1DD8-B71B-0B9FD79A84D36209.jpg" class="card-img-top" alt="A military garrison cap with a small U.S. flag and silver bar in an exhibit case" title="Andersonville is the only National Park Service site with the mission of preserving the stories of all American Prisoners of War throughout history." />
+                            <div class="card-body">
+                                <p>Andersonville is the only National Park Service site with the mission of preserving the stories of all American Prisoners of War throughout history.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">White-tailed deer fawn resting at veteran's grave with US flag</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/069A5F46-BA35-6529-672522DB0BDE6DF0.jpg" class="card-img-top" alt="A spotted white-tailed deer fawn is curled up at the base of a headstone near a small US flag" title="Andersonville NHS preserves history and provides habitat for white-tailed deer and other wildlife." />
+                            <div class="card-body">
+                                <p>Andersonville NHS preserves history and provides habitat for white-tailed deer and other wildlife.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Memorial Day</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/06C549C6-AE27-9D26-5F77BD3D190AAE55.jpg" class="card-img-top" alt="Soldiers talk to a Boy Scout in a cemetery with small US flags decorating the headstones" title="Military staff, Boy Scouts, families and others come to honor those buried in Andersonville National Cemetery on Memorial Day weekend." />
+                            <div class="card-body">
+                                <p>Military staff, Boy Scouts, families and others come to honor those buried in Andersonville National Cemetery on Memorial Day weekend.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">National Prisoner of War Museum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/06FF3F8A-CC2E-A21D-AA6494A978FAF31E.jpg" class="card-img-top" alt="A large red brick building with raised skylights and large windows" title="The National Prisoner of War Museum, which serves as the visitor center, honors all American POWs from the Revolutionary War to present day." />
+                            <div class="card-body">
+                                <p>The National Prisoner of War Museum, which serves as the visitor center, honors all American POWs from the Revolutionary War to present day.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

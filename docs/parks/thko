@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Thaddeus Kosciuszko National Memorial</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Thaddeus Kosciuszko National Memorial</h3>
+                <br/>
+                <p>Visit the house where wounded Polish freedom fighter Thaddeus Kosciuszko lived and hear how this brilliant military engineer designed successful fortifications during the American Revolution. See the room where he received notable visitors such as Chief Little Turtle and Thomas Jefferson.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Thaddeus Kosciuszko National Memorial is located at 301 Pine Street in Philadelphia. It is within walking distance of Independence Hall and the Liberty Bell Center. Parking is quite limited near the site. The site is easily accessible by public transportation. See the park's web page for directions.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Engineering</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kosciuszko House, exterior</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7ADDD2-1DD8-B71B-0B128C61D6236420.jpg" class="card-img-top" alt="Color photo showing a three story brick rowhouse on a corner lot." title="The Thaddeus Kosciuszko house is a national memorial to an international champion of human rights. Kosciuszko fought in the American Revolutionary War, as well as an uprising in his native Poland.." />
+                            <div class="card-body">
+                                <p>The Thaddeus Kosciuszko house is a national memorial to an international champion of human rights. Kosciuszko fought in the American Revolutionary War, as well as an uprising in his native Poland..</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kosciuszko House - exhibit area</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/4706DA8B-CF75-5928-70521FE49F65E707.jpg" class="card-img-top" alt="Photo of exhibit area with exhibit panels showing images, text, and a map of the eastern U.S." title="Explore the exhibit area to learn about Polish military engineer Thaddeus Kosciuszko's role in designing fortifications at West Point." />
+                            <div class="card-body">
+                                <p>Explore the exhibit area to learn about Polish military engineer Thaddeus Kosciuszko's role in designing fortifications at West Point.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bedroom</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7ADF1B-1DD8-B71B-0BDD41F7E4C51CD8.jpg" class="card-img-top" alt="Color photo of the bedroom with a orange upholstered sofa and a bed in the small room." title="Wounded Polish freedom fighter Thaddeus Kosciuszko  received notable visitors in this home, including Chief Little Turtle and Thomas Jefferson" />
+                            <div class="card-body">
+                                <p>Wounded Polish freedom fighter Thaddeus Kosciuszko  received notable visitors in this home, including Chief Little Turtle and Thomas Jefferson</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kosciuszko House, ca. 1960</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AE068-1DD8-B71B-0BDCF6A732223CC5.jpg" class="card-img-top" alt="Black and white photo, circa 1960, showing a three story brick rowhouse situated on a corner lot." title="The home where Thaddeus Kosciuszko once lived fell into disrepair.  The site became a National Memorial in 1972." />
+                            <div class="card-body">
+                                <p>The home where Thaddeus Kosciuszko once lived fell into disrepair.  The site became a National Memorial in 1972.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

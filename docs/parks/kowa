@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Korean War Veterans Memorial</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Korean War Veterans Memorial</h3>
+                <br/>
+                <p>At the Korean War Veterans Memorial, "Our nation honors her sons and daughters who answered the call to defend a country they never knew and a people they never met."</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">GPS Coordinates: 38.887778, -77.047660 Address: 10 Daniel French Dr, SW, Washington, D.C. Nearest Intersection: Independence Ave. & Daniel Chester French Dr. SW</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Korean War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Dawn Breaks into the future</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C822E13-1DD8-B71B-0B426CD34F183D32.jpg" class="card-img-top" alt="Dawn Picture of the statues within the memorial" title="Sun Rises over the statues of the Memorial" />
+                            <div class="card-body">
+                                <p>Sun Rises over the statues of the Memorial</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Korean War Veterans Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5C956797-B3A9-16E1-B8B935717288530E.jpg" class="card-img-top" alt="The American flag is centered in the backgrounds between two walkways." title="Korean War Veterans Memorial in the summer" />
+                            <div class="card-body">
+                                <p>Korean War Veterans Memorial in the summer</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Korean War Veterans Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5CCA16EA-9898-5840-985A8CAF54604D29.jpg" class="card-img-top" alt="Statues of servicemen from the Korean War with fall foliage in the background" title="The Korean War Veterans Memorial with fall foliage" />
+                            <div class="card-body">
+                                <p>The Korean War Veterans Memorial with fall foliage</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wall of Faces</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F0BEA1C1-01AB-D4B4-4A16B3080BF2AD80.jpg" class="card-img-top" alt="Faces of soldiers are etched onto a black granite wall" title="The Wall of Faces remembers soldiers that fought during the Korean War." />
+                            <div class="card-body">
+                                <p>The Wall of Faces remembers soldiers that fought during the Korean War.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Freedom Is Not Free</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F0DCE2DE-CB5C-1B53-2DAD37F5B10D68A6.jpg" class="card-img-top" alt="Nineteen stainless steel statues reflect on a black granite wall" title="The nineteen statues reflect on the black granite wall creating an illusion of thirty-eight soldiers. The number thirty-eight represents the 38th parallel latitude where the Korean borders are located." />
+                            <div class="card-body">
+                                <p>The nineteen statues reflect on the black granite wall creating an illusion of thirty-eight soldiers. The number thirty-eight represents the 38th parallel latitude where the Korean borders are located.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

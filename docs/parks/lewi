@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Lewis and Clark National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Lewis and Clark National Historical Park</h3>
+                <br/>
+                <p>Explore the timeless rainforests and majestic coastal vistas. Discover the rich heritage of the native people. Unfold the dramatic stories of America's most famous explorers. The park encompasses sites along the Columbia River and the Pacific Coast. Follow in the footsteps of the explorers and have an adventure in history.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The main site of Fort Clatsop is located south of Astoria just over Youngs Bay, east of the town of Warrenton, and approximately 14 miles north of Seaside. Our satellite sites include: Netul Landing, located 1.25 miles south of the main Fort Clatsop site. Middle Village, located on the 101 left off the Astoria-Megler Bridge. Dismal Nitch, located on the 401 right off the Astoria-Megler Bridge. The Salt Works, located off the Lewis and Clark Way in Seaside, Oregon. Keep an eye out for brown signs.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Gathering and Foraging</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Logging and Timber Cutting</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Elk</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Rainforest</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Marshes</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Clatsop</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/54612AA3-0734-3D97-137865DFB9918D11.jpg" class="card-img-top" alt="A fifty foot square wooden fort surrounded by tall trees in a forest." title="The second replica of Fort Clatsop is the main attraction at Lewis and Clark National Historical Park" />
+                            <div class="card-body">
+                                <p>The second replica of Fort Clatsop is the main attraction at Lewis and Clark National Historical Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Clatsop Visitor Center and Sign</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/577C80DE-B699-CB42-DF941F25F226A9B7.jpg" class="card-img-top" alt="A wooden rectangular sign reading Fort Clatsop eclipsing a wide one story building and flag pole" title="The entrance sign and Fort Clatsop visitor center marks the main entrance point to the replica of Fort Clatsop itself." />
+                            <div class="card-body">
+                                <p>The entrance sign and Fort Clatsop visitor center marks the main entrance point to the replica of Fort Clatsop itself.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Clatsop Main Entrance Sign</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/576ABE68-A03E-AAE6-D195912438D64556.jpg" class="card-img-top" alt="A wooden sign standing as a tall rectangle, the words Fort Clatsop carved of wood placed on it." title="The entrance sign at the Visitor Center was created in a style that reflects the actual Fort itself, wooden stakes and all." />
+                            <div class="card-body">
+                                <p>The entrance sign at the Visitor Center was created in a style that reflects the actual Fort itself, wooden stakes and all.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Netul River Trail Bridge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/562BF04B-90F9-16EA-90218C826AE639C9.jpg" class="card-img-top" alt="Looking directly down a short railed bridge towards a calm river surrounded by leafless trees." title="The Netul River Trail follows 1.25 miles of river and crosses over inlets that salmon and other fish rest at." />
+                            <div class="card-body">
+                                <p>The Netul River Trail follows 1.25 miles of river and crosses over inlets that salmon and other fish rest at.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canoe Bow on the Netul River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/57362028-C232-556B-6335D32C2A3C2B29.jpg" class="card-img-top" alt="The front end of a canoe on a river, the water still and reflecting large trees and clouds." title="Paddling on the Lewis and Clark River allows visitors to experience the site from an entirely different perspective, the tidal influenced waters are often gentle and serene." />
+                            <div class="card-body">
+                                <p>Paddling on the Lewis and Clark River allows visitors to experience the site from an entirely different perspective, the tidal influenced waters are often gentle and serene.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kayaks from Otter Point</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D0EFF241-D9EA-F81E-CD6F5E6EDE2B7C48.jpg" class="card-img-top" alt="Paddlers in warm-colored kayaks cluster along the grassy banks of a river's side channel." title="Every summer, rangers accompany dozens of visitors on paddle tours of the Lewis and Clark River." />
+                            <div class="card-body">
+                                <p>Every summer, rangers accompany dozens of visitors on paddle tours of the Lewis and Clark River.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

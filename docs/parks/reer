@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Reconstruction Era National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Reconstruction Era National Historical Park</h3>
+                <br/>
+                <p>The Reconstruction era,1861-1900 the historic period in which the United States grappled with the question of how to integrate millions of newly freed African Americans into social, political,economic, and labor systems, was a time of significant transformation. The people, places, and events in Beaufort County, South Carolina, reflect on the most important issues of this tumultuous time period.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park's headquarters is located at 706 Craven Street in Beaufort, South Carolina, directly across the street from the Beaufort Visitor Center in the Beaufort Arsenal, and next door to the downtown Beaufort Public Library.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Reconstruction</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Brick Baptist Church</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C1E96A3D-D248-AD79-ABDA8E7BE3A38597.jpg" class="card-img-top" alt="A two story brick building flanked by large live oak trees" title="Brick Baptist Church, located on the Penn Center National Historic Landmark District, was home to the Penn School between 1862-1865" />
+                            <div class="card-body">
+                                <p>Brick Baptist Church, located on the Penn Center National Historic Landmark District, was home to the Penn School between 1862-1865</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Old Beaufort Fire House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C1F3E299-D51F-831A-B9361E36856265EB.jpg" class="card-img-top" alt="A one story brick building with large arched windows" title="The Old Beaufort Firehouse, located in downtown Beaufort, serves as the park headquarters and visitor center" />
+                            <div class="card-body">
+                                <p>The Old Beaufort Firehouse, located in downtown Beaufort, serves as the park headquarters and visitor center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A Ranger Guided Tour at Brick Church</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C20B34B0-BC7B-36E2-751393ECC8B2CB84.jpg" class="card-img-top" alt="A park ranger holds a sign while talking to young people." title="Ranger guided tours and programs are a great way to explore Reconstruction Era National Historical Park" />
+                            <div class="card-body">
+                                <p>Ranger guided tours and programs are a great way to explore Reconstruction Era National Historical Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Camp Saxton</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C278D9AB-9587-6489-705DDF54D1716B82.jpg" class="card-img-top" alt="A Park Ranger points at the ruins of a tabby wall with three people looking on" title="Camp Saxton it partly located on SCDNR and US Navy Property. It was here that Black soldiers during the Civil War took their first steps towards citizenship." />
+                            <div class="card-body">
+                                <p>Camp Saxton it partly located on SCDNR and US Navy Property. It was here that Black soldiers during the Civil War took their first steps towards citizenship.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Darrah Hall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C2883716-EE20-5EBD-1B8DF629D3297F89.jpg" class="card-img-top" alt="A crowd of people stand in front of a large white wooden building" title="Darrah Hall is the oldest building on the campus of the Penn Center, and serves as the base of operations for the park in the Penn Center National Historic Landmark District" />
+                            <div class="card-body">
+                                <p>Darrah Hall is the oldest building on the campus of the Penn Center, and serves as the base of operations for the park in the Penn Center National Historic Landmark District</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Penn Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C2997746-D47E-84C7-1C854884CDEF916C.jpg" class="card-img-top" alt="A large crowd of people gather in a field. In the foreground is an NPS sign" title="The Penn Center is one of the park's partners to help preserve and tell the story of education during the Reconstruction Era" />
+                            <div class="card-body">
+                                <p>The Penn Center is one of the park's partners to help preserve and tell the story of education during the Reconstruction Era</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

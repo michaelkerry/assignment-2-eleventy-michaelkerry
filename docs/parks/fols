@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fort Larned National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fort Larned National Historic Site</h3>
+                <br/>
+                <p>Discover a complete and authentic army post from the 1860s -1870s! This well-preserved fort on the Santa Fe Trail shares a tumultuous history of the Indian Wars era. The sandstone constructed buildings sheltered troops who were known as the Guardians of the Santa Fe Trail.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Fort Larned National Historic Site is located on KS Hwy 156, six miles west of Larned, Kansas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Latino American Heritage</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Artillery Demonstration</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B90DB-1DD8-B71B-0BC969A75425CFE9.jpg" class="card-img-top" alt="Men in 19th century U.S. Army uniforms fire a reproduction period cannon." title="Volunteers demonstrating the use of a mountain howitzer during one of Fort Larned's living history weekends." />
+                            <div class="card-body">
+                                <p>Volunteers demonstrating the use of a mountain howitzer during one of Fort Larned's living history weekends.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Aerial Photo of Fort Larned</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B8DB1-1DD8-B71B-0B0526F3A76B7F39.jpg" class="card-img-top" alt="Sandstone army buildings arranged in a square around parade ground." title="The historic sandstone buildings at Fort Larned date to 1868" />
+                            <div class="card-body">
+                                <p>The historic sandstone buildings at Fort Larned date to 1868</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Blacksmith Demonstrations at Fort Larned</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B8F64-1DD8-B71B-0B93FAD14C1B726B.jpg" class="card-img-top" alt="Man in leather apron hammering hot steel in blacksmith shop." title="The blacksmith demonstration is one of the most popular living history demonstrations." />
+                            <div class="card-body">
+                                <p>The blacksmith demonstration is one of the most popular living history demonstrations.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Flag Retreat</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B9290-1DD8-B71B-0B4B809A91A8385F.jpg" class="card-img-top" alt="Men in 19th century U.S. Army uniforms lower an American flag." title="Volunteers help recreate the U.S. Army flag lowering ceremony known as Retreat." />
+                            <div class="card-body">
+                                <p>Volunteers help recreate the U.S. Army flag lowering ceremony known as Retreat.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitors in the Barracks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B93FD-1DD8-B71B-0B9A3D7F91E51630.jpg" class="card-img-top" alt="Man in 19th century U.S. Army uniform interacts with visitors in period barracks." title="A volunteer shows visitors how soldiers lived during the 1860s at Fort Larned." />
+                            <div class="card-body">
+                                <p>A volunteer shows visitors how soldiers lived during the 1860s at Fort Larned.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visiting Santa</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B958F-1DD8-B71B-0B7BE1F935C61FC0.jpg" class="card-img-top" alt="Three young children having their picture taken with Santa Claus in a period room." title="Young visitors get their picture taken with Santa during the fort's Christmas Past event." />
+                            <div class="card-body">
+                                <p>Young visitors get their picture taken with Santa during the fort's Christmas Past event.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Buffalo Soldiers</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7B972A-1DD8-B71B-0BA65E810A1BED99.jpg" class="card-img-top" alt="African American men in 19th century cavalry uniforms on horseback." title="Buffalo Soldier re-enactors help bring Fort Larned's history to life." />
+                            <div class="card-body">
+                                <p>Buffalo Soldier re-enactors help bring Fort Larned's history to life.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

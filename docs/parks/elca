@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>El Camino Real de Tierra Adentro National Historic Trail</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">El Camino Real de Tierra Adentro National Historic Trail</h3>
+                <br/>
+                <p>Travel along El Camino Real de Tierra Adentro National Historic Trail to experience and learn from a complicated legacy of 300 years of conflict, cooperation, and cultural exchange between a variety of empires—European and non-European alike.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">You can visit many sites along El Camino Real de Tierra Adentro National Historic Trail over the 404-mile U.S. historic route (with thousands of additional miles in Mexico) that crosses New Mexico and Texas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Theater</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Missions</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Mexican War</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kuaua Ruin in Coronado Historic Site, Bernalillo, New Mexico</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A6685-1DD8-B71B-0B18BFB9BABA6FCD.jpg" class="card-img-top" alt="tan-colored pueblo Indian ruins with blue sky and three people" title="The Tiwa pueblo of Kuaua lies in ruin at Coronado Historic Site. The site includes a rebuilt kiva that displays reproductions of original murals adorning its walls. Be sure to go to the visitor center where some of the original murals are displayed." />
+                            <div class="card-body">
+                                <p>The Tiwa pueblo of Kuaua lies in ruin at Coronado Historic Site. The site includes a rebuilt kiva that displays reproductions of original murals adorning its walls. Be sure to go to the visitor center where some of the original murals are displayed.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">El Rancho de las Golondrinas, La Cienega, New Mexico</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A67D0-1DD8-B71B-0BA03160D7947352.jpg" class="card-img-top" alt="adobe buildings including two beehive-looking ovens with people in a courtyard" title="El Rancho de las Golondrinas was a historic paraje (stopping place) along El Camino Real. “The ranch of the swallows” dates from the early 1700s, and is now being used as a living history museum." />
+                            <div class="card-body">
+                                <p>El Rancho de las Golondrinas was a historic paraje (stopping place) along El Camino Real. “The ranch of the swallows” dates from the early 1700s, and is now being used as a living history museum.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jornada del Muerto, County Roads A013 & E070, Sierra & Doña Ana Counties, New Mexico</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A6943-1DD8-B71B-0B828BE24AE2C304.jpg" class="card-img-top" alt="shrubby desert scene with people walking under a cloud-filled sky" title="Walk in the footsteps of settlers from the 1600s who had to walk along this dreaded yet unavoidable section of El Camino Real: Jornada del Muerto or Dead Man’s Journey." />
+                            <div class="card-body">
+                                <p>Walk in the footsteps of settlers from the 1600s who had to walk along this dreaded yet unavoidable section of El Camino Real: Jornada del Muerto or Dead Man’s Journey.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Selden Historic Site, Radium Springs, New Mexico</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A6A93-1DD8-B71B-0B25C2DE5079660E.jpg" class="card-img-top" alt="fort ruins in the sunlight with cottonwood trees on the left" title="Fort Selden was built near the town of Las Cruces in 1865 and housed troops for 25 years. The visitor center offers exhibits on frontier military life during the fort’s heyday and the grounds are self-guided." />
+                            <div class="card-body">
+                                <p>Fort Selden was built near the town of Las Cruces in 1865 and housed troops for 25 years. The visitor center offers exhibits on frontier military life during the fort’s heyday and the grounds are self-guided.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Presidio Chapel of San Elizario, Mission Trail, El Paso, Texas</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A6C65-1DD8-B71B-0B2FFD7FF839895F.jpg" class="card-img-top" alt="large white chapel under blue sky" title="Spanish troops built a presidio (fort) and chapel at this site during the 1780s to protect settlements in the lower Río Grande Valley downstream from El Paso, Texas." />
+                            <div class="card-body">
+                                <p>Spanish troops built a presidio (fort) and chapel at this site during the 1780s to protect settlements in the lower Río Grande Valley downstream from El Paso, Texas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

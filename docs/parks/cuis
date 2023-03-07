@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Cumberland Island National Seashore</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Cumberland Island National Seashore</h3>
+                <br/>
+                <p>St Marys is the gateway to Cumberland Island, Georgia's largest and southernmost barrier island. Here pristine maritime forests, undeveloped beaches and wide marshes whisper the stories of both man and nature. Natives, missionaries, enslaved African Americans and Wealthy Industrialists all walked here. Cumberland Island is also home to over 9,800 acres of Congressionally designated Wilderness.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Cumberland Island is only accessible by ferry or private boat. These directions are to the mainland visitor center in St. Marys, GA. Driving Directions To reach the visitor center from Interstate 95: • Take Exit 3 for US 40 • Take US 40 East toward “Historic Downtown St. Marys” • US 40 becomes Osborne Rd. Continue on until you reach the waterfront • Turn right on St. Marys Rd • The visitor center will be two blocks down on your left (113 St. Marys St W, St Marys GA 31558)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Swimming</li>
+                                    
+                                    <li>Saltwater Swimming</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Vegetated Dunes</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C803FAD-1DD8-B71B-0BF8968CDECF2468.jpg" class="card-img-top" alt="Sand dunes covered with shrubs and grasses" title="Vegetation holds dunes in place providing a barrier to erosion forces and creating essential interdune meadows to support island life." />
+                            <div class="card-body">
+                                <p>Vegetation holds dunes in place providing a barrier to erosion forces and creating essential interdune meadows to support island life.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Home To Wildlife</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C804128-1DD8-B71B-0B7FDC20E9D9373F.jpg" class="card-img-top" alt="Alligator resting on a log in pond" title="Cumberland Island National Seashore encompasses a variety of forest, marsh, and coastal landscapes providing a home for numerous species including American Alligators." />
+                            <div class="card-body">
+                                <p>Cumberland Island National Seashore encompasses a variety of forest, marsh, and coastal landscapes providing a home for numerous species including American Alligators.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Undeveloped Coast</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C804293-1DD8-B71B-0B3C50A212C19199.jpg" class="card-img-top" alt="Ocean beach at sunrise" title="Cumberland Island National Seashore encompasses nearly 18 miles of undeveloped beach offering recreation for visitors and essential nesting area for birds and sea turtles." />
+                            <div class="card-body">
+                                <p>Cumberland Island National Seashore encompasses nearly 18 miles of undeveloped beach offering recreation for visitors and essential nesting area for birds and sea turtles.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Plum Orchard Mansion</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C804721-1DD8-B71B-0B674DD331D1FC2B.jpg" class="card-img-top" alt="large, white mansion behind oak trees draped with Spanish Moss" title="Visitors can take a guided tour of the Plum Orchard Mansion and experience the luxuries of Victorian high society as well as the effort and ingenuity it took to make it possible." />
+                            <div class="card-body">
+                                <p>Visitors can take a guided tour of the Plum Orchard Mansion and experience the luxuries of Victorian high society as well as the effort and ingenuity it took to make it possible.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Island Bluffs Shaped By Tides</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C805318-1DD8-B71B-0BEE73A8A7441F08.jpg" class="card-img-top" alt="rippled sands of a beach in front of pine tree covered bluffs" title="Tidal forces continue to shape the land today as they have for thousands of years forming high bluffs used for fortifications and ship docking throughout the island’s history." />
+                            <div class="card-body">
+                                <p>Tidal forces continue to shape the land today as they have for thousands of years forming high bluffs used for fortifications and ship docking throughout the island’s history.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Main Road</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C805E82-1DD8-B71B-0B894349D0BBFF6B.jpg" class="card-img-top" alt="huge oak trees and palm shrubs line a sand road" title="While visitors to the island cannot bring vehicles, they can travel the historic main park road by foot and bicycle. Some remaining island residents will still drive vehicles on the road to reach their residences as they have for generations." />
+                            <div class="card-body">
+                                <p>While visitors to the island cannot bring vehicles, they can travel the historic main park road by foot and bicycle. Some remaining island residents will still drive vehicles on the road to reach their residences as they have for generations.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Dungeness Ruins</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C806429-1DD8-B71B-0B9351B8366AB7C2.jpg" class="card-img-top" alt="brick and stone ruins of a large mansion at sunset under colorful clouds" title="Dugeness was the largest mansion built on the island as part of the Carnegie Estate. Though lost to fire in 1959, the ruins of the mansion and several of its support structures are a reminder of the island’s rich history." />
+                            <div class="card-body">
+                                <p>Dugeness was the largest mansion built on the island as part of the Carnegie Estate. Though lost to fire in 1959, the ruins of the mansion and several of its support structures are a reminder of the island’s rich history.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Settlement</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8065C5-1DD8-B71B-0B3CC16BCC695D70.jpg" class="card-img-top" alt="small white one room church, old red house in the background, under cloudy skies" title="The remote north end of the island is home to the First African Baptist Church and The Settlement, where African American residents were able to purchase their first deeded property on the island at the end of the 1800s." />
+                            <div class="card-body">
+                                <p>The remote north end of the island is home to the First African Baptist Church and The Settlement, where African American residents were able to purchase their first deeded property on the island at the end of the 1800s.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tidal Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C806748-1DD8-B71B-0B9947D4C0E897DE.jpg" class="card-img-top" alt="tidal creek at low tide surrounded by palm and oak trees" title="Rising tides bring valuable nutrients into tidal creeks, while receding tides remove waste. This makes the tide cycle the beating heart of the island’s tidal creeks, salt marshes, and estuaries." />
+                            <div class="card-body">
+                                <p>Rising tides bring valuable nutrients into tidal creeks, while receding tides remove waste. This makes the tide cycle the beating heart of the island’s tidal creeks, salt marshes, and estuaries.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

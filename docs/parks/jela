@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Jean Lafitte National Historical Park and Preserve</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Jean Lafitte National Historical Park and Preserve</h3>
+                <br/>
+                <p>In Jean Lafitte's day, silver and gold filled a pirate's treasure chest, but today's treasures are people, places, and memories. Discover New Orleans’ rich cultural mix. Learn Cajun traditions from people who live them. Watch an alligator bask on a bayou’s bank. Walk in the footsteps of the men who fought at 1815’s Battle of New Orleans. Follow the link to discover the treasure of Jean Lafitte.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Jean Lafitte's headquarters and the park's French Quarter Visitor Center is located at 419 Decatur St. in New Orleans. There are five other park sites scattered throughout south Louisiana. For information on all of the park sites and visitor centers, see the Directions URL.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Arts and Crafts</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Piracy and Privateering</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>US Navy</li>
+                                    
+                                    <li>US Marines</li>
+                                    
+                                    <li>US Coast Guard</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Music</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Reconstruction</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>War of 1812</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Alligators or Crocodiles</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Marshes</li>
+                                    
+                                    <li>Swamps</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Barataria Preserve of Jean Lafitte National Historical Park and Preserve</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C845D16-1DD8-B71B-0B04181AABF4F0C1.jpg" class="card-img-top" alt="Spanish moss hangs from live oak tree" title="Spanish moss and lush vegetation provide glimpses of Louisiana's wild wetlands at Jean Lafitte's Barataria Preserve." />
+                            <div class="card-body">
+                                <p>Spanish moss and lush vegetation provide glimpses of Louisiana's wild wetlands at Jean Lafitte's Barataria Preserve.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Chalmete Battlefield at Jean Lafitte National Historical Park and Preserve</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C845E7E-1DD8-B71B-0BE1AC184B0AF650.jpg" class="card-img-top" alt="An oak tree arches over a cannon-guarded rampart with historic house and American flag in background" title="Chalmette Battlefield's American rampart and cannons still guard the site of the Battle of New Orleans in 1815." />
+                            <div class="card-body">
+                                <p>Chalmette Battlefield's American rampart and cannons still guard the site of the Battle of New Orleans in 1815.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Chalmette National Cemetery at Jean Lafitte National Historical Park and Preserve</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8461CD-1DD8-B71B-0BA0A3EAB3AFD319.jpg" class="card-img-top" alt="Setting sun lights up cemetery headstones" title="Established during the Civil War, Chalmette National Cemetery's 14,000+ headstones pay tribute to those buried there." />
+                            <div class="card-body">
+                                <p>Established during the Civil War, Chalmette National Cemetery's 14,000+ headstones pay tribute to those buried there.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">French Quarter Visitor Center of Jean Lafitte National Historical Park and Preserve</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C846B2F-1DD8-B71B-0B8FA8F547ADCE23.jpg" class="card-img-top" alt="Visitor center exhibit titled "Crossroads of Cultures"" title="Hundreds of years of history and thousands of people from all over the world have created New Orleans' distinctive cultural mix." />
+                            <div class="card-body">
+                                <p>Hundreds of years of history and thousands of people from all over the world have created New Orleans' distinctive cultural mix.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Acadian Cultural Center of Jean Lafitte National Historical Park and Preserve</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C846C76-1DD8-B71B-0BCC7D9571EBF0FA.jpg" class="card-img-top" alt="Model of an early Acadian home sits in a glass case" title="Bringing skills and traditions from Nova Scotia, the Acadian exiles in Louisiana found a new home and a new name---Cajuns." />
+                            <div class="card-body">
+                                <p>Bringing skills and traditions from Nova Scotia, the Acadian exiles in Louisiana found a new home and a new name---Cajuns.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wetlands Acadian Cultural Center of Jean Lafitte National Historical Park and Preserve</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C846EF3-1DD8-B71B-0B4D8391F7C91BC6.jpg" class="card-img-top" alt="Exhibit case full of musical instruments" title="Acadian (Cajun) music began in cabins and dancehalls and has become famous worldwide." />
+                            <div class="card-body">
+                                <p>Acadian (Cajun) music began in cabins and dancehalls and has become famous worldwide.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Prairie Acadian Cultural Center of Jean Lafitte National Historical Park and Preserve</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/99468C42-EE93-353D-DC5C106FC356B7F8.jpg" class="card-img-top" alt="guitar sits on a dimly lit porch styled stage" title="The Music Porch at the Prairie Acadian Cultural Center in Eunice, LA" />
+                            <div class="card-body">
+                                <p>The Music Porch at the Prairie Acadian Cultural Center in Eunice, LA</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

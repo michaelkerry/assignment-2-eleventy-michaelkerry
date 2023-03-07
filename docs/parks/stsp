@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Star-Spangled Banner National Historic Trail</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Star-Spangled Banner National Historic Trail</h3>
+                <br/>
+                <p>For three years the young United States was embroiled in the War of 1812 and the Chesapeake Bay region felt the brunt of it, choked by shipping blockades and ravaged by enemy raids. Through sites and landscapes in Virginia, the District of Columbia, and Maryland, the Trail tells the stories of the events, people, and places that led to the birth of the U.S. national anthem.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Trail's headquarters is at Fort McHenry National Monument and Historic Shrine. The park is three miles southeast of the Baltimore Inner Harbor and just off I-95. Follow the brown Fort McHenry directional signs along all major routes to the park. From I-95 northbound, take Exit 55 Key Highway and follow Fort McHenry signs. To visit other trail locations, download a trail map.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Mountain Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Geocaching</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Coastal Defenses</li>
+                                    
+                                    <li>Maritime - Military</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>US Navy</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Music</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>War of 1812</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">PRIDE OF BALTIMORE II</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F108B920-E383-8D58-961E7B7E0C438B74.jpg" class="card-img-top" alt="A tall ship sails on the water." title="The PRIDE OF BALTIMORE II is a sailing ambassador for the Trail." />
+                            <div class="card-body">
+                                <p>The PRIDE OF BALTIMORE II is a sailing ambassador for the Trail.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Sotterley</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F12D5A96-94D4-C33A-0DA8312DDC17F436.jpg" class="card-img-top" alt="Image of a large historic house with green lawn in foreground." title="Historic Sotterley" />
+                            <div class="card-body">
+                                <p>Historic Sotterley</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">White House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F14C825D-09CC-8288-55B32C6E247EE80A.jpg" class="card-img-top" alt="A close-up of the White House portico." title="British forces set fire to the original home of the U.S. president on August 26, 1814." />
+                            <div class="card-body">
+                                <p>British forces set fire to the original home of the U.S. president on August 26, 1814.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Paddling on the Sassafras</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F167A7F8-CD7C-EDB1-A19B51F7A6C1B4BE.jpg" class="card-img-top" alt="A person in a yellow kayak paddles through lotus blossoms." title="The Sassafras River Water Trail is one of the many paddle trails to explore along the Star-Spangled Banner Trail" />
+                            <div class="card-body">
+                                <p>The Sassafras River Water Trail is one of the many paddle trails to explore along the Star-Spangled Banner Trail</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Living History at Fort McHenry</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F32EE65B-D0CD-D7B5-209E00AE83CD2C7B.jpg" class="card-img-top" alt="People in 18th century period clothing standing in a line and firing muskets." title="Living history at Fort McHenry National Monument and Historic Shrine." />
+                            <div class="card-body">
+                                <p>Living history at Fort McHenry National Monument and Historic Shrine.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Mississippi National River & Recreation Area</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Mississippi National River & Recreation Area</h3>
+                <br/>
+                <p>In the middle of a bustling urban setting, this 72 mile river park offers quiet stretches for fishing, boating and canoeing, birdwatching, bicycling, and hiking. And there are plenty of visitor centers and trails that highlight the fascinating human history of the Mississippi River. This a great place to start your exploration of this important river.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Limited metered street parking is available on nearby streets near park headquarters. Several parking ramps are available nearby including the Kellogg Square parking ramp. Visitor Centers are located in the lobby of the Science Museum of Minnesota (120 Kellogg Blvd East, St. Paul, MN) and at the Upper St. Anthony Lock and Dam (1 Portland Ave, Minneapolis, MN).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Mountain Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Geocaching</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snow Play</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Dams</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mills</li>
+                                    
+                                    <li>Music</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Dunes</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Freshwater Springs</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Voyageur Canoes</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CDBEB-1DD8-B71B-0BA93C0F0BE1C5FB.jpg" class="card-img-top" alt="Large canoes and crews paddle down the river amidst autumnal color." title="The park often uses big, safe Voyageur canoes in our programs." />
+                            <div class="card-body">
+                                <p>The park often uses big, safe Voyageur canoes in our programs.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Storms over Grey Cloud Dunes</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D729A-1DD8-B71B-0B1F6B293E7BF9E8.jpg" class="card-img-top" alt="Gray clouds over flowers growing on sand dunes." title="Storm clouds begin gathering over Grey Cloud Dunes Scientific and Natural Area" />
+                            <div class="card-body">
+                                <p>Storm clouds begin gathering over Grey Cloud Dunes Scientific and Natural Area</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Modern day Voyageurs Paddle the Mississippi River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CDDA4-1DD8-B71B-0BE698CCBA6CBD49.jpg" class="card-img-top" alt="A large canoe filled with paddlers on the river surrounded by autumnal color." title="A Voyageur canoe makes headway up a river while surrounded by autumnal color." />
+                            <div class="card-body">
+                                <p>A Voyageur canoe makes headway up a river while surrounded by autumnal color.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Great Egret Fishes the Mississippi River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CDF90-1DD8-B71B-0B292AF265CB2054.jpg" class="card-img-top" alt="A large, long-necked, long-legged bird wades in the river." title="Wildlife is a common sight along the river." />
+                            <div class="card-body">
+                                <p>Wildlife is a common sight along the river.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Savanna at Coldwater Spring</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CE12B-1DD8-B71B-0B33804962A6982D.jpg" class="card-img-top" alt="Large trees are widely spaced in a grassland." title="Visitors can glimpse the past in the Coldwater Spring savanna restoration." />
+                            <div class="card-body">
+                                <p>Visitors can glimpse the past in the Coldwater Spring savanna restoration.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canoeing the Vermillion River Backwaters</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D7738-1DD8-B71B-0BD2B0BB8C3F591F.jpg" class="card-img-top" alt="A canoeist paddles through a water channel between islands." title="The Vermillion River Bottoms are a tangle of waterways where the river meets the Mississippi River." />
+                            <div class="card-body">
+                                <p>The Vermillion River Bottoms are a tangle of waterways where the river meets the Mississippi River.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canoeing through Lotus Blossoms</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D73FE-1DD8-B71B-0B330D18919FFBC5.jpg" class="card-img-top" alt="A canoeist reaches out and holds a large, yellow flower." title="Lotus beds bloom in the backwaters of the Mississippi National River and Recreation Area and provide canoeists an unexpected visual treat." />
+                            <div class="card-body">
+                                <p>Lotus beds bloom in the backwaters of the Mississippi National River and Recreation Area and provide canoeists an unexpected visual treat.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Water Source for a Fort</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D75B5-1DD8-B71B-0BF191176CEBE762.jpg" class="card-img-top" alt="Water tumbles down layers of rock with an old stone spring house in the background." title="The Spring House at Coldwater Spring provided water to Historic Fort Snelling and the Upper Post." />
+                            <div class="card-body">
+                                <p>The Spring House at Coldwater Spring provided water to Historic Fort Snelling and the Upper Post.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Building a Nest</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D7E72-1DD8-B71B-0B847D9BFF1C6045.jpg" class="card-img-top" alt="A large, long-necked, long-legged bird flies overhead carrying a branch." title="Blue herons are a common sight on the Mississippi River and its backwaters." />
+                            <div class="card-body">
+                                <p>Blue herons are a common sight on the Mississippi River and its backwaters.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canoeing Past Gulls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D791B-1DD8-B71B-0BB02885F2438F0E.jpg" class="card-img-top" alt="Gulls stand on a floating log while a canoe passes in the background." title="Canoeists find a wide variety of wildlife in the backwaters of the Mississippi River." />
+                            <div class="card-body">
+                                <p>Canoeists find a wide variety of wildlife in the backwaters of the Mississippi River.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall Colors</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E66FE320-E651-0A39-3DF6FD35B0DE4809.jpg" class="card-img-top" alt="Trees showing fall colors on their leaves along the river." title="Vibrant fall colors shown along the river in St. Paul, Minnesota." />
+                            <div class="card-body">
+                                <p>Vibrant fall colors shown along the river in St. Paul, Minnesota.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Clouds Over the Mississippi River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D800A-1DD8-B71B-0BBEDE755EC530BF.jpg" class="card-img-top" alt="White clouds streak the blue sky over a river flanked by sandy shorelines and green trees." title="The upper stretch of the Mississippi River in the Mississippi National River and Recreation Area is often referred to as the "Prairie River" due to its gentle banks. Further downstream is the Mississippi River gorge and below that is the floodplain river" />
+                            <div class="card-body">
+                                <p>The upper stretch of the Mississippi River in the Mississippi National River and Recreation Area is often referred to as the "Prairie River" due to its gentle banks. Further downstream is the Mississippi River gorge and below that is the floodplain river</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

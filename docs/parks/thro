@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Theodore Roosevelt National Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Theodore Roosevelt National Park</h3>
+                <br/>
+                <p>When Theodore Roosevelt came to Dakota Territory to hunt bison in 1883, he was a skinny, young, spectacled dude from New York. He could not have imagined how his adventure in this remote and unfamiliar place would forever alter the course of the nation. The rugged landscape and strenuous life that TR experienced here would help shape a conservation policy that we still benefit from today.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Theodore Roosevelt National Park is located in the Badlands of western North Dakota. There are three units to the park. The South Unit entrance is in the town of Medora, ND off of Interstate 94 exits 24 and 27. The North Unit entrance is on Highway 85 approximately 14 miles south of Watford City, ND. The remote Elkhorn Ranch Unit sits roughly in the middle of the North and South Units and is accessed via gravel roads. Consult park staff for directions to the Elkhorn Ranch Unit.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Horse Camping (see also Horse/Stock Use)</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Off-Trail Permitted Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horse Camping (see also camping)</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Ranches</li>
+                                    
+                                    <li>Great Depression</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Bison</li>
+                                    
+                                    <li>Cats (wild)</li>
+                                    
+                                    <li>Elk</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Horses (wild)</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Petrified Wood</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Mineral Deposits</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Aurora Borealis</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Buttes</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">River Bend Overlook, North Unit</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C793AD5-1DD8-B71B-0B4A3C1BFA5B4C83.jpg" class="card-img-top" alt="A colorfully striped butte in the foreground overlooks a dark green badlands landscape" title="The River Bend Overlook offers one of the most popular views in the park's North Unit." />
+                            <div class="card-body">
+                                <p>The River Bend Overlook offers one of the most popular views in the park's North Unit.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A View from the Maah Daah Hey Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7939C8-1DD8-B71B-0B048D7EC3812DE3.jpg" class="card-img-top" alt="the Little Missouri River under blue skies" title="The Maah Daah Hey Trail follows the Little Missouri River for several miles before it enters the Theodore Roosevelt Wilderness." />
+                            <div class="card-body">
+                                <p>The Maah Daah Hey Trail follows the Little Missouri River for several miles before it enters the Theodore Roosevelt Wilderness.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ekblom Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C793D1D-1DD8-B71B-0B17AA76AF7AE453.jpg" class="card-img-top" alt="A muddy river bank lined with cottonwood trees and steep buttes" title="The Ekblom Trail is the gateway to the Theodore Roosevelt Wilderness. All you have to do is make it across the river!" />
+                            <div class="card-body">
+                                <p>The Ekblom Trail is the gateway to the Theodore Roosevelt Wilderness. All you have to do is make it across the river!</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Raise a Ruckus</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C794347-1DD8-B71B-0B5EB10134348DE1.jpg" class="card-img-top" alt="two bull bison collide heads in a dusty battle for dominance" title="In the summer, bull bison wage furious battles over the right to breed." />
+                            <div class="card-body">
+                                <p>In the summer, bull bison wage furious battles over the right to breed.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Milky Way</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C794A8F-1DD8-B71B-0B3C8A05CF065D02.jpg" class="card-img-top" alt="the swirling, dusty looking milky way runs vertically though a starry night sky" title="Though light pollution in the area is increasing, the night sky over Theodore Roosevelt National Park remains beautiful and inspiring." />
+                            <div class="card-body">
+                                <p>Though light pollution in the area is increasing, the night sky over Theodore Roosevelt National Park remains beautiful and inspiring.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bison Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7941B3-1DD8-B71B-0B9F03744B164B38.jpg" class="card-img-top" alt="a string of bison are silhouetted against the backdrop of hazy blue and yellow badlands" title="Bison roam the badlands from top to bottom, surprising visitors with their agility and ability to cross even the most rugged terrain." />
+                            <div class="card-body">
+                                <p>Bison roam the badlands from top to bottom, surprising visitors with their agility and ability to cross even the most rugged terrain.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunset on Buck Hill</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C793C29-1DD8-B71B-0BD780A3A72F020B.jpg" class="card-img-top" alt="a green prairie hilltop overlooks the badlands, shrouded in shadows" title="A short climb to the top of Buck Hill in the park's South Unit rewards hikers with a sweeping panorama and a fantastic place to watch the sun rise or set." />
+                            <div class="card-body">
+                                <p>A short climb to the top of Buck Hill in the park's South Unit rewards hikers with a sweeping panorama and a fantastic place to watch the sun rise or set.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall Bugle</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79484D-1DD8-B71B-0BD76E098C35DBFA.jpg" class="card-img-top" alt="A bugling bull elk and his harem of cows stand on the edge of a butte as the sunlight fades" title="The ghostly bugles of bull elk can be heard wafting through the badlands in the fall." />
+                            <div class="card-body">
+                                <p>The ghostly bugles of bull elk can be heard wafting through the badlands in the fall.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hoodoos</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C794D85-1DD8-B71B-0BE8C67C46D0233A.jpg" class="card-img-top" alt="a strange looking sand and rock formation stands in a prairie of brown grass" title="Theodore Roosevelt described the badlands as "so fantastically broken in form and so bizarre in color as to seem hardly properly to belong to this earth."" />
+                            <div class="card-body">
+                                <p>Theodore Roosevelt described the badlands as "so fantastically broken in form and so bizarre in color as to seem hardly properly to belong to this earth."</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Maltese Cross Cabin</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C795014-1DD8-B71B-0B9A2115735380B0.jpg" class="card-img-top" alt="The rising sun casts light on Roosevelt's snow-covered cabin." title="Imagine waking up on a crisp winter morning in Roosevelt's Maltese Cross Cabin. It is no wonder that his heart was captured by the romance of life in the West." />
+                            <div class="card-body">
+                                <p>Imagine waking up on a crisp winter morning in Roosevelt's Maltese Cross Cabin. It is no wonder that his heart was captured by the romance of life in the West.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

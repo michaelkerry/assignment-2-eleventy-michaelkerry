@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Cuyahoga Valley National Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Cuyahoga Valley National Park</h3>
+                <br/>
+                <p>Though a short distance from the urban areas of Cleveland and Akron, Cuyahoga Valley National Park seems worlds away. The park is a refuge for native plants and wildlife, and provides routes of discovery for visitors. The winding Cuyahoga River gives way to deep forests, rolling hills, and open farmlands. Walk or ride the Towpath Trail to follow the historic route of the Ohio & Erie Canal.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Plane Cleveland Hopkins International Airport and Akron-Canton Regional Airport offer many daily flights to the area. Car rentals are available at both airports. Bus & Train Bus stations are located in downtown Cleveland and Akron. The Amtrak station is in downtown Cleveland. Car The park is easily accessible by car from all directions. A good place to start your visit is at Boston Mill Visitor Center located at 6947 Riverview Road, Peninsula, Ohio 44264. (41° 15'45.3" N) (81° 33'37.3" W).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Mountain Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Downhill Skiing</li>
+                                    
+                                    <li>Snow Play</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mills</li>
+                                    
+                                    <li>Music</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Canals</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Lakes</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kayakers on the Cuyahoga River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F7425874-D97F-BFD6-36581A36C8A7FF0D.jpg" class="card-img-top" alt="People in bright orange kayaks paddle around a bend in a river, past green trees and a rocky shore." title="A group of kayaks passing a rocky beach on the Cuyahoga River in summer." />
+                            <div class="card-body">
+                                <p>A group of kayaks passing a rocky beach on the Cuyahoga River in summer.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Ledges Overlook in Fall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F78A31A2-D7AD-F384-BEFACB28E45B7608.jpg" class="card-img-top" alt="Two people stand at the edge of a gray rock cliff; in the distance, sunset and trees in fall colors." title="Visitors taking in the view at the Ledges Overlook in fall." />
+                            <div class="card-body">
+                                <p>Visitors taking in the view at the Ledges Overlook in fall.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Cuyahoga Valley Scenic Railroad</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F7E15C5E-AF19-2C8B-7BC519C9BBDB06CC.jpg" class="card-img-top" alt="A yellow-and-red engine with number 6777 leads a passenger train along tracks through green trees." title="CVSR Engine 6777 motors down the tracks." />
+                            <div class="card-body">
+                                <p>CVSR Engine 6777 motors down the tracks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Brandywine Falls Viewed from the Upper Boardwalk</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F82FA0CD-D84B-D131-1A778346760D24FB.jpg" class="card-img-top" alt="Viewed from above, people stand on a platform near frothy white water falling over a rocky ledge." title="Brandywine Falls viewed from the upper boardwalk." />
+                            <div class="card-body">
+                                <p>Brandywine Falls viewed from the upper boardwalk.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lock 38 and Canal Exploration Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F8E08661-CAAB-331C-C3AD53B479822346.jpg" class="card-img-top" alt="Visitors line the concrete edge of a canal lock filled with water, in front of a white building." title="Visitors watch a lock demonstration at Canal Exploration Center." />
+                            <div class="card-body">
+                                <p>Visitors watch a lock demonstration at Canal Exploration Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

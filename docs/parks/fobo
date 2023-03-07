@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fort Bowie National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fort Bowie National Historic Site</h3>
+                <br/>
+                <p>Fort Bowie witnessed almost 25 years of conflict between the Chiricahua Apache and the US Army, and remains a tangible connection to the turbulent era of the late 1800s. Explore the history of Fort Bowie and Apache Pass as you hike to the visitor center and old fort ruins. Today, this peaceful landscape stands in stark contrast to the violence that once gripped this land.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From Willcox, AZ / points west on I-10: drive 23 miles east of Willcox on Interstate 10 to the the town of Bowie. Exit at the first Bowie exit and drive through the town. Follow the signs for Fort Bowie National Historic Site and turn south on Apache Pass Road. Drive 13 miles to the Fort Bowie Trailhead (the last mile of the road is unpaved). Be prepared to walk the three miles round trip to the ruins and back to your car.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Freshwater Springs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Bowie Ruins</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/30BF20D7-BF6A-1DE6-21266DC5EE3557AF.jpg" class="card-img-top" alt="Ruins of the fort with mountains and valley in the background." title="San Simon Valley can be seen just beyond the ruins of the cavalry barracks." />
+                            <div class="card-body">
+                                <p>San Simon Valley can be seen just beyond the ruins of the cavalry barracks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mountain howitzer</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82E24B-1DD8-B71B-0BDB09461B231689.jpg" class="card-img-top" alt="Close up of a canon barrel" title="The mountain howitzer is a symbolic relic from the active days of Fort Bowie" />
+                            <div class="card-body">
+                                <p>The mountain howitzer is a symbolic relic from the active days of Fort Bowie</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Post Trader's Store</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/30D2AFAC-F40A-0F36-5C0968B96A8FB68A.jpg" class="card-img-top" alt="Ruins of adobe building under a blue sky with white clouds." title="The Post Trader's store on a spring day." />
+                            <div class="card-body">
+                                <p>The Post Trader's store on a spring day.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Bowie landscape and ruins</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82E117-1DD8-B71B-0BBC3BE2A2C1C1FD.jpg" class="card-img-top" alt="Ruined walls of the old buildings and mountains in the background" title="Fort Bowie was once a bustling frontier military fort. Today, the ruins offer a place of reflection." />
+                            <div class="card-body">
+                                <p>Fort Bowie was once a bustling frontier military fort. Today, the ruins offer a place of reflection.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Bowie Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82FC33-1DD8-B71B-0B162188DB413F97.jpg" class="card-img-top" alt="Black and white photo of white tombstones in a cemetery, mountains in the background" title="Fort Bowie cemetery is accessed via the Fort Bowie Trail, and in addition to many US troops buried here, some Apache/Indeh are buried here as well." />
+                            <div class="card-body">
+                                <p>Fort Bowie cemetery is accessed via the Fort Bowie Trail, and in addition to many US troops buried here, some Apache/Indeh are buried here as well.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Heliograph demonstration</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82FD36-1DD8-B71B-0B4FEF6DCA35A115.jpg" class="card-img-top" alt="A group gathers as a ranger displays the heliograph equipment" title="The heliograph was an important communications tool in the late 1880s. Stationed on top of high desert peaks, sunlight was reflected off mirrors in coded patterns to send a message miles away." />
+                            <div class="card-body">
+                                <p>The heliograph was an important communications tool in the late 1880s. Stationed on top of high desert peaks, sunlight was reflected off mirrors in coded patterns to send a message miles away.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

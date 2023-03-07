@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Catoctin Mountain Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Catoctin Mountain Park</h3>
+                <br/>
+                <p>President Franklin D. Roosevelt created programs to give people a chance to rebuild their lives from the Great Depression. The Works Progress Administration and the Civilian Conservation Corps gave this land a second opportunity and through re-growth, a new role as a recreation area.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">To reach the visitor center from the east, follow US Route 15 to MD Route 77 and go west about 3 miles. The visitor center is on the right side of the road. From the west, take I 70 to MD 66 at exit 35. Turn left onto MD 66 north and travel about 5 miles, passing through the roundabout. Turn right onto MD 64 and drive 1 mile. Turn right onto MD 77. Drive on MD 77 about 7.5 miles. The visitor center is on the left.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>Climbing</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Orienteering</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Fly Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mills</li>
+                                    
+                                    <li>Logging and Timber Cutting</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Reconstruction</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Chimney Rock Vista</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/88247400-C3C0-D7DE-8C42EF37DF502F7F.jpg" class="card-img-top" alt="Rock formation with mountains in the background" title="A challenging hike leads to Chimney Rock, the most popular vista in the park." />
+                            <div class="card-body">
+                                <p>A challenging hike leads to Chimney Rock, the most popular vista in the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/87F43686-B01E-0914-9BD0FEE4FC2EDFD9.jpg" class="card-img-top" alt="A stone and wood building with plants and flowers in front" title="First time visitors should begin their park experience at the visitor center." />
+                            <div class="card-body">
+                                <p>First time visitors should begin their park experience at the visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Eastern Mud Salamander</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BDA98409-C524-F068-F987CED34165C246.jpg" class="card-img-top" alt="A slender-bodied, red salamander with black spots across its body." title="Life is abundant at Catoctin Mountain Park, and habitat is plentiful for many salamander species." />
+                            <div class="card-body">
+                                <p>Life is abundant at Catoctin Mountain Park, and habitat is plentiful for many salamander species.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Big Hunting Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/1A821D6D-09C6-7026-1F7E48871C478B06.jpg" class="card-img-top" alt="A fast flowing stream cutting through a green forest." title="Winding its way through the ridge, Big Hunting Creek is a popular fly fishing destination." />
+                            <div class="card-body">
+                                <p>Winding its way through the ridge, Big Hunting Creek is a popular fly fishing destination.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Camp Misty Mount</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7F6CC6-1DD8-B71B-0B2FC0CA15230A1E.jpg" class="card-img-top" alt="A log cabin in the woods" title="Visitors can stay overnight in one of the historic Misty Mount cabins." />
+                            <div class="card-body">
+                                <p>Visitors can stay overnight in one of the historic Misty Mount cabins.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wolf Rock</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F0463D8E-9FF4-4D2B-6C92127503CD5152.jpg" class="card-img-top" alt="A large angular boulder that resembles the shape of a wolf." title="At the end of a boulder field the size of a football field, stands Wolf Rock. Do you see the wolf?" />
+                            <div class="card-body">
+                                <p>At the end of a boulder field the size of a football field, stands Wolf Rock. Do you see the wolf?</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Blue Ridge Summit</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/046AB469-AB3F-CC59-A6F8115B22A3B106.jpg" class="card-img-top" alt="A rocky outcrop nestled amongst trees overlooking a valley." title="Blue Ridge Summit offers hikers a view northward into Pennsylvania." />
+                            <div class="card-body">
+                                <p>Blue Ridge Summit offers hikers a view northward into Pennsylvania.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sun Rays Through the Forest at Misty Mount</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BDF4B57B-CE59-7DA4-9E96EF7138421C9D.jpg" class="card-img-top" alt="Multiple bright sun rays shining through a forest with log cabins." title="Natural beauty envelopes the mountainside throughout the day." />
+                            <div class="card-body">
+                                <p>Natural beauty envelopes the mountainside throughout the day.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Horse Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C37012A0-D9CA-551C-2DFA6FBDAAF917EE.jpg" class="card-img-top" alt="Two riders, on horseback, walking through a forested trail." title="The west side of the park is a popular trail riding destination." />
+                            <div class="card-body">
+                                <p>The west side of the park is a popular trail riding destination.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Chimney Rock in the Fall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F1053EF9-C00F-0A1D-E78E6D90C7E2AA33.jpg" class="card-img-top" alt="A large rocky outcropping overlooking a mountainside with fall foliage." title="Chimney Rock provides an excellent view of the mountain's fall foliage." />
+                            <div class="card-body">
+                                <p>Chimney Rock provides an excellent view of the mountain's fall foliage.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

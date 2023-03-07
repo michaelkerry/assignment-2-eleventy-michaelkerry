@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Independence National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Independence National Historical Park</h3>
+                <br/>
+                <p>The park represents the founding ideals of the nation, and preserves national and international symbols of freedom and democracy, including Independence Hall and the Liberty Bell. The Declaration of Independence and U.S. Constitution were both debated and signed inside Independence Hall, a UNESCO World Heritage Site.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Independence National Historical Park is located in an urban area served by Interstates 95 and 676. The park is also easily accessible by public transportation, including SEPTA and PATCO mass transit routes. Whether you choose driving, the bus or the train, we recommend that you start your visit at the Independence Visitor Center at 6th and Market Streets. See the park's website for specific directions.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Painting</li>
+                                    
+                                    <li>Banking</li>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Navy</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Abolition Movement</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Religious Freedom</li>
+                                    
+                                    <li>Voting Rights and Suffrage</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Liberty Bell</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7AFE0115-FFFB-4779-4787C9D078489E1C.jpg" class="card-img-top" alt="Color photo of the Liberty Bell with Independence Hall in the background." title="Recognizable for its crack, the Liberty Bell remains significant today for its message of liberty." />
+                            <div class="card-body">
+                                <p>Recognizable for its crack, the Liberty Bell remains significant today for its message of liberty.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Independence Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7F9D13-1DD8-B71B-0BE8FB36B0FC184C.jpg" class="card-img-top" alt="A color photo of the Independence Visitor Center showing a brick building with tall windows." title="Plan your visit, use the restrooms, and take advantage of the free WiFi  in the Independence Visitor Center." />
+                            <div class="card-body">
+                                <p>Plan your visit, use the restrooms, and take advantage of the free WiFi  in the Independence Visitor Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Independence Hall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7F9AA9-1DD8-B71B-0B50D16068B72863.jpg" class="card-img-top" alt="Color photo of Independence Hall as seen from the north side of Chestnut Street." title="Known as the birthplace of the United States, Independence Hall houses the room where the Declaration of Independence and U.S. Constitution were both signed." />
+                            <div class="card-body">
+                                <p>Known as the birthplace of the United States, Independence Hall houses the room where the Declaration of Independence and U.S. Constitution were both signed.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Assembly Room in Independence Hall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80F321-1DD8-B71B-0B30426D759187FC.jpg" class="card-img-top" alt="A color photo of the Assembly Room showing 18th century chairs and green, cloth covered tables" title="The Assembly Room in Independence Hall is where the Declaration of Independence and U.S. Constitution were both signed." />
+                            <div class="card-body">
+                                <p>The Assembly Room in Independence Hall is where the Declaration of Independence and U.S. Constitution were both signed.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Benjamin Franklin Museum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7F9F2F-1DD8-B71B-0B289DF989464918.jpg" class="card-img-top" alt="A color photo of the exterior of the Benjamin Franklin Museum in Franklin Court." title="Explore Franklin's life and character in the Benjamin Franklin Museum. The museum features artifacts, computer animations, and interactive displays that are geared toward visitors of all ages." />
+                            <div class="card-body">
+                                <p>Explore Franklin's life and character in the Benjamin Franklin Museum. The museum features artifacts, computer animations, and interactive displays that are geared toward visitors of all ages.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Franklin Court Printing Office</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7FA0CA-1DD8-B71B-0B5334A33809A90D.jpg" class="card-img-top" alt="A color photo of a printing press in the Franklin Court Printing Office." title="Franklin's printing office no longer survives, but it would have had equipment similar to what you'll see in the Franklin Court Printing Office." />
+                            <div class="card-body">
+                                <p>Franklin's printing office no longer survives, but it would have had equipment similar to what you'll see in the Franklin Court Printing Office.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Portrait Gallery in the Second Bank of the United States</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C801AB4-1DD8-B71B-0B13B3AC52A62C06.jpg" class="card-img-top" alt="The exterior of the Second Bank of the United States showing a marble building with eight columns." title="The Second Bank of the United States houses a fine collection of over 100 portraits, many of them by 18th century artist Charles Willson Peale." />
+                            <div class="card-body">
+                                <p>The Second Bank of the United States houses a fine collection of over 100 portraits, many of them by 18th century artist Charles Willson Peale.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

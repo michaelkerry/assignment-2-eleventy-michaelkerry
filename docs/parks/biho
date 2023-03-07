@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Big Hole National Battlefield</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Big Hole National Battlefield</h3>
+                <br/>
+                <p>On August 9, 1877 gun shots shattered a chilly dawn on a sleeping camp of Nez Perce. By the time the smoke cleared on August 10, almost 90 Nez Perce were dead along with 31 soldiers and volunteers. Big Hole National Battlefield was created to honor all who were there.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Big Hole National Battlefield is located on Highway 43 ten miles west of the town of Wisdom in southwestern Montana. Bear Paw Battlefield is located on Route 240 sixteen miles south of the town of Chinook in north-central Montana.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Massacres</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Tribal Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Battlefield at Dawn</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/99279113-1DD8-B71B-0BF75905FA3FFC7A.jpg" class="card-img-top" alt="Multiple tepee poles and a river are silhouetted against a dawn sky." title="Today tepee poles stand sentinel at the site of August 9th, 1877 dawn attack at the Big Hole." />
+                            <div class="card-body">
+                                <p>Today tepee poles stand sentinel at the site of August 9th, 1877 dawn attack at the Big Hole.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Camas Blooms Near the Nez Perce Camp at the Big Hole</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/9931E00B-1DD8-B71B-0BE1335A10F923B6.jpg" class="card-img-top" alt="Blue camas flowers dot a green field with tepee poles in the background." title="The Nez Perce chose their camp site in the Big Hole in part due to the Camas, whose roots they gathered prior to the August 9th attack." />
+                            <div class="card-body">
+                                <p>The Nez Perce chose their camp site in the Big Hole in part due to the Camas, whose roots they gathered prior to the August 9th attack.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mountain Howitzer at the Big Hole Battlefield</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/99620D14-1DD8-B71B-0B4DFE31C3E61867.jpg" class="card-img-top" alt="a cannon overlooks a valley and distant mountains" title="Nez Perce warriors captured and dismantled the Mountain Howitzer cannon before the US army could use it effectively at the Battle of the Big Hole." />
+                            <div class="card-body">
+                                <p>Nez Perce warriors captured and dismantled the Mountain Howitzer cannon before the US army could use it effectively at the Battle of the Big Hole.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Monument to the US Soldiers and Volunteers at the Big Hole Battlefield</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/998698BD-1DD8-B71B-0BDE2583FD29ECDC.jpg" class="card-img-top" alt="cross country skis rest against a large granite monument on a snowy day." title="In 1883 the United States Government erected this monument in honor of the soldiers and volunteers that served and died at the 1877 Battle of the Big Hole." />
+                            <div class="card-body">
+                                <p>In 1883 the United States Government erected this monument in honor of the soldiers and volunteers that served and died at the 1877 Battle of the Big Hole.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Chief Joseph Memorial at the Big Hole Battlefield</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/999116F8-1DD8-B71B-0B3F5A6151D017CE.jpg" class="card-img-top" alt="Stone carving of a Nez Perce Warrior's head in full regalia." title="This monument, erected on the Big Hole Battlefield in 1928, reads; "To the everlasting memory of the brave warriors Chief Joseph's Band who fought on these grounds in the Nez Perce War of 1877."" />
+                            <div class="card-body">
+                                <p>This monument, erected on the Big Hole Battlefield in 1928, reads; "To the everlasting memory of the brave warriors Chief Joseph's Band who fought on these grounds in the Nez Perce War of 1877."</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bear Paw Battlefield</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/99C3444E-1DD8-B71B-0B4709A65AB9D0C2.jpg" class="card-img-top" alt="Three large stone monuments and four interpretive signs overlook a series of low hills." title="" />
+                            <div class="card-body">
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

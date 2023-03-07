@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pinnacles National Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Pinnacles National Park</h3>
+                <br/>
+                <p>Some 23 million years ago multiple volcanoes erupted, flowed, and slid to form what would become Pinnacles National Park. What remains is a unique landscape. Travelers journey through chaparral, oak woodlands, and canyon bottoms. Hikers enter rare talus caves and emerge to towering rock spires teeming with life: prairie and peregrine falcons, golden eagles, and the inspiring California condor.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Pinnacles National Park is accessible through highway 101 for the West entrance, and highway 25 for the East entrance. From highway 101 you must pass through the City of Soledad to find highway 146 which will lead to West side of Pinnacles. To enter East Pinnacles you must find highway 25 through the City of Hollister coming from the North, and King City through Bitter Water Road (G-13) when coming from the South. NOTE: There is no through road between the east and west entrance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>RV Camping</li>
+                                    
+                                    <li>Caving</li>
+                                    
+                                    <li>Climbing</li>
+                                    
+                                    <li>Rock Climbing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Citizen Science</li>
+                                    
+                                    <li>Volunteer Vacation</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Dams</li>
+                                    
+                                    <li>Engineering</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Ranches</li>
+                                    
+                                    <li>Great Depression</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mining</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Latino American Heritage</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Missions</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Conservation Movement</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Bridges</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Tunnels</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Catastrophic Fires</li>
+                                    
+                                    <li>Floods</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Spanish-American War</li>
+                                    
+                                    <li>Cold War</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>The Gold Rush</li>
+                                    
+                                    <li>Ancient Seas</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Cats (wild)</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Wolves</li>
+                                    
+                                    <li>Caves, Caverns and Karst</li>
+                                    
+                                    <li>Canyons and Canyonlands</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Foothills, Plains and Valleys</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Mineral Deposits</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Aquifers</li>
+                                    
+                                    <li>Freshwater Springs</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Meadows</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Thickets and Shrublands</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Rare</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                    <li>Volcanoes</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Headwaters</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Balconies Caves</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C86A8CB-1DD8-B71B-0BAE8F7141CCBB1B.jpg" class="card-img-top" alt="Boulders in the Balconies Cave." title="Balconies Cliffs as seen from the inside of the Balconies Caves" />
+                            <div class="card-body">
+                                <p>Balconies Cliffs as seen from the inside of the Balconies Caves</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tree</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C86AAE7-1DD8-B71B-0BA8BC5E5E895E98.jpg" class="card-img-top" alt="Light falling on tree" title="Light illuminates a tree on a rainy day, seen from the Resurrection Wall." />
+                            <div class="card-body">
+                                <p>Light illuminates a tree on a rainy day, seen from the Resurrection Wall.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tarantula</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C86AE8B-1DD8-B71B-0B3ACEBC064CCC03.jpg" class="card-img-top" alt="A Tarantula walking" title="A Tarantula crawls in the wild." />
+                            <div class="card-body">
+                                <p>A Tarantula crawls in the wild.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">High Peaks with Condors Above</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/9CCA8ED3-ABB9-CB69-EF4B32F2ADACEC47.jpeg" class="card-img-top" alt="A massive rock spire with California condors flying above the peak." title="The best views of Pinnacles' rocks can be enjoyed from the west side with almost no effort required." />
+                            <div class="card-body">
+                                <p>The best views of Pinnacles' rocks can be enjoyed from the west side with almost no effort required.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Upper Delaware Scenic & Recreational River</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Upper Delaware Scenic & Recreational River</h3>
+                <br/>
+                <p>Canoe through rapids and quiet pools as the Delaware River winds its way through a valley of swiftly changing scenery or fish amid rolling hills and riverfront villages in one of the finest fishing rivers in the northeastern United States. The clean water of the Delaware, the last major undammed river in the eastern United States, supports a healthy ecosystem and offers tranquility and excitement.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">See complete directions on Upper Delaware S&RR's webpage.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Bridges</li>
+                                    
+                                    <li>Canals</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Upper Delaware Scenic and Recreational River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CCDE00F6-1DD8-B71B-0BF8D6AEEFB16FAC.jpg" class="card-img-top" alt="a view of the Delaware River" title="A view of Upper Delaware Scenic and Recreational River" />
+                            <div class="card-body">
+                                <p>A view of Upper Delaware Scenic and Recreational River</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Park Ranger - Upper Delaware Scenic and Recreational River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD123899-1DD8-B71B-0BDDF82BB429114F.jpg" class="card-img-top" alt="a Park Ranger shows children the wonders of nature" title="A Park Ranger shows children the wonders of nature" />
+                            <div class="card-body">
+                                <p>A Park Ranger shows children the wonders of nature</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Upper Delaware Scenic and Recreational River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD21EF64-1DD8-B71B-0B7828B4E7DB12A6.jpg" class="card-img-top" alt="a rocky shore of the Delaware River" title="Geological wonders of Upper Delaware Scenic and Recreational River" />
+                            <div class="card-body">
+                                <p>Geological wonders of Upper Delaware Scenic and Recreational River</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Zane Grey Museum - Upper Delaware Scenic and Recreational River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD4534B6-1DD8-B71B-0B3123CAF4EAC62E.jpg" class="card-img-top" alt="the Zane Grey Museum at Upper Delaware Scenic and Recreational River" title="The Zane Grey Museum at Upper Delaware Scenic and Recreational River" />
+                            <div class="card-body">
+                                <p>The Zane Grey Museum at Upper Delaware Scenic and Recreational River</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Roebling's Delaware Aqueduct - Upper Delaware Scenic and Recreational River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD5A898D-1DD8-B71B-0B14C701B538CF14.jpg" class="card-img-top" alt="Roebling's Delaware Aqueduct at Upper Delaware Scenic and Recreational River" title="Roebling's Delaware Aqueduct at Upper Delaware Scenic and Recreational River" />
+                            <div class="card-body">
+                                <p>Roebling's Delaware Aqueduct at Upper Delaware Scenic and Recreational River</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lackawaxen, PA River Access at Upper Delaware Scenic and Recreational River</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD6C7346-1DD8-B71B-0BC90615DE962D11.jpg" class="card-img-top" alt="park ranger canoes on the shore at Upper Delaware Scenic and Recreational River" title="Park Ranger canoes on the shore at Upper Delaware Scenic and Recreational River" />
+                            <div class="card-body">
+                                <p>Park Ranger canoes on the shore at Upper Delaware Scenic and Recreational River</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

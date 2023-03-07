@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Oxon Cove Park & Oxon Hill Farm</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Oxon Cove Park & Oxon Hill Farm</h3>
+                <br/>
+                <p>The diverse history of Maryland and our national heritage can be experienced at Oxon Cove Park. Through hands-on programs and other activities, you can experience farm life and how its changed over time. Explore how the park evolved from a plantation home during the War of 1812, to a hospital farm, to the park you can visit today.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">While our mailing address is on Oxon Hill Road, the parking lot entrance to the park is on Bald Eagle Road. Bald Eagle Road can be accessed from the Capital Beltway (I-495/I-95), as well as Indian Head Highway (MD-210) and Oxon Hill Road (MD-414). For detailed directions, please visit our website at http://www.nps.gov/oxhi/planyourvisit/directions.htm</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Plantations</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>War of 1812</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cows</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/34B552FE-055B-F687-3DBC825302910582.jpg" class="card-img-top" alt="Two brown cows graze in a field" title="Two Jersey cows graze in their pasture" />
+                            <div class="card-body">
+                                <p>Two Jersey cows graze in their pasture</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Farm Sunrise</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C60A9-1DD8-B71B-0BF24255DCA7767D.jpg" class="card-img-top" alt="Sunrise at the Farm" title="Sunrise at the Farm" />
+                            <div class="card-body">
+                                <p>Sunrise at the Farm</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Farrier</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C64D9-1DD8-B71B-0B4AB0C6DE8DF59C.jpg" class="card-img-top" alt="Farrier repairs horse hooves" title="Our farrier regularly maintains the hooves of the horses at Oxon Hill Farm." />
+                            <div class="card-body">
+                                <p>Our farrier regularly maintains the hooves of the horses at Oxon Hill Farm.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pigs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C61ED-1DD8-B71B-0BABF301354F80F4.jpg" class="card-img-top" alt="Young visitors meet the pigs." title="Young visitors meet the pigs at Oxon Hill Farm." />
+                            <div class="card-body">
+                                <p>Young visitors meet the pigs at Oxon Hill Farm.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mount Welby</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/362F6FCA-EADD-B5D5-DBB9659740D07B41.jpg" class="card-img-top" alt="A white brick two story building" title="Mount Welby is the oldest structure on the farm, built around 1811" />
+                            <div class="card-body">
+                                <p>Mount Welby is the oldest structure on the farm, built around 1811</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Oxon Cove Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/35116E6E-BF03-4E02-7CB0A2BB37A29DE0.jpg" class="card-img-top" alt="A paved walkway along a wooded shoreline" title="The Oxon Cove trail takes hikers and bikers through forest and meadow ecosystems and along Oxon Cove" />
+                            <div class="card-body">
+                                <p>The Oxon Cove trail takes hikers and bikers through forest and meadow ecosystems and along Oxon Cove</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

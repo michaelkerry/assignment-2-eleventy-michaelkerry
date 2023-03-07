@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fort Smith National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fort Smith National Historic Site</h3>
+                <br/>
+                <p>Explore life on the edge of frontier and Indian Territory through the stories of soldiers, the Trail of Tears, scandals, outlaws, and lawmen who pursued them. From the establishment of the first Fort Smith on December 25, 1817, to the final days of Judge Isaac C. Parker's jurisdiction over Indian Territory in 1896, Fort Smith National Historic Site preserves almost 80 years of history.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From Interstate 40 Eastbound: Exit at Roland, and drive six miles on highway 64 to downtown Fort Smith. From Interstate 40 Westbound & from North I 540 & Fayetteville, take Interstate 40 westbound to I 540 south. Exit west on Rogers Ave. and continue to downtown. In the downtown area: On Rogers or Garrison Ave turn south at 4th St. Turn right onto Garland Ave. At the end of the next block is the entrance to the main parking lot. Parking is also available on Third Street.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Ruins</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Incarceration</li>
+                                    
+                                    <li>Jails and Prisons</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Hospital</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Tribal Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CB43F-1DD8-B71B-0B6B515EA0FAACF5.jpg" class="card-img-top" alt="Aerial view of visitor center" title="The former barracks, courthouse, and jail serves as the park's visitor center" />
+                            <div class="card-body">
+                                <p>The former barracks, courthouse, and jail serves as the park's visitor center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Commissary and Supply Wagon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CB246-1DD8-B71B-0B38A1FD49893B2D.jpg" class="card-img-top" alt="Commissary and Supply Wagon" title="In 1845, Fort Smith was converted to a supply depot. With this mission, Fort Smith became one of the busiest supply posts in the southwest." />
+                            <div class="card-body">
+                                <p>In 1845, Fort Smith was converted to a supply depot. With this mission, Fort Smith became one of the busiest supply posts in the southwest.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Entrance sign</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CB5FD-1DD8-B71B-0B1254B34CAFBAD4.jpg" class="card-img-top" alt="Entrance sign in snow" title="Entrance sign along the river trail on a snowy day." />
+                            <div class="card-body">
+                                <p>Entrance sign along the river trail on a snowy day.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Foundations of First Fort Smith</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CB789-1DD8-B71B-0B0D191C7A492FE9.jpg" class="card-img-top" alt="Foundations of first Fort Smith and Arkansas River" title="Foundations of the first Fort Smith with Arkansas River in the background" />
+                            <div class="card-body">
+                                <p>Foundations of the first Fort Smith with Arkansas River in the background</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jail Wagon and Gallows</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CB913-1DD8-B71B-0B97A0CE1059769F.jpg" class="card-img-top" alt="Jail Wagon and Gallows" title="A jail wagon like this one was use the transport prisoners to the Federal Courthouse 6th Street." />
+                            <div class="card-body">
+                                <p>A jail wagon like this one was use the transport prisoners to the Federal Courthouse 6th Street.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Supply Wagon and Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CBBE6-1DD8-B71B-0BCE9A7D9CFC330A.jpg" class="card-img-top" alt="Supply Wagon and visitor center" title="Supply Wagon and visitor center" />
+                            <div class="card-body">
+                                <p>Supply Wagon and visitor center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fort Scott National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fort Scott National Historic Site</h3>
+                <br/>
+                <p>Promises made and broken! Who deserves to be free? The fight for freedom! Soldiers fighting settlers! Each of these stories is a link in the chain of events that encircled Fort Scott from 1842-1873. All of the site's structures, its parade ground, and its tallgrass prairie bear witness to this era when the country was forged from a young republic into a united transcontinental nation.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Fort Scott National Historic Site is located in downtown Fort Scott, Kansas. U.S. Highways 69 and 54 intersect here. Fort Scott is about 90 miles south of Kansas City and 60 miles northwest of Joplin, Missouri. It is 4 miles from the Kansas-Missouri border. Signs directing visitors to Fort Scott are posted on highway 69 for visitors coming from the north and the south and on highway 54 for visitors coming from the east and the west.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Incarceration</li>
+                                    
+                                    <li>Jails and Prisons</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Hospital</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Mexican War</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunflowers at Fort Scott</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C837EE2-1DD8-B71B-0BD0F84088C06269.jpg" class="card-img-top" alt="A field of sunflowers next to a stone building.  Wood frame structures in background." title="A field of sunflowers adds a splash of color to a view of the parade ground at Fort Scott." />
+                            <div class="card-body">
+                                <p>A field of sunflowers adds a splash of color to a view of the parade ground at Fort Scott.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Post Hospital</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5C2BEB72-C4C5-A44F-A70329AD93CA1999.jpg" class="card-img-top" alt="Picture of the post hospital with the parade ground and trees in the background." title="Picture of the Post Hospital" />
+                            <div class="card-body">
+                                <p>Picture of the Post Hospital</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Officers Quarters at Sunset</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C838241-1DD8-B71B-0B6E926E9F23908F.jpg" class="card-img-top" alt="Wood frame structures with stairs next to a stone walkway. Structures reflect afternoon sunlight." title="Officers quarters at Fort Scott bathed in the light of the afternoon sun." />
+                            <div class="card-body">
+                                <p>Officers quarters at Fort Scott bathed in the light of the afternoon sun.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Dragoons on the Prairie</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8383F1-1DD8-B71B-0B3AA4D574749439.jpg" class="card-img-top" alt="Four soldiers on horseback in a line riding through prairie grass" title="Soldiers on horseback patrolling the prairie" />
+                            <div class="card-body">
+                                <p>Soldiers on horseback patrolling the prairie</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Laundry Day</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C838A0F-1DD8-B71B-0B0A1C3D2CE08AEF.jpg" class="card-img-top" alt="Women dressed as laundresses with laundry buckets and scrub boards" title="High school students dressed as laundresses demonstrate laundry methods of the 1840s" />
+                            <div class="card-body">
+                                <p>High school students dressed as laundresses demonstrate laundry methods of the 1840s</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Symbols of Sacrifice</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5C504EDF-C3C7-321E-1625C477DC7B3E35.jpg" class="card-img-top" alt="Picture of rows of flags across the parade ground with trees in the background." title="Image of flags from the Symbols of Sacrifice event." />
+                            <div class="card-body">
+                                <p>Image of flags from the Symbols of Sacrifice event.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

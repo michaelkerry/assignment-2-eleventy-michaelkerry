@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pipestone National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Pipestone National Monument</h3>
+                <br/>
+                <p>For countless generations, American Indians have quarried the red pipestone found at this site. These grounds are sacred to many people because the pipestone quarried here is carved into pipes used for prayer. Many believe that the pipe's smoke carries one's prayer to the Great Spirit. The traditions of quarrying and pipemaking continue here today.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Plane: Commercial service - located at Sioux Falls, SD -Joe Foss Field airport. 50 miles from Pipestone National Monument. Rental cars are available at the airport. Non-Commercial service - located at Pipestone MN airport. Courtesy car or transit service available to Pipestone National Monument from the airport. Car: Pipestone National Monument is easily accessible from local highways. When you reach the city of Pipestone, road signs will lead you to Pipestone National Monument.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sioux Quartzite Cliffs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DA3FB8BE-E6ED-14AC-0D31ABF5E44A43F8.jpg" class="card-img-top" alt="Pink wall of rock next to path and grass" title="The outcroppings along the trail are a surprise to many visitors expecting a flat prairie" />
+                            <div class="card-body">
+                                <p>The outcroppings along the trail are a surprise to many visitors expecting a flat prairie</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tallgrass Prairie</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DB66D53C-D79D-7BA0-81031844356E459F.jpg" class="card-img-top" alt="Purple and yellow wildflowers in a field of tall grass" title="The tallgrass prairie is an explosion of color spring through fall" />
+                            <div class="card-body">
+                                <p>The tallgrass prairie is an explosion of color spring through fall</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Snowshoeing the Circle Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DB42C218-AB6C-3517-90DFFD8BE2C5D54B.jpg" class="card-img-top" alt="A couple outside in snowshoes smiling at the camera" title="Snowshoeing is available for free after January 1st" />
+                            <div class="card-body">
+                                <p>Snowshoeing is available for free after January 1st</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pulling Pipestone</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D9AE8E6C-E1CB-DB3C-A26EB7D30D558178.jpg" class="card-img-top" alt="A sheet of stone being taken off a thick slab of stone in a quarry pit" title="It can take months or even years to reach the pipestone layer in a quarry pit." />
+                            <div class="card-body">
+                                <p>It can take months or even years to reach the pipestone layer in a quarry pit.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jr. Ranger Camp Programs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DA09FE57-B2F3-87A9-6562F73AE569EA9C.jpg" class="card-img-top" alt="A woman standing next to a little girl helping her make a clay pot" title="Kids have opportunities throughout the summer for hands-on activities" />
+                            <div class="card-body">
+                                <p>Kids have opportunities throughout the summer for hands-on activities</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Breaking Through</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DA20D96B-C8DD-AFE6-6E95233B1408E45B.jpg" class="card-img-top" alt="A man in a quarry pit swings a hammer as a woman watches" title="Quarriers must break through over 6 feet of quartzite to reach the pipestone layer" />
+                            <div class="card-body">
+                                <p>Quarriers must break through over 6 feet of quartzite to reach the pipestone layer</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Learning to Carve Pipestone</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DA0EF444-013D-BEAC-446C863EEEE3719A.jpg" class="card-img-top" alt="A man watches over a woman as she saws a piece of stone" title="Travis Erickson teaches new carver, Jessica Arkeketa, how to make a pipe" />
+                            <div class="card-body">
+                                <p>Travis Erickson teaches new carver, Jessica Arkeketa, how to make a pipe</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Winnewissa Falls in Winter</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DB16AFE8-9377-80FA-8C73E6E48BF84892.jpg" class="card-img-top" alt="A waterfall partially surrounded by ice" title="Winnewissa Falls is a favorite spot for visitors all year long" />
+                            <div class="card-body">
+                                <p>Winnewissa Falls is a favorite spot for visitors all year long</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Teaching the Next Generation</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DB26F68D-F29E-1447-E66D966CA34BEC61.jpg" class="card-img-top" alt="A man works with tools in a quarry as kids watch" title="Quarrier and carver Francis Eastman teaches Indigenous youth how to quarry" />
+                            <div class="card-body">
+                                <p>Quarrier and carver Francis Eastman teaches Indigenous youth how to quarry</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Aaron Prim Breaking Through Quartzite</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DC8F92EB-EECB-DFE8-16E051D3FD9B2293.jpg" class="card-img-top" alt="A man in a quarry pit holding a sledge hammer" title="Quarrier Aaron Prim working his way through 6 feet of quartzite to reach pipestone" />
+                            <div class="card-body">
+                                <p>Quarrier Aaron Prim working his way through 6 feet of quartzite to reach pipestone</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunrise over Pipestone Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/DCC5D257-A29E-94A9-DD74A02745008EF1.jpg" class="card-img-top" alt="Sun reflecting off of water through a canopy of trees" title="The 3/4-mile Circle Trail is open 7 days a week all year for visitors to enjoy" />
+                            <div class="card-body">
+                                <p>The 3/4-mile Circle Trail is open 7 days a week all year for visitors to enjoy</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

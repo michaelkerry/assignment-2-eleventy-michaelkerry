@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Greenbelt Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Greenbelt Park</h3>
+                <br/>
+                <p>Camp ten miles from the Washington Monument! Greenbelt Park is located in suburban Greenbelt, Maryland just ten miles from the Washington D.C. attractions. Visit to enjoy affordable camping, peaceful surroundings in an urban forest, and National Park Service hospitality. Greenbelt Park has a 172 site campground, nine miles of trails (Trails are temporarily closed) and three picnic areas.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Off I-95 South Take Exit 23 Route 201 Kenilworth Avenue South(toward Bladensburg). (this will be a left). Drive on Kenilworth Avenue (Route 201). Once crossing over I-95, you will see sign for Route 193 Greenbelt Road. Veer right to Take Route 193 East. Take a left on Greenbelt Road . (Greenbelt Road is Route 193 and is an overpass over Route 201) The park entrance is a quarter mile on the right hand side.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>RV Camping</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Playground</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tent in the Greenbelt Park campground</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/44A5DD06-1DD8-B71B-0B61B91EB87117B2.jpg" class="card-img-top" alt="Tent in the Greenbelt Park campground" title="Camp within 13 miles of the Nation's Capital" />
+                            <div class="card-body">
+                                <p>Camp within 13 miles of the Nation's Capital</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">New grill in the Greenbelt Park Maryland campground</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F231A77E-0FEF-0810-73C5205ABA988D4C.jpg" class="card-img-top" alt="a round back grill with grill on top on a campsite in the Greenbelt Park campground" title="Enjoy a campfire in the new grill under the stars at Greenbelt" />
+                            <div class="card-body">
+                                <p>Enjoy a campfire in the new grill under the stars at Greenbelt</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Deer in Greenbelt Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C903C-1DD8-B71B-0B3397EDDBFBD59C.jpg" class="card-img-top" alt="three deer standing in Greenbelt Park" title="White tailed deer in Greenbelt Park" />
+                            <div class="card-body">
+                                <p>White tailed deer in Greenbelt Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Trees in Greenbelt Park, Maryland</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7F7CEA-1DD8-B71B-0B324D95E5E90CDD.jpg" class="card-img-top" alt="trees in Greenbelt Park" title="Enjoy the beautiful forest in the Urban Oasis of Greenbelt Park,Maryland" />
+                            <div class="card-body">
+                                <p>Enjoy the beautiful forest in the Urban Oasis of Greenbelt Park,Maryland</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Father and son relaxing in the Greenbelt Park campground</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7F808E-1DD8-B71B-0B309AAC70EA8407.jpg" class="card-img-top" alt="Father and son sitting in chairs reading in the Greenbelt Park campground" title="A family weekend getaway at the Greenbelt Park campground" />
+                            <div class="card-body">
+                                <p>A family weekend getaway at the Greenbelt Park campground</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall Colors in the Sweetgum Picnic Area, Greenbelt Park, Maryland</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7F8234-1DD8-B71B-0B30DBD48002A076.jpg" class="card-img-top" alt="Fall Colors in the Sweetgum Picnic Area, Greenbelt Park, Maryland" title="Fall Colors in the Sweetgum Picnic Area, Greenbelt Park, Maryland" />
+                            <div class="card-body">
+                                <p>Fall Colors in the Sweetgum Picnic Area, Greenbelt Park, Maryland</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Perimeter Trail bridge in Greenbelt Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7F7B4F-1DD8-B71B-0B182C0948A58ACD.jpg" class="card-img-top" alt="bridge in Greenbelt Park" title="Enjoy the beautiful trails of Greenbelt Park" />
+                            <div class="card-body">
+                                <p>Enjoy the beautiful trails of Greenbelt Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Greenbelt Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C687164A-AED8-D86D-375EB371D2D43666.jpg" class="card-img-top" alt="Greenbelt Park" title="Enjoy the Urban Oasis of Greenbelt Park" />
+                            <div class="card-body">
+                                <p>Enjoy the Urban Oasis of Greenbelt Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Greenbelt Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C687164A-AED8-D86D-375EB371D2D43666.jpg" class="card-img-top" alt="Greenbelt Park" title="Enjoy the Urban Oasis of Greenbelt Park" />
+                            <div class="card-body">
+                                <p>Enjoy the Urban Oasis of Greenbelt Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

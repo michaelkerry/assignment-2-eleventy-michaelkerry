@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>James A Garfield National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">James A Garfield National Historic Site</h3>
+                <br/>
+                <p>A front porch can serve many purposes. For some, it is a place to enjoy the breeze on a warm summer night. For others, a perch from which to keep eyes on what's happening in their neighborhood. In 1880, James Garfield used his front porch as a platform to greet thousands of well-wishers during his presidential campaign. Today, the porch serves as a gateway to the story of the Garfield family.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From Interstate 90 - exit at Route 306 and head north to Route 20. East on Route 20 about 1.5 miles. Site is on north side of Mentor Avenue. From Route 2 - exit at Route 306 and head south to Route 20. East on Route 20 about 1.5 miles. Site is on the north side of Mentor Avenue.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Front Porch, Garfield Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8438A8-1DD8-B71B-0B1FAF95F1FC35BF.jpg" class="card-img-top" alt="Front porch of Garfield home showing red front door" title="The front porch of James Garfield's home was the scene of the first front porch campaign. The presidential candidate gave patriotic speeches and met with thousands of people who came to which him well during the summer and fall of 1880." />
+                            <div class="card-body">
+                                <p>The front porch of James Garfield's home was the scene of the first front porch campaign. The presidential candidate gave patriotic speeches and met with thousands of people who came to which him well during the summer and fall of 1880.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8435E5-1DD8-B71B-0BFDFF07D291687D.jpg" class="card-img-top" alt="Visitor Center from the south" title="The Visitor Center occupies the original carriage house, built in 1894." />
+                            <div class="card-body">
+                                <p>The Visitor Center occupies the original carriage house, built in 1894.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor Center, Main Entrance</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8439F9-1DD8-B71B-0B103789390E4E50.jpg" class="card-img-top" alt="Visitor Center main entrance off the parking lot." title="A friendly greeting awaits visitors who enter the Visitor Center. This historic building, constructed in 1894, serves as bookstore, exhibit gallery and auditorium where the park film is shown. Tickets for tours of the Garfield home are also available her" />
+                            <div class="card-body">
+                                <p>A friendly greeting awaits visitors who enter the Visitor Center. This historic building, constructed in 1894, serves as bookstore, exhibit gallery and auditorium where the park film is shown. Tickets for tours of the Garfield home are also available her</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">James A. Garfield National Historic Site</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/A2F80175-01B6-E59B-6A850AC1EAD3586B.jpg" class="card-img-top" alt="a large gray house with a red roof" title="Thousands to visitors came to this front porch to hear presidential candidate James A. Garfield speak in 1880." />
+                            <div class="card-body">
+                                <p>Thousands to visitors came to this front porch to hear presidential candidate James A. Garfield speak in 1880.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Library addition, north side</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C843733-1DD8-B71B-0B6D977CFFF656D0.jpg" class="card-img-top" alt="A view of the memorial library addition through the trees." title="Mrs. Garfield constructed a beautiful addition to the Garfield home following the President's assassination in 1881. These 9 rooms contain the first Presidential Memorial Library,  including the a fireproof vault which once contained Garfield's papers." />
+                            <div class="card-body">
+                                <p>Mrs. Garfield constructed a beautiful addition to the Garfield home following the President's assassination in 1881. These 9 rooms contain the first Presidential Memorial Library,  including the a fireproof vault which once contained Garfield's papers.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hand-painted Fireplace Tile, Garfield Dining Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C843B7E-1DD8-B71B-0BA080B0BC3D4D98.jpg" class="card-img-top" alt="Hand-painted tile shows a bird next with blue eggs" title="Mrs. Garfield was known for her artistic talent, which softly blankets the interior of the Garfield home. In particular, the dining room boasts two tiles which were hand-painted by Mrs. Garfield, surround by others done by her children." />
+                            <div class="card-body">
+                                <p>Mrs. Garfield was known for her artistic talent, which softly blankets the interior of the Garfield home. In particular, the dining room boasts two tiles which were hand-painted by Mrs. Garfield, surround by others done by her children.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

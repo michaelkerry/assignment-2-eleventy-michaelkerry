@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Theodore Roosevelt Birthplace National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Theodore Roosevelt Birthplace National Historic Site</h3>
+                <br/>
+                <p>This is the boyhood home of the first U.S. president to be born in New York City. Raised in a townhouse at 28 E. 20th St., Theodore Roosevelt would grow up to be our 26th President and become immortalized on Mount Rushmore. However, he started life as a sickly yet bright boy who exercised to improve his health and began a lifelong passion for the "strenuous life."</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Theodore Roosevelt Birthplace National Historic Site is located in New York City at 28 East 20th Street, between Park Avenue South and Broadway.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Conservation Movement</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Assassinations</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Spanish-American War</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Theodore Roosevelt Birthplace Exterior</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C855E63-1DD8-B71B-0B4BD6B7AEC50FF4.jpg" class="card-img-top" alt="Theodore Roosevelt Birthplace Exterior" title="Theodore Roosevelt Birthplace Exterior" />
+                            <div class="card-body">
+                                <p>Theodore Roosevelt Birthplace Exterior</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Front Parlor</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C6AEE163-0372-03D8-55A492CE358BB305.jpg" class="card-img-top" alt="photo of display in museum containing TR's shirt, a speech and eye glasses." title="The shirt TR was wearing, the speech he was giving, and the eyeglass case that was in his breast pocket  when he was shot in Milwaukee, WI." />
+                            <div class="card-body">
+                                <p>The shirt TR was wearing, the speech he was giving, and the eyeglass case that was in his breast pocket  when he was shot in Milwaukee, WI.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Nursery at Theodore Roosevelt Birthplace</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C6CAA98C-AC4B-7A3A-3AEED7FF7D336450.jpg" class="card-img-top" alt="colored photograph of nursery with a sleigh bed and crib adjacent to bed." title="The Nursery at Theodore Roosevelt Birthplace" />
+                            <div class="card-body">
+                                <p>The Nursery at Theodore Roosevelt Birthplace</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Master Bedroom</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C701764B-0DB2-7AF7-8912220E3D865CD0.jpg" class="card-img-top" alt="Colored photograph of master bedroom" title="Master bedroom, where TR was born" />
+                            <div class="card-body">
+                                <p>Master bedroom, where TR was born</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Front Parlor</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C71D2D0C-98F8-30D1-4A87FE50AD474912.jpg" class="card-img-top" alt="Colored photograph of front parlor" title="Master bedroom, where TR was born" />
+                            <div class="card-body">
+                                <p>Master bedroom, where TR was born</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Dining Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CC46004B-0E38-8BDB-FB6FE43421BFB392.jpg" class="card-img-top" alt="Colored photograph of a long, narrow dining room" title="A view of Theodore Roosevelt Birthplace dining room" />
+                            <div class="card-body">
+                                <p>A view of Theodore Roosevelt Birthplace dining room</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Library</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CC5F9446-C3A7-A8CC-F8B196BF5E1F6E0E.jpg" class="card-img-top" alt="Colored photograph of library" title="The middle parlor, or library, at Theodore Roosevelt Birthplace" />
+                            <div class="card-body">
+                                <p>The middle parlor, or library, at Theodore Roosevelt Birthplace</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Exhibits</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CC898133-0B14-EDB8-D451DB04952E3FD9.jpg" class="card-img-top" alt="Photo of exhibit hallway with display cases on sides of room and running through center of room." title="The exhibits in the visitor center" />
+                            <div class="card-body">
+                                <p>The exhibits in the visitor center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lion's Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CCB389F3-A79C-8291-92D00840EB680A85.jpg" class="card-img-top" alt="photo of lions room with taxidermy lion in center and taxidermy animal head mounts on walls." title="Taxidermy pieces on display in the Lion's Room" />
+                            <div class="card-body">
+                                <p>Taxidermy pieces on display in the Lion's Room</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lion's Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CCC84E50-F523-A6D0-F219C9BAFD0FA1A6.jpg" class="card-img-top" alt="Poto of lions room with TR's Assistant Secretary to the Navy desk and taxidermy on wall." title="Taxidermy pieces and TR's Assistant Secretary to the Navy desk on display in the Lion's Room" />
+                            <div class="card-body">
+                                <p>Taxidermy pieces and TR's Assistant Secretary to the Navy desk on display in the Lion's Room</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Auditorium</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CDEE93FF-050B-6665-DE45E9679A704B9C.jpg" class="card-img-top" alt="Sepia photograph of auditorium full of chairs in rows" title="A historic photo of the auditorium (4th floor) when museum opened in 1923." />
+                            <div class="card-body">
+                                <p>A historic photo of the auditorium (4th floor) when museum opened in 1923.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

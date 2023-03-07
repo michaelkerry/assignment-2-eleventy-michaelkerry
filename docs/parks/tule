@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tule Lake National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Tule Lake National Monument</h3>
+                <br/>
+                <p>The Tule Lake National Monument includes both the the Tule Lake Segregation Center, the largest and most controversial of the sites where Japanese Americans were incarcerated during World War II, and Camp Tulelake, which was first a Civilian Conservation Corps camp, then an additional facility to detain Japanese Americans, and finally a prisoner of war camp.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The visitor center is located 8 miles south of Tulelake CA along Hwy 139 at 44340 Hwy 139. Tulelake, CA 96134. We are the only driveway off the hwy between County Rd 113 & 176. We are currently working on getting our address updated on Google, but as of now Google will put you about and 1/8 mile north of our location. Click the link below for more detailed information on directions.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Asian American Heritage</li>
+                                    
+                                    <li>Incarceration</li>
+                                    
+                                    <li>Japanese-American Internment</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>World War II</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tule Lake National Monument Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/529AA262-F23D-E5D9-A8B28ED0215975DD.jpg" class="card-img-top" alt="White house with a concrete deck and flag poll in the front." title="Tule Lake Visitor Center" />
+                            <div class="card-body">
+                                <p>Tule Lake Visitor Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tule Lake Segregation Center Jail with Castle Rock in the back ground</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81F835-1DD8-B71B-0B2F390826C60693.jpg" class="card-img-top" alt="Tule Lake Segregation Center Jail with Castle Rock in the background" title="Tule Lake Segregation Center Jail with Castle Rock in the back ground" />
+                            <div class="card-body">
+                                <p>Tule Lake Segregation Center Jail with Castle Rock in the back ground</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Camp Tulelake as a CCC Camp in 1936</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81F9A3-1DD8-B71B-0B5FAB1A656FBCD0.jpg" class="card-img-top" alt="Camp Tulelake as a CCC Camp in 1936" title="Camp Tulelake as a CCC Camp in 1936" />
+                            <div class="card-body">
+                                <p>Camp Tulelake as a CCC Camp in 1936</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Camp Tulelake Barrack</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81FB0F-1DD8-B71B-0BA38BA494DD23FD.jpg" class="card-img-top" alt="Camp Tulelake Barrack" title="Camp Tulelake Barrack" />
+                            <div class="card-body">
+                                <p>Camp Tulelake Barrack</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tule Lake Segregation Center in 1946</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81FD03-1DD8-B71B-0BF30B6078C6AC02.jpg" class="card-img-top" alt="Tule Lake Segregation Center in 1946" title="Tule Lake Segregation Center in 1946" />
+                            <div class="card-body">
+                                <p>Tule Lake Segregation Center in 1946</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">On top of Castle Rock looking down on Tule Lake Segregation Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81FE8A-1DD8-B71B-0BDB13A0FDC9F53C.jpg" class="card-img-top" alt="On top of Castle Rock looking down on Tule Lake Segregation Center" title="On top of Castle Rock looking down on Tule Lake Segregation Center" />
+                            <div class="card-body">
+                                <p>On top of Castle Rock looking down on Tule Lake Segregation Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

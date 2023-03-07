@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Vietnam Veterans Memorial</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Vietnam Veterans Memorial</h3>
+                <br/>
+                <p>Honoring the men and women who served in the controversial Vietnam War, the Vietnam Veterans Memorial chronologically lists the names of 58,318 Americans who gave their lives in service to their country.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">GPS Coordinates: 38.891112, -77.047626 Address: 5 Henry Bacon Drive NW, Washington, D.C. Nearest Intersection: Henry Bacon Drive & Constitution Ave. NW</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Vietnam War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Vietnam Veterans Memorial at night</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B7747C16-EFF0-AE6C-C2CCE4E52D34F1F7.jpg" class="card-img-top" alt="Lights glow at the base of the wall of the Vietnam Veterans Memorial with Washington Monument." title="Visiting after dark completely changes the character of the memorial." />
+                            <div class="card-body">
+                                <p>Visiting after dark completely changes the character of the memorial.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Vietnam Women's Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8227F3-1DD8-B71B-0B5B658A71E00D4C.jpg" class="card-img-top" alt="Bronze statue of three women with a wounded soldier." title="Women in Service to their country during Vietnam" />
+                            <div class="card-body">
+                                <p>Women in Service to their country during Vietnam</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Three Servicemen Statue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B7898634-9A0B-C18A-FA508E1DA029BFBB.jpg" class="card-img-top" alt="A bronze statue of three soldiers standing together, carrying weapons, and looking to their right." title="The Three Servicemen statue and the flagpole were added shortly after the memorial opened in its original configuration." />
+                            <div class="card-body">
+                                <p>The Three Servicemen statue and the flagpole were added shortly after the memorial opened in its original configuration.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitors to the wall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B7CF274B-EF17-1E6A-D15447F644FCE633.jpg" class="card-img-top" alt="A man kneels and takes a photo of the wall surrounded by other people. Flowers are at the wall base." title="Memorial Day weekend is a special time to visit the Vietnam Veterans Memorial." />
+                            <div class="card-body">
+                                <p>Memorial Day weekend is a special time to visit the Vietnam Veterans Memorial.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Vietnam Veterans Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2626367E-9CA6-A782-8F1E08D6BE2C86BC.jpg" class="card-img-top" alt="Notes and flags set at the base of the Vietnam Veterans Memorial, a black wall inscribed with names." title="Many have left memories of the fallen over the years." />
+                            <div class="card-body">
+                                <p>Many have left memories of the fallen over the years.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

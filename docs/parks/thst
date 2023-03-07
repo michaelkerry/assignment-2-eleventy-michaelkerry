@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Thomas Stone National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Thomas Stone National Historic Site</h3>
+                <br/>
+                <p>Choosing revolution, as Thomas Stone and many others eventually did, was not an easy or inevitable decision for most American colonists. The outcome of a war with England was far from certain and regardless of who won, the lives of the colonists would never be the same. With safety, security, family and fortune at stake, courage and personal sacrifice were tested no matter what side was chosen.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Thomas Stone NHS is located on Rose Hill Road, between U.S. Highways 225 and 6, four miles west of LaPlata, MD.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Plantations</li>
+                                    
+                                    <li>Landscape Design</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Religious Freedom</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mansion at Haberdeventure</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/1045ACA0-BB5B-C428-2272CC5E8E76A87C.jpg" class="card-img-top" alt="5 part Mansion at Haberdeventure" title="Mansion at Haberdeventure" />
+                            <div class="card-body">
+                                <p>Mansion at Haberdeventure</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Stone Family Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/10801BF0-A5EC-1E9D-A56A31F57B4A31C6.jpg" class="card-img-top" alt="Small family cemetery with grave markers" title="Stone Family Cemetery" />
+                            <div class="card-body">
+                                <p>Stone Family Cemetery</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Outbuildings</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/10214C9E-0656-3AE1-429ED5F9A087A93A.jpg" class="card-img-top" alt="Roof of horse barn with tobacco barn and corn crib in background" title="Outbuildings" />
+                            <div class="card-body">
+                                <p>Outbuildings</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Nature Trail System</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/10B21926-0B88-BEB9-AF5CD47AC4CEBF5D.jpg" class="card-img-top" alt="Leaf covered nature trail" title="Nature Trail System" />
+                            <div class="card-body">
+                                <p>Nature Trail System</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tenet House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/10DA7147-C8C3-2AAD-C9562A7EF253D8E5.jpg" class="card-img-top" alt="Tenet House with shadow of tree limbs" title="Tenet House" />
+                            <div class="card-body">
+                                <p>Tenet House</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

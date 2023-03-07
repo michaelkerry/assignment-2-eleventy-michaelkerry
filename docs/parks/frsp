@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fredericksburg & Spotsylvania National Military Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fredericksburg & Spotsylvania National Military Park</h3>
+                <br/>
+                <p>Fredericksburg, Chancellorsville, Wilderness, and Spotsylvania, this is America's battleground, where the Civil War roared to its bloody climax. No place more vividly reflects the War's tragic cost in all its forms. A town bombarded and looted. Farms large and small ruined. Refugees by the thousands forced into the countryside. More than 85,000 men wounded; 15,000 killed--most in graves unknown.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Fredericksburg and Spotsylvania National Military Park manages 4 battlefields and multiple historical sites across multiple counties. The park is located approximately 50 miles south of Washington DC. Different battlefields and historical sites are accessible via I-95 and VA Route 3. For directions and physical addresses for each of our sites, please visit the Directions & Transportation section of our website.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>National Cemetery</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Plantations</li>
+                                    
+                                    <li>Great Depression</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Hospital</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Reconstruction</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fairview in the Winter</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BC87C21E-A621-18BC-AA6D4063790AD241.jpg" class="card-img-top" alt="A line of four cannons placed in front of crescent shaped earthen gun pits." title="Fairview, in the Chancellorsville Battlefield, was the location of intense fighting during the Civil War." />
+                            <div class="card-body">
+                                <p>Fairview, in the Chancellorsville Battlefield, was the location of intense fighting during the Civil War.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fredericksburg National Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CA02C1EF-1DD8-B71B-0BEEB2EBD4B3D88F.jpg" class="card-img-top" alt="Monument in national cemetery illuminated by candles" title="Thousands of visitors join us every year for our Memorial Day Illumination of the National Cemetery" />
+                            <div class="card-body">
+                                <p>Thousands of visitors join us every year for our Memorial Day Illumination of the National Cemetery</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Innis House along the Sunken Road</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BC5845B9-BE1C-4D80-935F04F86E771386.jpg" class="card-img-top" alt="A gravel path bordered by a stone wall leading to a small, two story white house." title="The Sunken Road on the Fredericksburg Battlefield is one of the most popular walking spots in the park." />
+                            <div class="card-body">
+                                <p>The Sunken Road on the Fredericksburg Battlefield is one of the most popular walking spots in the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Chatham in the Fall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C9E8E1AB-1DD8-B71B-0B26F19D38F769B0.jpg" class="card-img-top" alt="Trees with fall colors in front of large brick manor house" title="When visiting Fredericksburg & Spotsylvania, be sure to explore our numerous historic structures, such as Chatham Manor pictured here" />
+                            <div class="card-body">
+                                <p>When visiting Fredericksburg & Spotsylvania, be sure to explore our numerous historic structures, such as Chatham Manor pictured here</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Saunders Field in Spring</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BBD886EF-0826-F956-B24D570C28FDE8A3.jpg" class="card-img-top" alt="A cannon in a misty clearing surrounded by sparse trees." title="The Overland Campaign began at Saunders Field on the Wilderness Battlefield." />
+                            <div class="card-body">
+                                <p>The Overland Campaign began at Saunders Field on the Wilderness Battlefield.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bloody Angle in the Fall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BC419840-DC24-63D2-9754330092B33E27.jpg" class="card-img-top" alt="A bowl-shaped field surrounded by autumn trees." title="The Bloody Angle in the Spotsylvania Battlefield is a peaceful place today." />
+                            <div class="card-body">
+                                <p>The Bloody Angle in the Spotsylvania Battlefield is a peaceful place today.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Living History on Marye's Heights</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BCE1F4A5-B66D-5277-2F2A23DC3FDA25F3.jpg" class="card-img-top" alt="A living historian dressed as a US Civil War soldier speaks with a family outdoors." title="During the summer, visitors may encounter park living historians and learn about soldiers' experiences during the war." />
+                            <div class="card-body">
+                                <p>During the summer, visitors may encounter park living historians and learn about soldiers' experiences during the war.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Orientation at the Chancellorsville Battlefield Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/BD035087-A43D-59F6-05E3759C316CB546.jpg" class="card-img-top" alt="A middle aged couple stand at a visitor center desk and speak with a park service volunteer." title="Make one of our visitor centers your first stop for orientation, maps, and exhibits about the battles we protect." />
+                            <div class="card-body">
+                                <p>Make one of our visitor centers your first stop for orientation, maps, and exhibits about the battles we protect.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

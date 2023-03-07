@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fort Vancouver National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fort Vancouver National Historic Site</h3>
+                <br/>
+                <p>Located on the north bank of the Columbia River, in sight of snowy mountain peaks and a vibrant urban landscape, this park has a rich cultural past. From a frontier fur trading post, to a powerful military legacy, the magic of flight, and the origin of the American Pacific Northwest, history is shared at four unique sites. Discover stories of transition, settlement, conflict, and community.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From I-5, take the Mill Plain Boulevard exit (Exit 1-C) and head east. Turn south onto Fort Vancouver Way. At the traffic circle, go east on Evergreen Boulevard and follow signs to the Fort Vancouver Visitor Center. From I-205, go west on Highway 14 about six miles, then take I-5 north. From I-5, take the Mill Plain Boulevard exit (Exit 1-C) and head east. At the traffic circle, go east on Evergreen Boulevard and follow signs to the Fort Vancouver Visitor Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Playground</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Asian American Heritage</li>
+                                    
+                                    <li>Aviation</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>LGBTQ American Heritage</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Pacific Islander Heritage</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Vancouver Garden</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E8577-1DD8-B71B-0B5ABB3F175DDD81.jpg" class="card-img-top" alt="Fort Vancouver Garden" title="The garden at the reconstructed Fort Vancouver showcases the many plants that were grown at the historic Fort Vancouver." />
+                            <div class="card-body">
+                                <p>The garden at the reconstructed Fort Vancouver showcases the many plants that were grown at the historic Fort Vancouver.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Black Powder Demonstrations at Fort Vancouver NHS</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E86BF-1DD8-B71B-0B384E77223186E6.jpg" class="card-img-top" alt="Black Powder Demonstrations at Fort Vancouver NHS" title="The military history at Vancouver Barracks is told through living history demonstrations, including historic weapons demonstrations." />
+                            <div class="card-body">
+                                <p>The military history at Vancouver Barracks is told through living history demonstrations, including historic weapons demonstrations.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Vancouver</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E881D-1DD8-B71B-0B98C9CFAE864249.jpg" class="card-img-top" alt="Fort Vancouver" title="A walk through the reconstructed Fort Vancouver is a highlight of any trip to Fort Vancouver National Historic Site." />
+                            <div class="card-body">
+                                <p>A walk through the reconstructed Fort Vancouver is a highlight of any trip to Fort Vancouver National Historic Site.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">McLoughlin House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E89A7-1DD8-B71B-0BCC6874B5F69230.jpg" class="card-img-top" alt="McLoughlin House" title="The McLoughlin House in Oregon City is a unit of Fort Vancouver National Historic Site. Here, visitors learn about Dr. John McLoughlin and the early history of Oregon state." />
+                            <div class="card-body">
+                                <p>The McLoughlin House in Oregon City is a unit of Fort Vancouver National Historic Site. Here, visitors learn about Dr. John McLoughlin and the early history of Oregon state.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pearson Air Museum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E8B4B-1DD8-B71B-0BE1CD3DD023CFEC.jpg" class="card-img-top" alt="Pearson Air Museum" title="At Pearson Air Museum, visitors learn about the history of Pearson Field and early aviation in the Pacific Northwest." />
+                            <div class="card-body">
+                                <p>At Pearson Air Museum, visitors learn about the history of Pearson Field and early aviation in the Pacific Northwest.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

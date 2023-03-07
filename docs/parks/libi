@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Little Bighorn Battlefield National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Little Bighorn Battlefield National Monument</h3>
+                <br/>
+                <p>This area memorializes the US Army's 7th Cavalry, Crow, and Arikara scouts and the Lakotas, Cheyennes, and Arapaho in one of the American Indian's last armed efforts to preserve their way of life. Here on June 25 and 26 of 1876, 263 soldiers, including Lt. Col. George A. Custer and attached personnel of the US Army, died fighting several thousand Lakota, Cheyenne, and Arapaho warriors.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Take Interstate I-90 and exit at the Crow Agency Exit 510 at Jct. 212. To reach Little Bighorn Battlefield National Monument, turn right at the park entrance onto Battlefield Tour Road 756</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>National Cemetery</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Indian Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C847035-1DD8-B71B-0B387957A7924FFA.jpg" class="card-img-top" alt="The sun sets behind the Indian Memorial." title="The Indian Memorial is a circular earthwork carved gently into the prairie. The walls carry the names of those who fell here as well as the words of some who fought in the battle." />
+                            <div class="card-body">
+                                <p>The Indian Memorial is a circular earthwork carved gently into the prairie. The walls carry the names of those who fell here as well as the words of some who fought in the battle.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rising Full Moon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/18C37BED-A441-7D91-86C2E71E5A8E997E.jpg" class="card-img-top" alt="A rising moon peaks above the eastern horizon in January.." title="Little Bighorn Battlefield National Monument moon rising above the Indian Memorial" />
+                            <div class="card-body">
+                                <p>Little Bighorn Battlefield National Monument moon rising above the Indian Memorial</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Seventh Calvary Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8469EF-1DD8-B71B-0BF9406C2B5CDC41.jpg" class="card-img-top" alt="The Seventh Calvary Memorial at dusk." title="About 40 to 50 men of the original 210 were cornered on the hill where the monument now stands." />
+                            <div class="card-body">
+                                <p>About 40 to 50 men of the original 210 were cornered on the hill where the monument now stands.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Headstones in the winter</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84682D-1DD8-B71B-0B204B5C3B32A7C5.jpg" class="card-img-top" alt="Headstone can still been seen even with the fresh snow that blankets the battlefield ." title="The monument and battlefield are open year round, even in winter when snow coats the ground." />
+                            <div class="card-body">
+                                <p>The monument and battlefield are open year round, even in winter when snow coats the ground.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Stone House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8476A4-1DD8-B71B-0B0AFBC4A2555FC1.jpg" class="card-img-top" alt="The stone house sits on the edge of the Custer National Cemetery." title="The stone house once served as a house for the Superintendent and their family. It has been renovated and  restored and now serves as an office and research area." />
+                            <div class="card-body">
+                                <p>The stone house once served as a house for the Superintendent and their family. It has been renovated and  restored and now serves as an office and research area.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

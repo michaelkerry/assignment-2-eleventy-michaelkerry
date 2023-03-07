@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Petroglyph National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Petroglyph National Monument</h3>
+                <br/>
+                <p>Petroglyph National Monument protects one of the largest petroglyph sites in North America, featuring designs and symbols carved onto volcanic rocks by Native Americans and Spanish settlers 400 to 700 years ago. These images are a valuable record of cultural expression and hold profound spiritual significance for contemporary Native Americans and for the descendants of the early Spanish settlers.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">GPS: Lat: 35.139 Long: -106.711 From Interstate 40, take the Unser Blvd. exit (#154) proceed north 3 miles to Western Trail. Turn left or west onto Western Trail and follow road to the Visitor Information Center parking lot. From Interstate 25, take the Paseo del Norte exit (#232) and proceed west to Coors Road exit south (must be in center lane to veer left at the Y). Proceed south on Coors Road to Western Trail. Turn right or west onto Western Trail and follow road to the Visitor Info Center parking lot.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Volcanoes</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hand Print Petroglyphs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2425221F-94B6-50F2-382B3DB62384FB07.jpg" class="card-img-top" alt="Rock art on dark boulders with a cloudy sky." title="Hand prints and other petroglyphs on boulders at Piedras Marcadas." />
+                            <div class="card-body">
+                                <p>Hand prints and other petroglyphs on boulders at Piedras Marcadas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hawk Petroglyph at Mesa Prieta</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/23C24E6B-E74F-FFC9-9396316C856B4228.jpg" class="card-img-top" alt="A hawk petroglyph on a dark boulder with a cloudy sky and mountains in the background." title="A petroglyph of a hawk at Mesa Prieta. It can be visited from the South Point trailhead." />
+                            <div class="card-body">
+                                <p>A petroglyph of a hawk at Mesa Prieta. It can be visited from the South Point trailhead.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Desert Mammal petroglyph</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7DA2BC-1DD8-B71B-0B1AB38AD4FB21D7.jpg" class="card-img-top" alt="Mammal petroglyph along the Mesa Point Trail in Boca Negra Canyon." title="Mammal petroglyph along the Mesa Point Trail in Boca Negra Canyon." />
+                            <div class="card-body">
+                                <p>Mammal petroglyph along the Mesa Point Trail in Boca Negra Canyon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Macaw petroglyph</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/10CCE75E-1DD8-B71B-0B5F2C39FA0DD048.jpg" class="card-img-top" alt="Petroglyph of a macaw parrot along the Macaw Trail in Boca Negra Canyon." title="Petroglyph of a macaw parrot along the Macaw Trail in Boca Negra Canyon." />
+                            <div class="card-body">
+                                <p>Petroglyph of a macaw parrot along the Macaw Trail in Boca Negra Canyon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Coyote and Rattlesnake watching over Rinconada Canyon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7DA5F9-1DD8-B71B-0B29D03420294A71.jpg" class="card-img-top" alt="Petroglyph imagery of a coyote and rattlesnake in Rinconada Canyon." title="Petroglyph imagery of a coyote and rattlesnake in Rinconada Canyon." />
+                            <div class="card-body">
+                                <p>Petroglyph imagery of a coyote and rattlesnake in Rinconada Canyon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Grazing Sheep in Rinconada Canyon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7DA77D-1DD8-B71B-0B12E0492DEA5D29.jpg" class="card-img-top" alt="Petroglyph panel of sheep grazing in Rinconada Canyon." title="Petroglyph panel of sheep grazing in Rinconada Canyon." />
+                            <div class="card-body">
+                                <p>Petroglyph panel of sheep grazing in Rinconada Canyon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Snow Dusted Cinder Cones</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7DAD68-1DD8-B71B-0B14E482CD947167.jpg" class="card-img-top" alt="Winter scene of snow covered cinder cones at the Volcanoes Day Use Area." title="Winter scene of snow covered cinder cones at the Volcanoes Day Use Area." />
+                            <div class="card-body">
+                                <p>Winter scene of snow covered cinder cones at the Volcanoes Day Use Area.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Coyote and Rattlesnake Petroglyphs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D97DA525-DFAD-F244-BF2E77C181677D2C.jpg" class="card-img-top" alt="Petroglyphs of a coyote and a rattlesnake on a dark boulder." title="These petroglyphs could possibly depict a coyote and a rattlesnake, two of the more commonly seen animals at the monument." />
+                            <div class="card-body">
+                                <p>These petroglyphs could possibly depict a coyote and a rattlesnake, two of the more commonly seen animals at the monument.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bird Petroglyph</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D7A0207D-00EB-076D-28162FC4818CAD8E.jpg" class="card-img-top" alt="A petroglyph of a bird on a dark boulder." title="A petroglyph of a bird at Rinconada Canyon." />
+                            <div class="card-body">
+                                <p>A petroglyph of a bird at Rinconada Canyon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bird and Footprint Petroglyphs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D7D7ED15-9952-87D6-66AFDE2DA6C4E74F.jpg" class="card-img-top" alt="Petroglyphs of a bird and a footprint on a dark boulder." title="Petroglyphs of a bird and a footprint at Piedras Marcadas Canyon." />
+                            <div class="card-body">
+                                <p>Petroglyphs of a bird and a footprint at Piedras Marcadas Canyon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Line of Volcanoes</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D99BA950-DC78-8827-A309FDFF8D01E2C0.jpeg" class="card-img-top" alt="A line of dead grass covered cinder cone volcanoes." title="A line of cinder cone volcanoes at the Volcanoes Day Use Area." />
+                            <div class="card-body">
+                                <p>A line of cinder cone volcanoes at the Volcanoes Day Use Area.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

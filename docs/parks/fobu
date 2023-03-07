@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fossil Butte National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fossil Butte National Monument</h3>
+                <br/>
+                <p>Some of the world's best preserved fossils are found in the flat-topped ridges of southwestern Wyoming's cold sagebrush desert. Fossilized fishes, insects, plants, reptiles, birds, and mammals are exceptional for their abundance, variety, and detail of preservation. Most remarkable is the story they tell of ancient life in the warm, wet environment in and around a freshwater lake.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">By car: Travel 9 miles west of Kemmerer, Wyoming on U.S. Highway 30. There is a highway sign near mile post 44; turn right onto Lincoln County Road 300. The Historic Quarry Trail is approximately 1/2 mile on the right. Continue west on County Road 300 for approximately 1.5 miles to Chicken Creek Road which provides access to the visitor center, scenic drive, Nature Trail and picnic area. Closest airports: Rock Springs, Wyoming (130 miles); Salt Lake City, Utah (150 miles).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fossils on the Ridge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/41C5C9F2-E170-9D8F-5AC0C8BB658F20A6.jpg" class="card-img-top" alt="Fish fossils, Knightia eocaena, exposed near cliff" title="Knightia eocaena, the most abundant vertebrate fossil in the world, lies exposed near cliff face." />
+                            <div class="card-body">
+                                <p>Knightia eocaena, the most abundant vertebrate fossil in the world, lies exposed near cliff face.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cockerellites liops, a Common Fossil Fish</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7DC9FB-1DD8-B71B-0BA584C7C85866DD.jpg" class="card-img-top" alt="a well preserved fossil fish, Cockerellites liops" title="Fossils from the Green River Formation are known for their excellent preservation, abundance, and diversity. Cockerellites liops is one of the common fishes found here." />
+                            <div class="card-body">
+                                <p>Fossils from the Green River Formation are known for their excellent preservation, abundance, and diversity. Cockerellites liops is one of the common fishes found here.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Palm Frond</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D8A6E-1DD8-B71B-0B04F9B2331990F9.jpg" class="card-img-top" alt="fossil palm frond" title="Fossil palm fronds and other plants indicate a climate similar to the Gulf Coast states." />
+                            <div class="card-body">
+                                <p>Fossil palm fronds and other plants indicate a climate similar to the Gulf Coast states.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Limestone Ridges, Remnants of Ancient Fossil Lake, Contrast the Green, Early Summer Landscape.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7DE1CA-1DD8-B71B-0BFF5560ADF72FCB.jpg" class="card-img-top" alt="A scenic view of Fossil Basin in early summer; yellow limestone, red mudstones and green vegetation" title="Early Summer Beauty in the High Desert of Southwestern Wyoming" />
+                            <div class="card-body">
+                                <p>Early Summer Beauty in the High Desert of Southwestern Wyoming</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7D8C4A-1DD8-B71B-0BD89BF4186BBD89.jpg" class="card-img-top" alt="visitor center with Fossil Butte in the background" title="The visitor center is nestled in a sagebrush landscape beneath Fossil Butte. Over 300 fossils are on exhibit." />
+                            <div class="card-body">
+                                <p>The visitor center is nestled in a sagebrush landscape beneath Fossil Butte. Over 300 fossils are on exhibit.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Moonrise Over Fossil Butte</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7848D9AC-F629-D2C3-3E4109D8F60F3165.jpg" class="card-img-top" alt="The moon rises just to the right of snow-covered Fossil Butte." title="Fossil Butte is the most noticeable landmark of the park and where the monument got its name." />
+                            <div class="card-body">
+                                <p>Fossil Butte is the most noticeable landmark of the park and where the monument got its name.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

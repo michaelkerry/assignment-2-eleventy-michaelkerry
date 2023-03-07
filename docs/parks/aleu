@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Aleutian Islands World War II National Historic Area</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Aleutian Islands World War II National Historic Area</h3>
+                <br/>
+                <p>During World War II the remote Aleutian Islands, home to the Unangax̂ (Aleut) people for over 8,000 years, became a fiercely contested battleground in the Pacific. This thousand-mile-long archipelago saw invasion by Japanese forces, the occupation of two islands; a mass relocation of Unangax̂ civilians; a 15-month air war; and one of the deadliest battles in the Pacific Theater.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park is located on Amaknak Island in the Aleutian Island chain. The island is located 800 miles west of Anchorage. The island can be reached by commercial or charter air flights from Anchorage. Commercial flights to Unalaska include Pen Air and Alaska Airlines. The Alaska Marine Highway is a ferry service that is operated by the state that can be used to reach the island. The Aleutian World War II Visitor Center is located at the Unalaska airport.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Aviation</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Incarceration</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Coastal Defenses</li>
+                                    
+                                    <li>Maritime - Military</li>
+                                    
+                                    <li>Ships and Shipwrecks</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>US Navy</li>
+                                    
+                                    <li>US Marines</li>
+                                    
+                                    <li>US Coast Guard</li>
+                                    
+                                    <li>US Air Force (Army Air Corps)</li>
+                                    
+                                    <li>Indigenous and Native Warrior</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Forced Marches</li>
+                                    
+                                    <li>Massacres</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>World War II</li>
+                                    
+                                    <li>Arctic</li>
+                                    
+                                    <li>Tundra</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A homeland changed</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BC1AE-1DD8-B71B-0BF60FDE7A21822B.jpg" class="card-img-top" alt="Group of people around a Russian cross in tall grass" title="In September 2009, Nick Lekanoff, Sr., former Makushin resident, traveled with his daughter and other descendants of Makushin on the Tiglax to visit the village site, which had been left behind in the evacuation of 1942 and never permanently resettled." />
+                            <div class="card-body">
+                                <p>In September 2009, Nick Lekanoff, Sr., former Makushin resident, traveled with his daughter and other descendants of Makushin on the Tiglax to visit the village site, which had been left behind in the evacuation of 1942 and never permanently resettled.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">William C. House and the Aerological Detail on Kiska</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BC37B-1DD8-B71B-0BA4AF7F3700FE86.jpg" class="card-img-top" alt="Twelve men and a dog pose for a photo" title="After his aerological crew was captured by the Japanese in June, 1942, Senior Petty Officer William House survived 50 days in the hills of Kiska.  He ate grass, shellfish, and worms. Weighing 80lbs he surrendered and was respected for his perseverance." />
+                            <div class="card-body">
+                                <p>After his aerological crew was captured by the Japanese in June, 1942, Senior Petty Officer William House survived 50 days in the hills of Kiska.  He ate grass, shellfish, and worms. Weighing 80lbs he surrendered and was respected for his perseverance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Evacuation and internment</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BC517-1DD8-B71B-0BD7C869F63B3276.jpg" class="card-img-top" alt="People crowd at the railing of a ship" title="Pribilof villagers, here lining the railing of the USAT Delarof on the day of their departure (June 15, 1942), were evacuated with only a few hours notice and no idea of their ultimate destination." />
+                            <div class="card-body">
+                                <p>Pribilof villagers, here lining the railing of the USAT Delarof on the day of their departure (June 15, 1942), were evacuated with only a few hours notice and no idea of their ultimate destination.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Challenging weather conditions</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BC68B-1DD8-B71B-0BED69DAACF6A5AC.jpg" class="card-img-top" alt="Four men gather around a invalid man" title="Soldiers rub the frostbitten feet of a disabled soldier. Over 2000 weather-related casualties—the majority Attu feet—were recorded for U.S. troops. This number represents the largest classification of casualties suffered by American forces on the island." />
+                            <div class="card-body">
+                                <p>Soldiers rub the frostbitten feet of a disabled soldier. Over 2000 weather-related casualties—the majority Attu feet—were recorded for U.S. troops. This number represents the largest classification of casualties suffered by American forces on the island.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The battle for Attu Island</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BC7CF-1DD8-B71B-0B73637962E06C74.jpg" class="card-img-top" alt="Six men with guns carry a person on a stretcher in a valley." title="U.S. wounded are gathered from the battlefield on Attu Island.  The battle on Attu, lasting nearly 20 days, was the second most deadly in the Pacific Theater." />
+                            <div class="card-body">
+                                <p>U.S. wounded are gathered from the battlefield on Attu Island.  The battle on Attu, lasting nearly 20 days, was the second most deadly in the Pacific Theater.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cultural collision</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7BC97B-1DD8-B71B-0B9A70C0C0988F0E.jpg" class="card-img-top" alt="A uniformed man holds up a broken Russian cross" title="The Aleutian campaign brought together Russian, Native Alaskan, Japanese, and Euroamerican cultures. During the war 7 historic churches were damaged or destroyed. Villages were unrecognizable or burned to the ground and personal belonging lost or stolen." />
+                            <div class="card-body">
+                                <p>The Aleutian campaign brought together Russian, Native Alaskan, Japanese, and Euroamerican cultures. During the war 7 historic churches were damaged or destroyed. Villages were unrecognizable or burned to the ground and personal belonging lost or stolen.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

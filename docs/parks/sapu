@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Salinas Pueblo Missions National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Salinas Pueblo Missions National Monument</h3>
+                <br/>
+                <p>Tucked away in the middle of New Mexico you’ll find Salinas Pueblo Missions National Monument. Its three distinct sites offer a glimpse into a unique time in history—a time entrenched with cultural borrowing, conflict and struggles. These sites continue to stand as reminders of the Spanish and Pueblo peoples’ early encounters and prompt exploration of today’s interactions among different people.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Reach the Mountainair Headquarters by taking I-25 south from Albuquerque to Belen, then NM 47 diagonally to US 60, then east 21 miles to Mountainair. To travel the historic highway route (Turquoise Highway) from the north, take I-40 east from Albuquerque to NM 337, drive south 47 miles (76K) to junction with NM State Highway 55. Proceed right (west) on Hwy 55 about 16 miles (26 K). Turn right on Highway 60 and proceed one block to HQ. Information on the ruins & surrounding area is available here.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Ruins</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Painting</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Latino American Heritage</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Missions</li>
+                                    
+                                    <li>Churches</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Mexican War</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Foothills, Plains and Valleys</li>
+                                    
+                                    <li>Plateaus and Mesas</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Dinosaur</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Quarai Mission In Spring</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C860054-1DD8-B71B-0BE09BE0AD611F0B.jpg" class="card-img-top" alt="Pink flowers and green foliage frame the roofless remains of a stone mission." title="Quarai Mission in Spring" />
+                            <div class="card-body">
+                                <p>Quarai Mission in Spring</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Quarai Mission</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85FF45-1DD8-B71B-0B970D305A272A60.jpg" class="card-img-top" alt="Stone walls of a roofless building rise into a bright blue sky." title="An overview of the Quarai Mission, seen from the west." />
+                            <div class="card-body">
+                                <p>An overview of the Quarai Mission, seen from the west.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Annular Eclipse Seen From Gran Quivira</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85FD29-1DD8-B71B-0B6F8E0F1D119DC4.jpg" class="card-img-top" alt="An solar eclipse outlines an old stone structure at Salinas Pueblo Missions." title="An annular eclipse was visible from Gran Quivira in 2012. A special program allowed visitors to experience this amazing celestial event." />
+                            <div class="card-body">
+                                <p>An annular eclipse was visible from Gran Quivira in 2012. A special program allowed visitors to experience this amazing celestial event.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kivas At Gran Quivira</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85FE2F-1DD8-B71B-0B576101F10DC705.jpg" class="card-img-top" alt="A paved path winds through the stone foundations of several old kivas." title="An overview of kivas at Gran Quivira" />
+                            <div class="card-body">
+                                <p>An overview of kivas at Gran Quivira</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">An Overview Of The Abó Mission</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85FC1C-1DD8-B71B-0B63D1D8264921A4.jpg" class="card-img-top" alt="Stone foundations of an old mission structure." title="An overview of the Abó Mission with the convento in the foreground." />
+                            <div class="card-body">
+                                <p>An overview of the Abó Mission with the convento in the foreground.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Inside The Abó Church</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85FAE8-1DD8-B71B-0BF5E48AEE58FC9E.jpg" class="card-img-top" alt="A path through stone walls of an old church." title="A view inside the Abó Church looking north. A nice carpet of grass is usually present during summer months." />
+                            <div class="card-body">
+                                <p>A view inside the Abó Church looking north. A nice carpet of grass is usually present during summer months.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

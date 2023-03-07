@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>City Of Rocks National Reserve</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">City Of Rocks National Reserve</h3>
+                <br/>
+                <p>Emigrants of the California Trail describe the rocks here in vivid detail as "a city of tall spires,” “steeple rocks," and "the silent city." Today, this backcountry byway attracts rock climbers, campers, hikers, hunters, and those with the spirit of adventure. There's inspirational scenery, exceptional opportunities for geologic study, and remnants of the Old West awaiting your discovery.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From Boise: take I-84 East to exit 216 (Declo); go south on Highway 77 to Conner Creek Junction; turn right (west) on Highway 77 Spur to Almo. The visitor center and the park entrance are south of the post office and businesses. From Pocatello: take I-86 West to I-84 West to exit 216 and proceed as above. From Salt Lake City: take I-84 west to exit 245 (Sublette), turn left and go west to Malta. From Malta take Highway 77. Take Highway 77 Spur to Almo.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Mountain Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Horse Camping (see also Horse/Stock Use)</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>RV Camping</li>
+                                    
+                                    <li>Climbing</li>
+                                    
+                                    <li>Rock Climbing</li>
+                                    
+                                    <li>Ice Climbing</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horse Camping (see also camping)</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Ice Skating</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snow Play</li>
+                                    
+                                    <li>Snowmobiling</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Ranches</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>The Gold Rush</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">City of Rocks Granite</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6969795B-C212-F59F-32D18D86BCB8ACDE.jpg" class="card-img-top" alt="Snow dusted granite formations jut up from a mountainous juniper covered landscape." title="Explore the City" />
+                            <div class="card-body">
+                                <p>Explore the City</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">City of Rocks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E9C491CA-E6B2-9B7E-68A22E261CA08942.jpg" class="card-img-top" alt="3 silhouetted foggy granite formations highlighted by golden sunlight." title="City of Rocks offers sweeping vistas and awe-inspiring scenery." />
+                            <div class="card-body">
+                                <p>City of Rocks offers sweeping vistas and awe-inspiring scenery.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Indian Grove Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/619F4A94-B2F9-FA28-D935F3A03CACE093.jpg" class="card-img-top" alt="Grand scenic view looking down from a high elevation. Granite spires jut up from the landscape." title="The majority of outcrops in City of Rocks and all of the pinnacles are either Almo Pluton or Green Creek Complex granite." />
+                            <div class="card-body">
+                                <p>The majority of outcrops in City of Rocks and all of the pinnacles are either Almo Pluton or Green Creek Complex granite.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Twin Sisters</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/54D6C83C-0760-48AD-4EB8DE2C2C329980.jpg" class="card-img-top" alt="Two granite pinnacles right next to each other that are similar in size and shape." title="Twin Sisters may be similar in size and shape, but one is 2.5 billion years old, the younger sister is only 28 million years old." />
+                            <div class="card-body">
+                                <p>Twin Sisters may be similar in size and shape, but one is 2.5 billion years old, the younger sister is only 28 million years old.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Window Arch at City of Rocks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/A31DB8E0-1DD8-B71B-0B550930E432F744.jpg" class="card-img-top" alt="A granite arch is displayed on the horizon" title="Forces of nature sculpt unexpected features in granite such as Window Arch" />
+                            <div class="card-body">
+                                <p>Forces of nature sculpt unexpected features in granite such as Window Arch</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Replica Emigrant Wagons at City of Rocks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/A3EEC606-1DD8-B71B-0BF3EE58623BFA22.jpg" class="card-img-top" alt="Replica emigrant wagons rest unhitched at sunrise" title="Nearly 250,000 California-bound emigrants traveled through City of Rocks (1843-1882)" />
+                            <div class="card-body">
+                                <p>Nearly 250,000 California-bound emigrants traveled through City of Rocks (1843-1882)</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Emigrant Signatures at City of Rocks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/A44B43D1-1DD8-B71B-0B8199695433AD1A.jpg" class="card-img-top" alt="Emigrant signature written with axle-grease on granite" title="California-bound emigrants painted their signature on Register Rock in 1850" />
+                            <div class="card-body">
+                                <p>California-bound emigrants painted their signature on Register Rock in 1850</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Climber on Morning Glory Spire</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/546038F0-AE75-3D80-8D108601CC958158.jpg" class="card-img-top" alt="A climber ascends a granite spire with mountains in the distance." title="Over half of the 100,000 annual visitors to City of Rocks come to experience climbing" />
+                            <div class="card-body">
+                                <p>Over half of the 100,000 annual visitors to City of Rocks come to experience climbing</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Window Arch</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3B9553BA-CE1C-8FB6-9D4FDC3A165293CB.jpg" class="card-img-top" alt="Granite arch with sunset peeking through." title="Window Arch is one of many impressive rock features found in City of Rocks." />
+                            <div class="card-body">
+                                <p>Window Arch is one of many impressive rock features found in City of Rocks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Silent City of Rocks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/07DCF410-D6AB-025C-FB46E259857A1BD6.jpg" class="card-img-top" alt="Snowy granite pinnacles." title="Winter is a great time to experience quiet and solitude in City of Rocks." />
+                            <div class="card-body">
+                                <p>Winter is a great time to experience quiet and solitude in City of Rocks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Capulin Volcano National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Capulin Volcano National Monument</h3>
+                <br/>
+                <p>Part of the 8,000 square mile Raton-Clayton Volcanic Field, Capulin Volcano showcases the volcanic geology of northeastern New Mexico. The views are spectacular day or night, with views of 4 different states from the volcanic rim and one of the darkest night skies in the country. Whether it's a quick stop or a day's trip, enjoy exploring the landscape of this unique volcano!</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Capulin Volcano National Monument is located in northeast New Mexico. The monument is located 33 miles east of Raton, NM, and 57 miles west of Clayton, NM on NM325 3 miles north of US64. No public transportation systems serve the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Ranches</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Elk</li>
+                                    
+                                    <li>Volcanoes</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Capulin Volcano</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84FCB2-1DD8-B71B-0BE4C7320D95575F.jpg" class="card-img-top" alt="A cloud shrouded volcano rises behind a field of yellow flowers." title="Capulin Volcano in summer." />
+                            <div class="card-body">
+                                <p>Capulin Volcano in summer.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Aerial View of Capulin Volcano</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84FDF7-1DD8-B71B-0B21AAE5CD8316CB.jpg" class="card-img-top" alt="View of cinder cone volcano and the road leading to the top of the volcano as seen from the air." title="Capulin Volcano is a classic example of a cinder cone. The crater is approximately 130 m (420 ft) deep and 440 m (1,450 ft) across. The base of the mountain is 6 km (4 mi) in circumference. Volcano Road spirals up the volcano, providing panoramic views." />
+                            <div class="card-body">
+                                <p>Capulin Volcano is a classic example of a cinder cone. The crater is approximately 130 m (420 ft) deep and 440 m (1,450 ft) across. The base of the mountain is 6 km (4 mi) in circumference. Volcano Road spirals up the volcano, providing panoramic views.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Nature Trail at Capulin Volcano</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C84FF37-1DD8-B71B-0B956181F9F5E199.jpg" class="card-img-top" alt="A shaded bench on the side of a paved nature trail wending through juniper trees and grasses." title="A paved nature trail at Capulin Volcano NM." />
+                            <div class="card-body">
+                                <p>A paved nature trail at Capulin Volcano NM.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Volcano Road</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85008E-1DD8-B71B-0B2FEF52E96A172C.jpg" class="card-img-top" alt="Layers of rock are visible in the steep hillside along a road." title="Layers of volcanic material can be seen in the Volcano Road that takes visitors to the top of Capulin Volcano." />
+                            <div class="card-body">
+                                <p>Layers of volcanic material can be seen in the Volcano Road that takes visitors to the top of Capulin Volcano.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Capulin Volcano-Best Example of a Cinder Cone in North America</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8501F7-1DD8-B71B-0B83ABCF518E1D2B.jpg" class="card-img-top" alt="View of a cinder cone volcano covered with grasses, small trees, and other plants." title="Although Capulin Mountain is considered no longer active, because its excellent condition, the cinder cone is considered one of the best and most accessible examples of a cinder cone in North America." />
+                            <div class="card-body">
+                                <p>Although Capulin Mountain is considered no longer active, because its excellent condition, the cinder cone is considered one of the best and most accessible examples of a cinder cone in North America.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

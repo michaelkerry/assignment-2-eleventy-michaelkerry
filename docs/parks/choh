@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Chesapeake & Ohio Canal National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Chesapeake & Ohio Canal National Historical Park</h3>
+                <br/>
+                <p>Preserving America's early transportation history, the C&O Canal began as a dream of passage to Western wealth. Operating for nearly 100 years the canal was a lifeline for communities along the Potomac River as coal, lumber, and agricultural products floated down the waterway to market. Today it endures as a pathway for discovering historical, natural, and recreational treasures.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park has numerous access points. There is no main entrance. In Washington, DC, the C&O Canal begins in Georgetown on 29th Street NW, south of M Street, and runs alongside Canal Road / Clara Barton Parkway out of DC to the west. The entrance to Great Falls is at Canal Road and MacArthur Blvd in Potomac, MD. Park Headquarters and the Williamsport Visitor Center are located off I-81 at exit 2. Cumberland Visitor Center is off I-68 at exit 43C. See the maps page for more.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Ice Skating</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Dams</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Canals</li>
+                                    
+                                    <li>Tunnels</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Floods</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Great Falls of the Potomac</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EC77A-1DD8-B71B-0B67E179DDA9A05A.jpg" class="card-img-top" alt="The rushing river cascades over the rocks of the Potomac" title="The area of Great Falls is one of the reasons for the C&O Canal needed to be built for boat traffic." />
+                            <div class="card-body">
+                                <p>The area of Great Falls is one of the reasons for the C&O Canal needed to be built for boat traffic.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bike rider along the towpath</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EC604-1DD8-B71B-0B20F3F216BA2809.jpg" class="card-img-top" alt="A single bike rider on the towpath next to the widewater section of the canal." title="The towpath offers a serene bike riding experience." />
+                            <div class="card-body">
+                                <p>The towpath offers a serene bike riding experience.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lockhouse 16 along the Canal</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EC45C-1DD8-B71B-0B4EDFD56A427891.jpg" class="card-img-top" alt="A whitewashed lockhouse sits above a stone lock with wooden crib." title="Lockhouse 16 sits atop a stone outcropping above the lock." />
+                            <div class="card-body">
+                                <p>Lockhouse 16 sits atop a stone outcropping above the lock.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hancock Visitor Center (Bowles House)</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EBFC9-1DD8-B71B-0B72753F0B95D51D.jpg" class="card-img-top" alt="Park sign in front of the historic Bowles House" title="One of seven Park visitor centers, the Bowles House sits along an empty canal bed in Hancock." />
+                            <div class="card-body">
+                                <p>One of seven Park visitor centers, the Bowles House sits along an empty canal bed in Hancock.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Big Slackwater</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EC2D8-1DD8-B71B-0B12B526FCC72D53.jpg" class="card-img-top" alt="Fog over the Potomac River alongside the Canal towpath." title="Big Slackwater is a 3 mile stretch where canal boats entered the Potomac River to travel above Dam 4." />
+                            <div class="card-body">
+                                <p>Big Slackwater is a 3 mile stretch where canal boats entered the Potomac River to travel above Dam 4.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Charles F. Mercer Replica Canal Boat</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7F149D-1DD8-B71B-0BF4E52DDA5B4834.jpg" class="card-img-top" alt="A replica double decker canal boat is being pulled upstream by mules." title="Mule-drawn canal boat rides are offered at Great Falls Tavern, April through October." />
+                            <div class="card-body">
+                                <p>Mule-drawn canal boat rides are offered at Great Falls Tavern, April through October.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

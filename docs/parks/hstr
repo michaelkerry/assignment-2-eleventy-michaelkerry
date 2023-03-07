@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Harry S Truman National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Harry S Truman National Historic Site</h3>
+                <br/>
+                <p>President Harry S Truman took America from its traditional isolationism into the age of international involvement. Despite his power, he never forgot where he came from. Today, visitors can experience the surroundings Truman knew as a young man of modest ambition through his political career and final years as a former president.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Visitor Center is located at 223 North Main Street, in Historic Fire Station No.1. From the north or south, take I-435 to Truman Road (State Hwy 12), exit 60. Travel east on Truman Road three miles; you'll pass the Truman Home at Delaware Street. From the east or west, take I-70 to the Noland Road exit (12). Travel north on Noland Road four miles to Truman Road. Turn west on Truman Road and travel two blocks. The Truman Home is five blocks to the west of the visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Truman Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79AC3C-1DD8-B71B-0BB54731F4D0538A.jpg" class="card-img-top" alt="The Truman home near sunset." title="Although Harry Truman was a 20th century president, his home was from the Victorian era." />
+                            <div class="card-body">
+                                <p>Although Harry Truman was a 20th century president, his home was from the Victorian era.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Truman Farm Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79ADD6-1DD8-B71B-0BD9463738E1C170.jpg" class="card-img-top" alt="The Truman Farm Home sits behind Autumn trees." title="From when he was 22 until he was 33 years old, Harry Truman lived on his grandmother's farm." />
+                            <div class="card-body">
+                                <p>From when he was 22 until he was 33 years old, Harry Truman lived on his grandmother's farm.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Noland Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79AEF0-1DD8-B71B-0B257E6DB727C757.jpg" class="card-img-top" alt="The Noland home sits across the street from the Truman home." title="Harry Truman's cousins, the Nolands, lived right across the street from him." />
+                            <div class="card-body">
+                                <p>Harry Truman's cousins, the Nolands, lived right across the street from him.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The George Wallace Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79B1A4-1DD8-B71B-0B1D077DC79DD1CD.jpg" class="card-img-top" alt="The George Wallace home with the Truman home in the background." title="Bess Truman's brother, George, and his wife, May, lived right behind the Truman home." />
+                            <div class="card-body">
+                                <p>Bess Truman's brother, George, and his wife, May, lived right behind the Truman home.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">219 North Delaware Street...Then and Now</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E8300CC9-E60E-87BC-A06E532440E50ED5.jpg" class="card-img-top" alt="The Truman Home, Then and Now!" title="Once the home of a flour mill partner, it later was the home of a president." />
+                            <div class="card-body">
+                                <p>Once the home of a flour mill partner, it later was the home of a president.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Frank Wallace Home</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79AFEB-1DD8-B71B-0BD99D0239E6B490.jpg" class="card-img-top" alt="The Frank Wallace home where Bess Truman's brother lived." title="Bess Truman's brother, Frank, and his wife Natalie, lived in this small bungalow right behind the Truman home." />
+                            <div class="card-body">
+                                <p>Bess Truman's brother, Frank, and his wife Natalie, lived in this small bungalow right behind the Truman home.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

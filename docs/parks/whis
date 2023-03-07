@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Whiskeytown National Recreation Area</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Whiskeytown National Recreation Area</h3>
+                <br/>
+                <p>Whiskeytown Lake’s crystal-clear water is perhaps the most recognized feature of the park. However, water-based recreation is only a part of what the 42,000-acre Whiskeytown National Recreation Area has to offer. Visit waterfalls, hike through rugged mountains, explore California Gold Rush history, and observe post-fire ecology in action. Your national park is calling...</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Car From Interstate 5, take the Highway 44 West exit toward Downtown Redding and Eureka. From Downtown Redding, follow Highway 299 west toward Eureka for approximately 8 miles to reach the Visitor Center. Plane Commercial air service is available to Redding California located approximately 16 miles from Whiskeytown. Rental vehicles are available.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Mountain Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Motorized Boating</li>
+                                    
+                                    <li>Sailing</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Horse Camping (see also Horse/Stock Use)</li>
+                                    
+                                    <li>Group Camping</li>
+                                    
+                                    <li>RV Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Fly Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horse Camping (see also camping)</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>SCUBA Diving</li>
+                                    
+                                    <li>Swimming</li>
+                                    
+                                    <li>Freshwater Swimming</li>
+                                    
+                                    <li>Water Skiing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Painting</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Dams</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Bridges</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>The Gold Rush</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Cats (wild)</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Lakes</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Shasta Bally</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81470B-1DD8-B71B-0B1CF8A880DBD58D.jpg" class="card-img-top" alt="A snowy day on top of Shasta Bally" title="A beautiful stop along Kennedy Memorial Drive" />
+                            <div class="card-body">
+                                <p>A beautiful stop along Kennedy Memorial Drive</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A Beautiful Day on the Lake</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C814A04-1DD8-B71B-0B564DC8801CA9E3.jpg" class="card-img-top" alt="Crystal clear waters make for good paddling" title="Another Way to Capture the Beauty" />
+                            <div class="card-body">
+                                <p>Another Way to Capture the Beauty</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Moonlight Kayak Tour</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81485B-1DD8-B71B-0B34DCEEE0870A67.jpg" class="card-img-top" alt="An evening kayak tour" title="Thousands of vistors join interpretive rangers to get a new perspective of the lake on a moonlight kayak tour" />
+                            <div class="card-body">
+                                <p>Thousands of vistors join interpretive rangers to get a new perspective of the lake on a moonlight kayak tour</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Recreation</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C814B72-1DD8-B71B-0B505449057E3064.jpg" class="card-img-top" alt="Another way to enjoy the park" title="A popular recreational activity" />
+                            <div class="card-body">
+                                <p>A popular recreational activity</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Whiskeytown Falls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C814F8F-1DD8-B71B-0BDAF1974D2D38D6.jpg" class="card-img-top" alt="A Fall Day at Whiskeytown Falls" title="One of the four major waterfalls- Whiskeytown Falls" />
+                            <div class="card-body">
+                                <p>One of the four major waterfalls- Whiskeytown Falls</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A View from the Top</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8145A3-1DD8-B71B-0B7C0680C99D7CFC.jpg" class="card-img-top" alt="Being on the Top of Shasta Bally" title="A popular spot for visitors to get a view of the valley and mountain ranges" />
+                            <div class="card-body">
+                                <p>A popular spot for visitors to get a view of the valley and mountain ranges</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Boulder Creek Falls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81510D-1DD8-B71B-0BF5F97783DE7EFE.jpg" class="card-img-top" alt="A Beautiful Day at Boulder Creek Falls" title="One of the four major waterfalls- Boulder Creek Falls" />
+                            <div class="card-body">
+                                <p>One of the four major waterfalls- Boulder Creek Falls</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">JFK Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/753436CA-EE25-E418-2E0AE5AC39F5341F.jpg" class="card-img-top" alt="John F. Kennedy Memorial" title="John F. Kennedy Memorial" />
+                            <div class="card-body">
+                                <p>John F. Kennedy Memorial</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Glory Hole</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/754ED5C4-EDF3-1F14-324C96D2CFB7CDDF.jpg" class="card-img-top" alt="Glory Hole at Whiskeytown Lake" title="Glory Hole at Whiskeytown Lake" />
+                            <div class="card-body">
+                                <p>Glory Hole at Whiskeytown Lake</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">VC</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/756750F1-EB79-A960-8FA6B59855B5874C.jpg" class="card-img-top" alt="Whiskeytown NRA Visitor Center" title="Whiskeytown NRA Visitor Center" />
+                            <div class="card-body">
+                                <p>Whiskeytown NRA Visitor Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">VC interior</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/757C8644-D37E-939E-90A6DBAE1CEB926E.jpg" class="card-img-top" alt="Whiskeytown NRA Visitor Center Interior" title="Whiskeytown NRA Visitor Center Interior" />
+                            <div class="card-body">
+                                <p>Whiskeytown NRA Visitor Center Interior</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">WNPA</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7599999F-CA01-BEDB-5884FD061BC87452.jpg" class="card-img-top" alt="Western National Parks Store inside the Visitor Center" title="Western National Parks Store inside the Visitor Center" />
+                            <div class="card-body">
+                                <p>Western National Parks Store inside the Visitor Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">camden house</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/75AD9FC8-BA5C-802A-2CF50004C0F2389C.jpg" class="card-img-top" alt="The Camden House Located in the Tower House Historic District" title="The Camden House Located in the Tower House Historic District" />
+                            <div class="card-body">
+                                <p>The Camden House Located in the Tower House Historic District</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">tower gravesite</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/75CE60AF-F5F4-82FE-5DA7505F6F8D96F6.jpg" class="card-img-top" alt="Levi Tower Gravesite Located in the Tower House Historic District" title="Levi Tower Gravesite Located in the Tower House Historic District" />
+                            <div class="card-body">
+                                <p>Levi Tower Gravesite Located in the Tower House Historic District</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Peltier Bridge Campground</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/75ED2945-B910-B20E-842D997AA56DE141.jpg" class="card-img-top" alt="Peltier Bridge Campground" title="Peltier Bridge Campground" />
+                            <div class="card-body">
+                                <p>Peltier Bridge Campground</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

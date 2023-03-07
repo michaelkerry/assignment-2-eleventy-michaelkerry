@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Walnut Canyon National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Walnut Canyon National Monument</h3>
+                <br/>
+                <p>Come gaze across curved canyon walls. Among the remarkable geological formations of the canyon itself, the former homes of ancient inhabitants are easily evident. Along the trails you can imagine life within Walnut Canyon, while visiting actual pueblos and walking in the steps of those who came before.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Walnut Canyon National Monument is located approximately 7.5 miles (12 km) east of Flagstaff. From Interstate 40, take Exit 204, and turn south. The Walnut Canyon Visitor Center is located at the end of this 3-mile (5 km) road.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Cliff Dwellings</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Canyons and Canyonlands</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cliff Dwellings</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E56A7-1DD8-B71B-0B9142948979784E.jpg" class="card-img-top" alt="sunlight illuminates stone walls in a canyon cliff dwelling" title="Walnut Canyon National Monument protects a series of ancient cliff dwellings built between 1125 and 1250 CE." />
+                            <div class="card-body">
+                                <p>Walnut Canyon National Monument protects a series of ancient cliff dwellings built between 1125 and 1250 CE.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Walnut Canyon Snow</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E5A17-1DD8-B71B-0B1E9FC73E4E3962.jpg" class="card-img-top" alt="warm sunlight illuminates a cliff dwelling wall beside a snowy trail" title="The 0.9-mile (1.4 km) Island Trail leads visitors down 240 stairs to explore 25 cliff dwelling rooms." />
+                            <div class="card-body">
+                                <p>The 0.9-mile (1.4 km) Island Trail leads visitors down 240 stairs to explore 25 cliff dwelling rooms.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Walnut Canyon Rim Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E5887-1DD8-B71B-0B755A17D0EF3190.jpg" class="card-img-top" alt="a circular overlook at the edge of the canyon rim" title="The 0.7-mile (1.1 km) Rim Trail reveals expansive views of Walnut Canyon and its cliff dwellings." />
+                            <div class="card-body">
+                                <p>The 0.7-mile (1.1 km) Rim Trail reveals expansive views of Walnut Canyon and its cliff dwellings.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Walnut Canyon Raven</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E5BAF-1DD8-B71B-0BFDC7B12D25E70F.jpg" class="card-img-top" alt="a common raven landing on a barren juniper branch" title="At the rim of Walnut Canyon, visitors stand at eye level with soaring ravens, eagles, and other birds" />
+                            <div class="card-body">
+                                <p>At the rim of Walnut Canyon, visitors stand at eye level with soaring ravens, eagles, and other birds</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A Visitor at Walnut Canyon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E5E9C-1DD8-B71B-0B4DBC28FEC5F0A0.jpg" class="card-img-top" alt="a visitor looks out over Walnut Canyon from the trail" title="More than 125,000 people visit Walnut Canyon each year." />
+                            <div class="card-body">
+                                <p>More than 125,000 people visit Walnut Canyon each year.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

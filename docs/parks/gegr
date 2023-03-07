@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>General Grant National Memorial</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">General Grant National Memorial</h3>
+                <br/>
+                <p>The final resting place of President Ulysses S. Grant and his wife, Julia, is the largest mausoleum in North America. It testifies to a people’s gratitude for the man who ended the bloodiest conflict in American history as Commanding General of the Union Army and then, as President of the United States, strove to heal a nation after a civil war and make rights for all citizens a reality.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">General Grant National Memorial is located in Riverside Park, on the upper west-side of Manhattan. The entrance to the mausoleum is between north-bound and south-bound Riverside Drive, near the intersection of West 122nd Street. The visitor center is located to the west, across south-bound Riverside Drive. Street parking is available, but can be very hard to find. The area is well-served with both Bus and Subway, by the Metropolitan Transportation Authority of New York (http://www.mta.info/).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Reconstruction</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Mexican War</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mausoleum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C855F85-1DD8-B71B-0B5A4A32E92B3730.jpg" class="card-img-top" alt="Mausoleum and flags in sunny weather" title="The Mausoleum is the final resting place for Ulysses S Grant and his wife Julia D. Grant." />
+                            <div class="card-body">
+                                <p>The Mausoleum is the final resting place for Ulysses S Grant and his wife Julia D. Grant.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Sarcophagi of Ulysses and Julia Grant</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85CF98-1DD8-B71B-0BCFF55AB73732B1.jpg" class="card-img-top" alt="Two red stone sarcophagi are in a crypt. A bust of General Sherman can be seen in the distance." title="Two sarcophagi, made of granite from Wisconsin, house the remains of Ulysses S. Grant and his wife, Julia. Bronze busts of key union generals (like William T. Sherman seen here) occupy the  niches in the lower crypt." />
+                            <div class="card-body">
+                                <p>Two sarcophagi, made of granite from Wisconsin, house the remains of Ulysses S. Grant and his wife, Julia. Bronze busts of key union generals (like William T. Sherman seen here) occupy the  niches in the lower crypt.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Upper Dome of the Mausoleum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85D0CA-1DD8-B71B-0BDE95834F2A5289.jpg" class="card-img-top" alt="A circular dome is held up by carvings of allegorical figures." title="The dome of the memorial stretches 150 feet into the sky. On its four corners are four allegorical sculptures, executed by J. Massey Rhind." />
+                            <div class="card-body">
+                                <p>The dome of the memorial stretches 150 feet into the sky. On its four corners are four allegorical sculptures, executed by J. Massey Rhind.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Overlook Pavillion, above the Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85D1CF-1DD8-B71B-0B360DCD6E00EE09.jpg" class="card-img-top" alt="A neoclassic pavilion sits on the hillside, surrounded by trees with the Hudson River below." title="The Overlook Pavilion is great place to check out the scenery. Beneath the overlook is the park's visitor center." />
+                            <div class="card-body">
+                                <p>The Overlook Pavilion is great place to check out the scenery. Beneath the overlook is the park's visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Site of the Temporary Tomb</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85D2D2-1DD8-B71B-0BF7A0FA3E4DC031.jpg" class="card-img-top" alt="A black wrought-iron fence surrounds two trees. The enclosure is located directly behind the tomb." title="This enclosure marks the location of the temporary vault where Grant was initially interred. His remains were in the temporary vault for 12 years, from 1885-1897." />
+                            <div class="card-body">
+                                <p>This enclosure marks the location of the temporary vault where Grant was initially interred. His remains were in the temporary vault for 12 years, from 1885-1897.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">U S Military Academy at West Point Colorguard</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/4AF3F057-98B9-6E88-D80E74F879E83ED1.jpg" class="card-img-top" alt="West Point Cadets in formal uniforms carrying three flags in front of the mausoleum" title="Visit the site on the Birthday Ceremony for U.S. Grant" />
+                            <div class="card-body">
+                                <p>Visit the site on the Birthday Ceremony for U.S. Grant</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>National Parks of New York Harbor</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">National Parks of New York Harbor</h3>
+                <br/>
+                <p>These 12 sites preserve more than 400 years of American history! We invite you to explore the past and investigate its relevance in our lives today. From the birth of American democracy to the evolution of commerce, harbor defense, ecology and immigration, the breadth of themes commemorated through the National Parks of New York Harbor reflect the richness and diversity of our heritage.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">For specific directions to each of the twelve national parks in New York Harbor please check their webpages. To get to our offices at Federal Hall National Memorial: The main entrance of Federal Hall is located at 26 Wall Street, near the corner of Wall Street and Nassau Street. The rear entrance, which is wheelchair accessible, is located at 15 Pine Street, near the intersection of Pine Street and Nassau Street. It is highly recommended that all visitors use mass transit when traveling to Federal Hall.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Theater</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Saltwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Boat Tour</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Citizen Science</li>
+                                    
+                                    <li>Arts and Crafts</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Surfing</li>
+                                    
+                                    <li>Swimming</li>
+                                    
+                                    <li>Saltwater Swimming</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Great Depression</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Migrant Workers</li>
+                                    
+                                    <li>LGBTQ American Heritage</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Coastal Defenses</li>
+                                    
+                                    <li>Maritime - Military</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>US Navy</li>
+                                    
+                                    <li>US Marines</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Music</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Colonial/European Contact Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                    <li>War of 1812</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Manhattan skyline as seen from Governors Island National Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C851C36-1DD8-B71B-0B0CDC66CCAD1F18.jpg" class="card-img-top" alt="Manhattan skyline as seen from Governors Island National Monument" title="National Parks of New York Harbor includes eleven national parks, including seven within Manhattan alone." />
+                            <div class="card-body">
+                                <p>National Parks of New York Harbor includes eleven national parks, including seven within Manhattan alone.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">General Grant National Memorial at dusk in midwinter</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C851FAA-1DD8-B71B-0BB559E3777D5603.jpg" class="card-img-top" alt="General Grant National Memorial at dusk in midwinter" title="The largest mausoleum in North America pays tribute to Civil War general and U.S. President Ulysses S. Grant, who is entombed here with his wife Julia." />
+                            <div class="card-body">
+                                <p>The largest mausoleum in North America pays tribute to Civil War general and U.S. President Ulysses S. Grant, who is entombed here with his wife Julia.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Battery Weed, Fort Wadsworth, Staten Island</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8522DA-1DD8-B71B-0B633AD197DD157A.jpg" class="card-img-top" alt="Battery Weed, Fort Wadsworth, Staten Island" title="Gateway National Recreation Area covers two states and three New York City boroughs. Several of its sites are former military bases, such as Fort Wadsworth." />
+                            <div class="card-body">
+                                <p>Gateway National Recreation Area covers two states and three New York City boroughs. Several of its sites are former military bases, such as Fort Wadsworth.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Statue of Liberty looking ahead</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85246C-1DD8-B71B-0B4219F690AD949E.jpg" class="card-img-top" alt="Statue of Liberty looking ahead" title="Statue of Liberty National Monument also includes Ellis Island Immigration Museum." />
+                            <div class="card-body">
+                                <p>Statue of Liberty National Monument also includes Ellis Island Immigration Museum.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">African Burial Ground National Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8527D9-1DD8-B71B-0B9734907AE388BC.jpg" class="card-img-top" alt="African Burial Ground National Monument" title="The African Burial Ground was a vast cemetery for enslaved and free Africans, forgotten since the 1790s, it was rediscovered in 1991." />
+                            <div class="card-body">
+                                <p>The African Burial Ground was a vast cemetery for enslaved and free Africans, forgotten since the 1790s, it was rediscovered in 1991.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

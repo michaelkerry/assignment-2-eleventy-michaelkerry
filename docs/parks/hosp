@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hot Springs National Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Hot Springs National Park</h3>
+                <br/>
+                <p>Hot Springs National Park has a rich cultural past. The grand architecture of our historic bathhouses is equally matched by the natural curiosities that have been drawing people here for hundreds of years. Ancient thermal springs, mountain views, incredible geology, forested hikes, and abundant creeks – all in the middle of town – make Hot Springs National Park a unique and beautiful destination.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From Little Rock: Take I-30W towards Texarkana. Exit 111 for US 70W/Hot Springs. Turn Right onto Spring St. Turn Right onto Central Ave. Drive North, the Park will be on the right after Reserve St. From Texarkana: Take 1-30E. Exit 78 for AR-7 and turn left under the highway. Follow AR-7 North for 31 miles. AR-7 becomes Central Ave., the Park will be on the right after Reserve Street.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>RV Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Explorers and Expeditions</li>
+                                    
+                                    <li>Landscape Design</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Catastrophic Fires</li>
+                                    
+                                    <li>Floods</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Mineral Deposits</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Freshwater Springs</li>
+                                    
+                                    <li>Geothermal</li>
+                                    
+                                    <li>Hot Springs</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bathhouse Row Evening</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C0D8DFDD-F151-C5B0-3004B0088C98BA5A.jpg" class="card-img-top" alt="A pink sky above gentle white buildings" title="Bathhouse Row as the sun sets" />
+                            <div class="card-body">
+                                <p>Bathhouse Row as the sun sets</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hot Water Cascade</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C13C707D-B623-9D92-5CF6C917AA1B9078.jpg" class="card-img-top" alt="Misty water evaporating from a cascade" title="The Arlington Lawn holds a beautiful thermal cascade" />
+                            <div class="card-body">
+                                <p>The Arlington Lawn holds a beautiful thermal cascade</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bathhouse Row From The Waters</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C11CC032-E6FC-33A3-A850BBC58A6DBD3C.jpg" class="card-img-top" alt="A sky view of large bathhouse buildings" title="The Waters offers a great view of bathhouse row" />
+                            <div class="card-body">
+                                <p>The Waters offers a great view of bathhouse row</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bathhouse Row</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/2417D601-FF9E-BFD8-5C6BD4375064FAD1.jpg" class="card-img-top" alt="Stone entrance pillars in front of a row of four bathouses" title="Visitors and patients come to take the thermal waters" />
+                            <div class="card-body">
+                                <p>Visitors and patients come to take the thermal waters</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Take A Hike!</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/23BF1E9D-A964-3BFE-BDEBFB703DE79463.jpeg" class="card-img-top" alt="Close up of a hiking boot on the trail a hiker in the distance" title="Hot Springs National Park has 26 miles of hiking trails to explore." />
+                            <div class="card-body">
+                                <p>Hot Springs National Park has 26 miles of hiking trails to explore.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hiker at bridge Whittington Park Creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/23D55284-B7DD-D42F-4689A73DDA1DC0B9.jpg" class="card-img-top" alt="Hiker sits at the edge of the creek, with a bridge in the background" title="Visitors hike and enjoy the cool shady places in the park." />
+                            <div class="card-body">
+                                <p>Visitors hike and enjoy the cool shady places in the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bridge with fall colors</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/243E69E8-B5AB-6E14-DDD7BF3A6FEFE437.jpg" class="card-img-top" alt="Stone bridge surrounded by brilliant yellow and green leaves" title="The park is beautiful year round" />
+                            <div class="card-body">
+                                <p>The park is beautiful year round</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Thermal Water Trough</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C14F1D4A-FAF7-A20F-163F60EBF0B127F9.jpg" class="card-img-top" alt="A stone tough in a green forest with water flowing down" title="Along the hiking trails of Hot Springs Mountain are active troughs for directing the thermal water" />
+                            <div class="card-body">
+                                <p>Along the hiking trails of Hot Springs Mountain are active troughs for directing the thermal water</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor at the edge of the pools of the hot water cascade</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/245F811B-A97D-0C77-41A3D373703FB1FB.jpg" class="card-img-top" alt="women sitting on the stone wall at the hot water cascade as the vapor rises" title="The natural curiosity of the thermal water can be seen and experienced" />
+                            <div class="card-body">
+                                <p>The natural curiosity of the thermal water can be seen and experienced</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Balanced Rock Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C189E13D-FC70-0C3B-AFE8915E5B27F434.jpg" class="card-img-top" alt="Sun setting over rolling hills" title="Along Sunset Trail is the spectacular view over Balanced Rock" />
+                            <div class="card-body">
+                                <p>Along Sunset Trail is the spectacular view over Balanced Rock</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mountain Tower and Pagoda</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C1A14390-C25E-5A82-BA89C2004C3A526B.jpg" class="card-img-top" alt="A tower and pagoda on the side of a mountain" title="For the best views of the Ouachita mountains, the tower and pagoda offer amazing and different sights" />
+                            <div class="card-body">
+                                <p>For the best views of the Ouachita mountains, the tower and pagoda offer amazing and different sights</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

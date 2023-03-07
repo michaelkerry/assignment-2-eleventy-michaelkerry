@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Redwood National and State Parks</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Redwood National and State Parks</h3>
+                <br/>
+                <p>Most people know Redwood as home to the tallest trees on Earth. But the Parks also protect vast prairies, oak woodlands, wild rivers, and 40 miles of rugged coastline. People have lived in this verdant landscape since time immemorial. Together, the National Park Service and California State Parks are managing and restoring these lands for the inspiration, enjoyment, and education of all.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Redwood National and State Parks is located in northernmost coastal California - almost on the Oregon border. The parks are about 60-miles long, with four visitor centers from north to south. We are a six to seven-hour drive (325 miles) north of San Francisco, a six-hour drive (330 miles) south of Portland, OR and a four-hour drive (170 miles) west of Redding, CA.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Horse Camping (see also Horse/Stock Use)</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Tubing</li>
+                                    
+                                    <li>River Tubing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Ranches</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mills</li>
+                                    
+                                    <li>Logging and Timber Cutting</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Coastal Defenses</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Conservation Movement</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Massacres</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Tribal Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Cats (wild)</li>
+                                    
+                                    <li>Elk</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>Whales</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Rare</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Headwaters</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fish-eye view of Redwood canopy</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD69DD56-E050-4F4E-DDF622317D38250E.jpg" class="card-img-top" alt="View from forest floor looking straight up. Ferns as seen close up and redwood trunks meet." title="The redwood forest is a complicated and beautiful series of habitats." />
+                            <div class="card-body">
+                                <p>The redwood forest is a complicated and beautiful series of habitats.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitors Plan Their Redwood Trip</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6B440E44-1DD8-B71B-0B6E95D9C432231F.jpg" class="card-img-top" alt="Five young women read the park map." title="A great redwood trip starts with good trip planning." />
+                            <div class="card-body">
+                                <p>A great redwood trip starts with good trip planning.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Howland Hill Road</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/13FB649C-1DD8-B71B-0B50D0E826025619.jpg" class="card-img-top" alt="Redwood trees line a narrow dirt road." title="With a small car, you can expericne close-up Redwoods along a century old, narrow road." />
+                            <div class="card-body">
+                                <p>With a small car, you can expericne close-up Redwoods along a century old, narrow road.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tide pooling at Enderts Beach</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/13C2D9FD-1DD8-B71B-0B3C56643E2A396D.jpg" class="card-img-top" alt="Two visitors looking at tidepools." title="We have forty miles of coastline to explore." />
+                            <div class="card-body">
+                                <p>We have forty miles of coastline to explore.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ranger Program at Klamath River Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/13E30047-1DD8-B71B-0B03D2E0CECCE8AD.jpg" class="card-img-top" alt="Visitors chatting with a ranger above a river mouth." title="Coastal overlooks provide amazing places to whale watch.. and more." />
+                            <div class="card-body">
+                                <p>Coastal overlooks provide amazing places to whale watch.. and more.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitors on walkway to Lady Bird Johnson Grove</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CCDEEABE-CDBA-3C8D-B3E050B3DE5B0B55.jpg" class="card-img-top" alt="Three people stand on a walkway in the trees. It is foggy." title="Visitors to the Lady Bird Johnson Grove cross a road using a walkway." />
+                            <div class="card-body">
+                                <p>Visitors to the Lady Bird Johnson Grove cross a road using a walkway.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Family Enjoys the Redwoods</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CCF92345-B3A3-EB66-9AC0BA4298894F7F.jpg" class="card-img-top" alt="Two adults and child look upwards into a forest" title="Millions of people visit the park to enjoy the forests." />
+                            <div class="card-body">
+                                <p>Millions of people visit the park to enjoy the forests.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A New Junior Ranger</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6B56ACA8-1DD8-B71B-0BB0C6228E534168.jpg" class="card-img-top" alt="A ranger helps a father and son learn about being a junior ranger." title="Becoming a junior ranger at Redwoods is a fun and educational for the whole family." />
+                            <div class="card-body">
+                                <p>Becoming a junior ranger at Redwoods is a fun and educational for the whole family.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">"Big Tree" wayside.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/1427B3E7-1DD8-B71B-0BFA87FE718FB3A6.jpg" class="card-img-top" alt="Visitors pose with one of the widest Redwood trees." title="For those short of time, the "Big Tree" offers easy access for all to a very photogenic tree." />
+                            <div class="card-body">
+                                <p>For those short of time, the "Big Tree" offers easy access for all to a very photogenic tree.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Incoming Tide at  Redwood National Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6B306966-1DD8-B71B-0B36E955A7B3205F.jpg" class="card-img-top" alt="Rocks, rockpools and waves" title="40 miles of coastline are part of Redwood National Park" />
+                            <div class="card-body">
+                                <p>40 miles of coastline are part of Redwood National Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Nurse log on the side of a trail.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD559BD9-FAB5-0FA1-F544AB5BF977C571.jpg" class="card-img-top" alt="A tree stump is covered with plants." title="A fallen redwood tree will be on the forest floor for centuries providing habitat for a new generation of plants and animals." />
+                            <div class="card-body">
+                                <p>A fallen redwood tree will be on the forest floor for centuries providing habitat for a new generation of plants and animals.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ranger and Visitors in the Redwoods</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD10755F-F6F1-9725-0FFF20FAACD56BF1.jpg" class="card-img-top" alt="Two adults talk with a park ranger under foggy trees" title="Park rangers help visitor learn about and safely enjoy the Redwoods." />
+                            <div class="card-body">
+                                <p>Park rangers help visitor learn about and safely enjoy the Redwoods.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Trillium Falls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD7FF0D6-954C-5A30-38B0BB3145407CB6.jpg" class="card-img-top" alt="A small waterfall cascades past different trees" title="The Trillium Falls Trail is a popular, easy and family friendly walk." />
+                            <div class="card-body">
+                                <p>The Trillium Falls Trail is a popular, easy and family friendly walk.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">How Tall is that Redwood?</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD347CAF-9229-5308-DA48F5AC29BE8394.jpg" class="card-img-top" alt="Three adults stand and look curiously toward the tree tops" title="From the forest floor we can only see about a third of any old redwood tree." />
+                            <div class="card-body">
+                                <p>From the forest floor we can only see about a third of any old redwood tree.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">How wide is that Redwood?</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD204C62-E106-4AE6-4861DDE7AD201D82.jpg" class="card-img-top" alt="Two adults and a child stand next to a tree while a ranger nearby opens his arms wide." title="The height and size of redwood trees can be hard to measure." />
+                            <div class="card-body">
+                                <p>The height and size of redwood trees can be hard to measure.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Having fun under the redwoods</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD447ED8-D2A3-4EE5-DBB86CA142C99433.jpg" class="card-img-top" alt="Four adults stand on a trail surrounded by redwood trees" title="Taking a walk on the trail through redwood groves is great fun" />
+                            <div class="card-body">
+                                <p>Taking a walk on the trail through redwood groves is great fun</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Redwood Ranger in the mist</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CDBF1BA1-E372-7488-7E0597F0045EBC61.jpg" class="card-img-top" alt="Fog surrounds tall redwoods on a trail. A park ranger stands in the distance." title="Park Rangers help tell the stories and meanings of the park to visitors." />
+                            <div class="card-body">
+                                <p>Park Rangers help tell the stories and meanings of the park to visitors.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tall Trees Grove from the creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/98CCA5A2-D054-91C6-69AFF71998C76236.jpg" class="card-img-top" alt="Gray cobbles on the foreground and 300foot redwoods behind." title="300 foot redwood redwoods next to Redwood Creek." />
+                            <div class="card-body">
+                                <p>300 foot redwood redwoods next to Redwood Creek.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Footbridge to Lady Bird Johnson Grove</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CDDECBAE-B1F8-0227-E07DBF4CF651F05F.jpg" class="card-img-top" alt="A footbridge with people crosses a road on a foggy day" title="Summer fog is frequent in the redwoods" />
+                            <div class="card-body">
+                                <p>Summer fog is frequent in the redwoods</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A family walks in Stout Grove</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CD9F0B2B-B867-7768-A3BF22B3ADF27D08.jpg" class="card-img-top" alt="A trail meanders into a  grove of tall trees. A family is seen  at the far end of the trail." title="Redwood forests are wonderful places to walk, relax and look up." />
+                            <div class="card-body">
+                                <p>Redwood forests are wonderful places to walk, relax and look up.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Coastline at Redwood National Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CDF3B9A6-022B-5854-1CFBF29BF7774026.jpg" class="card-img-top" alt="Waves run-up on a beach, and sea stack rocks are seen in the distance." title="40 miles of protected coastline are part of Redwood National and State Parks" />
+                            <div class="card-body">
+                                <p>40 miles of protected coastline are part of Redwood National and State Parks</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fern Canyon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/98AB42C2-DA60-0419-1B3E6D4BBFD27027.jpg" class="card-img-top" alt="Green ferns cover two natural walls cut by a creek. A calm creek is covered with grey cobbles." title="Fern Canyon is a popular - and busy - summer desination." />
+                            <div class="card-body">
+                                <p>Fern Canyon is a popular - and busy - summer desination.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A Redwood Grove</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/98E40FEC-B73D-6A30-593481BBD8E895D3.jpg" class="card-img-top" alt="Reddy-brown colored redwoods" title="Over a hundred miles of trails lead you to places like this." />
+                            <div class="card-body">
+                                <p>Over a hundred miles of trails lead you to places like this.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Autumn Colors in the redwood parks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/98F4A431-0089-A2A3-FC66C1C21E28DE50.jpg" class="card-img-top" alt="A trail underneath trees with orange and yellow leaves" title="Big leaf maples in the autumn." />
+                            <div class="card-body">
+                                <p>Big leaf maples in the autumn.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fire scarred giants</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/99046EB2-C20F-FBC2-C67313E6DEB0E9CB.jpg" class="card-img-top" alt="A circle of redwood trees with black fire scars." title="Fire has always been a part of a redwood tree's history." />
+                            <div class="card-body">
+                                <p>Fire has always been a part of a redwood tree's history.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Redwoods Resprouting</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/991565EE-AE36-DD8D-7EB0A0569E084AAF.jpg" class="card-img-top" alt="Young redwood sprouts grow off a horizontal redwood log" title="New shoots grow off a fallen redwood tree." />
+                            <div class="card-body">
+                                <p>New shoots grow off a fallen redwood tree.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Trillium Falls Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/992C1AD1-DEB3-71E1-8957B1239DE3DD08.jpg" class="card-img-top" alt="A trail and bridge crosses a tree-line gully." title="A short walk leads visitors to a series of small cascades." />
+                            <div class="card-body">
+                                <p>A short walk leads visitors to a series of small cascades.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Surrounded by old-growth redwoods.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/993D8B8C-0344-81FA-1E843595FB16A862.jpg" class="card-img-top" alt="A visitor stands next to a forest of enormous red and brown colored trees." title="Walking though redwood forests is a beautiful experience." />
+                            <div class="card-body">
+                                <p>Walking though redwood forests is a beautiful experience.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Autumn leaves in the redwood parks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/995A228C-0A29-6E21-40A3F8CEB80F0EA4.jpg" class="card-img-top" alt="Orange and red leaves on maple trees." title="Maples and oak trees show fall colors in the redwood parks." />
+                            <div class="card-body">
+                                <p>Maples and oak trees show fall colors in the redwood parks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Enderts Beach</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/99760CA4-B715-CE75-C70E9631A2A4DB04.jpg" class="card-img-top" alt="Rugged coastal cliffs drop to blue ocean and waves. Pink flowers in the foreground." title="The park protects forty miles of rugged coastline and marine protected areas.." />
+                            <div class="card-body">
+                                <p>The park protects forty miles of rugged coastline and marine protected areas..</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

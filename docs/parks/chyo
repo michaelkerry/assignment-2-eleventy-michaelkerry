@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Charles Young Buffalo Soldiers National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Charles Young Buffalo Soldiers National Monument</h3>
+                <br/>
+                <p>Throughout his life, Charles Young overcame countless obstacles in his ascent to prominence. In spite of overt racism and stifling inequality, Young rose through the military ranks to become one of the most respected leaders of his time. A well-rounded man with a steadfast devotion to duty, Young led by example and inspired a generation of new leaders.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">"Youngsholm" is located in Wilberforce, Ohio near Wilberforce University. It is situated less than one mile west of the Wilberforce University and Central State University campuses on U.S. Route 42 at 1120 US Route 42 E.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Dining</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Indian and Frontier Wars</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Youngsholm, June 2020</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0645BF55-CF33-994E-F247098090A7E65C.jpg" class="card-img-top" alt="A large grey house with dark grey shutters with a green lawn out front under a blue sky" title="The front of Youngsholm, the park's visitor center" />
+                            <div class="card-body">
+                                <p>The front of Youngsholm, the park's visitor center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Charles Young House Boulder</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0650361A-A527-4765-CA1903FD4FFA564B.jpg" class="card-img-top" alt="A large gray stone boulder with a bronze plaque on it indicating a national historical landmark" title="The large stone boulder with Historic Plaque affixed to it, sits in the front yard of Youngsholm" />
+                            <div class="card-body">
+                                <p>The large stone boulder with Historic Plaque affixed to it, sits in the front yard of Youngsholm</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Charles Young Spingarn Award</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/06674F05-E23D-C441-FAB331D1A88DEE34.jpg" class="card-img-top" alt="An African American man in a military uniform holding a sabre and wearing a cap sitting in a chair" title="Charles Young poses for a portrait shortly before he was awarded the NAACP Spingarn Medal." />
+                            <div class="card-body">
+                                <p>Charles Young poses for a portrait shortly before he was awarded the NAACP Spingarn Medal.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Charles Young on his mount</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/07108E33-B0F0-6617-C177D194A83D49CC.jpg" class="card-img-top" alt="An African American man in a military uniform sitting high on a horse being saluted by a boy" title="Charles Young poses for a portrait with one of his horses as he is saluted by a young, unidentified boy." />
+                            <div class="card-body">
+                                <p>Charles Young poses for a portrait with one of his horses as he is saluted by a young, unidentified boy.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Charles Young and family</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/07201C79-0019-4E99-03AB3EA2239FB72C.jpg" class="card-img-top" alt="An african american family posing for a portrait with the mother standing behind the father and kids" title="Charles Young (far right) poses with his family, Ada Young (standing rear), Charles Noel (far left), and Marie Aurelia (sitting middle)." />
+                            <div class="card-body">
+                                <p>Charles Young (far right) poses with his family, Ada Young (standing rear), Charles Noel (far left), and Marie Aurelia (sitting middle).</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">24th Infantry in Philippine</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0742E37B-FB57-8B09-09BE1B364A96C677.jpg" class="card-img-top" alt="A long row of African American soldiers standing at attention" title="The 24th Infantry Buffalo Soldiers while in the Philippines, c.1902" />
+                            <div class="card-body">
+                                <p>The 24th Infantry Buffalo Soldiers while in the Philippines, c.1902</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">25th Infantry in Montana</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0759AA61-CF03-1A81-80B49CF57E1FBBA1.jpg" class="card-img-top" alt="Several African American soldiers standing and sitting for a casual portrait" title="Buffalo Soldiers of the 25th Infantry pose for a portrait near Fort Keough, Montana, c.1890." />
+                            <div class="card-body">
+                                <p>Buffalo Soldiers of the 25th Infantry pose for a portrait near Fort Keough, Montana, c.1890.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">9th Cavalry, K Troop</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/07695B10-AD16-6FBB-6C4696402C96998B.jpg" class="card-img-top" alt="African American soldiers sitting, kneeling and standing for a casual photo" title="Troopers from the 9th Cav, K Troop posing for a group photo, c.1890." />
+                            <div class="card-body">
+                                <p>Troopers from the 9th Cav, K Troop posing for a group photo, c.1890.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">10th Cavalry, Troop K on the move</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/07ABBA20-F7A5-F83D-6B088C7BF7C54C5D.jpg" class="card-img-top" alt="Several african american soldiers on horseback parading down a dirt road." title="Buffalo Soldiers of K Troop, 10th Cavalry on the move in Chickamauga, Ga., c.1898" />
+                            <div class="card-body">
+                                <p>Buffalo Soldiers of K Troop, 10th Cavalry on the move in Chickamauga, Ga., c.1898</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Harlem Hellfighters</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/07C8EB42-B3C1-17C6-1155A6CC8D1F7546.gif" class="card-img-top" alt="Several African American soldiers waving while standing and sitting on a boat's deck" title="Buffalo Soldiers of the 369th regiment, Harlem Hellfighters, returning home from France during WWI." />
+                            <div class="card-body">
+                                <p>Buffalo Soldiers of the 369th regiment, Harlem Hellfighters, returning home from France during WWI.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Advancing in the jungle in the South Pacific</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/07FCAC28-047A-5B9D-C5DA8AFC6C63ED1D.jpg" class="card-img-top" alt="Three African American soldiers holding rifles and walking amongst tall grass and brush" title="Buffalo Soldiers of the 93rd Infantry advance cautiously in a jungle somewhere in the South Pacific, c.1945" />
+                            <div class="card-body">
+                                <p>Buffalo Soldiers of the 93rd Infantry advance cautiously in a jungle somewhere in the South Pacific, c.1945</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

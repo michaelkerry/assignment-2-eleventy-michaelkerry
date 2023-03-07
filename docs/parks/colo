@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Colonial National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Colonial National Historical Park</h3>
+                <br/>
+                <p>On May 13, 1607, Jamestown was established as the first permanent English settlement in North America. Three cultures came together – European, Virginia Indian and African–to create a new society that would eventually seek independence from Great Britain. On October 19, 1781, American and French troops defeated the British at Yorktown in the last major battle of the American Revolutionary War.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">For an internet map search or GPS, use the following: Yorktown Battlefield Visitor Center, 1000 Colonial Parkway, Yorktown, Virginia 23690. Historic Jamestowne Visitor Center, 1368 Colonial Parkway, Jamestown, Virginia 23081.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>National Cemetery</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Yorktown Battlefield</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79E166-1DD8-B71B-0B513F9A61E8A9EB.jpg" class="card-img-top" alt="Yorktown Battlefield" title="Reconstructed Revolutionary War Canon in Winter" />
+                            <div class="card-body">
+                                <p>Reconstructed Revolutionary War Canon in Winter</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bikers at Entrance to Historic Jamestowne Tour Road</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79E29A-1DD8-B71B-0BD01F83AEB0C81F.jpg" class="card-img-top" alt="Bikers at Entrance to Historic Jamestowne Tour Road" title="Weekend Biking Near Tour Road" />
+                            <div class="card-body">
+                                <p>Weekend Biking Near Tour Road</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Jamestowne Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79E05F-1DD8-B71B-0B265B8079D93C33.jpg" class="card-img-top" alt="Historic Jamestowne Visitor Center" title="Volunteer Informing Visitors of Interpretive Programs" />
+                            <div class="card-body">
+                                <p>Volunteer Informing Visitors of Interpretive Programs</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bacon's Rebellion</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79E3A8-1DD8-B71B-0BCB8EEA9C8A0C86.jpg" class="card-img-top" alt="Bacon's Rebellion" title="Living History Program" />
+                            <div class="card-body">
+                                <p>Living History Program</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Royal Artillery Living History Team Firing Yorktown Battlefield's 6 Pounder</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79E4DA-1DD8-B71B-0B40C6C6201B9829.jpg" class="card-img-top" alt="The Royal Artillery Living History Team Firing Yorktown Battlefield's 6 Pounder" title="Living History Program" />
+                            <div class="card-body">
+                                <p>Living History Program</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Yorktown National Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E6C932B5-9372-35D4-C2BEBE43BAAE2FA0.jpg" class="card-img-top" alt="Yorktown National Cemetery" title="This site was selected in 1866 as a good cemetery location in the general vicinity of various Civil War battlefields and scenes of action related particularly to the Peninsular Campaign of 1862" />
+                            <div class="card-body">
+                                <p>This site was selected in 1866 as a good cemetery location in the general vicinity of various Civil War battlefields and scenes of action related particularly to the Peninsular Campaign of 1862</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Colonial Parkway</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E78D791E-BAB9-E615-514C1D3AFFC90E13.jpg" class="card-img-top" alt="Colonial Parkway" title="The Colonial Parkway is a twenty-three mile scenic roadway stretching from the York River at Yorktown to the James River at Jamestown" />
+                            <div class="card-body">
+                                <p>The Colonial Parkway is a twenty-three mile scenic roadway stretching from the York River at Yorktown to the James River at Jamestown</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Niobrara National Scenic River</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Niobrara National Scenic River</h3>
+                <br/>
+                <p>With a little something for everyone, the Niobrara National Scenic River is a destination for crossing adventures off your bucket list. Most popular for river recreation, you can float the Niobrara River on a canoe, tube, or kayak as a beginner and have a blast. Hiking, biking, and wildlife watching keep our visitors busy. Oh! And we haven't even told you about the waterfalls yet.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Most visitors start their trip in the city of Valentine, Nebraska. Valentine is 76 miles south of I-90 (Murdo, SD Exit) on Hwy 83; or 130 miles north of I-80 (North Platte, NE Exit) on Hwy 83. The nearest major airports are in Rapid City, SD (220 miles); Denver, CO (391 miles); and Omaha, NE (300 miles)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Stand Up Paddleboarding</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Tubing</li>
+                                    
+                                    <li>River Tubing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Ranches</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Bison</li>
+                                    
+                                    <li>Elk</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Coniferous Forests</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Aquifers</li>
+                                    
+                                    <li>Freshwater Springs</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Waterfalls</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Berry Falls along the Niobrara NSR.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C95AD-1DD8-B71B-0B9C962E8BA62E89.jpg" class="card-img-top" alt="A beautiful, if short, waterfall empties into the side of the Niobrara NSR." title="Berry Falls is one of over 200 waterfalls that visitors may see along the Niobrara National Scenic River's bluffs." />
+                            <div class="card-body">
+                                <p>Berry Falls is one of over 200 waterfalls that visitors may see along the Niobrara National Scenic River's bluffs.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Taking photos along the Niobrara NSR</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CA02C-1DD8-B71B-0BCEA25352ED688A.jpg" class="card-img-top" alt="A man takes a photo of a meandering river from an overlook." title="Parts of the river are shallow and meandering, making beautiful backdrops for people to take photographs." />
+                            <div class="card-body">
+                                <p>Parts of the river are shallow and meandering, making beautiful backdrops for people to take photographs.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall colors along the Niobrara NSR</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C9E7E-1DD8-B71B-0BA958173B164D34.jpg" class="card-img-top" alt="Yellows, oranges, and greens dominate the fall colors along the Niobrara NSR." title="Autumn is a perfect time to enjoy the beauty of the Niobrara National Scenic River, from the river or the banks." />
+                            <div class="card-body">
+                                <p>Autumn is a perfect time to enjoy the beauty of the Niobrara National Scenic River, from the river or the banks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Canoeing the Niobrara NSR</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C948A-1DD8-B71B-0B91A2ACA9AACDDF.jpg" class="card-img-top" alt="Two people in one canoe paddle along the bluffs of the Niobrara NSR." title="The Niobrara is a peaceful place to paddle during the week." />
+                            <div class="card-body">
+                                <p>The Niobrara is a peaceful place to paddle during the week.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Relaxing canoeing on the Niobrara NSR</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C9873-1DD8-B71B-0B9C787CAE2BC09F.jpg" class="card-img-top" alt="A view from a canoe, with the photographer's feet resting on the bow, of the Niobrara NSR." title="Much of the Niobrara National Scenic River is easy paddling, suitable for novice canoers." />
+                            <div class="card-body">
+                                <p>Much of the Niobrara National Scenic River is easy paddling, suitable for novice canoers.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Egelhoffs Rapids on the Niobrara NSR</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C9A47-1DD8-B71B-0BFF627C036B27B1.jpg" class="card-img-top" alt="A paddler in a canoe goes through Class II Rapids on the Niobrara NSR." title="An experienced canoer takes on the Class II Egelhoffs Rapids along the Niobrara National Scenic River." />
+                            <div class="card-body">
+                                <p>An experienced canoer takes on the Class II Egelhoffs Rapids along the Niobrara National Scenic River.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tubers congregate at Smith Falls State Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7CA6F5-1DD8-B71B-0B9425F70CB40B05.jpg" class="card-img-top" alt="Many people on tubes float down the Niobrara." title="On Saturdays, the Niobrara National Scenic River is a great place to meet hundreds of other tubers." />
+                            <div class="card-body">
+                                <p>On Saturdays, the Niobrara National Scenic River is a great place to meet hundreds of other tubers.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

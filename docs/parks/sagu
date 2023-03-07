@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Saguaro National Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Saguaro National Park</h3>
+                <br/>
+                <p>Tucson, Arizona is home to the nation's largest cacti. The giant saguaro is the universal symbol of the American west. These majestic plants, found only in a small portion of the United States, are protected by Saguaro National Park, to the east and west of the modern city of Tucson. Here you have a chance to see these enormous cacti, silhouetted by the beauty of a magnificent desert sunset.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Saguaro National Park has two districts separated by the city of Tucson. The address for the Saguaro National Park West District is 2700 N Kinney Rd. We do not recommend using mobile mapping applications to search for either district. Instead, please click the link to the directions page, determine which district you plan to visit, and enter that physical address into the mobile application.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Mining</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Fossils and Paleontology</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Saguaro Flowers</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5CB8B2F6-01B7-9A50-73702A355E4136B8.jpg" class="card-img-top" alt="Saguaro flowers" title="The flowering season in Saguaro National Park attracts visitors from all over the world." />
+                            <div class="card-body">
+                                <p>The flowering season in Saguaro National Park attracts visitors from all over the world.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Flowering Fishhook Pincushion Cactus</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C858462-1DD8-B71B-0BB499810C61332C.jpg" class="card-img-top" alt="A flowering fishhook pincushion cactus" title="Wildflower season at Saguaro National Park is at it's peak in the month of MArch. The Pincushion cactus, however, blooms April through August." />
+                            <div class="card-body">
+                                <p>Wildflower season at Saguaro National Park is at it's peak in the month of MArch. The Pincushion cactus, however, blooms April through August.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Coyote Pups</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C858613-1DD8-B71B-0BEFB533FAB3FB55.jpg" class="card-img-top" alt="Two coyote pups captured on a wilderness camera" title="Saguaro National Park has a vast variety of wildlife, and with the help of wilderness cameras, can be photographed to help with studies and for visitors to learn about animals only seen by chance." />
+                            <div class="card-body">
+                                <p>Saguaro National Park has a vast variety of wildlife, and with the help of wilderness cameras, can be photographed to help with studies and for visitors to learn about animals only seen by chance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Saguaro National Park Lighting Storm</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85873C-1DD8-B71B-0BA5D81599611142.jpg" class="card-img-top" alt="Lightning strike captured on camera with saguaros in the background" title="Saguaro deaths are usually attributed to natural weather conditions and other natural phenomena. Specifically, lightning strikes have been known to strike saguaros due to the large amount of water stored within their fleshy tissue." />
+                            <div class="card-body">
+                                <p>Saguaro deaths are usually attributed to natural weather conditions and other natural phenomena. Specifically, lightning strikes have been known to strike saguaros due to the large amount of water stored within their fleshy tissue.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Weather at Saguaro National Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C858903-1DD8-B71B-0BE2312B40DB3D26.jpg" class="card-img-top" alt="Rare Sight of snow in Saguaro National Park East Visitor Center (Rincon Mountain District)" title="Saguaro National Park summers can be extremely hot with temperatures exceeding 105 degrees F, lows averaging 72 degrees F.  Winters are mild warm days averaging 65 degrees F and cool nights averaging 40 degrees F. Snowfall is extremely rare in the area." />
+                            <div class="card-body">
+                                <p>Saguaro National Park summers can be extremely hot with temperatures exceeding 105 degrees F, lows averaging 72 degrees F.  Winters are mild warm days averaging 65 degrees F and cool nights averaging 40 degrees F. Snowfall is extremely rare in the area.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Group of Regal Horned Lizards</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C858AB6-1DD8-B71B-0B0F6C0A56410894.jpg" class="card-img-top" alt="A group of Phrynosoma solare, or regal horned lizards." title="Regal horned lizards are one of many reptiles in the park, who have adapted to living in the harsh desert environment. Information on how different species survive can be found on the park's website, visitor center, or through our many programs offered." />
+                            <div class="card-body">
+                                <p>Regal horned lizards are one of many reptiles in the park, who have adapted to living in the harsh desert environment. Information on how different species survive can be found on the park's website, visitor center, or through our many programs offered.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

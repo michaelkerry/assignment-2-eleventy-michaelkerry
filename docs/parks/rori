@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Rosie the Riveter WWII Home Front National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Rosie the Riveter WWII Home Front National Historical Park</h3>
+                <br/>
+                <p>Explore and honor the efforts and sacrifices of American civilians on the World War II Home Front. Find out how they lived, worked and got along. Many faces, many stories, many truths weave a complex tapestry of myths and realities from this time of opportunity and loss.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Please visit the "Directions and Transportation" link on the main website at http://www.nps.gov/rori/planyourvisit/directions.htm</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Engineering</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Factories</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Labor Movement</li>
+                                    
+                                    <li>LGBTQ American Heritage</li>
+                                    
+                                    <li>Maritime</li>
+                                    
+                                    <li>Maritime - Military</li>
+                                    
+                                    <li>Migrations</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Navy</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>World War II</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rosie the Riveter Visitor Education Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79DE6E-1DD8-B71B-0BFD000DC71E6031.jpg" class="card-img-top" alt="Rosie the Riveter Visitor Education Center" title="Rosie the Riveter Visitor Education Center" />
+                            <div class="card-body">
+                                <p>Rosie the Riveter Visitor Education Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Ford Building</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F8CEA1B0-0720-7F6B-CC788F958BCC5249.jpg" class="card-img-top" alt="Entrance sign against the historic Ford buidling." title="Visitor Center entrance sign with historic Ford Building in the background." />
+                            <div class="card-body">
+                                <p>Visitor Center entrance sign with historic Ford Building in the background.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rosie the Riveter Visitor Education Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F8DC0967-9E1E-E9D1-4222F8888CA3CC2F.jpg" class="card-img-top" alt="Life Cast figures on display in camping scenario." title="Life Cast Figures Exhibit." />
+                            <div class="card-body">
+                                <p>Life Cast Figures Exhibit.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rosie the Riveter Visitor Education Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F8E564F9-BFBB-E8DA-6AEF2E0E4A8586A2.jpg" class="card-img-top" alt="Multiple exhibit signage and panels in the visitor education center." title="Exhibits in the Visitor Education Center." />
+                            <div class="card-body">
+                                <p>Exhibits in the Visitor Education Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rosie the Riveter Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F8EF0FF2-099E-9033-D3468C4EA904BEB1.jpg" class="card-img-top" alt="Modern art memorial structure with historic photos. Sits in park." title="Rosie the Riveter Memorial." />
+                            <div class="card-body">
+                                <p>Rosie the Riveter Memorial.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

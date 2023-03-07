@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Honouliuli National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Honouliuli National Historic Site</h3>
+                <br/>
+                <p>Although not yet open to the public, Honouliuli National Historic Site will tell the history of incarceration, martial law, and the experience of prisoners of war in Hawai‘i during World War II. Honouliuli National Historic Site will be a place to reflect on wartime experiences and recommit ourselves to the pursuit of freedom and justice.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">There are currently no directions to the Honouliuli National Historic Site as the monument remains closed to the public due to accessibility issues in the process of being resolved.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Asian American Heritage</li>
+                                    
+                                    <li>Incarceration</li>
+                                    
+                                    <li>Japanese-American Internment</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>World War II</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Honouliuli Historic Overlay</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C86BF53-1DD8-B71B-0BB227CD8FE92BD2.png" class="card-img-top" alt="Satellite image of Honouliuli Gulch with a historic overlay illustrating Honouliuli's layout" title="Historic overlay illustrating the layout of Honouliuli Internment and POW Camp" />
+                            <div class="card-body">
+                                <p>Historic overlay illustrating the layout of Honouliuli Internment and POW Camp</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Honouliuli Aqueduct</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C86C1A2-1DD8-B71B-0BACB6449A996407.jpg" class="card-img-top" alt="View down the aqueduct at Honouliuli Gulch" title="An aqueduct separated prisoners of war from internees at Honouliuli Internment Camp. The aqueduct provided water for both internment and prisoners of war camps." />
+                            <div class="card-body">
+                                <p>An aqueduct separated prisoners of war from internees at Honouliuli Internment Camp. The aqueduct provided water for both internment and prisoners of war camps.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Honouliuli Retaining Wall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0931A5F6-1DD8-B71B-0B3151727B3D1A29.jpg" class="card-img-top" alt="A stone wall" title="This stone wall played a crucial role in the rediscovery of Honouliuli" />
+                            <div class="card-body">
+                                <p>This stone wall played a crucial role in the rediscovery of Honouliuli</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Stakeholders Meeting</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0973F49C-1DD8-B71B-0B1BBB182460AB61.jpg" class="card-img-top" alt="Group photo of Honouliuli stakeholders" title="The first Honouliuli National Monument stakeholders meeting" />
+                            <div class="card-body">
+                                <p>The first Honouliuli National Monument stakeholders meeting</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Modern view South from Honouliuli Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0983793E-1DD8-B71B-0BD22DCF41299C3C.jpg" class="card-img-top" alt="Overlook towards south of Honouliuli Gulch" title="Looking towards the south of the gulch with Pearl Harbor in the distance" />
+                            <div class="card-body">
+                                <p>Looking towards the south of the gulch with Pearl Harbor in the distance</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Modern view across from Honouliuli Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/0998BECC-1DD8-B71B-0B1820DF48689802.jpg" class="card-img-top" alt="Looking across the Honouliuil Gulch" title="A look across the gulch from the overlook" />
+                            <div class="card-body">
+                                <p>A look across the gulch from the overlook</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Modern view North from Honouliuli Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/09ACFADB-1DD8-B71B-0B9D5B847EB8D40C.jpg" class="card-img-top" alt="Overview of Honouliuli Gulch looking north" title="Overview towards the north with the Wai‘anae range in the distance" />
+                            <div class="card-body">
+                                <p>Overview towards the north with the Wai‘anae range in the distance</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Honouliuli internee barracks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/76D791A4-1DD8-B71B-0B57E2192C2AD422.jpg" class="card-img-top" alt="An overview of the American Internee barracks" title="The American Internee barracks at Honouliuli Compound #5, circa 1945" />
+                            <div class="card-body">
+                                <p>The American Internee barracks at Honouliuli Compound #5, circa 1945</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Park Ranger</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/770AB77D-1DD8-B71B-0BA58C6592C18F6A.jpg" class="card-img-top" alt="A park ranger speaking to a young visitor about the National Park" title="A Park Ranger helping a young visitor" />
+                            <div class="card-body">
+                                <p>A Park Ranger helping a young visitor</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">USS Arizona Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7713A3DA-1DD8-B71B-0B9A2E4F2B6F76B7.jpg" class="card-img-top" alt="The USS Arizona Memorial" title="The USS Arizona Memorial" />
+                            <div class="card-body">
+                                <p>The USS Arizona Memorial</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">President Obama signing Proclapation</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/771B35F7-1DD8-B71B-0B4AC30427B68950.jpg" class="card-img-top" alt="President Obama signing proclamation" title="President Obama signing the proclamation to create Honouliuli" />
+                            <div class="card-body">
+                                <p>President Obama signing the proclamation to create Honouliuli</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">President Obama and a Park Ranger</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/78E2B8D2-1DD8-B71B-0B94C40ACD4054CB.jpg" class="card-img-top" alt="President Barack Obama walks with Park Ranger Katy Duffy" title="President Barack Obama walks with Park Ranger Katy Duffy" />
+                            <div class="card-body">
+                                <p>President Barack Obama walks with Park Ranger Katy Duffy</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Compound 5</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/AA65F395-1DD8-B71B-0BCD32366BBDA5A2.jpg" class="card-img-top" alt="A view of daily life at Honouliuli Internment Camp" title="A view of daily life at Honouliuli Internment Camp. c. 1945" />
+                            <div class="card-body">
+                                <p>A view of daily life at Honouliuli Internment Camp. c. 1945</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

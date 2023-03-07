@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Edgar Allan Poe National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Edgar Allan Poe National Historic Site</h3>
+                <br/>
+                <p>Described as horrifying, mystifying, and brilliant, Poe’s writing has engaged readers all over the globe. The six years Edgar Allan Poe lived in Philadelphia were his happiest and most productive. Yet Poe also struggled with bad luck, personal demons and his wife’s illness. In Poe’s humble home, reflect on the human spirit surmounting crushing obstacles, and celebrate Poe’s astonishing creativity.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Edgar Allan Poe National Historic Site is located at 532 N. 7th Street, Philadelphia, PA 19123. It sits in an urban area served by Interstates 95 and 676. On- street parking is usually available near the site. The site is also easily accessible by public transportation. See the directions web page for more information.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Poetry and Literature</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Poe House, exterior</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AD5D5-1DD8-B71B-0BAF630A8D440C44.jpg" class="card-img-top" alt="Color photo of a rectangular three story brick home with rows of windows on each floor." title="Edgar Allan Poe lived in Philadelphia for six years, but he resided at this home for about a year, 1843-1844." />
+                            <div class="card-body">
+                                <p>Edgar Allan Poe lived in Philadelphia for six years, but he resided at this home for about a year, 1843-1844.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Parlor</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AD771-1DD8-B71B-0BF92D5BF1AA42AD.jpg" class="card-img-top" alt="Color photo of the parlor in the Poe House showing illustrations of furniture on the walls." title="Wall mounted illustrations show how the room may have been furnished when Edgar Allan Poe lived in the house." />
+                            <div class="card-body">
+                                <p>Wall mounted illustrations show how the room may have been furnished when Edgar Allan Poe lived in the house.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Basement</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7AD91A-1DD8-B71B-0BE6FA39AD8699F5.jpg" class="card-img-top" alt="Color photo of the basement with brick floor, false chimney, and wooden staircase." title="Is this where Poe got his inspiration for "The Black Cat?"  Descend to the basement and decide for yourself." />
+                            <div class="card-body">
+                                <p>Is this where Poe got his inspiration for "The Black Cat?"  Descend to the basement and decide for yourself.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Raven statue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7ADB03-1DD8-B71B-0B9758787DC596DC.jpg" class="card-img-top" alt="Color photo showing a large raven statue with wings outspread on a metal plinth." title="Stand in the shadow of the raven statue in the yard." />
+                            <div class="card-body">
+                                <p>Stand in the shadow of the raven statue in the yard.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Reading Room</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7ADC91-1DD8-B71B-0BA4AAA889D0F489.jpg" class="card-img-top" alt="A small red-carpeted room with faux marble table, red upholstered chairs and sofa, and red curtains." title="The Reading Room at the Edgar Allan Poe National Historical Site is furnished according to Poe's satirical essay "The Philosophy of Furniture."" />
+                            <div class="card-body">
+                                <p>The Reading Room at the Edgar Allan Poe National Historical Site is furnished according to Poe's satirical essay "The Philosophy of Furniture."</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

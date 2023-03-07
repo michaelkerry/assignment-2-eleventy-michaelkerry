@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Bent's Old Fort National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Bent's Old Fort National Historic Site</h3>
+                <br/>
+                <p>Bent's Old Fort National Historic Site features a reconstructed 1840s adobe fur trading post on the mountain branch of the Santa Fe Trail where traders, trappers, travelers, and the Cheyenne and Arapaho tribes came together in peaceful terms for trade. Today, living historians recreate the sights, sounds, and smells of the past with guided tours, demonstrations and special events.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park is accessed via U.S. Highway 50 and Highway 194. From La Junta, Colorado on U.S. Highway 50, take Colorado Highway 109 north 1 mile to Colorado Highway 194, then east on Colorado Highway 194 six miles to the fort. From Las Animas, Colorado, on U.S. Highway 50, take Colorado Highway 194 west 13 miles. Set your GPS to 35110 State Highway 194 E., La Junta, CO.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>First Person Interpretation</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Tubing</li>
+                                    
+                                    <li>Snow Tubing</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Snowshoeing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Ruins</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Hispanic American Heritage</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Reconstruction</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Tribal Conflicts</li>
+                                    
+                                    <li>Mexican War</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Groundwater</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Wetlands</li>
+                                    
+                                    <li>Marshes</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bent's Old Fort</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8D0EC7EA-0A5E-6A59-309722431A8274F7.jpg" class="card-img-top" alt="Bent's Old Fort in background with wagon in front; fall yellow cottonwood leaves in foreground" title="For much of its 16-year history, the fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements." />
+                            <div class="card-body">
+                                <p>For much of its 16-year history, the fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bent's Old Fort</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80168D-1DD8-B71B-0B61A79C6F138439.jpg" class="card-img-top" alt="Bent's Old Fort with shortgrass prairie in foreground and blue sky and clouds above" title="For much of its 16-year history, the fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements." />
+                            <div class="card-body">
+                                <p>For much of its 16-year history, the fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Open hearth cooking in the fort kitchen</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C802137-1DD8-B71B-0BB3C863E556B5D2.jpg" class="card-img-top" alt="Cooking in fort kitchen" title="Buffalo meat is broiled in the reflector oven as was done historically in the 1840s." />
+                            <div class="card-body">
+                                <p>Buffalo meat is broiled in the reflector oven as was done historically in the 1840s.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fur trapper explains the work of the 1830s.</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C801CAF-1DD8-B71B-0B934F1523649267.jpg" class="card-img-top" alt="Fur trapper in camp" title="Special events bring the past alive with encampments, fort trade and Plains Indian life." />
+                            <div class="card-body">
+                                <p>Special events bring the past alive with encampments, fort trade and Plains Indian life.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bent's Old Fort</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8CC3CE29-F436-CD91-7B212634BFAC4E34.jpg" class="card-img-top" alt="Bent's Old Fort with shortgrass prairie, tepee and wagon in foreground and blue sky & clouds above" title="For much of its 16-year history, the fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements." />
+                            <div class="card-body">
+                                <p>For much of its 16-year history, the fort was the only major permanent white settlement on the Santa Fe Trail between Missouri and the Mexican settlements.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A Lakota warrior barters with the traders in the fort plaza</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C801E10-1DD8-B71B-0B68B8F8E90A90DD.jpg" class="card-img-top" alt="Plains Indian trade in plaza" title="Trade with a Lakota warrior for trade goods from around the world." />
+                            <div class="card-body">
+                                <p>Trade with a Lakota warrior for trade goods from around the world.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Swivel cannon is fired using 18th century drill</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8022B5-1DD8-B71B-0B564D617D68F804.jpg" class="card-img-top" alt="Swivel cannon firing" title="The fort's security depended on its ability to resist attack." />
+                            <div class="card-body">
+                                <p>The fort's security depended on its ability to resist attack.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hiking the Santa Fe Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C801FBA-1DD8-B71B-0B2C529FA316725B.jpg" class="card-img-top" alt="HIkers follow behind the fort's wagon on the Santa Fe Trail" title="The Santa Fe Trail Encampment features a hike with the fort's wagon down the original Santa Fe Trail." />
+                            <div class="card-body">
+                                <p>The Santa Fe Trail Encampment features a hike with the fort's wagon down the original Santa Fe Trail.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Santa Fe Trail Encampment and Trail Hike</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8D285B1A-B663-6656-DE976D61969789B8.jpg" class="card-img-top" alt="Interpreters and volunteers in period clothing on horseback and in wagons; group of people standing" title="The Park features the Santa Fe Trail Encampment during certain years. Historical interpreters bring the fort to life. Visitors can hike 3 miles down the original Santa Fe Trail with the fort's wagons." />
+                            <div class="card-body">
+                                <p>The Park features the Santa Fe Trail Encampment during certain years. Historical interpreters bring the fort to life. Visitors can hike 3 miles down the original Santa Fe Trail with the fort's wagons.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

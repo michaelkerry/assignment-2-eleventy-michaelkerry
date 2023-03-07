@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hopewell Furnace National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Hopewell Furnace National Historic Site</h3>
+                <br/>
+                <p>Hopewell Furnace showcases an early American landscape of industrial operations from 1771-1883, Hopewell and other "iron plantations" laid the foundation for the transformation of the United States into an industrial giant for the time. The park's 848 acres and historic structures illustrate the business, technology and lifestyle of our growing nation.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">On PA Route 345, 5 miles South of Birdsboro, Pennsylvania.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Astronomy</li>
+                                    
+                                    <li>Stargazing</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Geocaching</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hands-On</li>
+                                    
+                                    <li>Volunteer Vacation</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Gathering and Foraging</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Skiing</li>
+                                    
+                                    <li>Cross-Country Skiing</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Incarceration</li>
+                                    
+                                    <li>Jails and Prisons</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Factories</li>
+                                    
+                                    <li>Mills</li>
+                                    
+                                    <li>Mining</li>
+                                    
+                                    <li>Logging and Timber Cutting</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Reconstruction</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Churches</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Conservation Movement</li>
+                                    
+                                    <li>Voting Rights and Suffrage</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Canals</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Climate Change</li>
+                                    
+                                    <li>Fire</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Mineral Deposits</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Meadows</li>
+                                    
+                                    <li>Night Sky</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Volcanoes</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                    <li>Headwaters</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historical Rendering of Hopewell Furnace in Operation, 1840</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/075722FB-1DD8-B71B-0BF13410F2C2AB65.jpg" class="card-img-top" alt="Artists' Illustaration of Hopewell Furnace in operation circa 1840." title="Overview of the Hopewell Furnace "iron plantation" community in operation during its prime." />
+                            <div class="card-body">
+                                <p>Overview of the Hopewell Furnace "iron plantation" community in operation during its prime.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hopewell Furnace's Boarding House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/07E33D3B-1DD8-B71B-0BB0978D03079D7B.jpg" class="card-img-top" alt="Front of Hopewell Furnace's Boarding House" title="Hopewell Furnace's Boarding House housed single men or those living away from their families, who came to work at the furnace." />
+                            <div class="card-body">
+                                <p>Hopewell Furnace's Boarding House housed single men or those living away from their families, who came to work at the furnace.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Blacksmith Shop & Cast House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/08475132-1DD8-B71B-0B2CA141C1F9566A.jpg" class="card-img-top" alt="Side view of blacksmith shop with cast house behind it." title="The Cast House was the industrial center of the ironworks.  It is were iron ore was smelted into iron metal and products.  The smaller blacksmith shop formed iron metal into all kinds of necessary tools and goods used in everyday life." />
+                            <div class="card-body">
+                                <p>The Cast House was the industrial center of the ironworks.  It is were iron ore was smelted into iron metal and products.  The smaller blacksmith shop formed iron metal into all kinds of necessary tools and goods used in everyday life.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hopewell Stove</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/08ACB3DD-1DD8-B71B-0B3BBB847B459559.jpg" class="card-img-top" alt="Side view of Hopewell Stove in front of wagon running gear." title="The most notable manufactured product Hopewell Furnace made was its stoves.  They were produced by the thousands at Hopewell and other like furnaces in the early 19th century and were transported for sale by horse and wagon." />
+                            <div class="card-body">
+                                <p>The most notable manufactured product Hopewell Furnace made was its stoves.  They were produced by the thousands at Hopewell and other like furnaces in the early 19th century and were transported for sale by horse and wagon.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Charcoal Pile</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/09205130-1DD8-B71B-0B6D2D12C6918F4D.jpg" class="card-img-top" alt="Demonstration charcoal pile smoldering." title="Charcoal was the fuel used to fire Hopewell Furnace and other furnaces of its age.  Thousands of bushles of charcoal were made from hardwood trees on the furnace lands and entered into the furnace to keep it "in blast."" />
+                            <div class="card-body">
+                                <p>Charcoal was the fuel used to fire Hopewell Furnace and other furnaces of its age.  Thousands of bushles of charcoal were made from hardwood trees on the furnace lands and entered into the furnace to keep it "in blast."</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

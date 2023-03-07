@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Fort Donelson National Battlefield</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Fort Donelson National Battlefield</h3>
+                <br/>
+                <p>Brigadier General Ulysses S. Grant was becoming quite famous as he wrote these words following the surrender of Confederate Fort Donelson on Sunday, February 16, 1862. The Union victory at Fort Donelson elated the North, and stunned the South. Within days of the surrender, Clarksville and Nashville would fall into Union hands. Grant and his troops had created a pathway to victory for the Union.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The main entrance is located at 120 Fort Donelson Park Road, in Dover Tennessee. It is advised to start a visitor experience here. Brochures and information are available at this location. Physical address for the park's Fort Heiman unit, in Calloway County, Kentucky: 682 Fort Heiman Road, New Concord, Kentucky. This site is not staffed daily, but exhibits and information are available for visitors.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>National Cemetery</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Upper River Battery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6903ED5B-1DD8-B71B-0B29CCAFAED7A0BF.jpg" class="card-img-top" alt="The View from the Upper River Battery" title="A commanding view of the Cumberland River from the Upper Artillery Battery" />
+                            <div class="card-body">
+                                <p>A commanding view of the Cumberland River from the Upper Artillery Battery</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Donelson National Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/695F97FC-1DD8-B71B-0B71DFE3E1403778.jpg" class="card-img-top" alt="Hallowed ground." title="The Fort Donelson National Cemetery, final resting place for Soldiers who fell in battle during the Civil War, the Spanish-American War, World War I, and World War II." />
+                            <div class="card-body">
+                                <p>The Fort Donelson National Cemetery, final resting place for Soldiers who fell in battle during the Civil War, the Spanish-American War, World War I, and World War II.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Artillery at Fort Donelson NB</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F26FAA11-B46E-B499-F5F9ECA3A44EA1AC.jpg" class="card-img-top" alt="cannon overlooking river" title="Quiet Afternoon overlooking the Cumberland River, Fort Donelson NB" />
+                            <div class="card-body">
+                                <p>Quiet Afternoon overlooking the Cumberland River, Fort Donelson NB</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Dover Hotel</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F074F885-F85E-F5AD-B054CA9F7E36426F.jpg" class="card-img-top" alt="Historic hotel" title="The Dover Hotel, site of the first major Civil War surrender." />
+                            <div class="card-body">
+                                <p>The Dover Hotel, site of the first major Civil War surrender.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Donelson National Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F252FD12-9D5B-E5D3-5CA209AF7388D509.jpg" class="card-img-top" alt="cemetery gate" title="Fort Donelson National Cemetery: Final resting place for thousands of American Veterans" />
+                            <div class="card-body">
+                                <p>Fort Donelson National Cemetery: Final resting place for thousands of American Veterans</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Earthworks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/692CEF3E-1DD8-B71B-0BB9E948F9F517CA.jpg" class="card-img-top" alt="Confederate earthworks." title="A view of the earthworks, where Confederate Soldiers once stood watch." />
+                            <div class="card-body">
+                                <p>A view of the earthworks, where Confederate Soldiers once stood watch.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Volunteer Cannon Demonstration</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F0295D11-CB23-CCC4-112A9E6D9AFB91CB.jpg" class="card-img-top" alt="cannon and costumed volunteers" title="Volunteers demonstrate Field Artillery at Fort Donelson NB" />
+                            <div class="card-body">
+                                <p>Volunteers demonstrate Field Artillery at Fort Donelson NB</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bald eagles in nest</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F28C07E3-F703-AA37-8715C34F6C268E86.jpg" class="card-img-top" alt="bald eagles nesting" title="Bald Eagles perch on their Nest in the battlefield" />
+                            <div class="card-body">
+                                <p>Bald Eagles perch on their Nest in the battlefield</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Picnic Area</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F29EB12D-C600-3E3F-AE92888F5755A595.jpg" class="card-img-top" alt="picnic tables" title="Enjoy your lunch at the Picnic Area, Fort Donelson NB" />
+                            <div class="card-body">
+                                <p>Enjoy your lunch at the Picnic Area, Fort Donelson NB</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Field Artillery Demonstration</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/69188F2A-1DD8-B71B-0B7A322C10791DD1.jpg" class="card-img-top" alt="Cannon drills during the 154th anniversary of the Battle of Fort Donelson" title="Volunteers of the 9th Kentucky Infantry Re-enactors demonstrate field artillery" />
+                            <div class="card-body">
+                                <p>Volunteers of the 9th Kentucky Infantry Re-enactors demonstrate field artillery</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Waysides interpret the history of the Free State</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F2BCD62D-0294-16BA-444D25639277AAE6.jpg" class="card-img-top" alt="wayside exhibit in the national cemetery" title="Interpreting the story of the Underground Railroad and the Free State Community" />
+                            <div class="card-body">
+                                <p>Interpreting the story of the Underground Railroad and the Free State Community</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Spring flowers on the trails</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F2B12602-0AFB-AC49-CC2AE1908B53836B.jpg" class="card-img-top" alt="early spring native flowers" title="Native plants found on park trails during springtime hikes" />
+                            <div class="card-body">
+                                <p>Native plants found on park trails during springtime hikes</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Native Plants</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F2D15B29-B622-1CC1-CA555E7B262228F0.jpg" class="card-img-top" alt="native plants found in the park" title="Native flowers found on the battlefield trails" />
+                            <div class="card-body">
+                                <p>Native flowers found on the battlefield trails</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Artillery Batteries at Fort Donelson NB</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F2F22CCE-B61D-73BC-B9B1A560AA54615E.jpg" class="card-img-top" alt="Cannons on Lower River Battery" title="Observation Deck on the Cumberland River" />
+                            <div class="card-body">
+                                <p>Observation Deck on the Cumberland River</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Wolf Trap National Park for the Performing Arts</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Wolf Trap National Park for the Performing Arts</h3>
+                <br/>
+                <p>No matter what your age or taste in shows, you'll find something you like onstage at Wolf Trap National Park for the Performing Arts. From May through September, multiple amphitheaters in the park present performances such as musicals, dance, opera, jazz, and popular and country music. A good time to explore the beauty and history of the park without the crowds is October - April.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Wolf Trap National Park for the Performing Arts is located in Vienna, Virginia. The park can be accessed by traveling from Route 7, the Dulles Toll Road (Route 267), Beulah Road or Old Courthouse Road. For more detailed information visit the park's directions page.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Theater</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Filene Center Blast Off</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8068F8-1DD8-B71B-0B3D0F4B88C2CD62.jpg" class="card-img-top" alt="The Filene Center House full of patrons" title="Everyone is ready to kickoff the Filene Center season." />
+                            <div class="card-body">
+                                <p>Everyone is ready to kickoff the Filene Center season.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Catherine Filene Shouse Bust</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C806A78-1DD8-B71B-0B214F246D9BC413.jpg" class="card-img-top" alt="Bust of Catherine Filene Shouse with building in back" title="Catherine Filene Shouse donated her land to the National Park Service, which Wolf Trap National Park for the Performing Arts was established." />
+                            <div class="card-body">
+                                <p>Catherine Filene Shouse donated her land to the National Park Service, which Wolf Trap National Park for the Performing Arts was established.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Junior Ranger Day</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B408B77F-E63D-5DF1-377E3DBD36120ECB.jpg" class="card-img-top" alt="A ranger swears in two new Jr. Rangers during Jr. Ranger Day activities at the park." title="Junior Ranger Days occur throughout the summer." />
+                            <div class="card-body">
+                                <p>Junior Ranger Days occur throughout the summer.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Dimple Meadow</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C806D30-1DD8-B71B-0B1348005ED7DA7D.jpg" class="card-img-top" alt="Native garden with the Filene Center in the background" title="In 2012, park staff and volunteers planted 42 species of native grasses and wildflowers here to create a habitat that now supports over 40 kinds of bees and 25 types of butterflies." />
+                            <div class="card-body">
+                                <p>In 2012, park staff and volunteers planted 42 species of native grasses and wildflowers here to create a habitat that now supports over 40 kinds of bees and 25 types of butterflies.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Natural Side of a Park for the Performing Arts</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C806EB0-1DD8-B71B-0B61464724F6810A.jpg" class="card-img-top" alt="Filene Center in the background with autumn leaves" title="There are opportunities year-round to hike and enjoy the outdoors, picnic and participate in ranger programs or walks." />
+                            <div class="card-body">
+                                <p>There are opportunities year-round to hike and enjoy the outdoors, picnic and participate in ranger programs or walks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Children's Theatre-in-the-Woods Performances</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80727B-1DD8-B71B-0B7F94588A9BB608.jpg" class="card-img-top" alt="Sold out show at Theatre-in-the-Woods" title="Most of the activities in the park during the summer are centered around performances at the Filene Center and Theatre-in-the-Woods." />
+                            <div class="card-body">
+                                <p>Most of the activities in the park during the summer are centered around performances at the Filene Center and Theatre-in-the-Woods.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Blue Ridge Parkway</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Blue Ridge Parkway</h3>
+                <br/>
+                <p>A Blue Ridge Parkway experience is unlike any other: a slow-paced and relaxing drive revealing stunning long-range vistas and close-up views of the rugged mountains and pastoral landscapes of the Appalachian Highlands. The Parkway meanders for 469 miles, protecting a diversity of plants and animals, and providing opportunities for enjoying all that makes this region of the country so special.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The parkway is a 469-mile-long scenic road connecting Shenandoah National Park in Virginia to Great Smoky Mountains National Park in North Carolina. Numerous federal and state highways provide access to the parkway. Milepost markers are positioned every mile along the parkway, starting at 0 in Virginia and ending at 469 in North Carolina. We suggest using a map to identify the area you want to visit, as GPS directions often do not incorporate the parkway's milepost system.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Engineering</li>
+                                    
+                                    <li>Landscape Design</li>
+                                    
+                                    <li>Music</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Bridges</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Tunnels</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Elk</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Foothills, Plains and Valleys</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Deciduous Forests</li>
+                                    
+                                    <li>Mountains</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Evening on the Blue Ridge</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/87E985D9-BF92-9DC3-74B91467FBA15010.jpg" class="card-img-top" alt="A long pine tree stands in front of distant mountain ridges beneath an orange sunset" title="Evening on the Blue Ridge Parkway" />
+                            <div class="card-body">
+                                <p>Evening on the Blue Ridge Parkway</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mountain vista</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80E7D5-1DD8-B71B-0B44F2F58F98099D.jpg" class="card-img-top" alt="Mountain vista and clouds on the Blue Ridge Parkway" title="Beautiful mountain in North Carolina draw visitors from around the world to the Blue Ridge Parkway" />
+                            <div class="card-body">
+                                <p>Beautiful mountain in North Carolina draw visitors from around the world to the Blue Ridge Parkway</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunset from Cowee Mountain Overlook</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/A7DF66E8-E20E-7839-71FA8E9735088BB8.jpg" class="card-img-top" alt="Storm clouds breaking over the mountains at sunset, with fog hugging the valleys" title="Sunset from Cowee Mountain Overlook" />
+                            <div class="card-body">
+                                <p>Sunset from Cowee Mountain Overlook</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Linn Cove Viaduct</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/88321370-F808-59B5-820F10686B1E531A.jpg" class="card-img-top" alt="A roadway on piers follows the curve of a mountainside, running toward distant mountains." title="Linn Cove Viaduct is one of the most iconic features of the Blue Ridge Parkway" />
+                            <div class="card-body">
+                                <p>Linn Cove Viaduct is one of the most iconic features of the Blue Ridge Parkway</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Black Bear</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/88113186-C82C-0C45-EB7789FE6E4D8DC2.jpg" class="card-img-top" alt="Black Bear sitting on large rocks at the edge of a forest" title="Black bears are among the many mammals found across the Blue Ridge Parkway." />
+                            <div class="card-body">
+                                <p>Black bears are among the many mammals found across the Blue Ridge Parkway.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mabry Mill</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80E68A-1DD8-B71B-0B6752AF1737BF62.jpg" class="card-img-top" alt="Summer colors at Mabry Mill" title="Located in Virginia's Plateau district, picturesque Mabry Mill is one of the most iconic features of the Blue Ridge Parkway" />
+                            <div class="card-body">
+                                <p>Located in Virginia's Plateau district, picturesque Mabry Mill is one of the most iconic features of the Blue Ridge Parkway</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Linville Falls</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80E949-1DD8-B71B-0B1ECE00402BA348.jpg" class="card-img-top" alt="water cascading into Linville Falls plunge basin" title="The Linville Gorge offers visitors the opportunity to learn about fascinating geology and view magnificent waterfalls." />
+                            <div class="card-body">
+                                <p>The Linville Gorge offers visitors the opportunity to learn about fascinating geology and view magnificent waterfalls.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

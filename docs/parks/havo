@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hawaiʻi Volcanoes National Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Hawaiʻi Volcanoes National Park</h3>
+                <br/>
+                <p>Hawai‘i Volcanoes National Park protects some of the most unique geological, biological, and cherished cultural landscapes in the world. Extending from sea level to 13,680 feet, the park encompasses the summits of two of the world's most active volcanoes - Kīlauea and Mauna Loa - and is a designated International Biosphere Reserve and UNESCO World Heritage Site.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Hawai‘i Volcanoes National Park is located on the island of Hawai‘i. From Hilo: 30 miles southwest on Highway 11 (a 45 minute drive); from Kailua-Kona: 96 miles southeast on Highway 11 (2 to 2 1/2 hour drive), or 125 miles through Waimea and Hilo via highways 19 and 11 (2 1/2 to 3 hours).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Car or Front Country Camping</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Oceans</li>
+                                    
+                                    <li>Rock Landscapes and Features</li>
+                                    
+                                    <li>Scenic Views</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Rare</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                    <li>Wilderness</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Halapē</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C4E8415A-08E5-5976-833F494FFCA3FFE6.jpg" class="card-img-top" alt="Rocky coastline with palm trees and a cliff beyon" title="Coastline of Hawaiʻi Volcanoes National Park" />
+                            <div class="card-body">
+                                <p>Coastline of Hawaiʻi Volcanoes National Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kīlauea Iki</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C5AEDF53-AE4A-F6DB-2FBA7BE158386C0E.jpg" class="card-img-top" alt="A cloud-filled volcanic crater at sunrise with a mountain rising behind" title="Sunrise at Kīlauea Iki" />
+                            <div class="card-body">
+                                <p>Sunrise at Kīlauea Iki</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hōlei Pali</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C5D3655B-BF42-2E22-8068376035581BB2.jpg" class="card-img-top" alt="Lava flows and ferns in front of a cliff at sunset" title="Lava flows from the Mauna Ulu eruption drape the Hōlei Pali" />
+                            <div class="card-body">
+                                <p>Lava flows from the Mauna Ulu eruption drape the Hōlei Pali</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Steam Vents</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C69391EE-FBFA-BC85-885A49C4BD5CEC8D.jpg" class="card-img-top" alt="Trees and tall grass through steam at sunrise" title="Wahinekapu (Steaming Bluff)" />
+                            <div class="card-body">
+                                <p>Wahinekapu (Steaming Bluff)</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Kahuku Unit</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C8E997AB-E2A8-0AE2-346A65CEE6B0FD30.jpg" class="card-img-top" alt="Grassy hill dotted with trees underneath a blue sky with white clouds" title="The Kahuku Unit of Hawaiʻi Volcanoes National Park once was one of the largest cattle ranches in Hawaiʻi" />
+                            <div class="card-body">
+                                <p>The Kahuku Unit of Hawaiʻi Volcanoes National Park once was one of the largest cattle ranches in Hawaiʻi</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tide Pools</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C4C64AE6-092B-A593-7727CAE9487AC462.jpg" class="card-img-top" alt="Green vegetation in tide pools on a rocky ocean coastline" title="Tide pools along the Puna Coast" />
+                            <div class="card-body">
+                                <p>Tide pools along the Puna Coast</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Nāhuku</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C44A654D-DEFB-02B3-2EECDD47FA6BF2D8.jpg" class="card-img-top" alt="A lava tube lit by warm electric light" title="Nāhuku (Thurston Lava Tube)" />
+                            <div class="card-body">
+                                <p>Nāhuku (Thurston Lava Tube)</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lava Trees</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C524CE8E-BE01-B3D1-E9ED35AC2B79F2ED.jpg" class="card-img-top" alt="A lava tree in a black lava field with small living trees and a rainbow behind" title="Lava trees memorialize trees that once stood in the path of encroaching lava" />
+                            <div class="card-body">
+                                <p>Lava trees memorialize trees that once stood in the path of encroaching lava</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">ʻAe Fern</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C6149CE4-DFB9-DECE-57311912C897C228.jpg" class="card-img-top" alt="Ferns rising from a lava field" title="About 200 species of ferns can be found across the Hawaiian Islands. Sixty-five percent of these species are considered endemic, found nowhere else in the world." />
+                            <div class="card-body">
+                                <p>About 200 species of ferns can be found across the Hawaiian Islands. Sixty-five percent of these species are considered endemic, found nowhere else in the world.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">ʻŌhiʻa</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C6730400-9060-5187-6DA91D10ADF30A99.jpg" class="card-img-top" alt="Red ʻōhiʻa blossom" title="The red blossoms of the ʻōhiʻa are a Hawaiian cultural icon" />
+                            <div class="card-body">
+                                <p>The red blossoms of the ʻōhiʻa are a Hawaiian cultural icon</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Nēnē</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C63A45B4-9A0C-F1E4-39696608B85665D0.jpg" class="card-img-top" alt="Nēnē spreading winds on edge of a crater" title="The threatened nēnē is the official state bird of Hawaiʻi" />
+                            <div class="card-body">
+                                <p>The threatened nēnē is the official state bird of Hawaiʻi</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rainforest</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7BCCBFDD-FDEB-2162-BD15DB1561BE5DA8.jpg" class="card-img-top" alt="Rays of light shine through a misty rainforest with ferns covering the understory" title="Lush rainforest surrounds Crater Rim Trail near the Halemaʻumaʻu Trail" />
+                            <div class="card-body">
+                                <p>Lush rainforest surrounds Crater Rim Trail near the Halemaʻumaʻu Trail</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hula at Kīlauea</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7AE7B515-91B9-74CF-65F0E0D99C6C78EE.jpg" class="card-img-top" alt="A hula dancer in a red dress above a forested area" title="Kīlauea is home to important and sacred cultural sites stretching back centuries." />
+                            <div class="card-body">
+                                <p>Kīlauea is home to important and sacred cultural sites stretching back centuries.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mauna Loa 1940 Cone</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7B6470EF-A9BB-8B7F-4D5991FC840700A9.jpg" class="card-img-top" alt="A lava cone rising behind a flow of lava with caldera walls beyond" title="Mauna Loa, the largest active volcano on the planet, stands more than 13,000 feet above sea level" />
+                            <div class="card-body">
+                                <p>Mauna Loa, the largest active volcano on the planet, stands more than 13,000 feet above sea level</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Puʻu Loa Petroglyphs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7C58F90C-0AB8-DF2A-1543251CCBBEF9D7.jpg" class="card-img-top" alt="Petroglyphs of human figures carved into gray rock" title="Puʻu Loa features the largest group of petroglyphs in Hawaiʻi." />
+                            <div class="card-body">
+                                <p>Puʻu Loa features the largest group of petroglyphs in Hawaiʻi.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Halemaʻumaʻu Crater</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/7ABCA1B9-F4F9-660F-1752379E4517F1EE.jpg" class="card-img-top" alt="A tree stands on the edge of a misty caldera" title="Halemaʻumaʻu from along Crater Rim Trail" />
+                            <div class="card-body">
+                                <p>Halemaʻumaʻu from along Crater Rim Trail</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Booker T Washington National Monument</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Booker T Washington National Monument</h3>
+                <br/>
+                <p>Booker T. Washington was born a slave in April 1856 on the 207-acre farm of James Burroughs. After the Civil War, Washington became the first principal of Tuskegee Normal and Industrial School. Later as an adviser, author and orator, his past would influence his philosophies as the most influential African American of his era. Come explore his birthplace.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The monument is located on AV 122 (Booker T. Washington Highway), 22 miles southeast of Roanoke, VA. From I-81 take I-581, then U.S. 220 south from Roanoke to VA 122. From the Blule Ridge Parkway take VA 43 south to VA 122. From Lynchburg take U.S. 460 west to VA 122.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Reenactments</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Plantations</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Reconstruction</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tobacco, the cash crop</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C78FE2A-1DD8-B71B-0B28DF0A7DEA50EB.jpg" class="card-img-top" alt="Tobacco field being plowed by man with two draft horses" title="The main crop on the plantation where Booker T. Washington was born was tobacco. This photograph shows a man with draft horses preparing to plow a field." />
+                            <div class="card-body">
+                                <p>The main crop on the plantation where Booker T. Washington was born was tobacco. This photograph shows a man with draft horses preparing to plow a field.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The reconstructed kitchen cabin and smoke house in the snow</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7902B5-1DD8-B71B-0B8940C6F3F68417.jpg" class="card-img-top" alt="Back side of kitchen cabin and smokehouse in snow with blue sky and trees" title="The reconstructed kitchen cabin and smoke house on the farm where Booker T. Washington was born." />
+                            <div class="card-body">
+                                <p>The reconstructed kitchen cabin and smoke house on the farm where Booker T. Washington was born.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Re-enactors in the reconstructed kitchen cabin at the Old Virginia Christmas Event</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7914F4-1DD8-B71B-0BD74384D49B94B4.jpg" class="card-img-top" alt="Four people dressed as enslaved people in front of the fireplace in cabin" title="Re-enactors portraying enslaved people in the reconstructed kitchen cabin where Booker T. Washington was born and lived for 9 years." />
+                            <div class="card-body">
+                                <p>Re-enactors portraying enslaved people in the reconstructed kitchen cabin where Booker T. Washington was born and lived for 9 years.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Reconstructed kitchen cabin where Booker T. Washington was born</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/83530173-D48B-D044-FD7CA3C2E1C9B6E1.jpg" class="card-img-top" alt="Kitchen cabin with child in green dress in front" title="Visit the reconstructed kitchen cabin where Dr. Washington was born" />
+                            <div class="card-body">
+                                <p>Visit the reconstructed kitchen cabin where Dr. Washington was born</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Reconstructed kitchen cabin where Booker T. Washington was born</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/836D03A1-AF1B-E91B-ECDA0A5D8297D51E.jpg" class="card-img-top" alt="Kitchen cabin with trail in front" title="Visit the reconstructed kitchen cabin where Dr. Washington was born" />
+                            <div class="card-body">
+                                <p>Visit the reconstructed kitchen cabin where Dr. Washington was born</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jack-O-Lantern Branch Trail creek</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/837986DF-CA30-742D-98C1E94F4FE4EBBC.jpeg" class="card-img-top" alt="Creek on Jack-O-Lantern Branch Trail" title="Take a hike on the Jack-O-Lantern Branch Trail next to the creek" />
+                            <div class="card-body">
+                                <p>Take a hike on the Jack-O-Lantern Branch Trail next to the creek</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">School tours at Booker T. Washington National Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/838C4121-CF92-572C-305A0D11835D51F3.jpg" class="card-img-top" alt="Re-enactor with school children at blacksmith shed looking over fence toward the kitchen cabin" title="Take a tour of the park" />
+                            <div class="card-body">
+                                <p>Take a tour of the park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Horse barn</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/839EB4E0-BE5F-9D26-7A3B5182D25C684D.jpg" class="card-img-top" alt="Horse barn" title="Horse barn on farm" />
+                            <div class="card-body">
+                                <p>Horse barn on farm</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Reconstructed kitchen cabin where Booker T. Washington was born</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/83E6870A-E145-0835-92D263403C8E758D.jpg" class="card-img-top" alt="Reconstructed kitchen cabin where Booker T. Washington was born" title="Foggy morning reconstructed kitchen cabin where Booker T. Washington was born" />
+                            <div class="card-body">
+                                <p>Foggy morning reconstructed kitchen cabin where Booker T. Washington was born</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Reconstructed kitchen cabin where Booker T. Washington was born</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/83FE6D6E-0AF9-DB0D-0753031822D8FEBA.jpg" class="card-img-top" alt="Reconstructed kitchen cabin where Booker T. Washington was born" title="Reconstructed kitchen cabin with herb garden" />
+                            <div class="card-body">
+                                <p>Reconstructed kitchen cabin with herb garden</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Corn crib on farm</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/840FB7E8-0807-03CF-9EF8E34F4CEBBC0A.jpg" class="card-img-top" alt="corn crib on trail" title="Corn crib on farm" />
+                            <div class="card-body">
+                                <p>Corn crib on farm</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sheep at barn on farm</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/841C810F-B720-FE8E-BA4C736935E94A88.jpg" class="card-img-top" alt="sheep coming out of barn" title="Sheep coming out of barn" />
+                            <div class="card-body">
+                                <p>Sheep coming out of barn</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">An Old Virginia Christmas</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84328687-0A39-35BF-388AB6B8F0222598.jpg" class="card-img-top" alt="Two re-enactors portraying enslaved people sitting in front of fire inside kitchen cabin" title="Two re-enactors portraying enslaved people sitting in front of fire inside kitchen cabin" />
+                            <div class="card-body">
+                                <p>Two re-enactors portraying enslaved people sitting in front of fire inside kitchen cabin</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8460AA60-E7C9-19F5-34BA3C39DFE80BE2.jpg" class="card-img-top" alt="Visitor Center" title="Visitor Center" />
+                            <div class="card-body">
+                                <p>Visitor Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Statue of Dr. Booker T. Washington at Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/846A93E8-A213-3E02-DD553FA1B22EA0EF.jpg" class="card-img-top" alt="Statue of Dr. Booker T. Washington at Visitor Center" title="Statue of Dr. Booker T. Washington at Visitor Center" />
+                            <div class="card-body">
+                                <p>Statue of Dr. Booker T. Washington at Visitor Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Exhibits on outside of visitor center bathrooms</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84737F56-DEEC-BF35-75D177430FBAD2FA.jpg" class="card-img-top" alt="Exhibits on outside of visitor center bathrooms" title="Exhibits on outside of visitor center bathrooms" />
+                            <div class="card-body">
+                                <p>Exhibits on outside of visitor center bathrooms</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Smokehouse on farm in historic area</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8480C5E8-E6BE-FDF4-B29101D58590C6ED.jpg" class="card-img-top" alt="Smokehouse on farm in historic area" title="Smokehouse on farm in historic area" />
+                            <div class="card-body">
+                                <p>Smokehouse on farm in historic area</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Dinner bell in historic area</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/848C35E0-FA89-7B56-F54B9E73C1F56FD1.jpg" class="card-img-top" alt="Dinner bell in historic area" title="Dinner bell in historic area" />
+                            <div class="card-body">
+                                <p>Dinner bell in historic area</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Trail leading to tobacco barn</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/849CCAE9-BD5E-636E-302D02C36EC31A45.jpg" class="card-img-top" alt="Trail leading to tobacco barn" title="Trail leading to tobacco barn" />
+                            <div class="card-body">
+                                <p>Trail leading to tobacco barn</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tobacco barn with wagon</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84A68330-A9E9-C03E-BB6C15CABFA83746.jpg" class="card-img-top" alt="Tobacco barn with wagon" title="Tobacco barn with wagon" />
+                            <div class="card-body">
+                                <p>Tobacco barn with wagon</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Booker T. Washington Elementary School (Park Headquarters)</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84B17C05-0392-36C8-2BBF8D05C237A943.jpg" class="card-img-top" alt="Booker T. Washington Elementary School (Park Headquarters)" title="Booker T. Washington Elementary School (Park Headquarters)" />
+                            <div class="card-body">
+                                <p>Booker T. Washington Elementary School (Park Headquarters)</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fence leading down trail from visitor center to historic area</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84C11BA8-041B-6964-42E9591A825A72AF.jpg" class="card-img-top" alt="Snake/Worm fence leading down trail from visitor center to historic area" title="Fence leading down the trail from the visitor center to the historic area" />
+                            <div class="card-body">
+                                <p>Fence leading down the trail from the visitor center to the historic area</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Grapevine arbor</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84CF4586-B435-3867-E26C2466D6292826.jpg" class="card-img-top" alt="Gravevine arbor" title="Grapevine arbor" />
+                            <div class="card-body">
+                                <p>Grapevine arbor</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic Red Cedar Tree (Juniper) in historic area near Big House outline</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84D9C674-D2AA-C3B2-244DDDA75F8208FD.jpg" class="card-img-top" alt="Historic Red Cedar Tree (Juniper) in historic area near Big House outline" title="Historic Red Cedar Tree (Juniper) in historic area near Big House outline" />
+                            <div class="card-body">
+                                <p>Historic Red Cedar Tree (Juniper) in historic area near Big House outline</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Picnic Area</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84E89BB8-AB3A-F7FB-8DC2D9C8B84E667E.jpg" class="card-img-top" alt="Picnic table in picnic area" title="Picnic Area" />
+                            <div class="card-body">
+                                <p>Picnic Area</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Picnic Area Handicapped accessible table</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84F23309-C849-BF04-7A55A2B967074E49.jpg" class="card-img-top" alt="Picnic Area Handicapped accessible table" title="Picnic Area Handicapped accessible table" />
+                            <div class="card-body">
+                                <p>Picnic Area Handicapped accessible table</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Outline of Big House where owner's family lived</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/84FB26B5-94FB-FBEC-7DF2EFB9C09C797F.jpg" class="card-img-top" alt="Outline of Big House on ground marking where owner's family lived" title="Outline of Big House where owner's family lived" />
+                            <div class="card-body">
+                                <p>Outline of Big House where owner's family lived</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Blacksmith shed</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/85047BC6-EFCC-52CF-DD9DA4FEC12D0B08.jpg" class="card-img-top" alt="Blacksmith shed with kitchen cabin and smokehouse uphill in back ground" title="Blacksmith shed" />
+                            <div class="card-body">
+                                <p>Blacksmith shed</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Burroughs' Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/85150EA9-0874-655A-B3102B428E03305B.jpg" class="card-img-top" alt="Burroughs' Cemetery" title="Burroughs' Cemetery" />
+                            <div class="card-body">
+                                <p>Burroughs' Cemetery</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fence around heirloom garden</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/85239632-0CA4-F08E-01057E94DAC6B739.jpg" class="card-img-top" alt="Fence around heirloom garden with cedar tree in foreground" title="Fence around heirloom garden" />
+                            <div class="card-body">
+                                <p>Fence around heirloom garden</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Park trail and part of pasture</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/85301C02-A876-2729-58F0644ACFC4D87C.jpg" class="card-img-top" alt="Park trail and part of pasture" title="Park trail and part of pasture" />
+                            <div class="card-body">
+                                <p>Park trail and part of pasture</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Horse in barn</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/85405FDE-B563-6164-90CE311D680EA090.jpg" class="card-img-top" alt="Horse in barn" title="Horse in barn" />
+                            <div class="card-body">
+                                <p>Horse in barn</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Horse peeping over fence with other horse in pasture</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8544B1CC-0DB2-C311-AB58D2FD1FD73B2C.jpg" class="card-img-top" alt="Horse peeping over fence with other horse in pasture" title="Horse peeping over fence with other horse in pasture" />
+                            <div class="card-body">
+                                <p>Horse peeping over fence with other horse in pasture</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sheep in the field</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/854D1722-B3C3-5EB1-DC884700849397FE.jpg" class="card-img-top" alt="Sheep in the field" title="Sheep in the field" />
+                            <div class="card-body">
+                                <p>Sheep in the field</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Gardener in giving garden</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/856A1912-E67D-30D4-DAD1F687A8ECD221.jpeg" class="card-img-top" alt="Gardener in giving garden" title="Gardener in giving garden" />
+                            <div class="card-body">
+                                <p>Gardener in giving garden</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Juneteenth Re-enactment</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/85874A00-E087-8CD7-25A265138699A217.jpeg" class="card-img-top" alt="Juneteenth Re-enactment" title="Juneteenth Re-enactment" />
+                            <div class="card-body">
+                                <p>Juneteenth Re-enactment</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">View of Historic Area from Visitor Center Back Porch</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/859144EB-C015-4296-CF69248C7C700177.jpg" class="card-img-top" alt="View of Historic Area from Visitor Center Back Porch" title="View of Historic Area from Visitor Center Back Porch" />
+                            <div class="card-body">
+                                <p>View of Historic Area from Visitor Center Back Porch</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Harvest Time Festival Wagon Ride</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/85AD59B2-C7C9-943B-C572E15EEC3FCFAF.jpg" class="card-img-top" alt="Wagon coming up trail to farm with people" title="Harvest Time Festival Wagon Ride" />
+                            <div class="card-body">
+                                <p>Harvest Time Festival Wagon Ride</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Kalaupapa National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Kalaupapa National Historical Park</h3>
+                <br/>
+                <p>When Hansen's disease (leprosy) was introduced to the Hawaiian Islands, King Kamehameha V banished all afflicted to the isolated Kalaupapa Peninsula on the north shore of Molokai. Since 1866, more than 8,000 people, mostly Hawaiians, have died at Kalaupapa. Once a prison, Kalaupapa is now a refuge for the few remaining residents who are cured but were forced to live their lives in isolation.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Kalaupapa is an extremely isolated place, surrounded on three sides by ocean and two-thousand foot cliffs on the fourth. Consequently, there is no road access into the peninsula. Kalaupapa cannot be reached by automobile. To get to the park, visitors must travel by air, mule, or on foot. See the park's Direction and Transportation webpage for additional information.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Asian American Heritage</li>
+                                    
+                                    <li>Pacific Islander Heritage</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Overview of Kalaupapa Peninsula</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79B6CD-1DD8-B71B-0BB2B4265DD8C023.jpg" class="card-img-top" alt="View of Kalaupapa Peninsula from Overlook" title="The Kalaupapa peninsula was once a prison for those inflicted with Hansen's disease.  Approximately 8000 people were forced to live their lives in isolation here." />
+                            <div class="card-body">
+                                <p>The Kalaupapa peninsula was once a prison for those inflicted with Hansen's disease.  Approximately 8000 people were forced to live their lives in isolation here.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Pali (Sea cliffs) at Kalaupapa</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79B7CD-1DD8-B71B-0B8DB166CD47FFDB.jpg" class="card-img-top" alt="View of pali (sea cliffs) on the north shore of Molokai" title="Kalaupapa National Historical Park contains some of the world's tallest sea cliffs, which formed a natural barrier to the Hansen's disease settlement." />
+                            <div class="card-body">
+                                <p>Kalaupapa National Historical Park contains some of the world's tallest sea cliffs, which formed a natural barrier to the Hansen's disease settlement.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kalaupapa Settlement</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79B8BD-1DD8-B71B-0B3642258A7FDC63.jpg" class="card-img-top" alt="View of residences along Damien Road" title="Patients lived in a combination of group homes and single family residences at Kalaupapa." />
+                            <div class="card-body">
+                                <p>Patients lived in a combination of group homes and single family residences at Kalaupapa.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kalawao at Sunrise</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79B9C9-1DD8-B71B-0B1470C968F06B2B.jpg" class="card-img-top" alt="View of the sunrise over the north shore of Molokai" title="Kalawao with its rocky shoreline was the landing spot for the first Hansen's disease patients sent to Kalaupapa." />
+                            <div class="card-body">
+                                <p>Kalawao with its rocky shoreline was the landing spot for the first Hansen's disease patients sent to Kalaupapa.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Black Sand Beach</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79BAC7-1DD8-B71B-0B078B6EFFA7389B.jpg" class="card-img-top" alt="View of Black Sand Beach and Awahua Bay" title="Black Sand Beach is one of several sandy beaches at Kalaupapa, most known for its sea turtle nesting habitat." />
+                            <div class="card-body">
+                                <p>Black Sand Beach is one of several sandy beaches at Kalaupapa, most known for its sea turtle nesting habitat.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Archeological Sites at Kalaupapa</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79BC2E-1DD8-B71B-0B49012B61D78A2D.jpg" class="card-img-top" alt="View of rock walls and native Hawaiian archeological sites at Kalaupapa." title="Kalaupapa is also home to one of the most well-preserved archeological complexes in all of Hawaii." />
+                            <div class="card-body">
+                                <p>Kalaupapa is also home to one of the most well-preserved archeological complexes in all of Hawaii.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Siloama Church at Kalawao</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79BD53-1DD8-B71B-0BB4FD504DF437D9.jpg" class="card-img-top" alt="Siloama Church at Kalawao settlement" title="Siloama Church was the first church established at Kalawao in 1866.  It is one of two remaining buildings at Kalawao today." />
+                            <div class="card-body">
+                                <p>Siloama Church was the first church established at Kalawao in 1866.  It is one of two remaining buildings at Kalawao today.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">St. Damien's Grave</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79BE86-1DD8-B71B-0B01A4BC9D46895E.jpg" class="card-img-top" alt="View of St. Damien's Grave at Kalawao with ocean in background." title="Saint Damien is one of two Catholic saints at Kalaupapa who came to serve the Hansen's disease patients in the late 19th century." />
+                            <div class="card-body">
+                                <p>Saint Damien is one of two Catholic saints at Kalaupapa who came to serve the Hansen's disease patients in the late 19th century.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Paschoal Hall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79C017-1DD8-B71B-0BD168E88DAC63D3.jpg" class="card-img-top" alt="View of Paschoal Hall also known as the Kalaupapa Social Hall" title="Paschoal Hall, also known as the Kalaupapa Social Hall, served as the community's recreational center with movies, entertainers, and dances." />
+                            <div class="card-body">
+                                <p>Paschoal Hall, also known as the Kalaupapa Social Hall, served as the community's recreational center with movies, entertainers, and dances.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Papaloa Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79C154-1DD8-B71B-0BC5CA3DB22D958E.jpg" class="card-img-top" alt="View of grave markers at Papaloa Cemetery in Kalaupapa" title="Kalaupapa is the final resting place for approximately 8000 people. Papaloa Cemetery is the largest cemetery located along the west shoreline of the peninsula." />
+                            <div class="card-body">
+                                <p>Kalaupapa is the final resting place for approximately 8000 people. Papaloa Cemetery is the largest cemetery located along the west shoreline of the peninsula.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kana'ana Hou Church</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79C27D-1DD8-B71B-0B337F0D95572F83.jpg" class="card-img-top" alt="View of Kana'ana Hou Church through gates" title="Religion was a prominent part of patients' lives at Kalaupapa. Protestant, Catholic, and Mormon churches were established at both Kalawao and Kalaupapa settlements." />
+                            <div class="card-body">
+                                <p>Religion was a prominent part of patients' lives at Kalaupapa. Protestant, Catholic, and Mormon churches were established at both Kalawao and Kalaupapa settlements.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kalaupapa Pier</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79C3CC-1DD8-B71B-0B9C6E566A1432EE.jpg" class="card-img-top" alt="View of warehouse and store at the Kalaupapa Pier" title="The Kalaupapa Pier, warehouse, and store were the lifeline of the settlement during the 20th century. Historically, shipments of goods and supplies were sent to Kalaupapa weekly." />
+                            <div class="card-body">
+                                <p>The Kalaupapa Pier, warehouse, and store were the lifeline of the settlement during the 20th century. Historically, shipments of goods and supplies were sent to Kalaupapa weekly.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

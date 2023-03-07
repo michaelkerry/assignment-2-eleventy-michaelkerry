@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Lincoln Memorial</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Lincoln Memorial</h3>
+                <br/>
+                <p>"...as in the hearts of the people for whom he saved the Union, the memory of Abraham Lincoln is enshrined forever." Beneath these words, the 16th president of the United States sits immortalized in marble as an enduring symbol of unity, strength, and wisdom.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">GPS Coordinates: 38.889321, -77.050166 Address: 2 Lincoln Memorial Circle, NW, Washington, D.C. Nearest Intersection: Independence Ave. SW & Daniel Chester French Dr. SW</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Painting</li>
+                                    
+                                    <li>Sculpture</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lincoln Memorial at Dusk</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C816F5A-1DD8-B71B-0B6D38F175B60A23.jpg" class="card-img-top" alt="Lincoln Memorial at Dusk" title="One of the most photographed memorials, no matter the hour." />
+                            <div class="card-body">
+                                <p>One of the most photographed memorials, no matter the hour.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lincoln Statue Close up</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8170D5-1DD8-B71B-0BDFF9C2491124BA.jpg" class="card-img-top" alt="Lincoln Statue Close up" title="A statue comes to life" />
+                            <div class="card-body">
+                                <p>A statue comes to life</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Nations Capital Landscape</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81722F-1DD8-B71B-0B5AAC81974582C6.jpg" class="card-img-top" alt="Nations Capital Landscape" title="An iconic photo of the Nations Capital" />
+                            <div class="card-body">
+                                <p>An iconic photo of the Nations Capital</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lincoln Memorial Statue at Night</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F1119C53-C9F4-8689-048B3347C3A00D7A.jpg" class="card-img-top" alt="Marble statue of Abraham Lincoln sitting inside the Chamber of the Lincoln Memorial" title="Statue of Abraham Lincoln sitting inside the Lincoln Memorial with a quote above "IN THIS TEMPLE AS IN THE HEARTS OF THE PEOPLE FOR WHOM HE SAVED THE UNION THE MEMORY OF ABRAHAM LINCOLN IS ENSHRINED FOREVER"" />
+                            <div class="card-body">
+                                <p>Statue of Abraham Lincoln sitting inside the Lincoln Memorial with a quote above "IN THIS TEMPLE AS IN THE HEARTS OF THE PEOPLE FOR WHOM HE SAVED THE UNION THE MEMORY OF ABRAHAM LINCOLN IS ENSHRINED FOREVER"</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lincoln Memorial at Sunset</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F1E78AAD-9805-F027-778F77F86A524BDD.jpg" class="card-img-top" alt="Lincoln Memorial view from plaza steps" title="View of the Lincoln Memorial from the plaza steps during sunset." />
+                            <div class="card-body">
+                                <p>View of the Lincoln Memorial from the plaza steps during sunset.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Aerial View of the Lincoln Memorial</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/46D0B9D2-F712-7744-5F284B24E11A86BC.jpg" class="card-img-top" alt="A rectangular, white colonnaded building seen from the air" title="Aerial view of the Lincoln Memorial" />
+                            <div class="card-body">
+                                <p>Aerial view of the Lincoln Memorial</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lincoln Memorial statue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/46F1D8AC-CCF2-6F45-3E5941225E38DFD2.jpg" class="card-img-top" alt="Marble statue of a man sitting on a chair" title="Daniel Chester French's statue of Abraham Lincoln is the central feature of the Lincoln Memorial and is comprised of 28 pieces of Georgia marble." />
+                            <div class="card-body">
+                                <p>Daniel Chester French's statue of Abraham Lincoln is the central feature of the Lincoln Memorial and is comprised of 28 pieces of Georgia marble.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

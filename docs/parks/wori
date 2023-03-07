@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Women's Rights National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Women's Rights National Historical Park</h3>
+                <br/>
+                <p>Women’s Rights National Historical Park tells the story of the first Women’s Rights Convention, held in Seneca Falls, New York on July 19-20, 1848. It is a story of struggles for civil rights, human rights, and equality, global struggles that continue today. The efforts of women’s rights leaders, abolitionists, and other 19th century reformers remind us that all people must be accepted as equals.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From the New York State Thruway (I-90) take exit 41 (Route 414). Turn right onto Route 414 South after exiting the tollbooth. Follow Route 414 South for approximately four miles. At the intersections of Route 414 and Routes 5 & 20, turn left onto Route 5 & 20 East. Follow for approximately one and a half miles into the Village of Seneca Falls. The Visitor Center is on the left at 136 Fall Street, Seneca Falls, NY 13148.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Churches</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Voting Rights and Suffrage</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wesleyan Chapel</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C700A-1DD8-B71B-0B5C2C42B93C9B76.jpg" class="card-img-top" alt="The Wesleyan Chapel in summer" title="The Wesleyan Chapel, site of the first Women's Rights Convention" />
+                            <div class="card-body">
+                                <p>The Wesleyan Chapel, site of the first Women's Rights Convention</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Waterwall and Mural</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F7D60543-B27A-28C0-1A46885336AB041F.jpg" class="card-img-top" alt="A gold and purple mural featuring faces of historic figures, over a stone wall." title="Women's Rights NHP celebrates the American Women's Rights Movement and its inception in Seneca Falls, New York." />
+                            <div class="card-body">
+                                <p>Women's Rights NHP celebrates the American Women's Rights Movement and its inception in Seneca Falls, New York.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F7B7D8EA-EC49-9EB9-B0AFF30F0E3F19FB.jpg" class="card-img-top" alt="Front of Women's Rights National Historical Park Visitor Center" title="Visitors can come to learn about the largest social movement in history, the women's rights movement." />
+                            <div class="card-body">
+                                <p>Visitors can come to learn about the largest social movement in history, the women's rights movement.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">First Wave Statue</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F79EA066-957C-F6F1-62943C2A05A10DAC.jpg" class="card-img-top" alt="A bronze statue group of people wearing 19th-century clothing." title="The First Wave Statue is one of the iconic sites of Women's Rights NHP." />
+                            <div class="card-body">
+                                <p>The First Wave Statue is one of the iconic sites of Women's Rights NHP.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Elizabeth Cady Stanton House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7C72AF-1DD8-B71B-0B8311EEBE9A89F9.jpg" class="card-img-top" alt="The Elizabeth Cady Stanton House with a tree and National Park Service sign in the front yard" title="Take a ranger led tour in the home where Elizabeth Cady Stanton led the women's rights movement and raised 7 children" />
+                            <div class="card-body">
+                                <p>Take a ranger led tour in the home where Elizabeth Cady Stanton led the women's rights movement and raised 7 children</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

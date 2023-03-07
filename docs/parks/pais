@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Padre Island National Seashore</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Padre Island National Seashore</h3>
+                <br/>
+                <p>Protecting sixty-six miles of wild coastline along the Gulf of Mexico, the narrow barrier island is home to one of the last intact coastal prairie habitats in the United States. Along the hypersaline Laguna Madre, unique tidal mud flats teem with life. Native Americans, Spanish explorers and cattle ranchers have walked along its shores. Padre Island National Seashore is waiting to be rediscovered.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The National Seashore is located on North Padre Island, southeast of the city of Corpus Christi, Texas. Visitors to the area should head east through Corpus Christi on Highway 358. After crossing the JFK Causeway onto Padre Island, Highway 358 changes to Park Road 22. Continue about 10 miles south on Park Road 22 to reach the park entrance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Saltwater Fishing</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Swimming</li>
+                                    
+                                    <li>Saltwater Swimming</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Fish</li>
+                                    
+                                    <li>Tortoises and Turtles</li>
+                                    
+                                    <li>Coasts, Islands and Atolls</li>
+                                    
+                                    <li>Dunes</li>
+                                    
+                                    <li>Geology</li>
+                                    
+                                    <li>Unique Species</li>
+                                    
+                                    <li>Endangered</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">A boy at play on scenic Padre Island</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C798FA7-1DD8-B71B-0B884F1081FE6647.jpg" class="card-img-top" alt="A small boy plays at the water's edge on Padre Island" title="Over 60 miles of beach offers beautiful scenery and fun for the whole family." />
+                            <div class="card-body">
+                                <p>Over 60 miles of beach offers beautiful scenery and fun for the whole family.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kemp's ridley sea turtle hatchlings</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7990F0-1DD8-B71B-0BEF4512A36CA204.jpg" class="card-img-top" alt="Tiny Kemp's ridley sea turtle hatchlings crawl on the beach of Padre Island." title="Thousands of visitors come to the park each summer to watch newborn Kemp's ridley sea turtle hatchlings get released into the Gulf of Mexico." />
+                            <div class="card-body">
+                                <p>Thousands of visitors come to the park each summer to watch newborn Kemp's ridley sea turtle hatchlings get released into the Gulf of Mexico.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Black Skimmer</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7994F2-1DD8-B71B-0BA6531D9DAE6734.jpg" class="card-img-top" alt="A black skimmer flies by, slicing the surf with its lower bill to catch food." title="Over 380 bird species have been found at the park, making it a top destination for birders from around the world." />
+                            <div class="card-body">
+                                <p>Over 380 bird species have been found at the park, making it a top destination for birders from around the world.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Camping on Padre Island</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C799642-1DD8-B71B-0BAC686EAAD4FBDD.jpg" class="card-img-top" alt="A tent is set up close to the beach on Padre Island." title="Camping in a tent or RV is one of the most popular activities on Padre Island." />
+                            <div class="card-body">
+                                <p>Camping in a tent or RV is one of the most popular activities on Padre Island.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunrise over the Gulf of Mexico on Padre Island</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7997BD-1DD8-B71B-0BFF8D4735D64F21.jpg" class="card-img-top" alt="A beautiful and colorful sunrise over the Gulf of Mexico on Padre Island." title="Breathtaking sunrises, remote beaches, and dark night skies make Padre Island a top vacation destination." />
+                            <div class="card-body">
+                                <p>Breathtaking sunrises, remote beaches, and dark night skies make Padre Island a top vacation destination.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bird Island Basin Boat Ramp</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7998F7-1DD8-B71B-0B754BED59901DCD.jpg" class="card-img-top" alt="A woman drives a boat up to the ramp at Bird Island Basin." title="Bird Island Basin offers access to the Laguna Madre for boating, fishing, windsurfing, kayaking, and camping." />
+                            <div class="card-body">
+                                <p>Bird Island Basin offers access to the Laguna Madre for boating, fishing, windsurfing, kayaking, and camping.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fishing at Mansfield Channel</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79A071-1DD8-B71B-0B01EE0146D89F17.jpg" class="card-img-top" alt="A man in waders fishes in the surf along the Mansfield Channel jetties." title="Surf fishing is a great way to enjoy the outdoors at Padre Island National Seashore." />
+                            <div class="card-body">
+                                <p>Surf fishing is a great way to enjoy the outdoors at Padre Island National Seashore.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Big Shell Beach at Padre Island National Seashore</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5D6AA839-1DD8-B71B-0BA00CF90AF52863.jpg" class="card-img-top" alt="Large seashells in front of the turquoise blue waters of the Gulf of mexico" title="Padre Island National Seashore has over 70 miles of undeveloped coastline with ample beachcombing opportunities." />
+                            <div class="card-body">
+                                <p>Padre Island National Seashore has over 70 miles of undeveloped coastline with ample beachcombing opportunities.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Bering Land Bridge National Preserve</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Bering Land Bridge National Preserve</h3>
+                <br/>
+                <p>Bering Land Bridge National Preserve lies at the continental crossroad that greatly influenced the distribution of life in the Western Hemisphere during the Pleistocene Epoch. It is a vital landscape for indigenous communities who depend on the land just as their ancestors did for many generations. It is a wild and ecologically healthy landscape unlike any other.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Bering Land Bridge Visitor Center is located in Nome, AK. Nome, AK is not on the road system and may be reached via a commercial flight. The Bering Land Bridge Visitor Center is located about a mile from Nome Airport. Bering Land Bridge National Preserve is located in the northern portion of the Seward Peninsula. There are no roads or trails into the parklands. Logistics on how to reach Bering Land Bridge is based on an individual’s resources and abilities.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Backcountry Camping</li>
+                                    
+                                    <li>Dog Sledding</li>
+                                    
+                                    <li>Flying</li>
+                                    
+                                    <li>Fixed Wing Flying</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Backcountry Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Gathering and Foraging</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Snowmobiling</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arctic</li>
+                                    
+                                    <li>Geothermal</li>
+                                    
+                                    <li>Hot Springs</li>
+                                    
+                                    <li>Volcanoes</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Wet Muskox</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A859F-1DD8-B71B-0B24F438FBCB2BE9.jpg" class="card-img-top" alt="Three wet muskox stand in a line." title="Three wet muskox." />
+                            <div class="card-body">
+                                <p>Three wet muskox.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fall Colors</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A8443-1DD8-B71B-0BDA7966D18282FC.jpg" class="card-img-top" alt="A hiker is seen in the distance as autumn colors dominate the tundra landscape." title="Autumn hike at Bering Land Bridge" />
+                            <div class="card-body">
+                                <p>Autumn hike at Bering Land Bridge</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Coastal Moon Rise</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A88A0-1DD8-B71B-0B4720E73A7F0534.jpg" class="card-img-top" alt="Rolling sand dunes with sparse vegetation with full moon rising above." title="Coastal moon rise" />
+                            <div class="card-body">
+                                <p>Coastal moon rise</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Aerial View of Serpentine Hot Springs in Summer</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/4E189372-A511-5F4D-17A56D6B9D2BD7E6.jpg" class="card-img-top" alt="A vast expanse of undulating hills with granite spire jutting from the top." title="A small aircraft descends on Serpentine Hot Springs." />
+                            <div class="card-body">
+                                <p>A small aircraft descends on Serpentine Hot Springs.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Flock of shore birds</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7A82A5-1DD8-B71B-0B79861422658B39.jpg" class="card-img-top" alt="Flock of shore birds taking flight" title="Flock of shore birds taking flight" />
+                            <div class="card-body">
+                                <p>Flock of shore birds taking flight</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

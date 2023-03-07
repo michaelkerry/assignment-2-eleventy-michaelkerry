@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>National Capital Parks-East</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">National Capital Parks-East</h3>
+                <br/>
+                <p>Welcome to National Capital Parks-East. We invite you to journey to the parks east of the Capitol of Washington, D.C. National Capital Parks-East consists of 14 park sites, parkways and statuary covering more than 8,000 acres of historic, cultural, and recreational parklands from Capitol Hill to the nearby Maryland suburbs.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">DC295 South to the Exit for I-694/I-395/Capitol Hill then a left Exit 4B to 11th St SE/MLK Jr Ave. Turn Left at light onto 11st/MLK JR. ** I-295 North to Exit 4B to 11th St SE/MLK Jr Ave. Turn Right at the light. ** From downtown DC: I-395 to I-695/SW Freeway, take Exit 1C 11th St SE. Turn Right onto 11th St ** ** At the light turn Right onto Good Hope Road. At the Stop Sign turn Left. Turn Left at the next road way.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Meadows</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                    <li>Water Trails</li>
+                                    
+                                    <li>Watersheds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Oxon Cove Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82B782-1DD8-B71B-0B692035768B7064.jpg" class="card-img-top" alt="The red barns and outbuildings at Oxon Hill Farm" title="The Barnyard at Oxon Hill Farm" />
+                            <div class="card-body">
+                                <p>The Barnyard at Oxon Hill Farm</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mary McLeod Bethune National Historic Site</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82B89F-1DD8-B71B-0B83D546B43BD349.jpg" class="card-img-top" alt="Photo of the outside of the Mary McLeod Bethune Council House" title="Mary McLeod Bethune Council House in Washington D.C." />
+                            <div class="card-body">
+                                <p>Mary McLeod Bethune Council House in Washington D.C.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Baltimore-Washington Parkway</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82BA2D-1DD8-B71B-0BD77C70BF37D1E9.jpg" class="card-img-top" alt="Cars driving on the Baltimore0Washington Parkway" title="Baltimore-Washington Parkway is managed by National Capital Park-East" />
+                            <div class="card-body">
+                                <p>Baltimore-Washington Parkway is managed by National Capital Park-East</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Kenilworth Aquatic Gardens</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82BB4D-1DD8-B71B-0B5854E45462FFF9.jpg" class="card-img-top" alt="Image of a three red and white water lilies." title="Water lilies that can be found at Kenilworth Aquatic Gardens" />
+                            <div class="card-body">
+                                <p>Water lilies that can be found at Kenilworth Aquatic Gardens</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Frederick Douglass National Historic Site</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82BC63-1DD8-B71B-0B2640B5624E7EBA.jpg" class="card-img-top" alt="Photo of Cedar Hill, home of Frederick Douglass" title="Cedar Hill, Frederick Douglass' Washington D.C. home." />
+                            <div class="card-body">
+                                <p>Cedar Hill, Frederick Douglass' Washington D.C. home.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Greenbelt Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82BD6B-1DD8-B71B-0B0E49552107D0B2.jpg" class="card-img-top" alt="Image of Still Creek running through the trees at Greenbelt Park." title="Still Creek at Greenbelt Park" />
+                            <div class="card-body">
+                                <p>Still Creek at Greenbelt Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Dupont</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82BF0F-1DD8-B71B-0BE15EDE790BE1D9.jpg" class="card-img-top" alt="Hundreds of audience member watching the Summer Theater program at Fort Dupont." title="Summer Theater is an annual event at Fort Dupont Park." />
+                            <div class="card-body">
+                                <p>Summer Theater is an annual event at Fort Dupont Park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Anacostia Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82C0C7-1DD8-B71B-0BAE1553BC5451CD.jpg" class="card-img-top" alt="A photo of the Urban Tree House.  The tree house is a wooden outline of the United States." title="The tree house is a wooden outline of the United States.  Used as an outdoor classroom." />
+                            <div class="card-body">
+                                <p>The tree house is a wooden outline of the United States.  Used as an outdoor classroom.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fort Washington Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82C1F2-1DD8-B71B-0BF244B97CE6E952.jpg" class="card-img-top" alt="Photo of the parade ground inside the historic fort." title="Fort Washington's parade ground facing the main entrance." />
+                            <div class="card-body">
+                                <p>Fort Washington's parade ground facing the main entrance.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Piscataway Park</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C82C316-1DD8-B71B-0BD2336D2323D7EC.jpg" class="card-img-top" alt="Photo of Accokeek Creek Site, as the fog rises in the early morning." title="Accokeek Creek Site is a part of Piscataway Park.  The boardwalk takes you over the wetlands." />
+                            <div class="card-body">
+                                <p>Accokeek Creek Site is a part of Piscataway Park.  The boardwalk takes you over the wetlands.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

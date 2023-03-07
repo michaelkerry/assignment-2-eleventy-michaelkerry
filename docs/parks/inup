@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Iñupiat Heritage Center</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Iñupiat Heritage Center</h3>
+                <br/>
+                <p>On the rooftop of the world, the Iñupiat Heritage Center in Barrow, Alaska, tells the story of the Iñupiat people. They have thrived for thousands of years in one of the harshest climates on Earth, hunting the bowhead, or "Agviq." In the 19th century, these lonely seas swarmed with commercial whalemen from New England, who also sought the bowhead for its valuable baleen and blubber.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Inupiat Heritage Center is located in Barrow, Alaska, the largest city in the North Slope Borough and the northernmost city in the United States. Barrow can be reached via commercial and charter flights from Anchorage and Fairbanks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Clothing of the Inupiaq</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8130DF-1DD8-B71B-0B99B1F06EB07E76.jpg" class="card-img-top" alt="Museum exhibit case with fur parkas and boots" title="Traditional clothing of the Inupiaq on exhibit at the Center" />
+                            <div class="card-body">
+                                <p>Traditional clothing of the Inupiaq on exhibit at the Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Waiting for whales</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8132AC-1DD8-B71B-0BCE4C14F56EBC8D.jpg" class="card-img-top" alt="Two people sit by a tent and a skin canoe in snow next to the ocean." title="A whaling crew (Hopson 1) waits patiently at the open lead for a bowhead whale, May 2002." />
+                            <div class="card-body">
+                                <p>A whaling crew (Hopson 1) waits patiently at the open lead for a bowhead whale, May 2002.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Inupiat Heritage Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C813407-1DD8-B71B-0B75242ED1BE1F58.jpg" class="card-img-top" alt="Large building with words "Inupiat Heritage Center" on the side" title="The Inupiat Heritage Center promotes Inupiaq culture, history and language through exhibits, classes, performances and activities." />
+                            <div class="card-body">
+                                <p>The Inupiat Heritage Center promotes Inupiaq culture, history and language through exhibits, classes, performances and activities.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Inupiaq whalers</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81354E-1DD8-B71B-0B7FB1EEFAA1F02E.jpg" class="card-img-top" alt="Five people in heavy clothing paddle a skin canoe in icy waters" title="" />
+                            <div class="card-body">
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Masks</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81370F-1DD8-B71B-0B306657BD7F72C5.jpg" class="card-img-top" alt="Five masks with fur trim in a display case." title="A collection of masks from the Inupiat Heritage Center" />
+                            <div class="card-body">
+                                <p>A collection of masks from the Inupiat Heritage Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

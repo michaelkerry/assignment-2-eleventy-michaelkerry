@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Trail Of Tears National Historic Trail</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Trail Of Tears National Historic Trail</h3>
+                <br/>
+                <p>Remember and commemorate the survival of the Cherokee people, forcefully removed from their homelands in Georgia, Alabama, and Tennessee to live in Indian Territory, now Oklahoma. They traveled by foot, horse, wagon, or steamboat in 1838-1839.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">You can visit many of the sites along the Trail of Tears National Historic Trail over the 2,200+ mile route that crosses 9 states.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Photography</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Plantations</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Trains and Railroads</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Forced Marches</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Tribal Conflicts</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Chieftain's Museum, Rome, Georgia</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E670B-1DD8-B71B-0B25C5CD76BF4A04.jpg" class="card-img-top" alt="large white house, green lawn, two trees in front" title="The museum tells the story of Major Ridge, the influential Ridge family including prominent son John Ridge, Cherokee history, and the Trail of Tears, as well as subsequent history of the home and region." />
+                            <div class="card-body">
+                                <p>The museum tells the story of Major Ridge, the influential Ridge family including prominent son John Ridge, Cherokee history, and the Trail of Tears, as well as subsequent history of the home and region.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Brown's Ferry Tavern, Chattanooga, Tennessee</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E6990-1DD8-B71B-0B75FFAF17A4B2A8.jpg" class="card-img-top" alt="structure in the background with large chimney on the end; signs saying Brown's Ferry Tavern" title="Cherokee leader John Brown, who owned 640 acres in this area, ordered the construction of Browns Ferry Tavern in 1803. In 1838, the road running past this structure was the route by which several Cherokee detachments were removed to present-day Oklahoma." />
+                            <div class="card-body">
+                                <p>Cherokee leader John Brown, who owned 640 acres in this area, ordered the construction of Browns Ferry Tavern in 1803. In 1838, the road running past this structure was the route by which several Cherokee detachments were removed to present-day Oklahoma.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mantle Rock Preserve, Joy, Kentucky</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E6AE0-1DD8-B71B-0BD3C7623B4A0272.jpg" class="card-img-top" alt="sunlight coming through trees with green leaves" title="Thousands of Cherokee camped for weeks along the main (northern) route, near Mantle Rock, during the winter of 1838-39 as they waited for ice conditions in the Ohio River to allow a safe crossing." />
+                            <div class="card-body">
+                                <p>Thousands of Cherokee camped for weeks along the main (northern) route, near Mantle Rock, during the winter of 1838-39 as they waited for ice conditions in the Ohio River to allow a safe crossing.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cherokee Retracement at Pea Ridge National Military Park, Garfield, Arkansas</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E6C3A-1DD8-B71B-0B1C7619213A627A.jpg" class="card-img-top" alt="dozens of people walk a section of the Trail of Tears, winter scene, trees with no leaves" title="The Pea Ridge National Military Park encompasses 4,300 acres and features a visitor center, museum, self-guided tours, reconstructed Elkhorn Tavern, and a retracement trail along a 2.5-mile original route segment of the Trail of Tears." />
+                            <div class="card-body">
+                                <p>The Pea Ridge National Military Park encompasses 4,300 acres and features a visitor center, museum, self-guided tours, reconstructed Elkhorn Tavern, and a retracement trail along a 2.5-mile original route segment of the Trail of Tears.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Grave Stone of William Adair, Stilwell, Oklahoma</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E6EDB-1DD8-B71B-0BE8B4E27DEA21BB.jpg" class="card-img-top" alt="gravestone with words etched, green grass" title="When the Cherokee arrived at their prescribed disbandment depot in Oklahoma, settlements sprang up nearby. There was a depot at the Adair's farm near present-day Stilwell, Oklahoma." />
+                            <div class="card-body">
+                                <p>When the Cherokee arrived at their prescribed disbandment depot in Oklahoma, settlements sprang up nearby. There was a depot at the Adair's farm near present-day Stilwell, Oklahoma.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Crabb Abbott Farm, Grantsburg, Illinois</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E6D6E-1DD8-B71B-0BF2FB679C481F1A.jpg" class="card-img-top" alt="Two people walk a remnant of the Trail of Tears. Spring setting with green leafed trees." title="Crabb Abbott Farm has segments of the Northern Route, including the rock crossing and ford of Sugar Creek. These segments are contiguous with trail segments on the adjacent Shawnee National Forest." />
+                            <div class="card-body">
+                                <p>Crabb Abbott Farm has segments of the Northern Route, including the rock crossing and ford of Sugar Creek. These segments are contiguous with trail segments on the adjacent Shawnee National Forest.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

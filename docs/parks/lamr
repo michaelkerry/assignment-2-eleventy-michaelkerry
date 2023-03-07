@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Lake Meredith National Recreation Area</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Lake Meredith National Recreation Area</h3>
+                <br/>
+                <p>Within the dry plains of the Texas Panhandle lies a hidden oasis, a haven where wildlife and people find relief from the dry grasslands above. Through this plain, the Canadian River has cut dramatic 200-foot canyons, or breaks, where humans lived many years ago. Lake Meredith occupies these hidden coves and is a haven for migratory birds and other wildlife.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">There are several ways to arrive at Lake Meredith. If you are coming from Amarillo, exit Loop 335 North, then exit Hwy 136 North to Fritch, Texas. Headquarters is located at 419 E. Broadway in Fritch. If coming from the North, take FM 1913 from the Dumas Highway or FM 1913 from US 287. The Amarillo Airport is approximately 35 miles south of Lake Meredith, if traveling by air. Rental cars are available in Amarillo.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>ATV Off-Roading</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Mountain Biking</li>
+                                    
+                                    <li>Boating</li>
+                                    
+                                    <li>Camping</li>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Hunting</li>
+                                    
+                                    <li>Paddling</li>
+                                    
+                                    <li>Canoeing</li>
+                                    
+                                    <li>Kayaking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lake Meredith</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7EF8FA-1DD8-B71B-0B0A1337DFDA3A87.jpg" class="card-img-top" alt="A boat travles across Lake Meredith on a sunny day.  The lake is light blue." title="Boating at Lake Meredith" />
+                            <div class="card-body">
+                                <p>Boating at Lake Meredith</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Lake Meredith Storm</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/9596B148-E2F9-AA91-0080206745F55D87.jpg" class="card-img-top" alt="A storm coming in at Lover's Canyon.  The sky is dark blue with dark clouds.  The lake is greenish." title="Weather in the Texas Panhandle" />
+                            <div class="card-body">
+                                <p>Weather in the Texas Panhandle</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Harbor Bay Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C845316-1DD8-B71B-0B60E7BFC9FC5B97.jpg" class="card-img-top" alt="A bench on the Harbor Bay Trail, overlooking Lake Meredith. The sky is blue with white clouds." title="View of the lake from Harbor Bay Trail" />
+                            <div class="card-body">
+                                <p>View of the lake from Harbor Bay Trail</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Camp with a View</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/8AA9351B-0C29-901B-A69F072A736C0600.jpg" class="card-img-top" alt="Picnic shelter at a campsite overlooking Lake Meredith.  The sky is blue with no clouds." title="View from the Rim" />
+                            <div class="card-body">
+                                <p>View from the Rim</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sanford Dam at Lake Meredith</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C8455CE-1DD8-B71B-0B71C87BCBE4C909.jpg" class="card-img-top" alt="Sanford Dam and Lake Meredith.  The lake is deep blue with white clouds above in the sky." title="A view of Sanford Dam and Lake Meredith" />
+                            <div class="card-body">
+                                <p>A view of Sanford Dam and Lake Meredith</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mullinaw Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/95151A04-97AE-EA36-D9544BA29592A7B2.jpg" class="card-img-top" alt="Mullinaw trailhead with green cottonwoods and blue skies in the summer." title="Mullinaw Trail" />
+                            <div class="card-body">
+                                <p>Mullinaw Trail</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Birding at Lake Meredith</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/952DB6DC-D1AD-7E16-82D5B98D2D941DA1.jpg" class="card-img-top" alt="A Red-winged Blackbird sitting on greyish-brown stump" title="Birding at Lake Meredith" />
+                            <div class="card-body">
+                                <p>Birding at Lake Meredith</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Harbor Bay Trail</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/954E4288-D8D5-6139-A78B24A580A10E83.jpg" class="card-img-top" alt="Harbor Bay Trail with green mesas, blue sky, and white clouds." title="Harbor Bay Trail" />
+                            <div class="card-body">
+                                <p>Harbor Bay Trail</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Fishing at Lake Meredith</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/955B2F26-0895-2FF3-A2E64E4B805F6069.jpg" class="card-img-top" alt="Sanford Yake boat docks.  The water is blue and calm.  There are a few fisherman fishing." title="Sanford Yake" />
+                            <div class="card-body">
+                                <p>Sanford Yake</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">View from the Rim</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/95687288-C945-4F50-1DC63A42B5A85BB8.jpg" class="card-img-top" alt="View from a mesa of Lake Meredith.  The sky is blue with a few white clouds." title="View from a Mesa" />
+                            <div class="card-body">
+                                <p>View from a Mesa</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">View from the Rim</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/95687288-C945-4F50-1DC63A42B5A85BB8.jpg" class="card-img-top" alt="View from a mesa of Lake Meredith.  The sky is blue with a few white clouds." title="View from a Mesa" />
+                            <div class="card-body">
+                                <p>View from a Mesa</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Save the Monarchs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/95C3C34F-F340-B6A7-4E7EBED86146470F.jpg" class="card-img-top" alt="A monarch landing on a yellow sunflower.  The monarch is orange and black." title="Save the Monarchs" />
+                            <div class="card-body">
+                                <p>Save the Monarchs</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Spring Canyon Canal</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/95D1DB14-C51E-3341-1333B95615706B78.jpg" class="card-img-top" alt="The Spring Canyon Canal with cattails on the shoreline.  The water is a deep turquiose." title="Spring Canyon Canal" />
+                            <div class="card-body">
+                                <p>Spring Canyon Canal</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

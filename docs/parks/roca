@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Roosevelt Campobello International Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Roosevelt Campobello International Park</h3>
+                <br/>
+                <p>For many years, Franklin D. Roosevelt summered on Campobello Island. As an adult, he shared with his family the same active pursuits he enjoyed on the island as child. Although he visited less frequently after contracting polio, Campobello remained important to FDR. Today Roosevelt Campobello International Park serves as a memorial to FDR and a symbol of cooperation between the U.S. and Canada.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park is located on Campobello Island in New Brunswick, Canada. The customs station is located at the southern end of the island. Car is the best way to travel to the park; there is no public transportation available. From Boston take I-95 north to Bangor, Maine. Take Route 1A east to Ellsworth, then follow Route 1 east to Whiting Village. Take Route 189 to Lubec and cross the FDR Memorial Bridge to Campobello Island. The visitor center is located approximately two miles from the bridge.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hubbard Cottage</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87DAB6-1DD8-B71B-0BEB25E5636E1E5F.jpg" class="card-img-top" alt="Hubbard Cottage" title="Hubbard Cottage" />
+                            <div class="card-body">
+                                <p>Hubbard Cottage</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Liberty Point</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87DC2A-1DD8-B71B-0BEA4151484E01D8.jpg" class="card-img-top" alt="Liberty Point" title="Liberty Point" />
+                            <div class="card-body">
+                                <p>Liberty Point</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mulholland Point</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87DD50-1DD8-B71B-0BFC03393595C8A8.jpg" class="card-img-top" alt="Mulholland Point" title="Mulholland Point" />
+                            <div class="card-body">
+                                <p>Mulholland Point</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Raccoon Beach</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87DEA2-1DD8-B71B-0B8CB7F46CC9FAD5.jpg" class="card-img-top" alt="Raccoon Beach" title="Raccoon Beach" />
+                            <div class="card-body">
+                                <p>Raccoon Beach</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Roosevelt Cottage</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87DFE5-1DD8-B71B-0B71E18E3A84227F.jpg" class="card-img-top" alt="Roosevelt Cottage" title="Roosevelt Cottage" />
+                            <div class="card-body">
+                                <p>Roosevelt Cottage</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Shore</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87E0F2-1DD8-B71B-0BAA24217CB475A8.jpg" class="card-img-top" alt="Great blue heron on the shore." title="Great blue heron on the shore." />
+                            <div class="card-body">
+                                <p>Great blue heron on the shore.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Friar</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87E204-1DD8-B71B-0B8DAB7F6910CFBE.jpg" class="card-img-top" alt="The Friar" title="The Friar" />
+                            <div class="card-body">
+                                <p>The Friar</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">View from Eagle Hill</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C87E32A-1DD8-B71B-0B64047503A1341E.jpg" class="card-img-top" alt="View from Eagle Hill" title="View from Eagle Hill" />
+                            <div class="card-body">
+                                <p>View from Eagle Hill</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

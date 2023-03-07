@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Shiloh National Military Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Shiloh National Military Park</h3>
+                <br/>
+                <p>Visit the sites of the most epic struggle in the Western Theater of the Civil War. Nearly 110,000 American troops clashed in a bloody contest that resulted in 23,746 casualties; more casualties than in all of America's previous wars combined. Explore both the Shiloh and Corinth battlefields to discover the impact of this struggle on the soldiers and on the nation.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park is 110 miles from the Memphis airport and 150 miles from the Nashville airport. From the west (Memphis, Tennessee, area): Take Highway 72 East to Corinth, Mississippi. From the Corinth Civil War Interpretive Center, take Highway 22 North to the Shiloh Battlefield. From the northeast (Nashville, Tennessee, area): Take Interstate 40 West to the Parker's Crossroads Exit. Then take Highway 22 South to Shiloh Battlefield. Continue on Highway 22 South to the Corinth Civil War Interpretive Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Cultural Demonstrations</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Archeology</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>National Cemetery</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Medicine</li>
+                                    
+                                    <li>Hospital</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>US Army</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Music</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Churches</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ruggles Battery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C17670A9-D87F-BF06-7D5D3B3C515AAFDF.jpg" class="card-img-top" alt="Ruggles Battery at Shiloh" title="Ruggles' Battery" />
+                            <div class="card-body">
+                                <p>Ruggles' Battery</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Shiloh National Cemetery</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/1533030B-1DD8-B71B-0B0489384B4168D9.jpg" class="card-img-top" alt="Sunrise in the Shiloh National Cemetery" title="Sunrise in the Shiloh National Cemetery" />
+                            <div class="card-body">
+                                <p>Sunrise in the Shiloh National Cemetery</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Park Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3E8BC55E-1DD8-B71B-0B440A8B87772492.jpg" class="card-img-top" alt="Photo of the front of the visitor center" title="Visitor Center at Shiloh National Military Park" />
+                            <div class="card-body">
+                                <p>Visitor Center at Shiloh National Military Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Mississippi Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C13B2265-0B20-94C2-DE3139BFD359EFA0.jpg" class="card-img-top" alt="The Mississippi Monument at Shiloh" title="The Mississippi Monument" />
+                            <div class="card-body">
+                                <p>The Mississippi Monument</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Bloody Pond</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C147943B-C7AC-2B13-E74CED9C388599FE.jpg" class="card-img-top" alt="Cannon overlooking the Bloody Pond" title="Cannon Overlooking the Bloody Pond" />
+                            <div class="card-body">
+                                <p>Cannon Overlooking the Bloody Pond</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Shiloh Bookstore</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C1511463-DF33-023F-22DBF834A9391117.jpg" class="card-img-top" alt="The bookstore at Shiloh" title="Bookstore at Shiloh" />
+                            <div class="card-body">
+                                <p>Bookstore at Shiloh</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Illinois Cavalry Monument at Shiloh</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C18A4CA4-CEB1-09B9-18B08AE603B41AE5.jpg" class="card-img-top" alt="The monument commemorating Illinois cavalry units at Shiloh" title="Illinois Cavalry Monument" />
+                            <div class="card-body">
+                                <p>Illinois Cavalry Monument</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Two Gun Battery at Corinth</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B713F48B-BA85-098E-F1396DF3C1279134.jpg" class="card-img-top" alt="Two cannon is a reconstructed earthwork" title="Two Gun Battery" />
+                            <div class="card-body">
+                                <p>Two Gun Battery</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Display in the Corinth Civil War Interpretive Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B72F8F9F-E5C3-4B42-3C072300BFF6BEEF.jpg" class="card-img-top" alt="Boxes of muskets as part of a museum display" title="Display Depicting what Railroads were Transporting" />
+                            <div class="card-body">
+                                <p>Display Depicting what Railroads were Transporting</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Stream of American History at Corinth</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/B78446C4-A94E-CBB9-8F7E5844800371B4.jpg" class="card-img-top" alt="A water feature at Corinth" title="Stream of American History" />
+                            <div class="card-body">
+                                <p>Stream of American History</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

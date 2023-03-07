@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pea Ridge National Military Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Pea Ridge National Military Park</h3>
+                <br/>
+                <p>On March 7-8, 1862, over 23,000 soldiers fought here to decide the fate of Missouri which was a turning point of the war in the Trans-Mississippi. This 4,300-acre battlefield honors those who fought and died on these hallowed grounds. Pea Ridge was the most pivotal Civil War battle west of the Mississippi River.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The entrance road is located on Highway 62, 1.3 miles east of the intersection of Highways 62 and 72. As one is driving along highway 62, watch for the brown road signs directing one to the entrance road to the park's visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Historic Weapons Demonstration</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                    <li>Gift Shop and Souvenirs</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Artillery</li>
+                                    
+                                    <li>Cavalry</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Elkhorn Tavern</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7E6346-1DD8-B71B-0B7F2E71DEF77DE8.jpg" class="card-img-top" alt="A reconstructed Elkhorn Tavern." title="Used as a field hospital during the Battle of Pea Ridge, the Elkhorn Tavern is a focal point at Pea Ridge National Military Park." />
+                            <div class="card-body">
+                                <p>Used as a field hospital during the Battle of Pea Ridge, the Elkhorn Tavern is a focal point at Pea Ridge National Military Park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Park Tour Road in Fall</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C381C070-94AF-1317-5B0E349516676336.jpg" class="card-img-top" alt="Photo of road with trees on both sides of road. Trees have Fall Foliage" title="Park tour road in the fall." />
+                            <div class="card-body">
+                                <p>Park tour road in the fall.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sunset and Green Tree's</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C3B025EF-C781-C9CA-8377C4E33745DA21.jpg" class="card-img-top" alt="Photo of the rays of sunshine, shining though dark green trees, with long shadows falling on grass" title="Photo taken at sunset showing the deep green trees." />
+                            <div class="card-body">
+                                <p>Photo taken at sunset showing the deep green trees.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Silent Field</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C435DD0E-E4BD-FB80-68CF7B1B64516E9D.jpg" class="card-img-top" alt="Photo of sun setting over the golden grass the battlefield." title="Silent Field is a photo that shows the sun setting over the golden grass of the battlefield. Men fought and died in this field, on a cold day in March of 1862." />
+                            <div class="card-body">
+                                <p>Silent Field is a photo that shows the sun setting over the golden grass of the battlefield. Men fought and died in this field, on a cold day in March of 1862.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Rededication to the Elkhorn Tavern</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/88799988-0E5D-C2EE-FCB25A06A785FAD1.jpg" class="card-img-top" alt="Photo of Union Union artilleryman reenactors standing in front of building." title="Photo of Union Union artilleryman reenactors standing in front of the Elkhorn Tavern for the rededication of the building." />
+                            <div class="card-body">
+                                <p>Photo of Union Union artilleryman reenactors standing in front of the Elkhorn Tavern for the rededication of the building.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Park Ranger and Cannon Crew</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/88AD40F1-99B0-9C28-4A4334568349585D.jpg" class="card-img-top" alt="Photo of Park Ranger talking about cannon and Cannon Crew." title="Ranger Troy Banzhaf giving information about 6 lb. cannon and cannon crew." />
+                            <div class="card-body">
+                                <p>Ranger Troy Banzhaf giving information about 6 lb. cannon and cannon crew.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Union Cannons</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/89485CC5-E192-72D3-DF43D6C02805D59D.jpg" class="card-img-top" alt="Photo of Union cannons and crew firing cannons in a field." title="Photo of Union artilleryman reenactors standing in Cox's field firing cannon's on the 150th Anniversary of the Battle of Pea Ridge." />
+                            <div class="card-body">
+                                <p>Photo of Union artilleryman reenactors standing in Cox's field firing cannon's on the 150th Anniversary of the Battle of Pea Ridge.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Union Infantry 150th</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/898DCF8C-9A71-4D6A-9F7738D098FF450A.jpg" class="card-img-top" alt="Photo of Union Infantrymen reenactors standing in front of building with large crowd." title="Photo of Union Infantrymen reenactors standing in front of the Elkhorn Tavern, with large crowd during demonstration on the 150th anniversary of the Battle of Pea Ridge. ." />
+                            <div class="card-body">
+                                <p>Photo of Union Infantrymen reenactors standing in front of the Elkhorn Tavern, with large crowd during demonstration on the 150th anniversary of the Battle of Pea Ridge. .</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

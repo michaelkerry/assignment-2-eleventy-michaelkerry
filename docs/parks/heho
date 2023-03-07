@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Herbert Hoover National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Herbert Hoover National Historic Site</h3>
+                <br/>
+                <p>Orphaned at age nine, Herbert Hoover left West Branch never to live here again. In later years, he returned to his humble birthplace to celebrate his long career of public service. A memorial landscape remains to tell his story: how community, hard work, honesty, and usefulness to others opened a world of opportunity— and the presidency of the United States— to a child of simple beginnings.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Take exit 254 off Interstate 80 to West Branch, Iowa. The Visitor Center is 0.3 mile north of Interstate 80.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Craft Demonstrations</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Front-Country Hiking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Sculpture</li>
+                                    
+                                    <li>Birthplace</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Landscape Design</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Churches</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>River and Riparian</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Herbert Hoover Birthplace Cottage</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7924AC-1DD8-B71B-0BEDCDE2B64225D5.jpg" class="card-img-top" alt="A one story wood frame house has board-and-batten exterior siding and a picket fence painted white." title="Herbert Hoover called his humble birthplace "physical proof of the unbounded opportunity of American life."" />
+                            <div class="card-body">
+                                <p>Herbert Hoover called his humble birthplace "physical proof of the unbounded opportunity of American life."</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Gravesite of President & Mrs. Hoover</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C792782-1DD8-B71B-0BCA6D30498E1D77.jpg" class="card-img-top" alt="Two marble ledger stones each mark a grave in a semicircular landscaped plot with a flagpole." title="Two simple marble slabs mark the graves of Herbert and Lou Henry Hoover." />
+                            <div class="card-body">
+                                <p>Two simple marble slabs mark the graves of Herbert and Lou Henry Hoover.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Herbert Hoover Presidential Library & Museum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C792A71-1DD8-B71B-0B5102E66A2B6ED1.jpg" class="card-img-top" alt="A sprawling one story public building of rough-faced yellowish stone has a white portico entrance." title="Exhibit galleries and archival collections tell of the triumphs and tragedies of Hoover’s long career in public service." />
+                            <div class="card-body">
+                                <p>Exhibit galleries and archival collections tell of the triumphs and tragedies of Hoover’s long career in public service.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Blacksmith Shop</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C792600-1DD8-B71B-0B560B18E7EC1A12.jpg" class="card-img-top" alt="A low brown barn-like building with three large doorways has a large horseshoe on its facade." title="Herbert Hoover's father Jesse owned a blacksmith shop similar to the one at Herbert Hoover NHS." />
+                            <div class="card-body">
+                                <p>Herbert Hoover's father Jesse owned a blacksmith shop similar to the one at Herbert Hoover NHS.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Schoolhouse</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79287E-1DD8-B71B-0B153C0073FE5D2F.jpg" class="card-img-top" alt="A one-story wooden building painted off-white has two windows and a central doorway." title="Many rural Midwestern towns like West Branch placed a high value on education." />
+                            <div class="card-body">
+                                <p>Many rural Midwestern towns like West Branch placed a high value on education.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Friends Meetinghouse</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C792B5A-1DD8-B71B-0B17ACFC572CAF4C.jpg" class="card-img-top" alt="Two doorways, one on either side, of a broad white wood frame building divides the sexes." title="The plainly appointed Friends Meetinghouse and the practices within express Quaker values of peace, simplicity, integrity, and service to others." />
+                            <div class="card-body">
+                                <p>The plainly appointed Friends Meetinghouse and the practices within express Quaker values of peace, simplicity, integrity, and service to others.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Statue of Isis</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79297D-1DD8-B71B-0B816D9E82328999.jpg" class="card-img-top" alt="A cast bronze figure of a veiled goddess sits on a throne mounted on a concrete pedestal." title="The people of Belgium gave Herbert Hoover the statue "Isis, Goddess of Life" in gratitude for his famine relief efforts on their behalf during the First World War." />
+                            <div class="card-body">
+                                <p>The people of Belgium gave Herbert Hoover the statue "Isis, Goddess of Life" in gratitude for his famine relief efforts on their behalf during the First World War.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

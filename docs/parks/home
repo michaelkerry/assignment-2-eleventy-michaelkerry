@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Homestead National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Homestead National Historical Park</h3>
+                <br/>
+                <p>The Homestead Act of 1862 transformed the world. Millions were invited to file claims including, families, immigrants, single women, and freed slaves. Over 10 percent of the United States was homesteaded! The land, long inhabited by American Indian cultures, changed forever. Homesteaders created settlements and farms, drove industrial advancement, and built our nation chasing the American Dream.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The park is 4 miles west of Beatrice on State Highway 4. From the U.S. 77 and U.S. 136 intersection in downtown Beatrice take U.S. 136 approximately 1.2 miles west. Turn right onto Nebraska Highway 4 and follow the signs. After the road has curved west and you have traveled 4 miles, you will enter Homestead National Historical Park and see signs for the different buildings at the park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Compass and GPS</li>
+                                    
+                                    <li>Geocaching</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Hiking</li>
+                                    
+                                    <li>Hunting and Gathering</li>
+                                    
+                                    <li>Gathering and Foraging</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Industry</li>
+                                    
+                                    <li>Immigration</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Schools and Education</li>
+                                    
+                                    <li>Science, Technology and Innovation</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Westward Expansion</li>
+                                    
+                                    <li>Homesteading</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                    <li>Foothills, Plains and Valleys</li>
+                                    
+                                    <li>Forests and Woodlands</li>
+                                    
+                                    <li>Grasslands</li>
+                                    
+                                    <li>Prairies</li>
+                                    
+                                    <li>Natural Sounds</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Palmer Epard Cabin and the Heritage Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E9AA6622-E74B-C7C1-97C6C3C3676F7519.jpg" class="card-img-top" alt="A historic cabin stands next to a concrete path that leads to a plow shaped visitor center" title="The Palmer Epard Cabin and Heritage Center at Sunset" />
+                            <div class="card-body">
+                                <p>The Palmer Epard Cabin and Heritage Center at Sunset</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Freeman One-Room Schoolhouse</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C13D0BC9-FBA8-3B59-8789B20F08B3AE68.jpg" class="card-img-top" alt="A historic one room schoolhouse" title="An original one-room schoolhouse, the Freeman School preserves educational history and allows for visitors of all ages to walk into history." />
+                            <div class="card-body">
+                                <p>An original one-room schoolhouse, the Freeman School preserves educational history and allows for visitors of all ages to walk into history.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Grounds</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F0BD1E3B-9EFE-D2CC-EF3F29C143C3FF05.jpg" class="card-img-top" alt="The tallgrass prairie is yellow with goldenrod in full bloom." title="The overlook from the picnic area at the Heritage Center showcases the beauty of the tallgrass prairie in late summer." />
+                            <div class="card-body">
+                                <p>The overlook from the picnic area at the Heritage Center showcases the beauty of the tallgrass prairie in late summer.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Homestead Heritage Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C0D3AC00-A54C-39CD-F1CABF753C16EF20.jpg" class="card-img-top" alt="The Homestead Heritage Center on the tallgrass prairie" title="Thousands of visitors stop to view the oldest restored tallgrass prairie in the National Park Service from the Heritage Center back patio." />
+                            <div class="card-body">
+                                <p>Thousands of visitors stop to view the oldest restored tallgrass prairie in the National Park Service from the Heritage Center back patio.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Grounds</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F7159455-9A2A-BD6A-086625E55286414D.jpg" class="card-img-top" alt="The tallgrass prairie spans to the Heritage Center on the horizon." title="The oldest restored tallgrass prairie in the NPS spans to the Heritage Center." />
+                            <div class="card-body">
+                                <p>The oldest restored tallgrass prairie in the NPS spans to the Heritage Center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Homestead Education Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C10E46C9-A9C2-8C16-E59DDFEDA271D10A.jpg" class="card-img-top" alt="The Homestead Education Center" title="The Homestead Education Center holds historic farm implements from the vast archives and collections of the Monument." />
+                            <div class="card-body">
+                                <p>The Homestead Education Center holds historic farm implements from the vast archives and collections of the Monument.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Palmer-Epard Homestead Cabin</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/C15C3626-9E01-C489-A80BC7F9FB21F3DE.jpg" class="card-img-top" alt="A homestead cabin at sunset" title="The historic homestead cabin that can be found on the America the Beautiful Homestead Quarter, this cabin has been preserved in it's original condition for visitors to enter and see the inside of a historic structure." />
+                            <div class="card-body">
+                                <p>The historic homestead cabin that can be found on the America the Beautiful Homestead Quarter, this cabin has been preserved in it's original condition for visitors to enter and see the inside of a historic structure.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

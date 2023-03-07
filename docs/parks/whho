@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>President's Park (White House)</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">President's Park (White House)</h3>
+                <br/>
+                <p>Every president except George Washington has called the White House home and has run the executive branch of the United States government from within its walls. Recognizable around the world, the White House stands as a symbol of democracy. The White House and its park grounds also serve as an iconic place for civil discourse.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The White House is located in downtown Washington, DC, directly north of the Washington Monument. The park boundaries are between 17th and 15th Streets NW on the east and west and between Constitution Ave NW and H St NW on the north and south. The nearest Metro stations are Farragut North/South, McPherson Square, and Federal Triangle. The park visitor center is located at 15th St. & Pennsylvania Ave.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Live Music</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Painting</li>
+                                    
+                                    <li>Sculpture</li>
+                                    
+                                    <li>Engineering</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Presidents</li>
+                                    
+                                    <li>Social Movements</li>
+                                    
+                                    <li>Civil Rights</li>
+                                    
+                                    <li>Voting Rights and Suffrage</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                    <li>Canals</li>
+                                    
+                                    <li>Roads, Routes and Highways</li>
+                                    
+                                    <li>Tragic Events</li>
+                                    
+                                    <li>Assassinations</li>
+                                    
+                                    <li>Urban America</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>War of 1812</li>
+                                    
+                                    <li>Mexican War</li>
+                                    
+                                    <li>Civil War</li>
+                                    
+                                    <li>Spanish-American War</li>
+                                    
+                                    <li>World War I</li>
+                                    
+                                    <li>World War II</li>
+                                    
+                                    <li>Korean War</li>
+                                    
+                                    <li>Vietnam War</li>
+                                    
+                                    <li>Cold War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">White House - Truman Balcony</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85DF8B-1DD8-B71B-0B3BCAF449D7D845.jpg" class="card-img-top" alt="The White House and South Lawn." title="The White House and South Lawn" />
+                            <div class="card-body">
+                                <p>The White House and South Lawn</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Andrew Jackson Statue and North Side of the White House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85F069-1DD8-B71B-0B74C0AB6CE281CD.jpg" class="card-img-top" alt="Andrew Jackson Statue and view of North Side of the White House" title="" />
+                            <div class="card-body">
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">National Christmas Tree Lighting Ceremony 2015</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85F1CC-1DD8-B71B-0BDB78EED45184DC.jpg" class="card-img-top" alt="National Christmas Christmas Tree with the view of the south side of the White House." title="Trombone Shorty performs at the National Christmas Tree Ceremony in 2015." />
+                            <div class="card-body">
+                                <p>Trombone Shorty performs at the National Christmas Tree Ceremony in 2015.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">White House Visitor Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C85F2C7-1DD8-B71B-0BFC4ECD2792A376.jpg" class="card-img-top" alt="White House model and exhibit cases inside the visitor center" title="You can take a virtual tour inside the White House as well as view items on display from the White House collection in the visitor center." />
+                            <div class="card-body">
+                                <p>You can take a virtual tour inside the White House as well as view items on display from the White House collection in the visitor center.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">First Division Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/25B706FC-9EDB-38F5-42E8C03CEBD4D680.jpg" class="card-img-top" alt="A tall stone column with a golden, winged figure on top." title="The First Division Monument is one of several military and other monuments in President's Park." />
+                            <div class="card-body">
+                                <p>The First Division Monument is one of several military and other monuments in President's Park.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

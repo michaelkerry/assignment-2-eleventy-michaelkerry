@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Ste. Geneviève National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Ste. Geneviève National Historical Park</h3>
+                <br/>
+                <p>Established by 1750, Ste. Geneviève was the first permanent European settlement in Missouri. Early French Canadian settlers were drawn here by the rich agricultural land known as Le Grand Champ (the Big Field). After the flood of 1785, the town relocated to its present location on higher ground approximately three miles to the northwest of its original site.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">From north of Ste. Genevieve (e.g. St. Louis), take I-55 South to exit 150. Follow MO-32 East for about 4 miles. Turn right on Market Street. From south of Ste. Genevieve (e.g. Cape Girardeau), take I-55 North to exit 150. Follow MO-32 East for about 4 miles. Turn right on Market Street. From southern Illinois, you can also take the Ste. Genevieve - Modoc Ferry across the Mississippi. Please visit http://stegenmodocferry.com/ for hours and rates.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Beauvais-Amoureux House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/6FED42BD-930F-B92A-9CC652F2D045D60D.jpg" class="card-img-top" alt="Frame house made of wood with U.S. and French flags flying on front porch." title="Bauvais-Amoureux House" />
+                            <div class="card-body">
+                                <p>Bauvais-Amoureux House</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jean Baptiste Valle House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5AF37243-D3D6-DC0B-C1586A7BF51A54AD.jpg" class="card-img-top" alt="Cream colored house with a covered porch on a street corner." title="Tours are usually offered daily of the Jean Baptiste Valle House." />
+                            <div class="card-body">
+                                <p>Tours are usually offered daily of the Jean Baptiste Valle House.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Green Tree Tavern</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/5B50A846-B89F-D5E0-723B97A886B7A67C.jpg" class="card-img-top" alt="A large raised building with a covered porch and vertical log construction visible." title="Green Tree Tavern" />
+                            <div class="card-body">
+                                <p>Green Tree Tavern</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Jean Baptiste Valle Rose Garden</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E893057C-C11F-AB44-3A6937711DBF0DAB.jpg" class="card-img-top" alt="Flower beds with blooming flowers and a fountain, with a cream-colored house behind." title="Take a break in the Jean Baptiste Valle Rose Garden." />
+                            <div class="card-body">
+                                <p>Take a break in the Jean Baptiste Valle Rose Garden.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Ste. Genevieve Welcome Center</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/E8A55D43-B7CB-6971-0A0CB44A2B805668.jpg" class="card-img-top" alt="Blue building with a high pitched roof. A sign in front says, "Ste. Genevieve Welcome Center."" title="Get park and city information at the Ste. Genevieve Welcome Center" />
+                            <div class="card-body">
+                                <p>Get park and city information at the Ste. Genevieve Welcome Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Ninety Six National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Ninety Six National Historic Site</h3>
+                <br/>
+                <p>Settlers struggled against the harsh backcountry to survive. Cherokee Indians hunted and fought to keep their land. Two towns and a trading post were formed then abandoned to the elements. And two Revolutionary War battles claimed over 100 lives. Come discover the 18th century history of South Carolina.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">2 miles south of Ninety Six, SC on Hwy 248. For more detailed information, click on "Directions Details" below.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Fishing</li>
+                                    
+                                    <li>Freshwater Fishing</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Horse Trekking</li>
+                                    
+                                    <li>Horseback Riding</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Wildlife Watching</li>
+                                    
+                                    <li>Birdwatching</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                    <li>Shopping</li>
+                                    
+                                    <li>Bookstore and Park Store</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Colonization and Settlement</li>
+                                    
+                                    <li>Commerce</li>
+                                    
+                                    <li>Trade</li>
+                                    
+                                    <li>Forts</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Battlefields</li>
+                                    
+                                    <li>Native American Heritage</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cannon and Maham Tower</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79EFE2-1DD8-B71B-0BE1C97AF62D94F2.jpg" class="card-img-top" alt="A cannon is in the left foreground with the Maham rifle tower in the distance." title="Cannon and Maham Tower" />
+                            <div class="card-body">
+                                <p>Cannon and Maham Tower</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Exhibit in the Fog</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79F0FF-1DD8-B71B-0B476CEEDAF28DEA.jpg" class="card-img-top" alt="A corten steel figure of a Native American stands sentinel in the fog." title="A corten steel figure of a Native American stands sentinel in the fog." />
+                            <div class="card-body">
+                                <p>A corten steel figure of a Native American stands sentinel in the fog.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">1781 Battlefield View</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79F20F-1DD8-B71B-0BA401E232EAEA6D.jpg" class="card-img-top" alt="The walking trail winds past a cannon and a rifle tower." title="The walking trail winds past a cannon and a rifle tower." />
+                            <div class="card-body">
+                                <p>The walking trail winds past a cannon and a rifle tower.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Road Signs</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79F31D-1DD8-B71B-0BDFD3FA08B9A0EA.jpg" class="card-img-top" alt="A wooden sign shows the direction of important places in 1781." title="A wooden sign shows the direction of important places in 1781." />
+                            <div class="card-body">
+                                <p>A wooden sign shows the direction of important places in 1781.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Birmingham Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79F40A-1DD8-B71B-0B03601EB18A76CB.jpg" class="card-img-top" alt="A monument to James Birmingham, the first South Carolinian to die in the American Revolution" title="A monument to patriot James Birmingham, the first South Carolinian to die in the American Revolution" />
+                            <div class="card-body">
+                                <p>A monument to patriot James Birmingham, the first South Carolinian to die in the American Revolution</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tent Row</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79F515-1DD8-B71B-0BEFDF920A9D5DAA.jpg" class="card-img-top" alt="A British regimental coat hangs on a tent." title="A British regimental coat hangs on the middle tent during a special event." />
+                            <div class="card-body">
+                                <p>A British regimental coat hangs on the middle tent during a special event.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Divine Service</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79F63C-1DD8-B71B-0BF2225B89817140.jpg" class="card-img-top" alt="Reenactors listen as another reenactor presents and 18th century church service." title="Reenactors sit in chairs in front of the Black Swan Tavern as another reenactor presents and 18th century church service." />
+                            <div class="card-body">
+                                <p>Reenactors sit in chairs in front of the Black Swan Tavern as another reenactor presents and 18th century church service.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Flag at Stockade</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79F730-1DD8-B71B-0BA7CCFF8FD401FB.jpg" class="card-img-top" alt="A British flag flies over the stockade fort." title="A British flag flies over the stockade fort." />
+                            <div class="card-body">
+                                <p>A British flag flies over the stockade fort.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Sign and Flag</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C79F834-1DD8-B71B-0BD9E83D7AEE142D.jpg" class="card-img-top" alt="A blue Liberty flag is in the right foreground with the park entrance sign behind it." title="A blue Liberty flag is in the right foreground with the park entrance sign behind it during a special event." />
+                            <div class="card-body">
+                                <p>A blue Liberty flag is in the right foreground with the park entrance sign behind it during a special event.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

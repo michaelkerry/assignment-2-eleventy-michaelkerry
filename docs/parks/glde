@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Gloria Dei Church National Historic Site</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Gloria Dei Church National Historic Site</h3>
+                <br/>
+                <p>Before Pennsylvania there was New Sweden. Discover this last historic link to a forgotten past. Visit the church's pastoral surroundings and its burial ground of patriots and ordinary citizens alike.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">The Gloria Dei Church is accessed from Christian Street in South Philadelphia. As in any city, use your street smarts and do not leave any valuables visible in your car. Several SEPTA bus routes serve the vicinity of the site. Visit the website for more information.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Religion and Spirituality</li>
+                                    
+                                    <li>Churches</li>
+                                    
+                                    <li>Transportation</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Steeple of the Gloira Dei Church</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C7FA643-1DD8-B71B-0BC25E1EB46EC74C.jpg" class="card-img-top" alt="A color photo of the Gloria Dei Church steeple during a sunset in Philadelphia." title="The church building at Gloria Dei 'Old Swedes' has been in use since 1700, making it the oldest church building in Pennsylvania and the second oldest in the United States.  The steeple was completed in 1703." />
+                            <div class="card-body">
+                                <p>The church building at Gloria Dei 'Old Swedes' has been in use since 1700, making it the oldest church building in Pennsylvania and the second oldest in the United States.  The steeple was completed in 1703.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Gloria Dei Chuch yard</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80CE82-1DD8-B71B-0BCB32C44FF22EAF.jpg" class="card-img-top" alt="A color photo of the Gloria Dei Church yard showing tombstones with the church in the background." title="Gloria Dei Church was designated as a National Historical Site in 1942. The Gloria Dei congregation owns and maintains the church and the related buildings, its ministry and the grounds." />
+                            <div class="card-body">
+                                <p>Gloria Dei Church was designated as a National Historical Site in 1942. The Gloria Dei congregation owns and maintains the church and the related buildings, its ministry and the grounds.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Interior of the Gloria Dei Church</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C80CFED-1DD8-B71B-0BBC536D1F7B75A5.jpg" class="card-img-top" alt="A color photo of the interior of Gloria Dei Church showing the pulpit and a stained glass window." title="Situated above the pulpit is the only stained glass window in the church building.  Created in the mid 1800s, the window is the earliest example of American stained glass among the 3600 windows in the Philadelphia region." />
+                            <div class="card-body">
+                                <p>Situated above the pulpit is the only stained glass window in the church building.  Created in the mid 1800s, the window is the earliest example of American stained glass among the 3600 windows in the Philadelphia region.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Model of a ship hanging inside Gloria Dei Church</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81EA73-1DD8-B71B-0B2939FEE627A95A.jpg" class="card-img-top" alt="A color photo of a model tall ship hanging inside Gloria Die Church." title="Hanging from the ceiling of Gloria Dei are models of the two ships that brought the first Swedish colonists to North America in 1638, the "Kalmar Nyckel" and the "Fogel Gryp."" />
+                            <div class="card-body">
+                                <p>Hanging from the ceiling of Gloria Dei are models of the two ships that brought the first Swedish colonists to North America in 1638, the "Kalmar Nyckel" and the "Fogel Gryp."</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">The Gloria Dei Church c.1850</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/3C81E0A5-1DD8-B71B-0B23793CBA1F8C5C.jpg" class="card-img-top" alt="A 19th century photograph of the Gloria Dei Church, with the cemetery in the foreground." title="This 1850s photograph shows a bird's-eye view of the Gloria Dei Church, with the cemetery in the foreground and the masts of ships visible in the background." />
+                            <div class="card-body">
+                                <p>This 1850s photograph shows a bird's-eye view of the Gloria Dei Church, with the cemetery in the foreground and the masts of ships visible in the background.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

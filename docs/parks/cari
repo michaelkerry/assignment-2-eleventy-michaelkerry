@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Cane River Creole National Historical Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Cane River Creole National Historical Park</h3>
+                <br/>
+                <p>The Cane River region is home to a unique culture; the Creoles. Generations of the same families of owners and workers, enslaved and tenant, lived on these lands for over 200 years. The park tells their stories and preserves the cultural landscape of Oakland and Magnolia Plantations, two of the most intact Creole cotton plantations in the United States.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">To reach Oakland Plantation, take I-49 to Exit 127, Flora/Cypress. Head east on LA Highway 120 toward Cypress. Cross over LA Highway 1 onto LA Highway 494. The parking lot and entrance pavilion for Oakland is 4.5 miles east of Highway 1 on the left. To reach the grounds of Magnolia Plantation, take I-49 to Exit 119, Derry. Head east on LA Highway 119. Cross over LA Highway 1 and proceed for 1.1 miles. The parking area of Magnolia Plantation is on the right just before the road closure.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Food</li>
+                                    
+                                    <li>Picnicking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>Enslavement</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Plantations</li>
+                                    
+                                    <li>Laborer and Worker</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Birds</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Oakland Plantation Quarters</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FF225B2C-08F8-7008-74039BCDFF98F1FF.jpg" class="card-img-top" alt="A small cabin sits beneath the branches of a Live Oak in the Oakland Plantation Quarters." title="One of two remaining cabins built for enslaved workers on Oakland Plantation. The cabin was lived in by sharecroppers into the 1960s." />
+                            <div class="card-body">
+                                <p>One of two remaining cabins built for enslaved workers on Oakland Plantation. The cabin was lived in by sharecroppers into the 1960s.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Magnolia Plantation Overseer's House</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/FFB75E13-BA5C-B758-6E9C5B64968B5B12.jpg" class="card-img-top" alt="A raised Creole cottage surrounded by oak trees." title="Originally built as a hospital for the enslaved workers on Magnolia Plantation, this raised Creole cottage also served as home to the plantation Overseer." />
+                            <div class="card-body">
+                                <p>Originally built as a hospital for the enslaved workers on Magnolia Plantation, this raised Creole cottage also served as home to the plantation Overseer.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Live Oak Trees</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/00525A5F-A2C3-2A6C-F38AD7592F03C57D.jpg" class="card-img-top" alt="The sunrise shines through Live Oak trees at Oakland Plantation." title="Live Oak trees at sunrise on Oakland Plantation." />
+                            <div class="card-body">
+                                <p>Live Oak trees at sunrise on Oakland Plantation.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Cabins in the Magnolia Plantation Quarters</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/00B736C4-96DD-E2B8-FD02840AB40264BF.jpg" class="card-img-top" alt="Brick cabins built to house enslaved workers, served as homes for tenant farmers into the 1960s." title="These brick cabins were built in the 1840s to house enslaved workers on Magnolia Plantation. Following Emancipation the cabins served as homes for tenant farmers." />
+                            <div class="card-body">
+                                <p>These brick cabins were built in the 1840s to house enslaved workers on Magnolia Plantation. Following Emancipation the cabins served as homes for tenant farmers.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Oak Allee</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/013E2FA7-0484-6936-482FC53FB6584056.jpg" class="card-img-top" alt="Two rows of Live Oak trees stretch from the Cane River to the Oakland Plantation Main House." title="The Oak Allee, planted in the mid-1820s, stretches from the Cane River to the Oakland Plantation Main House." />
+                            <div class="card-body">
+                                <p>The Oak Allee, planted in the mid-1820s, stretches from the Cane River to the Oakland Plantation Main House.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Magnolia Plantation Cotton Gin and Press Barn</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/019CD306-9332-DEA7-DD3E2DEB1EC6E164.jpg" class="card-img-top" alt="This wood screw cotton press was used at Magnolia Plantation to form cotton into bales for market." title="The Magnolia Plantation Gin Barn houses this rare wood screw cotton press." />
+                            <div class="card-body">
+                                <p>The Magnolia Plantation Gin Barn houses this rare wood screw cotton press.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>

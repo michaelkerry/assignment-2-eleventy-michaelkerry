@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Guilford Courthouse National Military Park</title>
+        <link rel="stylesheet" href="../assets/styles/main.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+            <img src="../assets/images/img.png" width="30px" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/maine/">Maine National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/massachusetts/">Massachusetts National Parks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/all-parks/">All Parks</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+        </nav>
+
+        <div class="container" class="col-10 mx-auto">
+                            <br/>
+                <h3 class="card-title">Guilford Courthouse National Military Park</h3>
+                <br/>
+                <p>"I never saw such fighting since God made me. The Americans fought like demons." - Lt. General Charles, Earl Cornwallis On March 15, 1781, six years into the American Revolution, General Greene and Lord Cornwallis' troops faced off at a small courthouse community. This 2.5 hour battle would change the course of the Southern Campaign of the American Revolution.</p>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingZero">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+                                Directions
+                            </button>
+                        </h2>
+                        <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="fst-italic">Guilford Courthouse National Military Park is located along US 220 and New Garden Road. To reach the Visitor Center, drive East on New Garden Road and turn right into the parking lot when you see the stone sign “Guilford Courthouse National Military Park.” If you drive down Old Battleground Road, do not drive through the Forest Lawn cemetery, this is a dead end and is not connected to the National Park. If you drive on Old Battleground, turn left onto New Garden Road Lat / Long: 36.1316499 / -79.8471879</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                Activities
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Arts and Culture</li>
+                                    
+                                    <li>Theater</li>
+                                    
+                                    <li>Auto and ATV</li>
+                                    
+                                    <li>Scenic Driving</li>
+                                    
+                                    <li>Biking</li>
+                                    
+                                    <li>Road Biking</li>
+                                    
+                                    <li>Guided Tours</li>
+                                    
+                                    <li>Self-Guided Tours - Walking</li>
+                                    
+                                    <li>Self-Guided Tours - Auto</li>
+                                    
+                                    <li>Living History</li>
+                                    
+                                    <li>Junior Ranger Program</li>
+                                    
+                                    <li>Park Film</li>
+                                    
+                                    <li>Museum Exhibits</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Topics
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul>
+                                    
+                                    <li>Architecture and Building</li>
+                                    
+                                    <li>African American Heritage</li>
+                                    
+                                    <li>American Revolution</li>
+                                    
+                                    <li>Arts</li>
+                                    
+                                    <li>Painting</li>
+                                    
+                                    <li>Burial, Cemetery and Gravesite</li>
+                                    
+                                    <li>Farming and  Agriculture</li>
+                                    
+                                    <li>Military</li>
+                                    
+                                    <li>Infantry and Militia</li>
+                                    
+                                    <li>Monuments and Memorials</li>
+                                    
+                                    <li>Wars and Conflicts</li>
+                                    
+                                    <li>American Revolutionary War</li>
+                                    
+                                    <li>Women's History</li>
+                                    
+                                    <li>Animals</li>
+                                    
+                                    <li>Trails</li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">General Nathanael Greene Monument</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F649327B-9F59-A88D-E8A82709DC7B2970.jpg" class="card-img-top" alt="Bronze and granite monument of General Nathanael Greene on horseback" title="The General Greene Monument is a focal point of commemoration on the battlefield" />
+                            <div class="card-body">
+                                <p>The General Greene Monument is a focal point of commemoration on the battlefield</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hoskins' House and Kitchen</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/CE61F31C-1DD8-B71B-0BD2BB32B3ADB1EF.jpg" class="card-img-top" alt="Hoskins' House and Kitchen Located on the Grounds of the Colonial Heritage Center" title="Hoskins' House and Kitchen Located on the Grounds of the Colonial Heritage Center" />
+                            <div class="card-body">
+                                <p>Hoskins' House and Kitchen Located on the Grounds of the Colonial Heritage Center</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Historic New Garden Road</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F66087A6-0A7E-1630-1074B30166FC2711.jpg" class="card-img-top" alt="A gravel path winds through a forest" title="The Historic New Garden Road was a colonial highway and the location of the artillery during the Battle of Guilford Courthouse" />
+                            <div class="card-body">
+                                <p>The Historic New Garden Road was a colonial highway and the location of the artillery during the Battle of Guilford Courthouse</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">6 pounder cannons</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/F833B7C2-D107-5AA8-B4CA3F93767D54B6.jpg" class="card-img-top" alt="Two cannons on grey carriages (wheels) sit in a forest" title="Anthony Singleton used two 6 pounder cannons like these reproductions at the American Third Line, the final battle point" />
+                            <div class="card-body">
+                                <p>Anthony Singleton used two 6 pounder cannons like these reproductions at the American Third Line, the final battle point</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class=" col-md-6 col-lg-4 col-xl-3" >
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">18th Century Field Drum</h3>
+                            </div>
+                            <img src="https://www.nps.gov/common/uploads/structured_data/D099B945-1DD8-B71B-0B0BD8F54CD1E8BD.png" class="card-img-top" alt="18th Century Field Drum at Guilford Courthouse National Military Park" title="18th Century Field Drum at Guilford Courthouse National Military Park" />
+                            <div class="card-body">
+                                <p>18th Century Field Drum at Guilford Courthouse National Military Park</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+        </div>
+        <footer class="col-10 mx-auto">
+Assignment 2
+</footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>
