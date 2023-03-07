@@ -4,6 +4,9 @@ on:
     paths-ignore:
       - README.md
   workflow_dispatch:
+  
+env:
+  NPS_API_KEY: ${{ secrets.NPS_API_KEY }}
 
 jobs:
   build-deploy:
