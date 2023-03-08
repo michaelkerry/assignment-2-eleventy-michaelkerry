@@ -10,7 +10,7 @@ eleventyComputed:
     {% for item in collections.parks %}
         <li>
             <a
-                    href="/{{ env.pathPrefix }}{{ item.url }}">{{ item.data.title }}</a>
+                    href="{{ env.pathPrefix }}{{ item.url }}">{{ item.data.title }}</a>
         </li>
     {% endfor %}
 </ul>

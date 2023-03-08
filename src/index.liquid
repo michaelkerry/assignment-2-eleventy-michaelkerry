@@ -38,15 +38,15 @@ eleventyComputed:
         <li>Denali</li>
     </ul>
     <p>
-        <a href="/{{ env.pathPrefix }}hello">Link to hello page</a>
+        <a href="{{ env.pathPrefix }}/hello">Link to hello page</a>
     </p>
     <p>
-        <a href="/{{ env.pathPrefix }}maine/">Maine National Parks</a>
+        <a href="{{ env.pathPrefix }}/maine/">Maine National Parks</a>
     </p>
     <p>
-        <a href="/{{ env.pathPrefix }}massachusetts/">Massachusetts National Parks</a>
+        <a href="{{ env.pathPrefix }}/massachusetts/">Massachusetts National Parks</a>
     </p>
     <p>I used 2 templates for keeping things DRY: /src/_includes/parkList.liquid and /src/_includes/parkCard.liquid</p>
     <p>
-        <a href="/{{ env.pathPrefix }}all-parks/">All Parks</a>
+        <a href="{{ env.pathPrefix }}/all-parks/">All Parks</a>
     </p>
