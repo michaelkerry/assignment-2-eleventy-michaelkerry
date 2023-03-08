@@ -11,6 +11,7 @@ tags:
   - parks
 eleventyComputed:
   title: "{{ park.fullName }}"
+  pathPrefix: "{{ env.pathPrefix }}"
 ---
                 <br/>
                 <h3 class="card-title">{{ park.fullName }}</h3>

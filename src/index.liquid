@@ -1,6 +1,8 @@
 ---
 layout: base
 title: Assignment 2 Index page
+eleventyComputed:
+    pathPrefix: "{{ env.pathPrefix }}"
 ---
 
     <h2>Assignment 2 Index page</h2>
@@ -36,15 +38,15 @@ title: Assignment 2 Index page
         <li>Denali</li>
     </ul>
     <p>
-        <a href="/hello">Link to hello page</a>
+        <a href="/{{ env.pathPrefix }}hello">Link to hello page</a>
     </p>
     <p>
-        <a href="/maine/">Maine National Parks</a>
+        <a href="/{{ env.pathPrefix }}maine/">Maine National Parks</a>
     </p>
     <p>
-        <a href="/massachusetts/">Massachusetts National Parks</a>
+        <a href="/{{ env.pathPrefix }}massachusetts/">Massachusetts National Parks</a>
     </p>
     <p>I used 2 templates for keeping things DRY: /src/_includes/parkList.liquid and /src/_includes/parkCard.liquid</p>
     <p>
-        <a href="/all-parks/">All Parks</a>
+        <a href="/{{ env.pathPrefix }}all-parks/">All Parks</a>
     </p>
